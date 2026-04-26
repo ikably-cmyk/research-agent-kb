@@ -66,4 +66,4 @@ Doe J, Smith A. Test paper. J. Test. 2026.
 
 ---
 
-*KB doc auto-generado por research-agent. Última actualización: 2026-04-26T00:43:42.270749+00:00.*
+*KB doc auto-generado por research-agent. Última actualización: 2026-04-26T00:47:03.151520+00:00.*
