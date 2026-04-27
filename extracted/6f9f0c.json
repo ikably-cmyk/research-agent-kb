@@ -1,0 +1,74 @@
+{
+  "article_refs": [
+    "pubmed::31658188"
+  ],
+  "uuid": "6f9f0c",
+  "target_apps": [
+    "laserrx",
+    "ikmeds"
+  ],
+  "study_type": "cohort_retrospective",
+  "evidence_level": "low",
+  "key_points": [
+    "Retrospective review of 36 rosacea patients receiving concurrent laser/IPL therapy and systemic doxycycline (standard or anti-inflammatory dose).",
+    "No adverse reactions related to photosensitivity or phototoxicity were observed when combining doxycycline with pulsed dye laser (PDL) or intense pulsed light (IPL).",
+    "All patients achieved some degree of clinical clearance of rosacea signs and symptoms.",
+    "The theoretical risk of photosensitivity from doxycycline combined with laser/light therapy was not realized in this cohort.",
+    "Combination of doxycycline with laser or nonlaser light therapy is presented as a valid treatment approach for rosacea."
+  ],
+  "outcomes": [
+    {
+      "measured": "Incidence of photosensitivity or phototoxicity reactions",
+      "result": "Zero adverse reactions related to photosensitivity observed in all 36 patients",
+      "statistical_significance": null,
+      "clinical_significance": "Supports safety of combining doxycycline with PDL or IPL for rosacea treatment"
+    },
+    {
+      "measured": "Clinical clearance of rosacea",
+      "result": "All patients achieved some degree of clearance",
+      "statistical_significance": null,
+      "clinical_significance": "Combination therapy effective for rosacea symptom improvement"
+    }
+  ],
+  "notes": "Small retrospective cohort (n=36); no control group. Results should be interpreted cautiously. The study addresses a clinically relevant safety concern but is limited by its design and sample size.",
+  "population": {
+    "n_participants": 36,
+    "age_range": "Adolescent to Aged (MeSH terms suggest range from young adult to elderly)",
+    "condition": "Rosacea",
+    "sample_type": "Patients receiving concurrent laser/IPL and systemic doxycycline"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Schilling, L. M., Halvorson, C. R., Weiss, R. A., Weiss, M. A., & Beasley, K. L. (2019). Safety of Combination Laser or Intense Pulsed Light Therapies and Doxycycline for the Treatment of Rosacea. Dermatologic Surgery, 45(12), 1578–1582. https://doi.org/10.1097/DSS.0000000000002009",
+  "contraindications": [],
+  "adverse_events": [
+    "No photosensitivity or phototoxicity reactions observed in this cohort (theoretical risk not realized)"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": "Rosacea treatment with combined laser/IPL and systemic doxycycline",
+  "target_tissue": "skin",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "doxycycline",
+      "drug_class": "Tetracycline antibiotic / anti-inflammatory",
+      "interaction_type": "caution",
+      "dental_relevance": "Doxycycline is used in dentistry (e.g., periodontal therapy, antibiotic prophylaxis). Theoretical photosensitivity risk when combined with laser or light-based dental treatments; this study found no photosensitivity reactions with PDL or IPL in dermatology context.",
+      "photosensitivity": true,
+      "laser_implication": "Theoretical photosensitivity risk when combining doxycycline with laser or IPL treatments; this retrospective study found no actual photosensitivity reactions with PDL or IPL wavelengths in rosacea patients, suggesting the combination may be safe in practice."
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Patients on systemic doxycycline (standard or anti-inflammatory dose) undergoing laser or IPL procedures: theoretical photosensitivity risk exists but was not observed in this cohort. Clinical judgment required; monitor for any signs of phototoxicity.",
+  "confidence": "medium",
+  "uncertainties": [
+    "Specific laser/IPL parameters (wavelength, fluence, power, pulse duration) not reported in the abstract.",
+    "Exact doxycycline doses (standard vs. anti-inflammatory) not specified in the abstract.",
+    "No control group; retrospective design limits causal inference.",
+    "Conflict of interest and funding information not available in the abstract.",
+    "Exact age range not specified numerically; inferred from MeSH terms.",
+    "Full text not available; some details may be present in the full article."
+  ]
+}

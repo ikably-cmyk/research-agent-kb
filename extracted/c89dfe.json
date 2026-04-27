@@ -1,0 +1,98 @@
+{
+  "article_refs": [
+    "pubmed::38382735"
+  ],
+  "uuid": "c89dfe",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "Laser-activated irrigation (LAI) with Er:YAG laser achieved the greatest overall removal of biofilm-mimicking hydrogel from the entire root canal system including isthmus structures.",
+    "In the coronal isthmus, no significant differences were found between LAI, SAI-E (EDDY), conventional needle irrigation (NI), and manual agitation (MA); SAI-EA (EndoActivator) and UAI showed inferior results.",
+    "In the apical isthmus, LAI, SAI-E, and NI showed the best results; all techniques outperformed UAI.",
+    "The study used a 3D-printed root canal model with two parallel curved canals (60° curvature) connected by isthmuses, filled with a colored biofilm-mimicking hydrogel.",
+    "Er:YAG laser parameters: P400FL tip at canal entrance, 25 pps, 50 mJ, 300 µs pulse duration.",
+    "Continuous irrigation with distilled water was used across all groups (3 × 20 s per canal, 3 ml/20 s).",
+    "Ultrasonic-activated irrigation (UAI) showed the poorest performance in both isthmus regions."
+  ],
+  "outcomes": [
+    {
+      "measured": "Hydrogel removal from entire root canal system",
+      "result": "LAI showed the greatest removal, followed by SAI-E (EDDY); statistically significant differences between groups",
+      "statistical_significance": true,
+      "clinical_significance": "LAI may offer superior debridement of complex root canal anatomy including isthmuses"
+    },
+    {
+      "measured": "Hydrogel removal from coronal isthmus",
+      "result": "No significant difference between LAI, SAI-E, NI, and MA; SAI-EA and UAI showed inferior results",
+      "statistical_significance": true,
+      "clinical_significance": "Simpler techniques (NI, MA) may be comparable to LAI in coronal isthmus cleaning"
+    },
+    {
+      "measured": "Hydrogel removal from apical isthmus",
+      "result": "LAI, SAI-E, and NI showed best results; all techniques outperformed UAI",
+      "statistical_significance": true,
+      "clinical_significance": "UAI was least effective in apical isthmus; LAI and sonic alternatives performed comparably"
+    }
+  ],
+  "notes": "In vitro study using 3D-printed model; results may not directly translate to clinical settings. Distilled water used instead of NaOCl or EDTA, which limits clinical extrapolation. The model simulates complex anatomy but cannot fully replicate biological tissue.",
+  "population": {
+    "n_participants": 20,
+    "age_range": null,
+    "condition": "3D-printed root canal model with isthmus structures",
+    "sample_type": "in vitro / 3D-printed model (n=20 per group implied; n=20 total specimens per protocol)"
+  },
+  "superiority_claim": "El autor afirma que LAI (laser-activated irrigation con Er:YAG) fue superior a otras técnicas de irrigación en el sistema de canales radiculares completo: 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'",
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Donnermeyer, D., Dust, P. C., Schäfer, E., & Bürklein, S. (2024). Comparative Analysis of Irrigation Techniques for Cleaning Efficiency in Isthmus Structures. Journal of Endodontics. https://doi.org/10.1016/j.joen.2024.02.008",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": null,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.3,
+      "frequency_hz": 25,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 50.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 60.0,
+    "application_technique": "P400FL tip at canal entrance (non-contact); 3 × 20 s per root canal",
+    "anatomical_points": [
+      "canal entrance",
+      "coronal isthmus (5 mm from apex)",
+      "apical isthmus (8 mm from apex)"
+    ]
+  },
+  "clinical_indication": "Root canal irrigation / debridement of complex root canal anatomy including isthmus structures",
+  "target_tissue": "root canal (isthmus, lateral canals, main canal)",
+  "brand_model_mentioned": [
+    "AdvErl Evo (Morita)",
+    "EndoActivator",
+    "EDDY"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": null,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Wavelength of Er:YAG laser not explicitly stated in abstract (Er:YAG is typically 2940 nm but not confirmed in text provided).",
+    "Exact n per group not clearly stated; '20' may refer to total specimens or per group.",
+    "Distilled water used as irrigant instead of clinical solutions (NaOCl, EDTA), limiting direct clinical applicability.",
+    "Conflicts of interest and funding source not reported in the available text.",
+    "Irradiance and fluence not calculable without spot size data."
+  ]
+}

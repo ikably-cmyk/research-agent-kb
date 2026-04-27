@@ -1,0 +1,57 @@
+{
+  "article_refs": [
+    "pubmed::40000002"
+  ],
+  "uuid": "bbb222",
+  "target_apps": [],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "The study evaluated microtensile bond strength (µTBS) of three universal adhesives (Futurabond U, AdheSE Universal, Xeno Select) applied in etch-and-rinse mode on sound and irradiated human dentin.",
+    "Dentin specimens from 135 extracted third molars were divided into control (no irradiation), low-dose (5 Gy), and high-dose (60 Gy) irradiation groups.",
+    "ANOVA showed significant effects of both dentin irradiation and adhesive type on µTBS (P<0.01), but Tukey's post-hoc test found no statistically significant differences between irradiation groups for any of the three adhesives (P>0.05).",
+    "A trend toward decreased µTBS was observed in highly irradiated dentin across nearly all groups, but this did not reach statistical significance.",
+    "The authors conclude that etch-and-rinse application mode of universal adhesives may be a viable option for patients who have undergone radiation therapy for head and neck tumors."
+  ],
+  "outcomes": [
+    {
+      "measured": "Microtensile bond strength (µTBS) of universal adhesives on irradiated vs. sound dentin",
+      "result": "No statistically significant difference in µTBS between irradiation groups (control, 5 Gy, 60 Gy) for any of the three universal adhesives in etch-and-rinse mode (P>0.05, Tukey's test), despite a general trend toward decreased µTBS in highly irradiated dentin.",
+      "statistical_significance": false,
+      "clinical_significance": "Etch-and-rinse mode of universal adhesives appears unaffected by tumor irradiation doses, suggesting clinical viability in post-radiation therapy patients."
+    }
+  ],
+  "notes": "Study used freshly extracted human third molars. Bond strength was assessed 15 minutes after adhesive application and light curing. Irradiation was applied fractionally simulating clinical radiotherapy protocols. Results are limited to laboratory conditions and may not fully reflect clinical performance.",
+  "population": {
+    "n_participants": 135,
+    "age_range": null,
+    "condition": "Sound and irradiated human dentin (ex vivo third molars)",
+    "sample_type": "Extracted human third molars"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Nguyen, A. D., Broscheit, S., Vordermark, D., Bitter, K., Gerlach, R., & Gernhardt, C. R. (2025). Bond strength evaluation of universal adhesives applied in etch-and-rinse mode on sound and irradiated dentin. American Journal of Dentistry.",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": null,
+  "target_tissue": null,
+  "brand_model_mentioned": [
+    "Futurabond U",
+    "AdheSE Universal",
+    "Xeno Select"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": null,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "No DOI available; full text not provided, only abstract.",
+    "Age range of tooth donors not reported.",
+    "Conflicts of interest and funding sources not declared in the available abstract.",
+    "Long-term bond strength outcomes not assessed (testing performed 15 minutes post-application only).",
+    "The paper does not address laser or drug-related topics, so target_apps is empty."
+  ]
+}

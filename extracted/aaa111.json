@@ -1,0 +1,82 @@
+{
+  "article_refs": [
+    "pubmed::40000001"
+  ],
+  "uuid": "aaa111",
+  "target_apps": [],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "Bleaching agents (16% and 30% hydrogen peroxide) caused a decrease in enamel microhardness and surface roughness compared to initial values.",
+    "After a demineralization-remineralization (pH) cycle with sodium fluoride toothpaste, microhardness values increased in bleached groups, but the increase was not statistically significant (P< 0.05).",
+    "Surface roughness values increased significantly after the pH cycle, with significant differences between the 4th measurement and other time points (P< 0.05).",
+    "FE-SEM analysis at x1,000 and x5,000 magnifications was used to evaluate surface morphology changes.",
+    "Remineralizing agents applied during the pH cycle may have a positive effect on enamel microhardness following bleaching.",
+    "32 extracted premolar teeth were used; samples were immersed in coffee solution for 1 week to simulate oral discoloration before bleaching.",
+    "Bleaching was performed in three sessions of 15 minutes each per manufacturer's instructions."
+  ],
+  "outcomes": [
+    {
+      "measured": "Enamel microhardness",
+      "result": "Highest initial values; decreased after bleaching; increased after pH cycle but not significantly",
+      "statistical_significance": false,
+      "clinical_significance": "Bleaching reduces enamel microhardness; remineralization may partially recover it"
+    },
+    {
+      "measured": "Surface roughness",
+      "result": "Decreased after discoloration (P>0.05); increased significantly after pH cycle with significant differences between 4th measurement and other measurements (P<0.05)",
+      "statistical_significance": true,
+      "clinical_significance": "pH cycling with remineralizing toothpaste alters surface roughness of bleached enamel"
+    }
+  ],
+  "notes": "The abstract contains a likely typographical error: Group 1 bleaching agent concentration is not specified (text reads 'Group 1: Group 2: Samples treated with Beka HP 30%'). It is inferred that Group 1 used a lower concentration (possibly 16% HP) based on the study design mentioning 'two different concentrations of hydrogen peroxide'. Only 30% HP (Beka HP) is explicitly named.",
+  "population": {
+    "n_participants": 32,
+    "age_range": null,
+    "condition": "Extracted premolar teeth (orthodontic extractions)",
+    "sample_type": "ex vivo human premolar teeth"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Kopuz, D., Erçin, Ö., Tağtekin, D., & Yanikoğlu, F. (2025). Effect of remineralization product on the microhardness and surface roughness of enamel after bleaching agents. American Journal of Dentistry. PubMed ID: 40000001.",
+  "contraindications": [],
+  "adverse_events": [
+    "Reduction in enamel microhardness following hydrogen peroxide bleaching",
+    "Alteration of enamel surface roughness following bleaching"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": null,
+  "target_tissue": null,
+  "brand_model_mentioned": [
+    "Beka HP 30%"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "hydrogen peroxide",
+      "drug_class": "Tooth bleaching agent / oxidizing agent",
+      "interaction_type": "caution",
+      "dental_relevance": "Used as a bleaching agent at two concentrations; causes reduction in enamel microhardness and surface changes",
+      "photosensitivity": null,
+      "laser_implication": null
+    },
+    {
+      "name": "sodium fluoride",
+      "drug_class": "Remineralizing agent / fluoride",
+      "interaction_type": "monitor",
+      "dental_relevance": "Present in toothpaste used during pH cycling after bleaching; may have a positive effect on enamel microhardness recovery",
+      "photosensitivity": null,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "Application of sodium fluoride-containing remineralizing toothpaste after bleaching may help partially recover enamel microhardness; clinicians should consider recommending remineralizing agents post-bleaching.",
+  "confidence": "medium",
+  "uncertainties": [
+    "Group 1 bleaching agent concentration is not specified in the abstract due to apparent typographical error; only 30% HP (Group 2, Beka HP) is explicitly named.",
+    "Full text not available; exact protocol for pH cycling and remineralization product details are not fully described.",
+    "Statistical reporting appears inconsistent in abstract (P<0.05 used to indicate both significance and non-significance); interpretation based on context.",
+    "No conflict of interest or funding information available in the provided data."
+  ]
+}

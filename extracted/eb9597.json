@@ -1,0 +1,104 @@
+{
+  "article_refs": [
+    "pubmed::31544504"
+  ],
+  "uuid": "eb9597",
+  "target_apps": [
+    "ikmeds",
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Tetracyclines (especially demeclocycline and doxycycline) can act as light-activated antibiotics, binding to bacterial cells and killing them upon illumination.",
+    "Antimicrobial photodynamic inactivation (aPDI) uses nontoxic photosensitizers combined with light to destroy microbial cells via reactive oxygen species (ROS).",
+    "Tetracyclines that do not directly photoactivate can still prevent bacterial regrowth after illumination has ceased.",
+    "Potassium iodide can potentiate aPDI with tetracyclines; azide quenched iodine formation but not hydrogen peroxide.",
+    "Demeclocycline (but not doxycycline) iodinated tyrosine after light activation in the presence of potassium iodide.",
+    "Bacteria can be killed by photoactivation of tetracyclines even in the absence of oxygen, suggesting non-singlet-oxygen mechanisms.",
+    "Blue light activation of topically applied tetracyclines may increase bactericidal effect, given that topical tetracyclines are already used clinically.",
+    "Phototoxicity of tetracyclines, typically considered a side effect, may be harnessed therapeutically in antimicrobial photodynamic contexts."
+  ],
+  "outcomes": [
+    {
+      "measured": "Bactericidal effect upon light activation of tetracyclines",
+      "result": "Demeclocycline and doxycycline kill bacteria upon illumination; other tetracyclines prevent regrowth post-illumination",
+      "statistical_significance": null,
+      "clinical_significance": "Potential therapeutic use of tetracycline phototoxicity as light-activated antibiotics"
+    },
+    {
+      "measured": "Effect of potassium iodide on aPDI with tetracyclines",
+      "result": "Potassium iodide potentiates antimicrobial photodynamic inactivation; azide quenches iodine but not hydrogen peroxide",
+      "statistical_significance": null,
+      "clinical_significance": "Mechanistic insight for optimizing aPDI protocols"
+    },
+    {
+      "measured": "Tyrosine iodination by demeclocycline vs doxycycline with KI under light",
+      "result": "Demeclocycline iodinated tyrosine after light activation with KI; doxycycline did not",
+      "statistical_significance": null,
+      "clinical_significance": "Differential photochemical mechanisms between tetracycline analogs"
+    },
+    {
+      "measured": "Oxygen dependence of tetracycline photoactivation",
+      "result": "Bacteria killed by photoactivation of tetracyclines in the absence of oxygen",
+      "statistical_significance": null,
+      "clinical_significance": "Suggests ROS-independent killing mechanisms, relevant for anaerobic environments"
+    }
+  ],
+  "notes": "This is a narrative review with research support from NIH extramural funding. The paper discusses tetracycline phototoxicity as a potential therapeutic mechanism in the context of antimicrobial photodynamic inactivation (aPDI). Blue light (wavelength not precisely specified in abstract) is the activating light source mentioned for topical tetracyclines.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Bacterial infections (in vitro/mechanistic context)",
+    "sample_type": "Bacterial cells (in vitro)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": "Research Support, N.I.H., Extramural",
+  "source_citation": "Hamblin, M. R., & Abrahamse, H. (2019). Tetracyclines: light-activated antibiotics? Future Medicinal Chemistry, 11(15), 1879–1882. https://doi.org/10.4155/fmc-2018-0513",
+  "contraindications": [],
+  "adverse_events": [
+    "Phototoxicity as a side effect of tetracyclines upon light exposure"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": "Antimicrobial photodynamic inactivation of bacteria; potential topical antibacterial therapy using light-activated tetracyclines",
+  "target_tissue": "Bacterial cells (topical/mucosal application implied)",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "demeclocycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "caution",
+      "dental_relevance": "Can act as a photosensitizer when activated by blue light, killing bacteria upon illumination; phototoxicity is a known side effect relevant when using light-based dental treatments",
+      "photosensitivity": true,
+      "laser_implication": "Demeclocycline is photoactivated by blue light and can kill bacteria via ROS and non-ROS mechanisms; patients on demeclocycline may have enhanced photosensitivity during laser/light-based dental procedures; conversely, this property may be harnessed therapeutically in aPDI protocols"
+    },
+    {
+      "name": "doxycycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "caution",
+      "dental_relevance": "Photoactivated bactericidal activity upon illumination; widely used topically in dentistry (e.g., periodontal therapy); phototoxicity side effect relevant during light-based dental procedures",
+      "photosensitivity": true,
+      "laser_implication": "Doxycycline is photoactivated by blue light and kills bacteria upon illumination; patients taking doxycycline may exhibit increased photosensitivity during laser or photodynamic dental treatments; does not iodinates tyrosine with KI unlike demeclocycline"
+    },
+    {
+      "name": "tetracycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "caution",
+      "dental_relevance": "Class-wide phototoxicity; some tetracyclines prevent bacterial regrowth after illumination even without direct photoactivation",
+      "photosensitivity": true,
+      "laser_implication": "Tetracyclines as a class are photosensitizing; use of light-based dental therapies in patients on tetracyclines warrants caution due to phototoxicity risk"
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Patients taking tetracyclines (especially demeclocycline or doxycycline) are photosensitizers and may have enhanced phototoxic reactions during light-based or laser dental procedures. This photosensitivity could be adverse (unintended tissue damage) or potentially therapeutic (enhanced antimicrobial effect with blue light activation in aPDI protocols). Clinicians should be aware of this dual potential when planning photodynamic or laser treatments.",
+  "confidence": "medium",
+  "uncertainties": [
+    "Exact blue light wavelength used for tetracycline photoactivation is not specified in the abstract; full text may contain specific nm values.",
+    "The paper is classified as both a review and research article; the extent of original experimental data vs. review content is unclear from the abstract alone.",
+    "Specific bacterial species tested are not mentioned in the abstract.",
+    "Clinical translation data (human studies) are not available; evidence is primarily mechanistic/in vitro.",
+    "Potassium iodide concentration and specific light parameters (fluence, irradiance) are not reported in the abstract."
+  ]
+}
