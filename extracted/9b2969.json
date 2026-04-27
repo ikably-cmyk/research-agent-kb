@@ -1,0 +1,110 @@
+{
+  "article_refs": [
+    "pubmed::35854018"
+  ],
+  "uuid": "9b2969",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "In vitro study comparing conventional irrigation (CI), passive ultrasonic irrigation (PUI), and Er:YAG laser activated irrigation (LAI) through conventional (CIA) and minimally invasive access (MIA) cavities in extracted maxillary first molars infected with Enterococcus faecalis.",
+    "Both PUI and LAI produced significantly fewer bacterial CFU counts than conventional irrigation alone (P < 0.05), with no significant difference between PUI and LAI in root canal lumen disinfection.",
+    "For dentin debris bacterial counts, Er:YAG LAI group had the least CFU counts, suggesting superior penetration into dentinal tubules compared to PUI.",
+    "Computer-guided minimally invasive access with Er:YAG laser or ultrasonic achieved disinfection comparable to conventional access, supporting MIA as a viable approach.",
+    "Conventional irrigation through MIA (group 2A) was significantly better than through CIA (group 1A), possibly due to improved irrigant flow dynamics in the narrower access.",
+    "Two-way ANOVA revealed significant antagonism between access type and disinfection method (F=3.394, P=0.043 for CFU; F=7.224, P=0.002 for dentin debris).",
+    "Instrumentation was performed to ProTaper Universal F2 before disinfection, then enlarged to F3 for dentin debris collection."
+  ],
+  "outcomes": [
+    {
+      "measured": "Bacterial CFU counts in root canal after disinfection",
+      "result": "PUI and LAI significantly lower than CI (P<0.05); no significant difference between PUI and LAI (P>0.05)",
+      "statistical_significance": true,
+      "clinical_significance": "Both ultrasonic and Er:YAG laser irrigation are more effective than conventional irrigation for root canal disinfection"
+    },
+    {
+      "measured": "Bacterial CFU counts in dentin debris after disinfection",
+      "result": "Er:YAG LAI group had the least CFU counts among all groups (F=7.224, P=0.002)",
+      "statistical_significance": true,
+      "clinical_significance": "Er:YAG laser may penetrate dentinal tubules more effectively than ultrasonic agitation"
+    },
+    {
+      "measured": "Comparison of CIA vs MIA within conventional irrigation subgroup",
+      "result": "Group 2A (MIA+CI) was significantly better than group 1A (CIA+CI) (P<0.05)",
+      "statistical_significance": true,
+      "clinical_significance": "MIA may improve irrigant flow in conventional irrigation scenarios"
+    },
+    {
+      "measured": "Comparison of CIA vs MIA within PUI and LAI subgroups",
+      "result": "No significant difference between group 1B and 2B, or group 1C and 2C (P>0.05)",
+      "statistical_significance": false,
+      "clinical_significance": "Er:YAG laser and ultrasonic irrigation overcome access cavity limitations equally well"
+    }
+  ],
+  "notes": "Study used computer-guided minimally invasive access cavity preparation. E. faecalis infection model established after instrumentation to ProTaper Universal F2. Paper tip method used for microbial sampling. Dentin debris collected from F3 file after enlargement.",
+  "population": {
+    "n_participants": 66,
+    "age_range": null,
+    "condition": "Extracted maxillary first molars infected with Enterococcus faecalis",
+    "sample_type": "Extracted human teeth (in vitro)"
+  },
+  "superiority_claim": "El autor afirma que 'Er:YAG laser is better than ultrasonic in removing bacteria from dentinal tubules and is easy to operate, which is more suitable for minimally invasive root canal treatment.'",
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Shan, X., Tian, F., Li, J., Yang, N., Wang, Y., & Sun, H. (2022). Comparison of Er:YAG laser and ultrasonic in root canal disinfection under minimally invasive access cavity. Lasers in Medical Science. https://doi.org/10.1007/s10103-022-03613-0",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "root canal",
+      "dentinal tubules"
+    ]
+  },
+  "clinical_indication": "Root canal disinfection under minimally invasive access cavity",
+  "target_tissue": "dentin, root canal",
+  "brand_model_mentioned": [
+    "ProTaper Universal F2",
+    "ProTaper Universal F3"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "sodium hypochlorite",
+      "drug_class": "Root canal irrigant / disinfectant",
+      "interaction_type": null,
+      "dental_relevance": "Used as irrigant in all groups for root canal disinfection",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "medium",
+  "uncertainties": [
+    "Specific Er:YAG laser parameters (power, energy per pulse, frequency, pulse duration, tip size) not reported in the abstract; full text may contain these details but were not available.",
+    "Specific sodium hypochlorite concentration and volume used not specified in abstract.",
+    "Funding source and conflicts of interest not declared in available text.",
+    "The exact computer-guided MIA preparation protocol and dimensions are not detailed in the abstract."
+  ]
+}

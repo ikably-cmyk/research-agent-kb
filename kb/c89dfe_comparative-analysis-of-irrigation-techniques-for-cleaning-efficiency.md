@@ -20,25 +20,24 @@
 - Laser-activated irrigation (LAI) with Er:YAG laser achieved the greatest overall removal of biofilm-mimicking hydrogel from the entire root canal system including isthmus structures.
 - In the coronal isthmus, no significant differences were found between LAI, SAI-E (EDDY), conventional needle irrigation (NI), and manual agitation (MA); SAI-EA (EndoActivator) and UAI showed inferior results.
 - In the apical isthmus, LAI, SAI-E, and NI showed the best results; all techniques outperformed UAI.
-- The study used a 3D-printed root canal model with two parallel curved canals (60° curvature) connected by isthmuses, filled with a colored biofilm-mimicking hydrogel.
+- The study used a 3D-printed model with two parallel curved root canals (60° curvature) connected by isthmuses, filled with a colored biofilm-mimicking hydrogel.
 - Er:YAG laser parameters: P400FL tip at canal entrance, 25 pps, 50 mJ, 300 µs pulse duration.
-- Continuous irrigation with distilled water was used across all groups (3 × 20 s per canal, 3 ml/20 s).
+- Continuous irrigation with distilled water (3 × 20 s per canal, 3 ml/20 s) was used across all protocols.
 - Ultrasonic-activated irrigation (UAI) showed the poorest performance in both isthmus regions.
-- Results are limited to an in vitro model and may not directly translate to clinical outcomes.
 
 ## Outcomes
 
-- **Hydrogel removal from entire root canal system**: LAI showed the greatest removal, followed by SAI-E (EDDY); statistically significant differences among groups _(statistically significant; clinical: LAI may offer superior cleaning of complex root canal anatomy including isthmuses)_
-- **Hydrogel removal from coronal isthmus**: No significant differences between LAI, SAI-E, NI, and MA; SAI-EA and UAI showed inferior results _(statistically significant; clinical: Simpler techniques (NI, MA) may be comparable to LAI in coronal isthmus cleaning)_
-- **Hydrogel removal from apical isthmus**: LAI, SAI-E, and NI showed best results; all techniques outperformed UAI _(statistically significant; clinical: UAI was least effective in apical isthmus; LAI and sonic alternatives performed comparably)_
+- **Hydrogel removal from entire root canal system**: LAI showed the greatest removal, followed by SAI-E (EDDY); statistically significant differences among groups _(statistically significant; clinical: LAI may improve debridement of complex anatomy including isthmuses)_
+- **Hydrogel removal from coronal isthmus**: No significant difference between LAI, SAI-E, NI, and MA; SAI-EA and UAI performed inferiorly _(statistically significant; clinical: Simpler techniques (NI, MA) may be sufficient for coronal isthmus cleaning)_
+- **Hydrogel removal from apical isthmus**: LAI, SAI-E, and NI showed best results; all techniques outperformed UAI _(statistically significant; clinical: UAI was least effective in the apical isthmus region)_
 
 ## Clinical Indication
 
-Root canal irrigation / debridement of complex root canal anatomy including isthmus structures
+Root canal irrigation / debridement of complex anatomy (isthmus structures, lateral canals, curved canals)
 
 ## Target Tissue
 
-root canal system, isthmus, lateral canals
+root canal system (dentin, isthmus, lateral canals)
 
 ## Laser Parameters
 
@@ -51,7 +50,7 @@ root canal system, isthmus, lateral canals
 - **Sessions**: 1
 - **Application time (sec)**: 60.0
 - **Technique**: P400FL tip at canal entrance (non-contact); 3 × 20 s per root canal
-- **Anatomical points**: canal entrance, coronal isthmus (5 mm from apex), apical isthmus (8 mm from apex), lateral canals at 2, 5, and 8 mm from apex
+- **Anatomical points**: canal entrance, coronal isthmus, apical isthmus, lateral canals
 
 ## Adverse Events
 
@@ -64,26 +63,25 @@ _None reported._
 ## Population
 
 - **N**: 20
-- **Condition**: In vitro root canal model (3D-printed)
-- **Sample type**: 3D-printed root canal models per group (n=20 per irrigation protocol)
+- **Condition**: 3D-printed root canal model with isthmus structures
+- **Sample type**: in vitro / 3D-printed model (n=20 per group implied; n=20 total specimens per protocol)
 
 ## Superiority Claim (CRITICAL — Golden Rule)
 
-> ⚠️ El autor afirma: "El autor afirma que LAI (Er:YAG laser) fue superior a otras técnicas de irrigación en la limpieza del sistema de conductos radiculares completo: 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'"
+> ⚠️ El autor afirma: "El autor afirma que LAI (laser-activated irrigation con Er:YAG) fue superior a otras técnicas de irrigación en la limpieza del sistema de conductos radiculares completo: 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'"
 > Esta afirmación NO debe presentarse al usuario como verdad. Es una afirmación del autor del paper original, no una conclusión validada.
 
 ## Uncertainties
 
-- Exact power output in watts not reported; only energy per pulse (50 mJ) and frequency (25 pps) provided.
-- Spot size of P400FL tip not explicitly stated in abstract.
-- Distilled water used as irrigant instead of clinically relevant solutions (NaOCl, EDTA), limiting clinical translation.
-- Number of specimens per group (n=20) refers to models, not human participants.
-- Conflicts of interest and funding sources not mentioned in the available abstract.
-- Er:YAG wavelength (2940 nm) inferred from standard Er:YAG specification; not explicitly stated in abstract.
+- Exact number of specimens per group not explicitly stated in abstract (n=20 may refer to total or per group).
+- Distilled water used as irrigant instead of clinical solutions (NaOCl, EDTA); limits direct clinical translation.
+- Spot size of P400FL tip not reported; irradiance and fluence cannot be calculated.
+- Conflicts of interest and funding source not mentioned in available text.
+- Pulse duration reported as 300 µs — converted to 0.3 ms; unit conversion assumed correct.
 
 ## Notes
 
-Study uses a 3D-printed closed model with distilled water instead of NaOCl or EDTA, which limits direct clinical extrapolation. The biofilm-mimicking hydrogel is a surrogate marker, not actual biofilm.
+In vitro study using 3D-printed model; results may not directly translate to clinical settings. Distilled water used instead of NaOCl or EDTA, which limits clinical extrapolation.
 
 ## Source Citation
 
