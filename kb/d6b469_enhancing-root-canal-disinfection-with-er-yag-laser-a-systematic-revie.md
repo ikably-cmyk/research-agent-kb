@@ -17,29 +17,35 @@
 
 ## Key Points
 
-- Systematic review following PRISMA 2020 guidelines; 15 articles included (2015-2025) on Er:YAG laser-assisted root canal disinfection.
+- This systematic review (PRISMA 2020) included 15 studies (2015-2025) on Er:YAG laser-assisted root canal disinfection.
 - All 15 studies found Er:YAG laser activation significantly improved root canal disinfection compared to conventional or ultrasonic methods.
-- PIPS (Photon-Induced Photoacoustic Streaming) and SWEEPS (Shock Wave-Enhanced Emission Photoacoustic Streaming) techniques yielded superior bacterial reduction, especially in the apical region.
-- Er:YAG laser activation enabled use of lower sodium hypochlorite concentrations without sacrificing disinfection efficacy.
-- Er:YAG's strong water absorption generates photoacoustic streaming, improving smear layer removal with lower thermal risk compared to other laser systems.
-- Some studies indicated reduced post-operative discomfort with Er:YAG laser-assisted irrigation.
+- Photon-induced photoacoustic streaming (PIPS) and shock wave-enhanced emission photoacoustic streaming (SWEEPS) techniques yielded superior bacterial reduction, especially in the apical region.
+- Er:YAG laser activation allowed use of lower sodium hypochlorite concentrations without sacrificing disinfection efficacy.
+- Er:YAG's strong water absorption generates photoacoustic streaming, improving smear layer removal with lower thermal risk than other laser systems.
+- Some studies reported reduced post-operative discomfort with Er:YAG laser-assisted irrigation.
 - Significant heterogeneity in protocols, laser parameters, and outcome measures across studies limits direct comparisons.
 - Authors conclude that further standardized, long-term clinical trials are needed to establish definitive guidelines.
 
 ## Outcomes
 
-- **Antibacterial efficacy / bacterial reduction in root canals**: All 15 included studies reported significant improvement in disinfection with Er:YAG laser over conventional or ultrasonic methods _(statistically significant; clinical: Superior bacterial reduction especially in the apical third; PIPS and SWEEPS techniques showed best results)_
-- **Smear layer removal**: Er:YAG laser-assisted irrigation improved smear layer removal and enabled deeper irrigant penetration _(statistically significant; clinical: Clinically relevant improvement in canal cleanliness supporting better disinfection)_
-- **Post-operative discomfort**: Some studies indicated reduced post-operative discomfort with Er:YAG laser-assisted irrigation _(clinical: Potential patient comfort benefit; not consistently reported across all studies)_
-- **Sodium hypochlorite concentration required**: PIPS and SWEEPS techniques allowed use of lower NaOCl concentrations without sacrificing efficacy _(clinical: Potential reduction in chemical irritation to periapical tissues)_
+- **Antibacterial efficacy / bacterial reduction in root canals**: All 15 included studies reported significant improvement in disinfection with Er:YAG laser over conventional or ultrasonic methods; PIPS and SWEEPS showed superior apical bacterial reduction. _(statistically significant; clinical: Improved disinfection, especially in complex apical anatomy where conventional irrigation is limited.)_
+- **Smear layer removal**: Er:YAG laser-assisted irrigation demonstrated improved smear layer removal compared to conventional methods. _(clinical: Better smear layer removal supports deeper irrigant penetration into dentinal tubules.)_
+- **Biofilm disruption**: Er:YAG laser activation (PIPS/SWEEPS) effectively disrupted endodontic biofilms. _(clinical: Biofilm disruption is critical for successful root canal disinfection.)_
+- **Post-operative discomfort**: Some studies indicated reduced post-operative discomfort with Er:YAG laser-assisted protocols. _(clinical: Potential patient comfort benefit, though evidence is limited.)_
+- **Sodium hypochlorite concentration required**: PIPS and SWEEPS techniques enabled use of lower NaOCl concentrations without sacrificing disinfection efficacy. _(clinical: Lower NaOCl concentrations reduce risk of periapical tissue irritation and adverse effects.)_
 
 ## Clinical Indication
 
-Root canal disinfection; biofilm disruption; smear layer removal in endodontic treatment
+Root canal disinfection, biofilm disruption, smear layer removal in endodontic treatment
 
 ## Target Tissue
 
-Root canal dentin, endodontic biofilm, smear layer
+dentin, root canal walls, endodontic biofilm
+
+## Treatment Protocol
+
+- **Technique**: photoacoustic streaming (PIPS and SWEEPS techniques)
+- **Anatomical points**: root canal, apical third
 
 ## Drugs Mentioned
 
@@ -47,7 +53,7 @@ Root canal dentin, endodontic biofilm, smear layer
 
 ## Adverse Events
 
-_None reported._
+- Thermal risk to periapical tissues (noted as lower with Er:YAG than other laser systems due to strong water absorption)
 
 ## Contraindications
 
@@ -57,24 +63,24 @@ _None reported._
 
 - **N**: N/A
 - **Condition**: Root canal disinfection (endodontic treatment)
-- **Sample type**: Mixed: in vitro, ex vivo, and clinical studies included in systematic review
+- **Sample type**: Mixed (in vitro, ex vivo, and clinical studies included in the systematic review)
 
 ## Superiority Claim (CRITICAL — Golden Rule)
 
-> ⚠️ El autor afirma: "El autor afirma que PIPS y SWEEPS yielded superior bacterial reduction, especially apically, compared to conventional or ultrasonic methods, and that all included studies found Er:YAG laser activation significantly improved root canal disinfection over conventional or ultrasonic methods."
+> ⚠️ El autor afirma: "El autor afirma que PIPS y SWEEPS yielded superior bacterial reduction, especially apically, compared to conventional or ultrasonic methods, and that all 15 included studies found Er:YAG laser activation significantly improved root canal disinfection over conventional or ultrasonic methods."
 > Esta afirmación NO debe presentarse al usuario como verdad. Es una afirmación del autor del paper original, no una conclusión validada.
 
 ## Uncertainties
 
-- Specific laser parameters (wavelength confirmed as 2940 nm for Er:YAG but individual study parameters such as power, fluence, pulse duration, frequency not extractable from abstract alone) not reported in abstract.
-- Number of clinical vs. in vitro/ex vivo studies among the 15 included articles not specified in abstract.
-- Conflict of interest and funding information not available in the provided metadata.
-- Risk of bias assessment results not detailed in abstract.
-- Exact session protocols and application techniques not extractable from abstract.
+- Specific laser parameters (wavelength confirmed as 2940 nm for Er:YAG but individual study parameters such as power, fluence, pulse duration, frequency not reported in the abstract) — full text may contain these but not available here.
+- Number of clinical vs. in vitro/ex vivo studies within the 15 included articles is not specified in the abstract.
+- Conflicts of interest and funding sources not declared in the available metadata.
+- Risk of bias results for individual studies not detailed in the abstract.
+- Long-term clinical outcomes not established due to lack of standardized trials.
 
 ## Notes
 
-Risk of bias was assessed using a ten-item checklist based on Cochrane Handbook guidelines. Heterogeneity in laser parameters and protocols across included studies limits meta-analytic synthesis and direct comparisons.
+Systematic review with risk of bias assessment using a ten-item checklist based on Cochrane Handbook guidelines. Databases searched: PubMed/MEDLINE, Embase, Scopus, Cochrane Library. Study period: 2015-2025. N=15 included articles. High heterogeneity in laser parameters and protocols across studies.
 
 ## Source Citation
 

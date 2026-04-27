@@ -14,19 +14,20 @@
     "In the apical isthmus, LAI, SAI-E, and NI showed the best results; all techniques outperformed UAI.",
     "The study used a 3D-printed model with two parallel curved root canals (60° curvature) connected by isthmuses, filled with a colored biofilm-mimicking hydrogel.",
     "Er:YAG laser parameters: P400FL tip at canal entrance, 25 pps, 50 mJ, 300 µs pulse duration.",
-    "Continuous irrigation with distilled water (3 × 20 s per canal, 3 ml/20 s) was used across all protocols.",
-    "Ultrasonic-activated irrigation (UAI) showed the poorest performance in both isthmus regions."
+    "Continuous irrigation with distilled water was used across all groups (3 × 20 s per canal, 3 ml/20 s).",
+    "Sonic activation with EDDY (SAI-E) was the second-best overall technique after LAI.",
+    "Ultrasonically-activated irrigation (UAI) showed the weakest performance in both isthmus regions."
   ],
   "outcomes": [
     {
       "measured": "Hydrogel removal from entire root canal system",
-      "result": "LAI showed the greatest removal, followed by SAI-E (EDDY); statistically significant differences among groups",
+      "result": "LAI showed the greatest removal, followed by SAI-E; statistically significant differences among groups",
       "statistical_significance": true,
-      "clinical_significance": "LAI may improve debridement of complex anatomy including isthmuses"
+      "clinical_significance": "LAI may offer superior debridement of complex anatomy including isthmuses"
     },
     {
       "measured": "Hydrogel removal from coronal isthmus",
-      "result": "No significant difference between LAI, SAI-E, NI, and MA; SAI-EA and UAI performed inferiorly",
+      "result": "No significant difference between LAI, SAI-E, NI, and MA; SAI-EA and UAI were inferior",
       "statistical_significance": true,
       "clinical_significance": "Simpler techniques (NI, MA) may be sufficient for coronal isthmus cleaning"
     },
@@ -39,12 +40,12 @@
   ],
   "notes": "In vitro study using 3D-printed model; results may not directly translate to clinical settings. Distilled water used instead of NaOCl or EDTA, which limits clinical extrapolation.",
   "population": {
-    "n_participants": 20,
+    "n_participants": null,
     "age_range": null,
-    "condition": "3D-printed root canal model with isthmus structures",
-    "sample_type": "in vitro / 3D-printed model (n=20 per group implied; n=20 total specimens per protocol)"
+    "condition": "3D-printed root canal model with isthmus structures (n=20 per group)",
+    "sample_type": "3D-printed resin root canal models"
   },
-  "superiority_claim": "El autor afirma que LAI (laser-activated irrigation con Er:YAG) fue superior a otras técnicas de irrigación en la limpieza del sistema de conductos radiculares completo: 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'",
+  "superiority_claim": "El autor afirma que 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'",
   "conflicts_of_interest": null,
   "funding_source_text": null,
   "source_citation": "Donnermeyer, D., Dust, P. C., Schäfer, E., & Bürklein, S. (2024). Comparative Analysis of Irrigation Techniques for Cleaning Efficiency in Isthmus Structures. Journal of Endodontics. https://doi.org/10.1016/j.joen.2024.02.008",
@@ -78,8 +79,8 @@
       "lateral canals"
     ]
   },
-  "clinical_indication": "Root canal irrigation / debridement of complex anatomy (isthmus structures, lateral canals, curved canals)",
-  "target_tissue": "root canal system (dentin, isthmus, lateral canals)",
+  "clinical_indication": "Root canal irrigation and debridement of complex anatomy (isthmus structures, lateral canals)",
+  "target_tissue": "root canal system (isthmus, lateral canals, curved canals)",
   "brand_model_mentioned": [
     "AdvErl Evo (Morita)",
     "EndoActivator",
@@ -90,10 +91,10 @@
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Exact number of specimens per group not explicitly stated in abstract (n=20 may refer to total or per group).",
-    "Distilled water used as irrigant instead of clinical solutions (NaOCl, EDTA); limits direct clinical translation.",
-    "Spot size of P400FL tip not reported; irradiance and fluence cannot be calculated.",
-    "Conflicts of interest and funding source not mentioned in available text.",
-    "Pulse duration reported as 300 µs — converted to 0.3 ms; unit conversion assumed correct."
+    "Distilled water used as irrigant instead of clinically relevant solutions (NaOCl, EDTA), limiting direct clinical translation.",
+    "Funding source and conflicts of interest not reported in abstract; full text not available to confirm.",
+    "Pulse duration reported as 300 µs; converted to 0.3 ms for schema — unit conversion assumed correct.",
+    "Power in watts not explicitly stated; only energy per pulse (50 mJ) and frequency (25 pps) reported.",
+    "Spot size of P400FL tip not explicitly stated in abstract."
   ]
 }

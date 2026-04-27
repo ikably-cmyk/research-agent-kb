@@ -1,0 +1,70 @@
+{
+  "article_refs": [
+    "europepmc::41777928"
+  ],
+  "uuid": "63d0c5",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "case_report",
+  "evidence_level": "low",
+  "key_points": [
+    "Post-treatment chronic apical periodontitis at tooth 47 was treated with endodontic retreatment using Er:YAG laser-activated irrigation.",
+    "Root canal irrigation was performed with 5.25% sodium hypochlorite activated with an Er:YAG dental laser to enhance disinfection.",
+    "CBCT evaluation at 3 months showed a tendency toward apical lesion regression and clinical improvement.",
+    "No postoperative adverse events were observed during the follow-up period.",
+    "Bacterial biofilm persistence in the endodontic system is identified as the primary cause of post-treatment apical periodontitis.",
+    "Laser-activated irrigation was used as an adjunct to conventional endodontic retreatment, not as a standalone treatment."
+  ],
+  "outcomes": [
+    {
+      "measured": "Apical lesion regression (CBCT)",
+      "result": "Tendency toward apical lesion regression confirmed at 3-month radiographic follow-up",
+      "statistical_significance": null,
+      "clinical_significance": "Clinical improvement observed with no adverse events; single case report limits generalizability"
+    },
+    {
+      "measured": "Postoperative adverse events",
+      "result": "No postoperative adverse events observed",
+      "statistical_significance": null,
+      "clinical_significance": "Suggests acceptable safety profile for Er:YAG laser-activated irrigation in this case"
+    }
+  ],
+  "notes": "Case report of a single patient (tooth 47). Er:YAG laser was used for activation of sodium hypochlorite irrigation (laser-activated irrigation/LAI), not for direct ablation. Follow-up limited to 3 months. No specific laser parameters (power, fluence, pulse duration, frequency) are reported in the abstract.",
+  "population": {
+    "n_participants": 1,
+    "age_range": null,
+    "condition": "Post-treatment chronic apical periodontitis (tooth 47)",
+    "sample_type": "human clinical case"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Zabrac, E., Chirila, M., Dragomirescu, A., & Suciu, I. (2026). Er:YAG Laser-Assisted Root Canal Decontamination in Post-treatment Endodontic Apical Periodontitis: A Case Report. Cureus. https://doi.org/10.7759/cureus.102709",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "laser-activated irrigation",
+    "anatomical_points": [
+      "root canal system, tooth 47"
+    ]
+  },
+  "clinical_indication": "Post-treatment chronic apical periodontitis / endodontic retreatment",
+  "target_tissue": "root canal / periapical tissue",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": null,
+  "photosensitivity_flag": null,
+  "perioperative_consideration": null,
+  "confidence": "medium",
+  "uncertainties": [
+    "No specific Er:YAG laser parameters reported (wavelength assumed 2940 nm but not stated, power, fluence, pulse duration, frequency, spot size all absent from abstract).",
+    "Number of treatment sessions not specified.",
+    "Patient age and full clinical details not available from abstract alone.",
+    "Follow-up limited to 3 months; long-term outcome unknown.",
+    "Conflicts of interest and funding not declared in available text."
+  ]
+}

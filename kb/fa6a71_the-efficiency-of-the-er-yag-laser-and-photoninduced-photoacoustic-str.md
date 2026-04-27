@@ -17,22 +17,21 @@
 
 ## Key Points
 
-- PIPS (Photon-Induced Photoacoustic Streaming) uses Er:YAG laser at sub-ablative energy (20 mJ, 15 Hz) with ultra-short pulses (50 µs) to generate intracanal cavitation and shockwaves.
-- Laser-activated irrigation (LAI) with Er:YAG and PIPS outperformed other irrigation methods in 33 of 59 reviewed articles.
+- This narrative review evaluates Er:YAG laser-activated irrigation (LAI) and photon-induced photoacoustic streaming (PIPS) as endodontic irrigation activation methods, based on 59 selected articles from PubMed.
+- PIPS uses sub-ablative energy settings (20 mJ, 15 Hz) with ultra-short pulses (50 µs), generating intracanal cavitation and shockwaves through photoacoustic and photomechanical effects.
+- Er:YAG LAI and PIPS outperformed other irrigation methods in 33 of the 59 reviewed articles.
 - No in vivo studies were found; all evidence is based on in vitro or ex vivo designs.
-- Evidence suggests Er:YAG LAI and PIPS are promising for canal disinfection and smear layer/debris removal.
-- Large variability in study designs (bacterial incubation time, laser parameters, irrigation protocols, irrigating solutions) limits the significance of results.
+- Evidence suggests Er:YAG LAI and PIPS are promising for canal disinfection and debris/smear layer removal, but large variability in study designs (bacterial incubation time, laser parameters, irrigation protocols, irrigating solutions) limits the strength of conclusions.
 - Further in vivo studies are needed to better evaluate the clinical efficiency of these techniques.
-- 59 articles were selected from PubMed according to inclusion/exclusion criteria for this review.
 
 ## Outcomes
 
-- **Superiority of Er:YAG LAI and PIPS over other irrigation methods**: Er:YAG LAI and PIPS outperformed other methods in 33 of 59 reviewed articles _(clinical: Promising for canal disinfection and smear layer/debris removal, but evidence limited by high variability in study designs)_
-- **Availability of in vivo studies**: No in vivo studies found; all evidence from in vitro/ex vivo designs _(clinical: Clinical translation remains uncertain without in vivo evidence)_
+- **Superiority of Er:YAG LAI and PIPS over other irrigation methods**: Er:YAG LAI and PIPS outperformed other methods in 33 of 59 reviewed articles _(clinical: Promising for canal disinfection and smear layer/debris removal, but evidence limited by in vitro designs and high methodological variability)_
+- **Availability of in vivo studies**: No in vivo studies found _(clinical: Limits clinical translation of findings)_
 
 ## Clinical Indication
 
-Endodontic irrigation activation; root canal disinfection; smear layer and debris removal
+Endodontic irrigation activation for canal disinfection, debris removal, and smear layer removal
 
 ## Target Tissue
 
@@ -46,8 +45,8 @@ root canal (dentin, pulp space)
 
 ## Treatment Protocol
 
-- **Technique**: intracanal photoacoustic streaming
-- **Anatomical points**: root canal
+- **Technique**: intracanal photoacoustic streaming (PIPS tip positioned in coronal third)
+- **Anatomical points**: root canal, coronal third of root canal
 
 ## Adverse Events
 
@@ -60,25 +59,25 @@ _None reported._
 ## Population
 
 - **N**: N/A
-- **Condition**: Endodontic irrigation optimization; root canal disinfection
-- **Sample type**: Literature review (in vitro and ex vivo studies predominantly)
+- **Condition**: Endodontic irrigation / root canal disinfection
+- **Sample type**: In vitro / ex vivo (no in vivo studies found)
 
 ## Superiority Claim (CRITICAL — Golden Rule)
 
-> ⚠️ El autor afirma: "El autor describe PIPS y LAI como 'a revolutionary and powerful method to activate the irrigant' según la literatura revisada, y reporta que superaron a otros métodos en 33 de 59 artículos."
+> ⚠️ El autor afirma: "El autor afirma que 'Er:YAG LAI and PIPS outperformed other methods in 33 of the 59 articles' y los describe como 'a revolutionary and powerful method to activate the irrigant'."
 > Esta afirmación NO debe presentarse al usuario como verdad. Es una afirmación del autor del paper original, no una conclusión validada.
 
 ## Uncertainties
 
-- The PIPS parameters (20 mJ, 15 Hz, 50 µs) are described as the technique's standard settings referenced in the reviewed literature, but it is unclear if all 59 studies used identical parameters.
-- No conflicts of interest or funding sources were explicitly stated in the abstract.
-- Pulse duration of 50 µs was converted from microseconds to milliseconds (0.05 ms) — original unit was µs.
-- No in vivo data available; clinical applicability of findings is uncertain.
-- Specific irrigating solutions and their interactions with laser parameters were not extractable from the abstract alone.
+- Laser parameters (20 mJ, 15 Hz, 50 µs) are reported as representative PIPS settings from the reviewed literature, not a single standardized protocol; actual parameters varied across included studies.
+- No conflict of interest or funding information was available in the abstract.
+- Spot size, irradiance, and total dose were not reported.
+- The review does not provide a systematic meta-analysis; quantitative pooling of results was not performed.
+- No in vivo data available, limiting clinical applicability assessment.
 
 ## Notes
 
-This is a narrative literature review of 59 articles retrieved from PubMed. The review covers both Er:YAG LAI and PIPS techniques. The PIPS-specific parameters (20 mJ, 15 Hz, 50 µs pulse duration) are described as the standard protocol referenced in the literature reviewed.
+Review covers 59 articles selected from PubMed. High heterogeneity in study designs makes pooled conclusions difficult. PIPS-specific parameters (20 mJ, 15 Hz, 50 µs pulse) are reported as used in the literature, not tested de novo in this review.
 
 ## Source Citation
 

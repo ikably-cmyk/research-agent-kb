@@ -17,20 +17,19 @@
 
 ## Key Points
 
-- In vitro study comparing conventional irrigation (CI), passive ultrasonic irrigation (PUI), and Er:YAG laser activated irrigation (LAI) through conventional (CIA) and minimally invasive access (MIA) cavities in extracted maxillary first molars infected with Enterococcus faecalis.
+- In vitro study comparing conventional irrigation (CI), passive ultrasonic irrigation (PUI), and Er:YAG laser activated irrigation (LAI) in root canals accessed via conventional invasive access (CIA) or computer-guided minimally invasive access (MIA) in 66 extracted maxillary first molars.
+- E. faecalis infection model was established after instrumentation to ProTaper Universal F2 size.
 - Both PUI and LAI produced significantly fewer bacterial CFU counts than conventional irrigation alone (P < 0.05), with no significant difference between PUI and LAI in root canal lumen disinfection.
-- For dentin debris bacterial counts, Er:YAG LAI group had the least CFU counts, suggesting superior penetration into dentinal tubules compared to PUI.
-- Computer-guided minimally invasive access with Er:YAG laser or ultrasonic achieved disinfection comparable to conventional access, supporting MIA as a viable approach.
-- Conventional irrigation through MIA (group 2A) was significantly better than through CIA (group 1A), possibly due to improved irrigant flow dynamics in the narrower access.
-- Two-way ANOVA revealed significant antagonism between access type and disinfection method (F=3.394, P=0.043 for CFU; F=7.224, P=0.002 for dentin debris).
-- Instrumentation was performed to ProTaper Universal F2 before disinfection, then enlarged to F3 for dentin debris collection.
+- For conventional irrigation (group A), MIA showed better disinfection than CIA (P < 0.05); no significant difference was found between CIA and MIA for PUI or LAI groups.
+- In dentin debris analysis (after enlargement to F3), Er:YAG LAI group had the least bacterial CFU counts, suggesting superior penetration into dentinal tubules compared to PUI.
+- Er:YAG laser assisted irrigation under minimally invasive access achieved disinfection comparable to conventional access, supporting its use in minimally invasive root canal treatment.
+- Two-way ANOVA revealed significant antagonism between access type and disinfection method for both root canal (F=3.394, P=0.043) and dentin debris (F=7.224, P=0.002) outcomes.
 
 ## Outcomes
 
-- **Bacterial CFU counts in root canal after disinfection**: PUI and LAI significantly lower than CI (P<0.05); no significant difference between PUI and LAI (P>0.05) _(statistically significant; clinical: Both ultrasonic and Er:YAG laser irrigation are more effective than conventional irrigation for root canal disinfection)_
-- **Bacterial CFU counts in dentin debris after disinfection**: Er:YAG LAI group had the least CFU counts among all groups (F=7.224, P=0.002) _(statistically significant; clinical: Er:YAG laser may penetrate dentinal tubules more effectively than ultrasonic agitation)_
-- **Comparison of CIA vs MIA within conventional irrigation subgroup**: Group 2A (MIA+CI) was significantly better than group 1A (CIA+CI) (P<0.05) _(statistically significant; clinical: MIA may improve irrigant flow in conventional irrigation scenarios)_
-- **Comparison of CIA vs MIA within PUI and LAI subgroups**: No significant difference between group 1B and 2B, or group 1C and 2C (P>0.05) _(not statistically significant; clinical: Er:YAG laser and ultrasonic irrigation overcome access cavity limitations equally well)_
+- **Bacterial CFU counts in root canal after disinfection**: PUI and LAI significantly reduced CFU vs CI (P<0.05); no significant difference between PUI and LAI (P>0.05) _(statistically significant; clinical: Both ultrasonic and Er:YAG laser irrigation are more effective than conventional irrigation for root canal disinfection)_
+- **Bacterial CFU counts in dentin debris after enlargement to F3**: Er:YAG LAI group had the least CFU counts among all groups (F=7.224, P=0.002) _(statistically significant; clinical: Er:YAG laser may be more effective than ultrasonic in removing bacteria from dentinal tubules)_
+- **Effect of access cavity type on disinfection (CIA vs MIA)**: MIA with CI was better than CIA with CI (P<0.05); no significant difference between CIA and MIA for PUI or LAI _(statistically significant; clinical: Er:YAG laser and ultrasonic irrigation compensate for potential disinfection limitations of minimally invasive access)_
 
 ## Clinical Indication
 
@@ -44,7 +43,7 @@ dentin, root canal
 
 | wavelength_nm | fluence_j_cm2 | power_w | freq_hz | mode | energy_per_pulse_mj |
 |---|---|---|---|---|---|
-| 2940 | N/A | N/A | N/A | pulsed | N/A |
+| N/A | N/A | N/A | N/A | pulsed | N/A |
 
 ## Treatment Protocol
 
@@ -53,7 +52,7 @@ dentin, root canal
 
 ## Drugs Mentioned
 
-- **sodium hypochlorite** (Root canal irrigant / disinfectant) | photosensitivity: no | laser_implication: N/A
+- **sodium hypochlorite** (Root canal irrigant / disinfectant) | photosensitivity: N/A | laser_implication: N/A
 
 ## Adverse Events
 
@@ -66,7 +65,7 @@ _None reported._
 ## Population
 
 - **N**: 66
-- **Condition**: Extracted maxillary first molars infected with Enterococcus faecalis
+- **Condition**: Extracted maxillary first molars with E. faecalis infection model
 - **Sample type**: Extracted human teeth (in vitro)
 
 ## Superiority Claim (CRITICAL — Golden Rule)
@@ -76,14 +75,14 @@ _None reported._
 
 ## Uncertainties
 
-- Specific Er:YAG laser parameters (power, energy per pulse, frequency, pulse duration, tip size) not reported in the abstract; full text may contain these details but were not available.
-- Specific sodium hypochlorite concentration and volume used not specified in abstract.
-- Funding source and conflicts of interest not declared in available text.
-- The exact computer-guided MIA preparation protocol and dimensions are not detailed in the abstract.
+- Specific Er:YAG laser parameters (wavelength confirmation, power, energy per pulse, frequency, pulse duration, spot size) not reported in the abstract; full text may contain these but was not available.
+- Brand/model of Er:YAG laser device not specified in available text.
+- Exact irrigation protocol details (volume, concentration of NaOCl, application time) not extractable from abstract alone.
+- In vitro study with E. faecalis monoculture may not reflect clinical polymicrobial conditions, limiting generalizability.
 
 ## Notes
 
-Study used computer-guided minimally invasive access cavity preparation. E. faecalis infection model established after instrumentation to ProTaper Universal F2. Paper tip method used for microbial sampling. Dentin debris collected from F3 file after enlargement.
+Study used extracted maxillary first molars with E. faecalis infection model. Instrumentation performed with ProTaper Universal up to F2, then enlarged to F3 for dentin debris collection. Computer-guided MIA was used for the minimally invasive group.
 
 ## Source Citation
 
