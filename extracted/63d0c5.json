@@ -1,0 +1,87 @@
+{
+  "article_refs": [
+    "europepmc::41777928"
+  ],
+  "uuid": "63d0c5",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "case_report",
+  "evidence_level": "low",
+  "key_points": [
+    "Er:YAG laser was used to activate 5.25% sodium hypochlorite irrigation during endodontic retreatment of post-treatment chronic apical periodontitis at tooth 47.",
+    "The laser-activated irrigation aimed to enhance root canal decontamination by exploiting photothermal effects on resistant microbial biofilms.",
+    "Cone beam computed tomography (CBCT) was used to assess treatment efficacy by comparing pre- and postoperative radiographic images.",
+    "At 3-month follow-up, radiographic assessment showed a tendency toward apical lesion regression and clinical improvement.",
+    "No postoperative adverse events were observed during the follow-up period.",
+    "Bacterial biofilm persistence in the endodontic system is identified as a key factor in post-treatment apical periodontitis."
+  ],
+  "outcomes": [
+    {
+      "measured": "Apical lesion regression (radiographic)",
+      "result": "Tendency toward apical lesion regression confirmed at 3-month CBCT follow-up",
+      "statistical_significance": null,
+      "clinical_significance": "Clinical improvement observed with no adverse events; single case report limits generalizability"
+    },
+    {
+      "measured": "Postoperative adverse events",
+      "result": "No postoperative adverse events observed",
+      "statistical_significance": null,
+      "clinical_significance": "Suggests acceptable safety profile in this single case"
+    }
+  ],
+  "notes": "Case report of a single patient (tooth 47). Er:YAG laser used specifically for activation of sodium hypochlorite irrigant (laser-activated irrigation/LAI), not for direct ablation. Specific laser parameters (wavelength confirmed as Er:YAG ~2940 nm, but power, fluence, pulse duration, frequency not reported in abstract).",
+  "population": {
+    "n_participants": 1,
+    "age_range": null,
+    "condition": "Post-treatment chronic apical periodontitis (tooth 47)",
+    "sample_type": "Human patient"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Zabrac, E., Chirila, M., Dragomirescu, A., & Suciu, I. (2026). Er:YAG Laser-Assisted Root Canal Decontamination in Post-treatment Endodontic Apical Periodontitis: A Case Report. Cureus. https://doi.org/10.7759/cureus.102709",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "Laser-activated irrigation (LAI) with Er:YAG to activate 5.25% sodium hypochlorite",
+    "anatomical_points": [
+      "root canal system",
+      "tooth 47"
+    ]
+  },
+  "clinical_indication": "Post-treatment chronic apical periodontitis requiring endodontic retreatment",
+  "target_tissue": "root canal / periapical tissue",
+  "brand_model_mentioned": [],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "medium",
+  "uncertainties": [
+    "Specific Er:YAG laser parameters (power, fluence, pulse duration, frequency, spot size, mode) not reported in the abstract or available full text.",
+    "Patient demographics (age, sex) not available from abstract.",
+    "Number of treatment sessions not specified.",
+    "Long-term follow-up beyond 3 months not reported.",
+    "Brand/model of Er:YAG laser device not mentioned.",
+    "Conflicts of interest and funding not declared in available text."
+  ]
+}

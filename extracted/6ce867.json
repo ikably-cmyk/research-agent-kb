@@ -1,0 +1,89 @@
+{
+  "article_refs": [
+    "openalex::W1966391349"
+  ],
+  "uuid": "6ce867",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "other",
+  "evidence_level": "low",
+  "key_points": [
+    "Er:YAG laser radiation delivered through a flexible waveguide achieves antibacterial effect in root canal walls and surrounding tissues.",
+    "Therapeutic doses of Er:YAG laser radiation enable one-step disinfection of root canals, including elimination of anaerobic microorganisms.",
+    "The use of a flexible waveguide allows delivery of Er:YAG laser energy into curved root canals.",
+    "Calcium hydroxide is mentioned in the context of endodontic treatment protocols.",
+    "The approach targets disinfection as a primary goal of endodontic laser application."
+  ],
+  "outcomes": [
+    {
+      "measured": "Antibacterial effect in root canal walls and surrounding tissues",
+      "result": "Er:YAG laser via flexible waveguide achieved disinfection including anaerobic microorganisms",
+      "statistical_significance": null,
+      "clinical_significance": "One-step disinfection of root canals reported as achievable with therapeutic laser doses"
+    }
+  ],
+  "notes": "Full text not available; extraction based on abstract only. Study type is unclear from abstract — may be clinical case series or in vitro study. Specific laser parameters not reported in abstract.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Endodontic infection requiring root canal disinfection",
+    "sample_type": null
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Dostálová, T., Jelínková, H., Houšová, D., Šulc, J., Němeć, M., Dušková, J., Miyagi, M., & Krátký, M. (2002). Endodontic Treatment with Application of Er:YAG Laser Waveguide Radiation Disinfection. Journal of Clinical Laser Medicine & Surgery. https://doi.org/10.1089/104454702760090218",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "root canal"
+    ]
+  },
+  "clinical_indication": "Root canal disinfection / endodontic treatment",
+  "target_tissue": "dentin, root canal walls, periapical tissue",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "calcium hydroxide",
+      "drug_class": "Endodontic medicament / intracanal dressing",
+      "interaction_type": null,
+      "dental_relevance": "Mentioned in the context of endodontic treatment protocols alongside Er:YAG laser disinfection",
+      "photosensitivity": null,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "low",
+  "uncertainties": [
+    "Full text not available; all extraction based on abstract only.",
+    "Specific laser parameters (power, fluence, pulse duration, frequency, spot size) not reported in abstract.",
+    "Study type cannot be determined from abstract alone — could be case series, clinical study, or in vitro.",
+    "Number of participants or samples not reported.",
+    "Role and protocol of calcium hydroxide use not detailed.",
+    "Waveguide specifications (material, diameter) not described.",
+    "Statistical analysis and quantitative microbiological outcomes not reported."
+  ]
+}
