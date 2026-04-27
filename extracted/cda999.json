@@ -1,0 +1,215 @@
+{
+  "article_refs": [
+    "pdf_local::Meire_2024_LAI_narrative_review::5e20f7"
+  ],
+  "uuid": "cda999",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Laser-activated irrigation (LAI) uses pulsed erbium lasers (Er:YAG, Er;Cr:YSGG) to generate cavitation bubbles in root canal irrigants, producing intense fluid dynamics throughout the canal system.",
+    "Cavitation is the primary mechanism of LAI: rapidly growing and imploding vapour bubbles cause high-speed fluid motion, shock waves (in free reservoirs), and secondary cavitation, leading to irrigant movement and biofilm disruption.",
+    "Key parameters influencing LAI efficacy include: laser wavelength (erbium wavelengths have absorption coefficients of 7000–13,000 cm⁻¹ in water), pulse energy (directly proportional to bubble size), pulse duration (inversely proportional to bubble size), and fibre tip geometry (conical tips produce larger spherical bubbles vs. ellipsoidal bubbles from flat tips).",
+    "Diode lasers (810–1064 nm, alpha <0.2 cm⁻¹) are not suited for cavitation-based LAI due to insufficient water absorption; a minimum absorption coefficient of 10 cm⁻¹ is required.",
+    "Historical trend in LAI: from intracanal fibre placement with flat tips and high pulse energies (60–80 mJ), to coronal/pulp chamber placement with conical tips and lower pulse energies (10–20 mJ for PIPS).",
+    "PIPS (photon-induced photoacoustic streaming) uses a conical tip in the pulp chamber with 50 µs pulses and 10–20 mJ; Biolase/Waterlase Er;Cr:YSGG protocol uses intracanal placement 1–5 mm from working length with 25 mJ pulses.",
+    "SWEEPS (shock wave enhanced emission photoacoustic streaming) uses double Er:YAG pulse pairs to generate shock waves even in confined canal spaces; evidence for superiority over single-pulse LAI is currently lacking.",
+    "Laboratory studies in extracted teeth suggest LAI is superior to conventional syringe irrigation for canal disinfection, and there is a trend of higher antimicrobial efficacy compared to ultrasonic activation (UAI), though significant methodological heterogeneity exists.",
+    "Clinical evidence is limited: multiple RCTs show LAI does not increase postoperative pain versus no activation or UAI; only one RCT assessed healing of apical periodontitis (Er;Cr:YSGG vs. conventional, no significant difference at 1 year).",
+    "LAI effectively resolves the apical vapour lock effect by progressively breaking down entrapped air bubbles.",
+    "Temperature increases at the apical root surface during LAI are clinically safe (max ~2.5°C under clinically relevant settings).",
+    "Er:YAG LAI can be safely used under the dental operating microscope (zero transmission of Er:YAG radiation through the microscope optics); wavelength-matched eye protection is mandatory for all personnel and patients.",
+    "LAI activation of NaOCl and EDTA may cause pronounced surface disintegration of root canal dentine, greater than sonic or ultrasonic activation.",
+    "No standardized LAI protocol exists; significant variability in parameters across studies complicates synthesis of results."
+  ],
+  "outcomes": [
+    {
+      "measured": "Canal disinfection (antimicrobial efficacy) vs. conventional syringe irrigation",
+      "result": "LAI superior to conventional irrigation in the majority of selected laboratory studies (extracted teeth)",
+      "statistical_significance": true,
+      "clinical_significance": "Consistent trend across multiple in vitro studies, but clinical confirmation lacking"
+    },
+    {
+      "measured": "Canal disinfection (antimicrobial efficacy) vs. ultrasonic activation (UAI)",
+      "result": "Trend of higher antimicrobial efficacy with LAI vs. UAI; LAI superior in 5/8 studies in one systematic review, no difference in 3/8",
+      "statistical_significance": null,
+      "clinical_significance": "Trend favoring LAI but not consistently significant across all studies"
+    },
+    {
+      "measured": "Postoperative pain after LAI vs. no activation or UAI",
+      "result": "No higher postoperative pain with LAI in multiple RCTs; some RCTs found lower pain scores with LAI systems vs. other activation methods",
+      "statistical_significance": true,
+      "clinical_significance": "LAI does not increase postoperative pain risk"
+    },
+    {
+      "measured": "Healing of apical periodontitis (Er;Cr:YSGG LAI vs. conventional treatment)",
+      "result": "No significant difference in apical healing between groups at 1 year (single RCT)",
+      "statistical_significance": false,
+      "clinical_significance": "Insufficient clinical evidence to confirm benefit on healing outcomes"
+    },
+    {
+      "measured": "Intracanal fluid velocity induced by LAI vs. UAI",
+      "result": "LAI (PIPS) induced fluid speeds 0.3–0.5 m/s, approximately 10 times higher than ultrasonically oscillating file; apical region speeds 1–4 m/s; significant fluid movement up to 19 mm from fibre tip",
+      "statistical_significance": null,
+      "clinical_significance": "Demonstrates superior irrigant dynamics and remote cleaning capability of LAI"
+    },
+    {
+      "measured": "Temperature change at apical root surface during LAI",
+      "result": "Maximum increase of 2.5°C under clinically relevant settings for both Er:YAG and Er;Cr:YSGG",
+      "statistical_significance": null,
+      "clinical_significance": "Clinically safe thermal profile"
+    },
+    {
+      "measured": "Dentin microhardness after PIPS activation",
+      "result": "No significant difference in dentinal microhardness between PIPS-activated and non-activated irrigation solutions",
+      "statistical_significance": false,
+      "clinical_significance": "PIPS activation does not adversely affect dentin hardness"
+    },
+    {
+      "measured": "Root canal dentine surface disintegration with LAI vs. sonic/ultrasonic activation",
+      "result": "LAI activation of NaOCl and EDTA led to pronounced surface disintegration, higher than sonic (Eddy) or ultrasonic activation",
+      "statistical_significance": true,
+      "clinical_significance": "Potential concern for dentin integrity with LAI; requires further investigation"
+    }
+  ],
+  "notes": "This narrative review applies strict selection criteria to evaluate antimicrobial efficacy studies (Table 1), selecting 6 papers meeting methodological standards. The review covers physical principles, historical trends, parameter effects, PIPS, SWEEPS, and clinical/laboratory evidence. Conflict of interest: Dr. Roeland De Moor reports personal fees from Fotona (manufacturer of Er:YAG laser systems including Lightwalker). No funding declared.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Apical periodontitis / root canal infection requiring disinfection",
+    "sample_type": "Narrative review of laboratory and clinical studies; primary studies used extracted human teeth and clinical trial patients"
+  },
+  "superiority_claim": "The authors state: 'it can be stated that canal disinfection with LAI is superior to that of conventional irrigation, and there is a clear trend of higher antimicrobial efficacy of LAI compared to ultrasonic activation.' Additionally, regarding wavelengths: 'When experimentally determining the vapour bubble size and resulting fluid movement of these three wavelengths, the Er:YAG was found to be the most effective in cavitation bubble formation and in generating fluid motions within narrow lateral canals.'",
+  "conflicts_of_interest": "Maarten Meire reports nonfinancial support and Dr. Roeland De Moor reports personal fees from Fotona outside of the submitted work.",
+  "funding_source_text": "None.",
+  "source_citation": "Meire, M., & De Moor, R. J. G. (2024). Principle and antimicrobial efficacy of laser-activated irrigation: A narrative review. International Endodontic Journal, 57, 841–860. https://doi.org/10.1111/iej.14042",
+  "contraindications": [
+    "Diode lasers (810–1064 nm) are not suited for cavitation-based LAI due to insufficient water absorption (alpha <0.2 cm⁻¹)",
+    "Eye protection (wavelength-matched) is mandatory for patient and all personnel during LAI"
+  ],
+  "adverse_events": [
+    "Potential increased apical pressure and irrigant extrusion demonstrated in laboratory models (not confirmed as clinically significant in RCTs)",
+    "Pronounced surface disintegration of root canal dentine with LAI activation of NaOCl and EDTA (greater than sonic or ultrasonic activation)"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.05,
+      "frequency_hz": 10,
+      "spot_size_mm": 0.4,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 50.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.05,
+      "frequency_hz": 10,
+      "spot_size_mm": 0.4,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 20.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.05,
+      "frequency_hz": 15,
+      "spot_size_mm": 0.3,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 20.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2780,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.14,
+      "frequency_hz": 10,
+      "spot_size_mm": 0.2,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 100.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2780,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.06,
+      "frequency_hz": 10,
+      "spot_size_mm": 0.2,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 55.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2780,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 25.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 30.0,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "pulp chamber (PIPS approach)",
+      "1–5 mm from working length (Er;Cr:YSGG intracanal approach)",
+      "coronal third",
+      "canal entrance"
+    ]
+  },
+  "clinical_indication": "Root canal disinfection / treatment of apical periodontitis",
+  "target_tissue": "dentin, root canal system (pulp chamber, main canals, lateral canals, dentinal tubules)",
+  "brand_model_mentioned": [
+    "Lightwalker (Fotona)",
+    "Waterlase (Biolase)",
+    "AdvErL EVO (Morita)",
+    "PIPS tip",
+    "SWEEPS (Fotona)",
+    "AutoSWEEPS (Fotona)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Laser parameters reported in Table 1 are from cited primary studies, not from a single standardized protocol; multiple parameter sets exist across studies.",
+    "Pulse duration for the Biolase Waterlase Er;Cr:YSGG recommended protocol (25 mJ intracanal) is not explicitly stated in the review.",
+    "The review does not provide a single definitive recommended LAI protocol; authors explicitly state guidelines are lacking.",
+    "Clinical evidence on healing outcomes is based on a single RCT (Martins et al., 2014), limiting generalizability.",
+    "The superiority claim regarding LAI vs. UAI is based on heterogeneous laboratory studies; clinical confirmation is absent."
+  ]
+}
