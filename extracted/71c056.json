@@ -11,89 +11,87 @@
   "key_points": [
     "El Er:YAG 2940 nm coincide con el pico de máxima absorción del agua en el espectro electromagnético, lo que fundamenta todas sus interacciones clínicas en endodoncia.",
     "Se describen tres técnicas endodónticas complementarias con Er:YAG 2940 nm: CLE (irradiación directa), LAI (irrigación activada por láser) y PIPS™ (streaming fotoacústico desde cámara pulpar).",
-    "CLE utiliza 50–80 mJ, 10–20 Hz, pulso 140–300 μs, fibra 200–300 μm, con spray agua 25% / aire 35% activo. Canal seco es contraindicación relativa.",
-    "LAI utiliza 50–100 mJ (recomendado 75 mJ), 15–20 Hz, pulso 140–300 μs, fibra 200–300 μm a 5 mm del ápex, spray 0%/0% durante activación.",
-    "PIPS™ (Fotona LightWalker AT) utiliza 20 mJ, 15 Hz, 50 μs (modo SSP), punta radial stripped 600 μm × 9 mm, posicionada estáticamente en cámara pulpar, spray 0%/0%.",
-    "La eficiencia fotoacústica es inversamente proporcional a Tp^(3/2): reducir la duración de pulso de 100 μs a 50 μs triplica la eficiencia optodinámica.",
+    "CLE utiliza 50–80 mJ, 10–20 Hz, pulso 140–300 μs, fibra 200–300 μm en movimiento helicoidal desde apical hacia coronal, con spray agua 25% / aire 35% obligatorio.",
+    "LAI utiliza 50–100 mJ (recomendado 75 mJ), 15–20 Hz, pulso 140–300 μs, fibra 200–300 μm a 5 mm del ápex, sin spray (0%/0%) durante la activación.",
+    "PIPS™ utiliza 20 mJ, 15 Hz, 50 μs (SSP), punta radial stripped 600 μm × 9 mm posicionada estáticamente en cámara pulpar, sin spray (0%/0%).",
     "El umbral de ablación dentinal para Er:YAG es aproximadamente 2.97–3.56 J/cm² en esmalte; energías > 20 mJ con fibra de 200 μm producen ablación dentinal activa.",
-    "La secuencia clínica PIPS™ completa (Lloyd/Olivi/DiVito) incluye: NaOCl 5–6% (3×30s activación + 30s reposo), agua destilada (1×30s), EDTA 17% (1×30s + 30s reposo), agua destilada (3×30s), secado.",
-    "La fase de reposo entre ciclos de activación es fundamental: el NaOCl consumido reacciona con el tejido residual durante la pausa de 30 segundos.",
-    "PIPS™ y SWEEPS™ son marcas registradas de Fotona; otros fabricantes (Doctor Smile, LightTouch, Soga) ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+    "La eficiencia fotoacústica es inversamente proporcional a Tp^(3/2): reducir el pulso de 100 μs a 50 μs triplica la eficiencia optodinámica.",
+    "El canal seco es contraindicación relativa para CLE: produce daño térmico severo (hot spots, fisuras, fusión superficial de dentina).",
+    "En LAI, la fibra no debe activarse a menos de 2 mm del ápex con energía ≥ 75 mJ por riesgo de extrusión apical del irrigante.",
+    "La secuencia clínica PIPS™ completa (Lloyd/Olivi/DiVito) incluye: NaOCl 5–6% (3 ciclos × 30s activación + 30s reposo), agua destilada (1 × 30s), EDTA 17% (1 × 30s + 30s reposo), agua destilada (3 × 30s), secado.",
+    "PIPS™ y SWEEPS™ son marcas registradas de Fotona; otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
     "Con protocolo PIPS correcto, el incremento de temperatura en superficie radicular es mínimo (ΔT = 1.2–1.5 °C según DiVito et al. 2012).",
-    "La selección entre CLE, LAI y PIPS™ depende siempre del juicio clínico del operador considerando anatomía, recursos y experiencia."
+    "En ápices abiertos, reducir energía PIPS a 5–15 mJ para minimizar riesgo de extrusión; nunca insertar la punta en el conducto.",
+    "La fase de reposo post-activación es fundamental: el NaOCl consumido reacciona con tejido residual durante la pausa; omitirla reduce la eficacia química (Macedo et al. 2010).",
+    "No mezclar NaOCl y EDTA sin lavado intermedio con agua destilada: forma paracloroanilina y pierde efectividad."
   ],
   "outcomes": [
     {
-      "measured": "Reducción bacteriana E. faecalis con PIPS™ (Peters et al. 2011)",
-      "result": "99.5% reducción; 10/20 muestras negativas",
-      "statistical_significance": true,
-      "clinical_significance": "Alta reducción bacteriana con PIPS 20 mJ / 10 Hz + NaOCl"
+      "measured": "Reducción de E. faecalis (biofilm) con PIPS 20 mJ / 10 Hz + NaOCl",
+      "result": "99.5% — 10/20 muestras negativas",
+      "statistical_significance": null,
+      "clinical_significance": "Alta reducción bacteriana documentada en modelo ex vivo (Peters et al. 2011)"
     },
     {
-      "measured": "Eliminación E. faecalis con PIPS™ (Jaramillo et al. 2012)",
+      "measured": "Eliminación de E. faecalis con PIPS 20 mJ / 15 Hz + NaOCl 6%",
       "result": "100% eliminación en dental shavings",
-      "statistical_significance": true,
-      "clinical_significance": "Eliminación completa con PIPS 20 mJ / 15 Hz + NaOCl 6%"
+      "statistical_significance": null,
+      "clinical_significance": "Eliminación completa en modelo de virutas dentales (Jaramillo et al. 2012)"
     },
     {
-      "measured": "Reducción E. faecalis con PIPS™ (Pedullà et al. 2012)",
-      "result": "99.8%; 30/32 muestras negativas",
-      "statistical_significance": true,
-      "clinical_significance": "Alta eficacia con PIPS 20 mJ / 15 Hz / 50 μs + NaOCl"
+      "measured": "Reducción de E. faecalis con PIPS 20 mJ / 15 Hz / 50 μs + NaOCl",
+      "result": "99.8% — 30/32 muestras negativas",
+      "statistical_significance": null,
+      "clinical_significance": "Alta eficacia antibacteriana (Pedullà et al. 2012)"
     },
     {
-      "measured": "Eliminación E. faecalis biofilm 4 semanas (Olivi et al. 2014)",
-      "result": "100% (0/10 crecimiento); 48 h seguimiento: 0/10",
-      "statistical_significance": true,
-      "clinical_significance": "Eliminación completa de biofilm maduro con PIPS 20 mJ / 15 Hz + NaOCl 5%"
+      "measured": "Eliminación de E. faecalis (biofilm 4 semanas) con PIPS 20 mJ / 15 Hz + NaOCl 5%",
+      "result": "100% (0/10 crecimiento); seguimiento 48h: 0/10",
+      "statistical_significance": null,
+      "clinical_significance": "Eliminación completa y sostenida en biofilm maduro (Olivi et al. 2014)"
     },
     {
-      "measured": "Eliminación de debris orgánico intracanal por micro-CT (Lloyd et al. 2013)",
+      "measured": "Eliminación de debris orgánico intracanal (micro-CT) con PIPS + NaOCl/EDTA vs aguja estándar",
       "result": "2.6× más eliminación que aguja estándar (p<0.001)",
       "statistical_significance": true,
-      "clinical_significance": "Mayor remoción de debris con PIPS + NaOCl/EDTA vs irrigación convencional"
+      "clinical_significance": "Significativamente mayor eliminación de debris con activación fotoacústica (Lloyd et al. 2013)"
     },
     {
-      "measured": "Incremento de temperatura en superficie radicular con PIPS correcto (DiVito et al. 2012)",
+      "measured": "Incremento de temperatura en superficie radicular con PIPS correcto (400 μm tip)",
       "result": "ΔT = 1.2–1.5 °C a 5 mm del ápex",
       "statistical_significance": null,
-      "clinical_significance": "Sin riesgo térmico periodontal con protocolo correcto"
+      "clinical_significance": "Incremento térmico mínimo, sin riesgo de daño periodontal con protocolo correcto (DiVito et al. 2012)"
     }
   ],
-  "notes": "Documento curado compilado por el Dr. Isaac Kably (Abril 2026) basado en Olivi G, De Moor R, DiVito E (eds.), Lasers in Endodontics, Springer 2016. Contiene 4 protocolos clínicos detallados: CLE, LAI, PIPS™ y Secuencia Clínica PIPS™ Completa. El documento establece explícitamente neutralidad clínica absoluta: ninguna técnica, marca o longitud de onda debe ser presentada como superior a otra.",
-  "population": {
-    "n_participants": null,
-    "age_range": null,
-    "condition": "Pacientes con indicación de tratamiento endodóntico",
-    "sample_type": "Protocolo clínico curado; estudios referenciados incluyen modelos ex-vivo y estudios clínicos"
-  },
-  "superiority_claim": null,
+  "notes": "Documento curado compilado por el Dr. Isaac Kably (Abril 2026) basado en Olivi G, De Moor R, DiVito E (eds.). Lasers in Endodontics: Scientific Background and Clinical Applications. Springer International Publishing, 2016. El documento establece explícitamente neutralidad clínica absoluta: ninguna técnica, marca o longitud de onda debe ser considerada superior a otra. Las tres técnicas (CLE, LAI, PIPS™) se presentan en paralelo sin jerarquía.",
+  "population": null,
+  "superiority_claim": "El documento cita datos de dinámica de fluidos (DPIV — Olivi/Peters/DiVito) que reportan velocidades de flujo con PIPS™ hasta 20× superiores al ultrasonido en mediciones directas bajo la punta, y renovación del irrigante 15× en 30 s de activación efectiva. El propio documento aclara que estos son datos objetivos publicados y no implican superioridad clínica de PIPS™ sobre otras técnicas.",
   "conflicts_of_interest": null,
   "funding_source_text": null,
-  "source_citation": "Olivi G, De Moor R, DiVito E (eds.). Lasers in Endodontics: Scientific Background and Clinical Applications. Springer International Publishing, 2016. [Compilado y curado por Dr. Isaac Kably, Base de Conocimiento LaserRx, Abril 2026]",
+  "source_citation": "Olivi G, De Moor R, DiVito E (eds.). Lasers in Endodontics: Scientific Background and Clinical Applications. Springer International Publishing, 2016. [Protocolo curado por Dr. Isaac Kably, Base de Conocimiento LaserRx, Abril 2026]",
   "contraindications": [
-    "Canal seco sin irrigante activo durante CLE — produce daño térmico severo (hot spots, fisuras, fusión dentinal)",
-    "Diámetro apical insuficiente para acomodar fibra de 200–300 μm sin contacto con paredes (ISO < 25 en CLE)",
-    "Curvatura apical severa sin guía radiográfica — riesgo de contacto inadvertido con la pared",
+    "Canal seco sin irrigante activo durante CLE — produce daño térmico severo",
+    "Diámetro apical insuficiente para acomodar fibra de 200–300 μm sin contacto con paredes (ISO < 25 en apical para CLE)",
+    "Curvatura apical severa sin guía radiográfica — riesgo de contacto inadvertido con la pared (CLE)",
     "Fractura vertical radicular diagnosticada",
     "Fibra LAI posicionada a menos de 2 mm del ápex con energía ≥ 75 mJ — riesgo de extrusión apical",
-    "Preparación apical insuficiente para LAI (ISO < 30)",
-    "Foramen apical amplio sin reducción de energía adecuada",
+    "Preparación apical insuficiente para alojar fibra LAI (ISO < 30)",
+    "Foramen apical amplio sin reducción de energía adecuada (LAI)",
     "Energías > 1.5 W de potencia promedio en LAI — riesgo de ablación dentinal no deseada",
     "Insertar la punta PIPS dentro del conducto radicular (por diseño se usa únicamente en cámara pulpar)",
     "Cámara pulpar sin irrigante presente durante PIPS — riesgo térmico y sin efecto cavitacional",
     "Punta PIPS no completamente sumergida en la cámara — riesgo de salpicadura",
     "Energías > 20 mJ con PIPS — salen de la banda subablativa y pueden producir salpicadura",
-    "Pacientes sin aislamiento adecuado durante PIPS",
+    "Pacientes sin aislamiento adecuado (dique de hule) para PIPS",
     "Mezclar NaOCl y EDTA sin lavado intermedio con agua destilada — forma paracloroanilina",
     "Instrumentación incompleta antes de iniciar la secuencia PIPS"
   ],
   "adverse_events": [
     "Sensibilidad postoperatoria leve 24–48 h (esperada, normal)",
-    "Daño térmico severo (hot spots, fisuras, fusión dentinal) si se usa Er:YAG en canal seco",
-    "Extrusión apical del irrigante si fibra LAI posicionada < 2 mm del ápex con energía alta",
-    "Salpicadura de irrigante si punta PIPS no sumergida o energía > 20 mJ",
-    "Ablación dentinal no deseada con energías > 1.5 W en LAI"
+    "Daño térmico severo (hot spots, fisuras, fusión superficial de dentina) si se usa Er:YAG en canal seco",
+    "Extrusión apical del irrigante si fibra LAI se activa a < 2 mm del ápex con energía alta",
+    "Salpicadura de irrigante con PIPS si energía > 20 mJ o punta mal posicionada",
+    "Ablación dentinal no deseada con potencia promedio > 1.5 W en LAI"
   ],
   "laser_parameters": [
     {
@@ -104,28 +102,56 @@
       "frequency_hz": 15,
       "spot_size_mm": null,
       "mode": "pulsed",
+      "energy_per_pulse_mj": 20.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Sin spray (0% agua / 0% aire) durante activación PIPS; flujo continuo externo de irrigante con aguja 27–30G"
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.22,
+      "frequency_hz": 17,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 75.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Sin spray (0% agua / 0% aire) durante activación LAI; renovación de irrigante entre ciclos"
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.22,
+      "frequency_hz": 15,
+      "spot_size_mm": null,
+      "mode": "pulsed",
       "energy_per_pulse_mj": 65.0,
       "irradiance_w_cm2": null,
       "total_dose_j": null,
       "contact": false,
-      "cooling": "Spray agua 25% / aire 35% activo durante CLE; spray 0%/0% durante LAI y PIPS"
+      "cooling": "Spray agua 25% / aire 35% OBLIGATORIO durante CLE; canal húmedo con irrigante activo"
     }
   ],
   "treatment_protocol": {
     "sessions_count": 1,
     "session_interval_days": null,
-    "application_time_sec": 20.0,
+    "application_time_sec": 300.0,
     "application_technique": "scanning",
     "anatomical_points": [
-      "conducto radicular",
       "cámara pulpar",
+      "conducto radicular",
       "tercio apical",
       "tercio medio",
       "tercio coronal"
     ]
   },
-  "clinical_indication": "Descontaminación endodóntica, eliminación de smear layer, activación de irrigantes (NaOCl, EDTA), tratamiento de biofilm intracanal, endodoncia en anatomías complejas",
-  "target_tissue": "dentin, pulp, root canal walls",
+  "clinical_indication": "Descontaminación endodóntica, eliminación de smear layer, activación de irrigantes (NaOCl, EDTA), tratamiento de biofilm intracanal, preparación final del conducto antes de obturación",
+  "target_tissue": "dentin, pulp, root canal walls, dentinal tubules",
   "brand_model_mentioned": [
     "Fotona LightWalker AT",
     "Fotona LightWalker DT",
@@ -139,10 +165,12 @@
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "El campo laser_parameters resume los tres protocolos en un solo objeto con valores promedio; los parámetros exactos por técnica están detallados en los protocolos individuales.",
-    "No se especifica el número exacto de sesiones clínicas en todos los protocolos (se asume sesión única de endodoncia).",
-    "Los datos de fluencia (J/cm²) no se reportan directamente en el documento; dependen del diámetro de punta usado.",
-    "El documento menciona SWEEPS™ como técnica Fotona pero no proporciona parámetros detallados para SWEEPS™ — solo se menciona como técnica compatible con LightWalker."
+    "El campo pulse_duration_ms en laser_parameters se registró como valor medio del rango (CLE: 140–300 μs → 0.22 ms; LAI: 140–300 μs → 0.22 ms); el documento especifica rangos, no valores únicos.",
+    "El campo energy_per_pulse_mj para CLE se registró como valor medio del rango (50–80 mJ → 65 mJ); el documento especifica rango.",
+    "El campo energy_per_pulse_mj para LAI se registró como valor recomendado (75 mJ) según el documento.",
+    "No se especifica conflicto de interés ni fuente de financiamiento en el documento.",
+    "El documento menciona PBM post-endodoncia como cuidado postoperatorio opcional pero remite a otro documento para los parámetros específicos; no se incluyen parámetros de PBM en este archivo.",
+    "La frecuencia para LAI se registró como valor medio del rango (15–20 Hz → 17 Hz); el documento especifica rango."
   ],
   "bibliographic_metadata": {
     "title": "Protocolos de Terapia Láser Dental — Archivo 7: Er:YAG 2940 nm · Técnicas Endodónticas",
@@ -155,61 +183,61 @@
   },
   "protocols": [
     {
-      "name": "Irradiación Directa Convencional con Er:YAG (CLE)",
+      "name": "CLE — Irradiación Directa Convencional con Er:YAG 2940 nm",
       "synonyms_es": [
         "endodoncia láser convencional",
         "irradiación endodóntica directa con erbio",
-        "irradiación helicoidal intracanal Er:YAG",
+        "irradiación intracanal Er:YAG",
         "CLE láser",
-        "irradiación directa del conducto con láser"
+        "irradiación helicoidal del conducto con Er:YAG"
       ],
       "synonyms_en": [
         "Conventional Laser Endodontics",
         "direct laser irradiation endodontic",
         "helical canal irradiation Er:YAG",
         "CLE Er:YAG",
-        "direct intracanal laser irradiation"
+        "direct intracanal irradiation"
       ],
       "purpose": "Descontaminación directa de las paredes dentinales del conducto radicular y eliminación fototérmica del smear layer mediante irradiación con Er:YAG 2940 nm, con la fibra introducida dentro del canal en movimiento helicoidal de retiro desde la posición apical hacia la cámara pulpar.",
       "parameters_table": [
         {
-          "equipo": "Fotona LightWalker AT / Doctor Smile Wiser / Soga Er:YAG 2940",
+          "equipo": "Cualquier Er:YAG 2940 nm capaz de operar con pulso 140–300 μs y fibra endfiring o cónica ≥18 mm. Ejemplos: Fotona LightWalker AT, Doctor Smile Wiser, Soga Er:YAG 2940",
           "longitud_de_onda": "2940 nm",
-          "potencia": "0.5–1.6 W (derivada: P = E × Hz)",
+          "potencia": "0.5–1.6 W (derivada: P = E × Hz; rango 50–80 mJ × 10–20 Hz)",
           "frecuencia": "10–20 Hz",
-          "modo_de_pulso": "Free-running pulsed, 140–300 μs",
-          "fibra_punta": "Fibra 200–300 μm endfiring o cónica (≥18 mm de longitud)",
+          "modo_de_pulso": "140–300 μs (free-running pulsed)",
+          "fibra_punta": "Fibra 200–300 μm endfiring o cónica (longitud ≥18 mm)",
           "agua_pct": "25%",
           "aire_pct": "35%",
-          "distancia": "1 mm corto del ápex anatómico; retiro helicoidal continuo ~1 mm/s hacia coronal",
+          "distancia": "Insertar a 1 mm corto del ápex anatómico; retiro helicoidal continuo a ~1 mm/s hacia coronal",
           "tiempo_ciclos": "4 ciclos × 5 segundos = 20 s de activación efectiva; renovar irrigante entre ciclos"
         }
       ],
       "critical_notes": [
-        "Canal seco = contraindicación relativa absoluta: el Er:YAG en canal seco produce daño térmico severo (hot spots, fisuras, fusión superficial de dentina). El canal SIEMPRE debe permanecer húmedo con irrigante activo durante la irradiación.",
-        "Spray aire/agua del equipo ACTIVADO (25% agua / 35% aire) obligatorio durante toda la emisión para evitar depleción del irrigante y daño térmico.",
-        "Nunca tocar la pared dentinal activamente durante la emisión; la fibra se retira en movimiento helicoidal continuo sin contacto.",
-        "Diámetro apical mínimo ISO 25 para acomodar fibra de 200–300 μm sin contacto con paredes; en apicales más estrechos puede ser limitante.",
-        "Descontaminación bacteriana directa por efecto fototérmico superficial alcanza 250–300 μm de profundidad.",
-        "El documento presenta esta técnica con ventajas documentadas por SEM (Olivi 2016); existen alternativas con mecanismos de acción diferentes (LAI, PIPS, ultrasonido) que pueden ser apropiadas según el caso clínico."
+        "CANAL SECO = CONTRAINDICACIÓN RELATIVA: el Er:YAG en canal seco produce daño térmico severo (hot spots, fisuras, fusión superficial de dentina). El canal SIEMPRE debe permanecer húmedo con irrigante activo durante la irradiación. Spray agua 25% / aire 35% OBLIGATORIO durante toda la emisión.",
+        "Nunca tocar la pared dentinal activamente con la fibra durante la emisión; el movimiento helicoidal debe ser continuo y sin presión lateral.",
+        "Diámetro apical mínimo ISO 25 para acomodar fibra de 200–300 μm sin contacto con paredes; en conductos más estrechos esta técnica puede ser limitante.",
+        "Curvatura apical severa sin guía radiográfica representa riesgo de contacto inadvertido con la pared; evaluar con radiografía previa.",
+        "Fractura vertical radicular diagnosticada es contraindicación absoluta.",
+        "El documento presenta esta técnica con datos SEM favorables (apertura tubular, vaporización de smear layer); existen alternativas (LAI, PIPS, activación sónica/ultrasónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Realizar instrumentación mecánica completa del conducto hasta la longitud de trabajo definida.",
-        "Irrigar con NaOCl 2.5–5.25% y, si corresponde al protocolo, EDTA 17% para remoción del smear layer químico previo. Canal húmedo obligatorio.",
-        "Insertar la fibra/punta a 1 mm corto del ápex anatómico. Nunca tocar la pared dentinal activamente durante la emisión.",
+        "Completar la instrumentación mecánica del conducto hasta la longitud de trabajo definida.",
+        "Irrigar con NaOCl 2.5–5.25% y, si corresponde al protocolo, EDTA 17% para remoción química previa del smear layer. Mantener el canal húmedo obligatoriamente.",
+        "Insertar la fibra o punta a 1 mm corto del ápex anatómico. No tocar la pared dentinal activamente durante la emisión.",
         "Activar el láser y retirar la fibra con movimiento helicoidal continuo a aproximadamente 1 mm/s desde apical hacia coronal.",
         "Aplicar 4 ciclos de 5 segundos, renovando el irrigante entre cada ciclo con jeringa.",
-        "Mantener el spray aire/agua del equipo ACTIVADO durante toda la emisión para evitar depleción del irrigante y daño térmico.",
+        "Mantener el spray agua/aire del equipo ACTIVADO (25% agua / 35% aire) durante toda la emisión para evitar depleción del irrigante y daño térmico.",
         "Finalizar con irrigación de agua destilada estéril antes del secado."
       ],
       "indications": [
         "Descontaminación endodóntica directa de paredes dentinales",
         "Eliminación del smear layer con láser",
-        "Irradiación intracanal Er:YAG como complemento a la instrumentación mecánica",
         "Preparación final del conducto antes de obturación",
         "Apertura de túbulos dentinales (acondicionamiento dentinal endodóntico)",
-        "Desinfección de paredes dentinales en conductos con anatomía accesible"
+        "Desinfección de paredes dentinales en tratamientos de conducto convencionales"
       ],
       "contraindications": [
         "Canal seco sin irrigante activo — produce daño térmico severo",
@@ -222,7 +250,7 @@
         "Analgésico de rescate si lo requiere el paciente.",
         "Radiografía de control post-obturación en los tiempos habituales del protocolo endodóntico."
       ],
-      "evidence_level": "Moderado — basado en documentación SEM y capítulos de libro de referencia (Olivi G, De Moor R, DiVito E, Springer 2016); sin RCT específico para CLE aislado.",
+      "evidence_level": "Moderado — basado en documentación SEM y capítulos de interacción fototérmica de Olivi G, De Moor R, DiVito E (eds.). Lasers in Endodontics. Springer, 2016. Sin RCTs específicos citados para CLE aislado.",
       "keywords_es": [
         "CLE láser",
         "endodoncia láser convencional",
@@ -237,7 +265,8 @@
         "Er:YAG endodoncia",
         "descontaminación endodóntica láser",
         "fibra endfiring endodoncia",
-        "movimiento helicoidal láser canal"
+        "NaOCl activación láser",
+        "tratamiento de conducto con láser"
       ],
       "keywords_en": [
         "conventional laser endodontics",
@@ -249,19 +278,20 @@
         "helical fiber retrieval",
         "2940 nm endodontic",
         "conventional laser root canal",
-        "direct laser irradiation root canal",
-        "Er:YAG intracanal",
+        "Er:YAG root canal irradiation",
         "endodontic laser decontamination",
         "endfiring fiber endodontics",
-        "root canal wall disinfection laser"
+        "photothermal endodontic effect",
+        "root canal smear layer",
+        "laser dentinal conditioning"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Irrigación Activada por Láser con Er:YAG (LAI)",
+      "name": "LAI — Irrigación Activada por Láser con Er:YAG 2940 nm",
       "synonyms_es": [
         "irrigación activada con láser erbio",
-        "activación láser del irrigante endodóntico",
+        "activación láser del irrigante",
         "activación fotónica del hipoclorito",
         "cavitación láser intracanal",
         "LAI técnica endodóntica",
@@ -273,48 +303,49 @@
         "LAI Er:YAG",
         "photomechanical irrigant activation",
         "intracanal cavitation laser",
-        "photonic hypochlorite activation"
+        "hypochlorite laser activation"
       ],
-      "purpose": "Activación fotomecánica y fototérmica de los irrigantes acuosos (NaOCl, EDTA) dentro del conducto radicular mediante pulsos de Er:YAG, generando cavitación, ondas de choque y streaming que mejoran la dinámica de fluidos, la penetración del irrigante en anatomía compleja y la remoción del biofilm.",
+      "purpose": "Activación fotomecánica y fototérmica de los irrigantes acuosos (NaOCl, EDTA) dentro del conducto radicular mediante pulsos de Er:YAG 2940 nm, generando cavitación, ondas de choque y streaming que mejoran la dinámica de fluidos, la penetración del irrigante en anatomía compleja y la remoción del biofilm.",
       "parameters_table": [
         {
-          "equipo": "Fotona LightWalker AT / Doctor Smile Wiser / Soga Er:YAG / LightTouch™",
+          "equipo": "Cualquier Er:YAG 2940 nm capaz de operar con pulso 140–300 μs y fibra 200–300 μm flat o cónica. Ejemplos: Fotona LightWalker AT, Doctor Smile Wiser, Soga Er:YAG 2940, LightTouch (Light Instruments Ltd.)",
           "longitud_de_onda": "2940 nm",
-          "potencia": "0.75–2.0 W (recomendado ~1.5 W con 75 mJ × 20 Hz)",
+          "potencia": "0.75–2.0 W (derivada: P = E × Hz; recomendado ≤1.5 W promedio)",
           "frecuencia": "15–20 Hz",
-          "modo_de_pulso": "Free-running pulsed, 140–300 μs",
-          "fibra_punta": "Fibra 200–300 μm flat o cónica (80% emisión lateral en cónica)",
+          "modo_de_pulso": "140–300 μs (free-running pulsed)",
+          "fibra_punta": "Fibra 200–300 μm flat o cónica (la cónica emite ~80% lateral)",
           "agua_pct": "0% (durante activación)",
           "aire_pct": "0%",
-          "distancia": "5 mm del ápex, posición estacionaria",
-          "tiempo_ciclos": "4 ciclos × 5 s activación + 5–20 s reposo entre ciclos = 20 s activación efectiva; 1 ciclo adicional con EDTA 17%; lavado final con agua destilada"
+          "distancia": "5 mm del ápex, posición estacionaria; NO activar a < 2 mm del ápex con energía ≥ 75 mJ",
+          "tiempo_ciclos": "4 ciclos × 5 s activación + 5–20 s reposo entre ciclos; 1 ciclo adicional con EDTA 17%; lavado final con agua destilada"
         }
       ],
       "critical_notes": [
-        "NO posicionar la fibra a menos de 2 mm del ápex con energía ≥ 75 mJ — el jet de presión puede extruir el irrigante periapicalmente. A 5 mm del ápex los estudios no reportan daño periapical (De Moor et al. 2009–2010).",
-        "Spray agua/aire del equipo debe estar en 0%/0% durante la activación para no interferir con la dinámica de la burbuja cavitacional.",
-        "Preparación apical mínima ISO 30–40 con conicidad 0.06 para permitir espacio de la burbuja; ISO < 30 es contraindicación.",
+        "SEGURIDAD APICAL: NO posicionar la fibra a menos de 2 mm del ápex con energía ≥ 75 mJ. El jet de presión puede extruir el irrigante periapicalmente. A 5 mm del ápex los estudios no reportan daño periapical (De Moor et al. 2009–2010).",
+        "Preparación apical mínima ISO 30–40 con conicidad 0.06 para permitir espacio de la burbuja cavitacional.",
+        "Foramen apical amplio (ápice abierto) requiere reducción de energía adecuada antes de activar.",
         "Energías > 1.5 W de potencia promedio representan riesgo de ablación dentinal no deseada.",
-        "En foramen apical amplio (ápice abierto) reducir la energía adecuadamente antes de activar.",
-        "La velocidad de expansión de la burbuja de vapor puede alcanzar hasta 26.5 m/s; la implosión genera onda de choque supersónica que despega biofilm y debris de las paredes.",
-        "El documento presenta esta técnica con ventajas documentadas; existen alternativas (PUI, sónica, PIPS) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "El spray agua/aire del equipo debe estar en 0%/0% durante la activación para no interferir con la cavitación del irrigante.",
+        "La fase de reposo (5–20 s) entre ciclos permite que el NaOCl consumido reaccione con el tejido residual; no omitirla.",
+        "El documento presenta esta técnica con datos favorables; existen alternativas (PUI, activación sónica, PIPS) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Realizar instrumentación mecánica completa: preparación apical mínima ISO 30–40 con conicidad 0.06 para permitir espacio de la burbuja.",
+        "Completar la instrumentación mecánica: preparación apical mínima ISO 30–40 con conicidad 0.06 para permitir espacio de la burbuja.",
         "Llenar el canal con irrigante activo (NaOCl 2.5–5.25% como primera solución del protocolo).",
-        "Insertar la fibra de 200–300 μm hasta 5 mm del ápex, posición estacionaria.",
+        "Insertar la fibra de 200–300 μm hasta 5 mm del ápex en posición estacionaria.",
         "Activar el láser durante 5 segundos.",
         "Realizar pausa de 5–20 segundos (fase de reposo): el NaOCl consumido reacciona con el tejido residual.",
-        "Retirar fibra, renovar irrigante con jeringa, re-insertar fibra.",
+        "Retirar la fibra, renovar el irrigante con jeringa y re-insertar la fibra.",
         "Repetir hasta completar 4 ciclos × 5 segundos = 20 s de activación efectiva.",
         "Cambiar a EDTA 17% para remoción de smear layer: aplicar 1 ciclo de 5 s con activación.",
         "Realizar lavado final con agua destilada estéril (1–2 ciclos de activación).",
-        "Secar con puntas de papel para obturación."
+        "Secar con puntas de papel para proceder a la obturación."
       ],
       "indications": [
         "Activación de irrigantes endodónticos (NaOCl, EDTA)",
-        "Mejora de penetración de NaOCl en anatomías complejas",
+        "Mejora de penetración de NaOCl en anatomía compleja",
         "Remoción de biofilm intracanal",
         "Irrigación en anatomías complejas (istmos, conductos laterales)",
         "Alternativa a PUI (irrigación ultrasónica pasiva)",
@@ -332,7 +363,7 @@
         "Analgésico si se prescribe por diagnóstico previo.",
         "Contactar al operador si exacerbación, flare-up o dolor severo."
       ],
-      "evidence_level": "Moderado — basado en estudios comparativos publicados (De Moor et al. J Endod 2010; De Groot et al. 2009) y capítulos de libro de referencia (Olivi/De Moor/DiVito 2016).",
+      "evidence_level": "Moderado — basado en De Moor RJ, Meire M, Goharkhay K et al. J Endod. 2010;36:1580–3; De Groot SD et al. 2009; Olivi/De Moor/DiVito 2016, capítulos de LAI. Múltiples estudios comparativos con PUI.",
       "keywords_es": [
         "LAI láser",
         "irrigación activada láser",
@@ -341,11 +372,12 @@
         "hipoclorito activado por láser",
         "alternativa PUI endodoncia",
         "burbuja cavitacional endodoncia",
-        "streaming intracanal Er:YAG",
+        "streaming intracanal",
         "Er:YAG activación irrigante",
         "activación NaOCl láser",
-        "EDTA activado láser",
-        "irrigación endodóntica fotomecánica",
+        "EDTA activación láser",
+        "endodoncia láser irrigación",
+        "2940 nm irrigación activada",
         "desinfección intracanal láser",
         "biofilm endodóntico láser"
       ],
@@ -357,23 +389,24 @@
         "hypochlorite laser activation",
         "PUI alternative endodontics",
         "endodontic cavitation bubble",
-        "streaming intracanal Er:YAG",
+        "streaming intracanal",
         "Er:YAG irrigant activation",
         "NaOCl laser activation",
         "EDTA laser activation",
-        "photomechanical endodontic irrigation",
+        "endodontic laser irrigation",
+        "2940 nm laser irrigation",
         "intracanal disinfection laser",
-        "endodontic biofilm laser removal"
+        "endodontic biofilm laser"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "PIPS™ — Fotón-Inducido Fotoacústico Streaming con Er:YAG (Fotona LightWalker)",
+      "name": "PIPS™ — Fotón-Inducido Fotoacústico Streaming con Er:YAG 2940 nm (Fotona LightWalker AT)",
       "synonyms_es": [
         "activación fotoacústica desde cámara pulpar",
-        "streaming fotoacústico tridimensional endodóntico",
-        "técnica fotoacústica subablativa Er:YAG",
+        "streaming fotoacústico endodóntico",
         "streaming tridimensional endodóntico",
+        "técnica fotoacústica subablativa Er:YAG",
         "irrigación con punta radial stripped",
         "PIPS 20 mJ 15 Hz 50 μs"
       ],
@@ -385,81 +418,80 @@
         "radial stripped tip irrigation",
         "subablative Er:YAG photoacoustic"
       ],
-      "purpose": "Activación fotoacústica del irrigante endodóntico mediante pulsos ultrabreves (50 μs) de muy baja energía (20 mJ, subablativa) aplicados desde la cámara pulpar con una punta radial y stripped. Genera streaming tridimensional global (apical, lateral, istmos, conductos accesorios) sin introducir la fibra en el conducto, con preparación mínimamente invasiva y sin producir ablación dentinal.",
+      "purpose": "Activación fotoacústica del irrigante endodóntico mediante pulsos ultrabreves (50 μs) de muy baja energía (20 mJ, subablativa) aplicados desde la cámara pulpar con una punta radial y stripped, generando streaming tridimensional global (apical, lateral, istmos, conductos accesorios) sin introducir la fibra en el conducto, con preparación mínimamente invasiva y sin producir ablación dentinal.",
       "parameters_table": [
         {
-          "equipo": "Fotona LightWalker AT (PIPS™)",
+          "equipo": "Fotona LightWalker AT (técnica PIPS™ patentada)",
           "longitud_de_onda": "2940 nm",
-          "potencia": "0.3 W (20 mJ × 15 Hz)",
+          "potencia": "0.3 W (derivada: 20 mJ × 15 Hz)",
           "frecuencia": "15 Hz",
-          "modo_de_pulso": "SSP (Super Short Pulse) 50 μs",
+          "modo_de_pulso": "50 μs (SSP — Super Short Pulse, Fotona)",
           "fibra_punta": "PIPS radial y stripped 600 μm × 9 mm (400 μm × 12 mm si acceso reducido); reducir a 5–15 mJ si ápex abierto",
           "agua_pct": "0%",
           "aire_pct": "0%",
           "distancia": "Cámara pulpar, estática; porción stripped (4 mm terminales) al nivel de la abertura oclusal, completamente sumergida en irrigante. La punta NO se introduce en el conducto.",
-          "tiempo_ciclos": "30 s activación + 30 s reposo por ciclo; secuencia completa según protocolo Lloyd/Olivi/DiVito"
+          "tiempo_ciclos": "30 s activación + 30 s reposo por ciclo; repetir según secuencia clínica completa"
         },
         {
-          "equipo": "Doctor Smile Wiser / Soga Er:YAG / LightTouch™ (activación fotoacústica equivalente)",
+          "equipo": "Cualquier Er:YAG 2940 nm con punta fotoacústica equivalente (activación fotoacústica desde cámara). Ejemplos: Doctor Smile Wiser, Soga Er:YAG 2940, LightTouch (Light Instruments Ltd.)",
           "longitud_de_onda": "2940 nm",
-          "potencia": "~0.3 W (ajustar según fabricante)",
+          "potencia": "0.3 W (derivada: 20 mJ × 15 Hz; ajustar según fabricante)",
           "frecuencia": "15 Hz",
-          "modo_de_pulso": "50 μs o el más corto disponible según equipo",
+          "modo_de_pulso": "50 μs (o el más corto disponible en el equipo)",
           "fibra_punta": "Punta específica fotoacústica del fabricante (zafiro plano, radial, etc.)",
           "agua_pct": "0%",
           "aire_pct": "0%",
-          "distancia": "Cámara pulpar, estática, completamente sumergida en irrigante",
-          "tiempo_ciclos": "30 s activación + 30 s reposo por ciclo"
+          "distancia": "Cámara pulpar, estática; completamente sumergida en irrigante. La punta NO se introduce en el conducto.",
+          "tiempo_ciclos": "30 s activación + 30 s reposo por ciclo; ajustar según protocolo del fabricante"
         }
       ],
       "critical_notes": [
-        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes (Doctor Smile, LightTouch, Soga) ofrecen técnicas fotoacústicas equivalentes con nomenclatura y punta propias. El término 'activación fotoacústica' es genérico y aplica a cualquier equipo Er:YAG capaz de generar el fenómeno con pulsos cortos de baja energía desde la cámara pulpar.",
-        "La punta PIPS NO se introduce en el conducto radicular — por diseño se posiciona únicamente en la cámara pulpar con la porción stripped al nivel oclusal.",
-        "La punta debe estar completamente sumergida en el irrigante antes de activar el láser; si no está sumergida, riesgo de salpicadura y pérdida de eficacia.",
-        "Energías > 20 mJ con PIPS salen de la banda subablativa y pueden producir salpicadura y ablación no deseada.",
-        "En dientes con ápex abierto (reabsorción apical, dientes inmaduros, revascularización): reducir energía a 5–15 mJ. Nunca insertar la punta en el conducto en estos casos.",
+        "PIPS™ (Photon-Induced Photoacoustic Streaming) es una técnica patentada por Fotona, implementada en el equipo LightWalker AT en modo SSP (50 μs) con punta radial y stripped. Otros fabricantes ofrecen técnicas fotoacústicas análogas desde cámara pulpar con nomenclatura y punta propias.",
+        "La punta PIPS™ NO debe introducirse en el conducto radicular; por diseño se usa únicamente en la cámara pulpar.",
+        "La porción stripped (4 mm terminales) debe estar completamente sumergida en el irrigante antes de activar el láser; si no está sumergida, riesgo de salpicadura y pérdida de eficacia.",
+        "Energías > 20 mJ con PIPS salen de la banda subablativa y pueden producir salpicadura y ablación dentinal.",
+        "En ápices abiertos (reabsorción apical, dientes inmaduros, revascularización): reducir energía a 5–15 mJ. Nunca insertar la punta en el conducto en estos casos.",
+        "Preparación mínimamente invasiva: ISO 20–25 apical y conicidad 0.04–0.06 son suficientes para PIPS™.",
         "Aislamiento obligatorio: dique de hule + Liquid Dam + babero impermeable al paciente + protección ocular al operador y asistente.",
-        "Flujo continuo externo de irrigante con aguja 27–30G lateral a la punta durante la activación para mantener la cámara llena.",
-        "Frecuencias > 20 Hz producen tiros solapados, onda estacionaria e irrigación ineficaz; usar exactamente 15 Hz.",
-        "Con protocolo correcto, el incremento de temperatura en superficie radicular es mínimo (ΔT = 1.2–1.5 °C según DiVito et al. 2012); con parámetros fuera de rango el riesgo térmico es real.",
-        "Preparación mínimamente invasiva: ISO 20–25 apical y conicidad 0.04–0.06 son suficientes; no se requiere ensanchar el canal para llevar aguja o fibra al ápex."
+        "Flujo continuo externo de irrigante con aguja 27–30G lateral a la punta PIPS durante la activación para mantener la cámara llena.",
+        "Frecuencias > 20 Hz producen tiros solapados, onda estacionaria e irrigación ineficaz con técnica fotoacústica.",
+        "El documento presenta datos de dinámica de fluidos (DPIV) favorables para PIPS™; existen alternativas (LAI, PUI, activación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Realizar preparación mecánica mínima: longitud de trabajo 1 mm corto del ápex, tamaño apical ISO 20–25 en ápex intacto (ISO 08–20 si ápex abierto), conicidad 0.04–0.06.",
-        "Aislar con dique de hule + Liquid Dam. Colocar babero impermeable al paciente (protección ante salpicaduras).",
+        "Completar la preparación mecánica mínima: longitud de trabajo 1 mm corto del ápex, tamaño apical ISO 20–25 en ápex intacto (ISO 08–20 si ápex abierto), conicidad 0.04–0.06.",
+        "Aislar con dique de hule + Liquid Dam. Colocar babero impermeable al paciente.",
         "Llenar la cámara pulpar y el canal con irrigante (NaOCl 5–6% como primera solución del protocolo).",
-        "Posicionar la punta PIPS™ estáticamente dentro de la cámara pulpar, con la porción stripped (4 mm terminales) al nivel de la abertura oclusal. La punta NO se introduce en el conducto y debe estar completamente sumergida en el irrigante.",
+        "Posicionar la punta PIPS™ estáticamente dentro de la cámara pulpar, con la porción stripped (4 mm terminales) al nivel de la abertura oclusal, completamente sumergida en el irrigante.",
         "Configurar el equipo: 20 mJ · 15 Hz · 50 μs (SSP) · spray aire 0% · agua 0%.",
-        "Mantener flujo continuo externo de irrigante con aguja 27–30G lateral a la punta PIPS durante la activación, para mantener la cámara llena.",
+        "Mantener flujo continuo externo de irrigante con aguja 27–30G lateral a la punta PIPS durante la activación para mantener la cámara llena.",
         "Activar 30 segundos + pausa de reposo 30 segundos. Repetir ciclos según la secuencia clínica completa.",
         "Al terminar la secuencia: secar con puntas de papel para obturación."
       ],
       "indications": [
         "Activación fotoacústica del irrigante endodóntico",
         "Desinfección de anatomía compleja (istmos, conductos laterales, delta apical, bifurcaciones)",
-        "Preparación mínimamente invasiva con desinfección efectiva",
+        "Preparación mínimamente invasiva con preservación de estructura dentinaria",
         "Endodoncia regenerativa (REP) con energía reducida (5–15 mJ)",
         "Dientes con ápex abierto (con reducción de energía)",
         "Reducción de vapor lock apical",
         "Activación subablativa de NaOCl y EDTA",
-        "Retratamientos endodónticos con láser",
-        "Infecciones persistentes intrarradiculares"
+        "Retratamientos endodónticos con láser"
       ],
       "contraindications": [
         "Insertar la punta PIPS dentro del conducto radicular (por diseño se usa únicamente en cámara pulpar)",
         "Cámara pulpar sin irrigante presente — riesgo térmico y sin efecto cavitacional",
         "Punta PIPS no completamente sumergida en la cámara — riesgo de salpicadura y pérdida de eficacia",
         "Energías > 20 mJ con PIPS — salen de la banda subablativa y pueden producir salpicadura",
-        "Pacientes sin aislamiento adecuado (dique de hule + Liquid Dam obligatorios)",
-        "Frecuencias > 20 Hz — producen irrigación ineficaz"
+        "Pacientes sin aislamiento adecuado (dique de hule obligatorio)",
+        "Frecuencias > 20 Hz — producen irrigación ineficaz con técnica fotoacústica"
       ],
       "postop_care": [
         "Sensibilidad postoperatoria leve 24–48 h, normal.",
         "Analgésico de rescate si se prescribe.",
         "Radiografía de control en los tiempos habituales del protocolo endodóntico."
       ],
-      "evidence_level": "Moderado — múltiples estudios in vitro/ex-vivo y micro-CT (Peters et al. J Endod 2011; Lloyd et al. J Endod 2014; DiVito et al. Lasers Med Sci 2012; Pedullà et al. 2012; Olivi et al. 2014), principalmente con biofilm de E. faecalis. Limitación: mayoría de estudios ex-vivo.",
+      "evidence_level": "Moderado — basado en múltiples estudios: DiVito E, Peters OA, Olivi G. Lasers Med Sci. 2012;27:273–80; Peters OA et al. J Endod. 2011;37:1008–12; Lloyd A et al. J Endod 2014 (micro-CT); Olivi/De Moor/DiVito 2016. Principalmente con biofilm de E. faecalis en modelos ex vivo.",
       "keywords_es": [
         "PIPS endodoncia",
         "fotón-inducido streaming fotoacústico",
@@ -468,14 +500,14 @@
         "punta radial stripped",
         "20 mJ 15 Hz 50 μs",
         "Er:YAG subablativo",
-        "SSP Fotona LightWalker",
+        "SSP Fotona endodoncia",
         "DiVito photoacoustic",
         "cavitación cámara pulpar",
         "desinfección istmos láser",
-        "irrigación fotoacústica endodoncia",
-        "NaOCl activado fotoacústico",
-        "EDTA activado láser",
-        "endodoncia mínimamente invasiva láser"
+        "Fotona LightWalker endodoncia",
+        "irrigación fotoacústica",
+        "preparación mínimamente invasiva endodoncia",
+        "vapor lock apical láser"
       ],
       "keywords_en": [
         "PIPS endodontics",
@@ -485,126 +517,126 @@
         "radial stripped tip",
         "20 mJ 15 Hz 50 μs",
         "subablative Er:YAG",
-        "Fotona SSP LightWalker",
+        "Fotona SSP endodontics",
         "DiVito photoacoustic",
         "pulp chamber cavitation",
         "isthmus disinfection laser",
-        "photoacoustic endodontic irrigation",
-        "NaOCl photoacoustic activation",
-        "EDTA laser activation",
-        "minimally invasive laser endodontics"
+        "Fotona LightWalker endodontics",
+        "photoacoustic irrigation",
+        "minimally invasive endodontics laser",
+        "apical vapor lock laser"
       ],
       "is_virtual_protocol": false
     },
     {
       "name": "Secuencia Clínica PIPS™ Completa — Protocolo Lloyd / Olivi / DiVito",
       "synonyms_es": [
-        "secuencia completa de irrigación endodóntica con PIPS",
-        "protocolo Lloyd PIPS",
-        "protocolo NaOCl EDTA con activación fotoacústica",
+        "secuencia completa PIPS",
+        "protocolo NaOCl EDTA PIPS",
         "irrigación final endodóntica PIPS",
-        "secuencia DiVito Olivi endodoncia",
-        "protocolo de desinfección PIPS completo"
+        "protocolo DiVito Olivi irrigación",
+        "secuencia de irrigación fotoacústica completa",
+        "protocolo Lloyd PIPS endodoncia"
       ],
       "synonyms_en": [
-        "complete PIPS irrigation sequence",
-        "Lloyd PIPS protocol",
+        "PIPS clinical irrigation protocol",
+        "Lloyd protocol PIPS",
+        "Olivi DiVito irrigation sequence",
         "full PIPS endodontic protocol",
-        "NaOCl EDTA photoacoustic sequence",
-        "DiVito Olivi irrigation protocol",
-        "PIPS final irrigation protocol"
+        "complete PIPS sequence",
+        "NaOCl EDTA photoacoustic activation sequence"
       ],
-      "purpose": "Secuencia clínica completa de irrigación endodóntica con activación PIPS™, validada en el estudio de micro-CT de Lloyd et al. 2013 y confirmada por múltiples centros universitarios. Busca disolución del tejido pulpar residual, reducción bacteriana máxima, remoción del smear layer y apertura tubular con la mínima agresión sobre la anatomía periapical.",
+      "purpose": "Secuencia clínica completa de irrigación endodóntica con activación fotoacústica (PIPS™), validada en el estudio de micro-CT de Lloyd et al. 2013, que busca disolución del tejido pulpar, reducción bacteriana máxima, remoción del smear layer y apertura tubular con la mínima agresión sobre la anatomía periapical.",
       "parameters_table": [
         {
-          "equipo": "Fotona LightWalker AT (o equipo Er:YAG equivalente con punta fotoacústica)",
+          "equipo": "Fotona LightWalker AT (PIPS™) o cualquier Er:YAG 2940 nm equivalente con punta fotoacústica desde cámara. Ejemplos: Doctor Smile Wiser, Soga Er:YAG 2940, LightTouch",
           "longitud_de_onda": "2940 nm",
-          "potencia": "0.3 W (20 mJ × 15 Hz)",
+          "potencia": "0.3 W (derivada: 20 mJ × 15 Hz)",
           "frecuencia": "15 Hz",
-          "modo_de_pulso": "SSP 50 μs (constante durante toda la secuencia)",
-          "fibra_punta": "PIPS 600 μm × 9 mm (o equivalente del fabricante con capacidad fotoacústica)",
+          "modo_de_pulso": "50 μs (SSP — Super Short Pulse, Fotona; o equivalente del fabricante)",
+          "fibra_punta": "PIPS 600 μm × 9 mm (o equivalente del fabricante); reducir energía a 5–15 mJ si ápex abierto",
           "agua_pct": "0%",
           "aire_pct": "0%",
           "distancia": "Cámara pulpar, estática; stripped segment al nivel oclusal, completamente sumergida en irrigante",
-          "tiempo_ciclos": "Paso 1: NaOCl 5–6% → 3×(30s activación + 30s reposo) = 3 min; Paso 2: agua destilada → 1×30s; Paso 3: EDTA 17% → 1×(30s activación + 30s reposo); Paso 4: agua destilada → 3×30s; Paso 5: secado con puntas de papel"
+          "tiempo_ciclos": "Paso 1: NaOCl 5–6% → 3 × (30s activación + 30s reposo) = 90s activación + 90s reposo | Paso 2: agua destilada → 1 × 30s | Paso 3: EDTA 17% → 1 × (30s activación + 30s reposo) | Paso 4: agua destilada → 3 × 30s | Paso 5: secado con puntas de papel"
         }
       ],
       "critical_notes": [
-        "La fase de reposo entre ciclos es fundamental: el NaOCl ya consumido reacciona con el tejido residual durante la pausa de 30 segundos. Omitir la fase de reposo reduce la eficacia química del hipoclorito (Macedo et al. 2010).",
-        "NUNCA mezclar NaOCl y EDTA sin lavado intermedio con agua destilada — la mezcla forma paracloroanilina y pierde efectividad. El Paso 2 (agua destilada) es obligatorio entre NaOCl y EDTA.",
-        "Renovar el irrigante con jeringa durante cada fase de reposo para mantener la cámara llena con solución fresca.",
-        "En ápice abierto: reducir energía a 5–15 mJ antes de iniciar la secuencia. Nunca insertar la punta en el conducto.",
-        "La instrumentación mecánica debe estar completa antes de iniciar la secuencia; no iniciar con conducto sin preparar.",
+        "FASE DE REPOSO FUNDAMENTAL: después de cada ciclo de activación, el NaOCl ya consumido reacciona con el tejido residual durante la pausa de 30 segundos. Omitir la fase de reposo reduce la eficacia química del hipoclorito (Macedo et al. 2010).",
+        "LAVADO INTERMEDIO OBLIGATORIO: NO mezclar NaOCl y EDTA sin lavado intermedio con agua destilada estéril — la mezcla directa forma paracloroanilina y pierde efectividad.",
+        "Ápice abierto: reducir energía a 5–15 mJ antes de iniciar la secuencia; nunca insertar la punta en el conducto.",
+        "Instrumentación mecánica debe estar completa antes de iniciar la secuencia de irrigación.",
         "Aislamiento obligatorio durante toda la secuencia: dique de hule + Liquid Dam + babero impermeable + protección ocular.",
-        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia (Doctor Smile, LightTouch, Soga).",
-        "Los datos bacteriológicos reportados (Peters 2011, Jaramillo 2012, Pedullà 2012, Olivi 2014, Lloyd 2013, Arslan 2014) son datos objetivos publicados y no implican superioridad sobre otras técnicas de irrigación; la elección es siempre juicio clínico del operador."
+        "Renovar el irrigante con jeringa durante cada fase de reposo para mantener la cámara llena con solución fresca.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "Los datos bacteriológicos reportados (Peters 2011, Jaramillo 2012, Pedullà 2012, Olivi 2014, Lloyd 2013, Arslan 2014) son datos objetivos publicados y no implican que esta técnica sea superior a otras; la elección de técnica es siempre juicio clínico del operador.",
+        "PBM post-endodoncia sobre periápice puede considerarse como complemento postoperatorio según el protocolo del operador; los parámetros específicos de PBM no están incluidos en este documento."
       ],
-      "pbm_complement": "PBM post-endodoncia sobre periápice puede considerarse como complemento postoperatorio según el protocolo del operador. Consultar protocolos específicos de PBM periapical para parámetros.",
+      "pbm_complement": "PBM post-endodoncia sobre periápice puede considerarse como complemento postoperatorio según el protocolo del operador. Los parámetros específicos de PBM no están detallados en este documento; consultar protocolo de PBM post-endodoncia correspondiente.",
       "technique_steps": [
         "Confirmar que la instrumentación mecánica está completa y el canal lleno de NaOCl 5–6%.",
-        "Posicionar punta PIPS en cámara pulpar (stripped segment al nivel oclusal, completamente sumergida en irrigante).",
-        "Configurar el equipo: 20 mJ · 15 Hz · 50 μs · spray 0%/0%.",
+        "Posicionar la punta PIPS en cámara pulpar (stripped segment al nivel oclusal, completamente sumergida en irrigante).",
+        "Configurar el equipo: 20 mJ · 15 Hz · 50 μs · spray 0% / 0%.",
         "PASO 1 — NaOCl 5–6%: activar 30 s → reposo 30 s (renovar irrigante con jeringa durante el reposo manteniendo la cámara llena). Repetir 3 veces (total: 90 s activación + 90 s reposo).",
-        "PASO 2 — Lavar con agua destilada estéril: activar 30 s (lavado obligatorio antes de EDTA para evitar formación de paracloroanilina).",
+        "PASO 2 — Lavar con agua destilada estéril: activar 30 s.",
         "PASO 3 — Cambiar a EDTA 17%: activar 30 s + reposo 30 s.",
-        "PASO 4 — Lavar con agua destilada estéril: activar 3 × 30 s, renovando irrigante entre ciclos.",
+        "PASO 4 — Lavar con agua destilada estéril: activar 3 × 30 s, renovando el irrigante entre ciclos.",
         "PASO 5 — Secar con puntas de papel hasta que absorban sin humedad.",
         "Proceder a la obturación según la técnica elegida."
       ],
       "indications": [
         "Secuencia completa de irrigación endodóntica con activación fotoacústica",
-        "Irrigación final en endodoncias primarias y retratamientos",
-        "Desinfección en infecciones persistentes intrarradiculares",
-        "Remoción de debris orgánico y smear layer en anatomías complejas",
-        "Endodoncia en conductos con istmos, conductos laterales, delta apical",
-        "Preparación final antes de obturación en cualquier técnica endodóntica"
+        "Irrigación final en tratamientos de conducto convencionales",
+        "Retratamientos endodónticos con láser",
+        "Infecciones persistentes intrarradiculares (como fase de desinfección)",
+        "Endodoncias en anatomías complejas (istmos, conductos laterales, delta apical)",
+        "Casos donde se busca máxima reducción bacteriana con mínima agresión periapical"
       ],
       "contraindications": [
         "Saltar la fase de reposo — reduce eficacia química del hipoclorito",
         "Mezclar NaOCl y EDTA sin lavado intermedio con agua destilada — forma paracloroanilina y pierde efectividad",
         "Ápice abierto sin reducción de energía previa a 5–15 mJ",
-        "Instrumentación incompleta antes de iniciar la secuencia",
-        "Pacientes sin aislamiento adecuado (dique de hule + Liquid Dam obligatorios)"
+        "Instrumentación incompleta antes de iniciar la secuencia"
       ],
       "postop_care": [
-        "Sensibilidad leve 24–48 h esperable, normal.",
-        "Analgésico de rescate si se prescribe.",
+        "Sensibilidad leve 24–48 h esperable.",
+        "PBM post-endodoncia sobre periápice puede considerarse si corresponde al protocolo del operador.",
         "Radiografía de seguimiento a 6 y 12 meses."
       ],
-      "evidence_level": "Moderado — validado en micro-CT (Lloyd et al. J Endod 2013/2014), múltiples estudios bacteriológicos (Peters 2011, Jaramillo 2012, Pedullà 2012, Olivi 2014, Arslan 2014) y confirmado por múltiples centros universitarios. Limitación: mayoría de estudios ex-vivo con E. faecalis como modelo.",
+      "evidence_level": "Moderado — basado en Lloyd A et al. J Endod 2013 (micro-CT, p<0.001); Peters OA et al. J Endod 2011; Olivi/De Moor/DiVito 2016; Macedo RG et al. Int Endod J. 2010;43:1108–15 (fase de reposo). Múltiples estudios ex vivo con E. faecalis.",
       "keywords_es": [
         "secuencia PIPS completa",
         "protocolo Lloyd PIPS",
         "irrigación endodóntica láser",
         "NaOCl EDTA activación fotoacústica",
-        "fase de reposo irrigante endodóntico",
+        "fase de reposo irrigante",
         "ciclo 30 segundos activación 30 reposo",
         "protocolo DiVito Olivi",
-        "desinfección endodóntica secuencia completa",
+        "desinfección endodóntica secuencia",
         "irrigación final endodoncia láser",
         "retratamiento endodóntico láser",
-        "smear layer remoción secuencia PIPS",
-        "paracloroanilina prevención endodoncia",
-        "micro-CT endodoncia láser",
+        "smear layer remoción fotoacústica",
+        "apertura tubular PIPS",
         "E. faecalis eliminación láser",
-        "apertura tubular dentinal PIPS"
+        "micro-CT endodoncia láser",
+        "paracloroanilina NaOCl EDTA"
       ],
       "keywords_en": [
         "complete PIPS sequence",
         "Lloyd PIPS protocol",
         "laser endodontic irrigation",
         "NaOCl EDTA photoacoustic activation",
-        "irrigant rest phase endodontics",
+        "irrigant rest phase",
         "30-second activation 30-second rest",
         "DiVito Olivi protocol",
-        "complete endodontic disinfection sequence",
+        "endodontic disinfection sequence",
         "final irrigation laser endodontics",
         "laser endodontic retreatment",
-        "smear layer removal PIPS sequence",
-        "parachloroaniline prevention endodontics",
-        "micro-CT laser endodontics",
-        "E. faecalis elimination laser",
-        "dentinal tubule opening PIPS"
+        "smear layer photoacoustic removal",
+        "dentinal tubule opening PIPS",
+        "E. faecalis laser elimination",
+        "micro-CT endodontics laser",
+        "NaOCl EDTA mixing contraindication"
       ],
       "is_virtual_protocol": false
     }
