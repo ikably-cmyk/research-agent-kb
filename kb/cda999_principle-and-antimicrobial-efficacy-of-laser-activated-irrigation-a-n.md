@@ -36,7 +36,7 @@ Maarten Meire, Roeland J. G. De Moor. Principle and antimicrobial efficacy of la
 - **Source**: pdf_local::Meire_2024_LAI_narrative_review::5e20f7
 - **Target apps**: laserrx
 - **Source type**: paper
-- **DOI**: N/A
+- **DOI**: 10.1111/iej.14042
 
 ---
 
