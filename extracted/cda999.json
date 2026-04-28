@@ -9,84 +9,76 @@
   "study_type": "narrative_review",
   "evidence_level": "expert_opinion",
   "key_points": [
-    "Laser-activated irrigation (LAI) uses pulsed erbium lasers (Er:YAG, Er;Cr:YSGG) to generate cavitation bubbles in root canal irrigants, producing intense fluid dynamics throughout the canal system.",
-    "Cavitation is the primary mechanism of LAI: rapidly growing and imploding vapour bubbles cause high-speed fluid motion, shock waves (in free reservoirs), and secondary cavitation, leading to irrigant penetration into secondary anatomy.",
-    "Key parameters influencing LAI efficacy include: laser wavelength (erbium wavelengths have absorption coefficients of 7000–13,000 cm⁻¹ in water vs. <0.2 cm⁻¹ for diode lasers), pulse energy (directly proportional to bubble size), pulse duration (inversely proportional to bubble size), and fibre tip geometry (conical tips produce spherical bubbles with greater cavitation efficiency than flat tips).",
-    "Diode lasers are not suited for cavitation-based LAI due to extremely low water absorption; only erbium lasers (Er:YAG, Er;Cr:YSGG) and to a lesser extent Nd:YAP (1340 nm) are appropriate.",
-    "Historical trend in LAI: from intracanal fibre placement with flat tips and high pulse energies (60–80 mJ), to coronal/pulp chamber placement with conical tips and lower pulse energies (10–20 mJ for PIPS).",
-    "PIPS (photon-induced photoacoustic streaming) positions a conical tip in the pulp chamber using 50 µs pulses at 10–20 mJ; Biolase/Waterlase protocol uses intracanal placement at 1–5 mm from working length with 25 mJ pulses.",
-    "SWEEPS (shock wave enhanced emission photoacoustic streaming) uses paired Er:YAG pulses to generate shock waves even in confined canal spaces; evidence for superiority over single-pulse LAI is currently lacking.",
-    "Laboratory studies in extracted teeth suggest LAI produces superior canal disinfection compared to conventional syringe irrigation, with a trend toward higher antimicrobial efficacy than ultrasonic activation (UAI).",
-    "Clinical evidence is limited: multiple RCTs show LAI does not increase postoperative pain versus no activation or UAI; only one RCT assessed healing of apical periodontitis (Er;Cr:YSGG vs. conventional, no significant difference at 1 year).",
-    "LAI effectively resolves the apical vapour lock effect by breaking down entrapped air bubbles with each laser pulse.",
-    "Temperature increases at the apical root surface during LAI are minimal (max 2.5°C under clinically relevant settings), supporting safety of use.",
-    "Er:YAG radiation has zero transmission through the dental operating microscope, but wavelength-matched eye protection should always be worn by patient and personnel.",
-    "Significant methodological heterogeneity across LAI studies (varying biofilm models, canal dimensions, irrigants, laser settings, tip designs) complicates synthesis of results and prevents standardized protocol recommendations.",
-    "A minimal water absorption coefficient of 10 cm⁻¹ is required for effective cavitation-based irrigant activation."
+    "La irrigación activada por láser (LAI) utiliza láseres de erbio en modo pulsado para generar burbujas de vapor por cavitación, produciendo dinámicas intensas del irrigante en todo el sistema de conductos radiculares.",
+    "El mecanismo principal de LAI es la cavitación: burbujas de vapor que crecen e implotan alrededor de la punta del láser generan movimiento de fluido de alta velocidad, ondas de choque y cavitación secundaria.",
+    "Solo los láseres de erbio (Er:YAG 2940 nm y Er,Cr:YSGG 2780 nm) y en menor medida el Nd:YAP (1340 nm) son adecuados para LAI basada en cavitación; los láseres de diodo (810–1064 nm) tienen absorción en agua insuficiente (alpha < 0.2 cm⁻¹) para generar cavitación efectiva.",
+    "Los parámetros que influyen en la eficacia de la cavitación incluyen: longitud de onda, energía de pulso (relación directamente proporcional con el tamaño de burbuja), duración de pulso (relación inversamente proporcional), geometría de la punta (cónica > plana) y posición de la punta.",
+    "La tendencia histórica en LAI ha evolucionado desde posición intracanal con puntas planas y alta energía de pulso, hacia posición más coronal (cámara pulpar) con puntas cónicas y menor energía de pulso (técnica PIPS™).",
+    "SWEEPS™ (Shock Wave Enhanced Emission Photoacoustic Streaming) es una modalidad de doble pulso Er:YAG de Fotona que busca generar ondas de choque en espacios confinados; la evidencia actual no demuestra superioridad consistente sobre LAI de pulso simple.",
+    "Estudios de laboratorio en dientes extraídos sugieren que LAI es superior a la irrigación convencional en desinfección del conducto, con tendencia a mayor eficacia antimicrobiana que la activación ultrasónica (UAI).",
+    "La evidencia clínica de LAI es limitada: ensayos clínicos muestran niveles similares de dolor postoperatorio con LAI versus sin activación o con activación ultrasónica; no hay evidencia clínica sólida sobre mejora en la curación de periodontitis apical.",
+    "LAI puede resolver el problema del 'vapour lock' apical: la activación con Er,Cr:YSGG fragmenta progresivamente las burbujas de aire atrapadas hasta llenar el conducto con irrigante.",
+    "La activación LAI con NaOCl y EDTA puede causar mayor desintegración superficial de la dentina del conducto radicular comparada con activación sónica o ultrasónica.",
+    "El láser Er:YAG puede usarse de forma segura bajo el microscopio operatorio dental (transmisión cero a través del microscopio), aunque siempre se deben usar protectores oculares específicos para la longitud de onda.",
+    "La heterogeneidad metodológica significativa en los estudios de LAI dificulta la síntesis de resultados y la estandarización de parámetros clínicos."
   ],
   "outcomes": [
     {
-      "measured": "Canal disinfection (antimicrobial efficacy) vs. conventional syringe irrigation",
-      "result": "LAI superior to conventional syringe irrigation in the majority of selected laboratory studies",
+      "measured": "Desinfección del conducto radicular (LAI vs. irrigación convencional)",
+      "result": "LAI superior a irrigación convencional en 11 de 18 estudios revisados; sin diferencias significativas en los 7 restantes (revisión Do & Gaudin 2020)",
       "statistical_significance": true,
-      "clinical_significance": "Consistent trend across multiple in vitro studies using extracted teeth with dentine biofilm models"
+      "clinical_significance": "LAI muestra tendencia consistente a mayor eficacia antimicrobiana que la irrigación con jeringa convencional en modelos de laboratorio"
     },
     {
-      "measured": "Canal disinfection (antimicrobial efficacy) vs. ultrasonic activation (UAI)",
-      "result": "Trend of higher antimicrobial efficacy with LAI vs. UAI; LAI superior in 5/8 studies in one systematic review, no difference in 3/8",
-      "statistical_significance": null,
-      "clinical_significance": "Trend favoring LAI but not consistently significant across all studies"
+      "measured": "Eficacia antimicrobiana LAI vs. activación ultrasónica (UAI)",
+      "result": "LAI mostró eficacia antimicrobiana superior a UAI en 5 de 8 estudios seleccionados; sin diferencias en los 3 restantes (revisión sistemática Badami et al. 2023)",
+      "statistical_significance": true,
+      "clinical_significance": "Tendencia de mayor eficacia de LAI sobre UAI, aunque la heterogeneidad metodológica limita las conclusiones"
     },
     {
-      "measured": "Postoperative pain after root canal treatment with LAI vs. no activation or UAI",
-      "result": "No significant difference in postoperative pain levels between LAI and comparator groups across multiple RCTs",
+      "measured": "Dolor postoperatorio tras LAI vs. otras técnicas de activación",
+      "result": "Ningún ensayo clínico encontró mayor nivel de dolor postoperatorio con LAI versus sin activación u otras técnicas de activación",
       "statistical_significance": false,
-      "clinical_significance": "LAI does not increase postoperative pain risk"
+      "clinical_significance": "LAI no incrementa el dolor postoperatorio; perfil de seguridad clínica comparable a otras técnicas"
     },
     {
-      "measured": "Healing of apical periodontitis (Er;Cr:YSGG LAI vs. conventional treatment)",
-      "result": "No significant difference in apical healing between groups at 1 year (single RCT)",
+      "measured": "Curación de periodontitis apical con LAI (Er,Cr:YSGG) vs. tratamiento convencional",
+      "result": "Sin diferencia significativa en curación apical a 1 año (único RCT disponible, Martins et al. 2014)",
       "statistical_significance": false,
-      "clinical_significance": "Insufficient clinical evidence to confirm benefit on healing outcomes"
+      "clinical_significance": "Evidencia clínica insuficiente para demostrar beneficio de LAI sobre curación de periodontitis apical"
     },
     {
-      "measured": "Intracanal fluid velocity induced by LAI vs. ultrasonic activation",
-      "result": "LAI-induced intracanal fluid speeds (0.3–0.5 m/s) approximately 10 times higher than ultrasonically oscillating file; PIPS produced significant fluid movement up to 19 mm from tip vs. <1 mm for ultrasonic",
+      "measured": "Velocidad de fluido intracanal inducida por LAI vs. activación ultrasónica",
+      "result": "LAI (PIPS) indujo velocidades de fluido 0.3–0.5 m/s, aproximadamente 10 veces superiores a las de una lima ultrasónica oscilante; movimiento significativo hasta 19 mm desde la punta",
       "statistical_significance": null,
-      "clinical_significance": "Demonstrates superior irrigant dynamics and remote cleaning capability of LAI"
+      "clinical_significance": "LAI genera dinámicas de irrigante significativamente mayores a distancia, permitiendo limpieza 'desde lejos' sin posicionamiento intracanal"
     },
     {
-      "measured": "Temperature change at apical root surface during LAI",
-      "result": "Maximum increase of 2.5°C under clinically relevant settings for both Er:YAG and Er;Cr:YSGG",
+      "measured": "Cambios de temperatura en la raíz durante LAI",
+      "result": "Incrementos máximos de 2.5°C en la superficie radicular apical con Er:YAG y Er,Cr:YSGG en operación intracanal bajo condiciones clínicamente relevantes",
       "statistical_significance": null,
-      "clinical_significance": "Clinically safe thermal profile"
-    },
-    {
-      "measured": "Dentin microhardness after PIPS activation",
-      "result": "No significant effect of PIPS activation on root canal dentin microhardness; effect attributed to irrigant solution, not activation",
-      "statistical_significance": false,
-      "clinical_significance": "PIPS activation does not compromise dentin structural integrity"
+      "clinical_significance": "Ambos láseres de erbio pueden usarse de forma segura sin riesgo térmico significativo para los tejidos periapicales"
     }
   ],
-  "notes": "This narrative review applies strict selection criteria to identify the best available laboratory evidence on LAI antimicrobial efficacy (6 studies selected from literature). The review explicitly excludes smear layer removal studies using SEM score-based methods due to methodological deficiencies. The authors note that 'absence of evidence is not evidence of absence' regarding clinical efficacy. A recent systematic review (Meire et al., 2022) found insufficient evidence to recommend any adjunct therapy for apical periodontitis, primarily due to lack of high-quality trials rather than lack of effect.",
+  "notes": "Este artículo es una revisión narrativa que no reporta parámetros clínicos propios estandarizados para LAI, sino que describe y analiza los parámetros reportados en la literatura. Los parámetros específicos de los estudios seleccionados se detallan en la Tabla 1 del artículo. El conflicto de interés declarado (De Moor recibe honorarios de Fotona) debe considerarse al interpretar las conclusiones sobre PIPS™ y SWEEPS™.",
   "population": {
     "n_participants": null,
     "age_range": null,
-    "condition": "Apical periodontitis / root canal infection requiring disinfection",
-    "sample_type": "Narrative review of laboratory and clinical studies; laboratory studies used extracted human teeth with dentine biofilm models"
+    "condition": "Revisión narrativa sobre irrigación activada por láser en endodoncia; incluye estudios de laboratorio (dientes extraídos) y ensayos clínicos en pacientes con periodontitis apical",
+    "sample_type": "Revisión de literatura (estudios in vitro, ex vivo y ensayos clínicos)"
   },
-  "superiority_claim": "The authors state: 'it can be stated that canal disinfection with LAI is superior to that of conventional irrigation, and there is a clear trend of higher antimicrobial efficacy of LAI compared to ultrasonic activation.' Additionally, regarding wavelengths: 'When experimentally determining the vapour bubble size and resulting fluid movement of these three wavelengths, the Er:YAG was found to be the most effective in cavitation bubble formation and in generating fluid motions within narrow lateral canals.'",
+  "superiority_claim": "Los autores afirman: 'it can be stated that canal disinfection with LAI is superior to that of conventional irrigation, and there is a clear trend of higher antimicrobial efficacy of LAI compared to ultrasonic activation' (p. 854). También: 'Er:YAG was found to be the most effective in cavitation bubble formation and in generating fluid motions within narrow lateral canals' comparado con Er,Cr:YSGG y Nd:YAP (p. 846).",
   "conflicts_of_interest": "Maarten Meire reports nonfinancial support and Dr. Roeland De Moor reports personal fees from Fotona outside of the submitted work.",
   "funding_source_text": "None.",
   "source_citation": "Meire, M., & De Moor, R. J. G. (2024). Principle and antimicrobial efficacy of laser-activated irrigation: A narrative review. International Endodontic Journal, 57, 841–860. https://doi.org/10.1111/iej.14042",
   "contraindications": [
-    "Diode lasers (810–1064 nm) are not suited for cavitation-based LAI due to insufficient water absorption (alpha < 0.2 cm⁻¹)",
-    "Laser tip placement beyond working length raises concerns for irrigant extrusion"
+    "Láseres de diodo (810–1064 nm) no son adecuados para LAI basada en cavitación debido a absorción insuficiente en agua (alpha < 0.2 cm⁻¹)",
+    "Ausencia de irrigante en el conducto durante la activación láser (el conducto debe mantenerse lleno de irrigante durante toda la activación LAI)"
   ],
   "adverse_events": [
-    "Potential irrigant extrusion demonstrated in laboratory models with intracanal LAI placement",
-    "Increased apical pressure measured in laboratory models during LAI",
-    "LAI activation of NaOCl and EDTA may cause pronounced surface disintegration of root canal dentine (greater than sonic or ultrasonic activation)"
+    "Riesgo teórico de extrusión apical de irrigante con LAI (demostrado en modelos de laboratorio); no confirmado clínicamente como mayor riesgo vs. otras técnicas",
+    "Mayor desintegración superficial de la dentina del conducto radicular con LAI de NaOCl y EDTA comparada con activación sónica o ultrasónica (Widbiller et al. 2023)",
+    "Riesgo de lesión ocular por exposición accidental al láser (mitigado con protectores oculares específicos para la longitud de onda)"
   ],
   "laser_parameters": [
     {
@@ -95,27 +87,13 @@
       "power_w": null,
       "pulse_duration_ms": 0.05,
       "frequency_hz": 10,
-      "spot_size_mm": 0.4,
-      "mode": "pulsed",
-      "energy_per_pulse_mj": 50.0,
-      "irradiance_w_cm2": null,
-      "total_dose_j": null,
-      "contact": false,
-      "cooling": null
-    },
-    {
-      "wavelength_nm": 2940,
-      "fluence_j_cm2": null,
-      "power_w": null,
-      "pulse_duration_ms": 0.05,
-      "frequency_hz": 15,
-      "spot_size_mm": 0.3,
+      "spot_size_mm": null,
       "mode": "pulsed",
       "energy_per_pulse_mj": 20.0,
       "irradiance_w_cm2": null,
       "total_dose_j": null,
       "contact": false,
-      "cooling": null
+      "cooling": "No especificado (sin agua/aire durante activación fotoacústica)"
     },
     {
       "wavelength_nm": 2780,
@@ -123,81 +101,43 @@
       "power_w": null,
       "pulse_duration_ms": 0.14,
       "frequency_hz": 10,
-      "spot_size_mm": 0.2,
+      "spot_size_mm": null,
       "mode": "pulsed",
       "energy_per_pulse_mj": 100.0,
       "irradiance_w_cm2": null,
       "total_dose_j": null,
       "contact": false,
-      "cooling": null
-    },
-    {
-      "wavelength_nm": 2780,
-      "fluence_j_cm2": null,
-      "power_w": null,
-      "pulse_duration_ms": 0.06,
-      "frequency_hz": 10,
-      "spot_size_mm": 0.2,
-      "mode": "pulsed",
-      "energy_per_pulse_mj": 55.0,
-      "irradiance_w_cm2": null,
-      "total_dose_j": null,
-      "contact": false,
-      "cooling": null
-    },
-    {
-      "wavelength_nm": 2780,
-      "fluence_j_cm2": null,
-      "power_w": null,
-      "pulse_duration_ms": null,
-      "frequency_hz": null,
-      "spot_size_mm": null,
-      "mode": "pulsed",
-      "energy_per_pulse_mj": 25.0,
-      "irradiance_w_cm2": null,
-      "total_dose_j": null,
-      "contact": false,
-      "cooling": null
+      "cooling": "No especificado"
     }
   ],
   "treatment_protocol": {
     "sessions_count": null,
     "session_interval_days": null,
     "application_time_sec": 30.0,
-    "application_technique": "PIPS: conical tip positioned in pulp chamber; classic intracanal approach: tip 1–5 mm from working length with coronal withdrawal motion",
+    "application_technique": "Punta posicionada en cámara pulpar (técnica PIPS) o intracanal (técnica Er,Cr:YSGG Biolase); ciclos de 30 s activación + 30 s reposo",
     "anatomical_points": [
-      "pulp chamber (PIPS approach)",
-      "coronal third of root canal",
-      "1–5 mm from working length (Biolase/intracanal approach)"
+      "cámara pulpar",
+      "tercio coronal del conducto",
+      "conducto radicular completo (técnica intracanal)"
     ]
   },
-  "clinical_indication": "Root canal disinfection / laser-activated irrigation as adjunct to chemomechanical preparation for treatment and prevention of apical periodontitis",
-  "target_tissue": "dentin, root canal system (including secondary anatomy: isthmuses, lateral canals, dentinal tubules)",
+  "clinical_indication": "Desinfección del sistema de conductos radiculares como coadyuvante en el tratamiento endodóntico; activación de irrigantes (NaOCl, EDTA) para mejorar la limpieza y desinfección intracanal",
+  "target_tissue": "dentin, pulp, root canal system",
   "brand_model_mentioned": [
-    "Lightwalker (Fotona)",
-    "AdvErL EVO (Morita)",
-    "Waterlase (Biolase)",
-    "PIPS tip",
-    "SWEEPS (Fotona)",
-    "AutoSWEEPS (Fotona)",
-    "RTF2 tip (Biolase)",
-    "UltraEndo",
-    "EndoActivator",
-    "XP-endo Finisher",
-    "EDDY",
-    "Gentlewave"
+    "Fotona LightWalker (Er:YAG, PIPS™, SWEEPS™, AutoSWEEPS™)",
+    "Biolase Waterlase (Er,Cr:YSGG, RapidEndo protocol)",
+    "Morita AdvErL EVO (Er:YAG)"
   ],
   "drugs_mentioned": null,
-  "photosensitivity_flag": null,
+  "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Optimal standardized LAI parameters (activation time, tip position, pulse energy, pulse length) remain undefined; no consensus guidelines exist",
-    "The review does not report a single unified protocol but describes multiple protocols from different studies with significant heterogeneity",
-    "Pulse duration for Biolase Waterlase Er;Cr:YSGG recommended protocol (25 mJ) not explicitly stated in the text; frequency also not specified for this protocol",
-    "Clinical evidence on healing of apical periodontitis is limited to one RCT with methodological limitations (different irrigants between groups, no interim dressing in laser group)",
-    "The superiority trend of LAI over UAI is based on laboratory studies with significant methodological heterogeneity; clinical translation remains uncertain",
-    "Conflict of interest (De Moor receiving personal fees from Fotona, manufacturer of Er:YAG lasers/PIPS/SWEEPS systems) may introduce bias in interpretation of results"
+    "No existe un protocolo LAI estandarizado único; los parámetros varían significativamente entre estudios y fabricantes, lo que dificulta la extracción de un protocolo clínico único representativo.",
+    "Los parámetros de Er,Cr:YSGG reportados en la Tabla 1 (100 mJ, Betancourt 2019) difieren del protocolo recomendado por el fabricante (25 mJ intracanal), lo que genera ambigüedad sobre cuál es el parámetro 'estándar'.",
+    "La revisión no proporciona parámetros de potencia en vatios (W) para los protocolos descritos, solo energía por pulso (mJ) y frecuencia (Hz), limitando el cálculo de potencia media.",
+    "El conflicto de interés de De Moor (honorarios de Fotona) puede influir en la presentación de resultados sobre PIPS™ y SWEEPS™, aunque los autores intentan ser equilibrados.",
+    "La evidencia clínica sobre curación de periodontitis apical con LAI es muy escasa (un solo RCT), lo que limita las conclusiones clínicas."
   ],
   "bibliographic_metadata": {
     "title": "Principle and antimicrobial efficacy of laser-activated irrigation: A narrative review",
@@ -208,5 +148,168 @@
     "year": 2024,
     "journal": "International Endodontic Journal",
     "doi": "10.1111/iej.14042"
-  }
+  },
+  "protocols": [
+    {
+      "name": "Irrigación Activada por Láser (LAI) — Principios, Mecanismo y Parámetros (Er:YAG y Er,Cr:YSGG)",
+      "synonyms_es": [
+        "irrigación activada por láser",
+        "activación fotoacústica del irrigante endodóntico",
+        "LAI endodóntica",
+        "activación de irrigante con láser de erbio",
+        "irrigación fotoacústica intracanal",
+        "streaming fotoacústico endodóntico"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "photoacoustic irrigant activation",
+        "erbium laser irrigation activation",
+        "photon-induced photoacoustic streaming",
+        "PIPS endodontics"
+      ],
+      "purpose": "Activar el irrigante endodóntico (NaOCl, EDTA u otros) mediante pulsos de láser de erbio para generar cavitación y dinámicas de fluido intensas en todo el sistema de conductos radiculares, mejorando la limpieza y desinfección intracanal más allá de lo alcanzable con irrigación convencional con jeringa.",
+      "parameters_table": [
+        {
+          "equipo": "Fotona LightWalker (Er:YAG) — Técnica PIPS™ (punta en cámara pulpar)",
+          "longitud_de_onda": "2940 nm",
+          "potencia": "~0.2–0.3 W (calculado: 20 mJ × 10–15 Hz)",
+          "frecuencia": "10–15 Hz",
+          "modo_de_pulso": "Pulsado, pulso ultracorto 50 μs (SSP)",
+          "fibra_punta": "Punta cónica radial stripped 400 μm, 21 mm (PIPS tip)",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "Punta posicionada estáticamente en cámara pulpar (nivel oclusal/orificio del conducto)",
+          "tiempo_ciclos": "30 s activación + 30 s reposo; repetir 3 ciclos por irrigante (NaOCl y EDTA)"
+        },
+        {
+          "equipo": "Fotona LightWalker (Er:YAG) — Técnica SWEEPS™ / AutoSWEEPS™ (doble pulso)",
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado (barrido temporal automático entre pares de pulsos)",
+          "modo_de_pulso": "Pulsado doble (pares de pulsos con separación temporal variable/automática)",
+          "fibra_punta": "Punta cónica 600 μm (recomendada para mayor eficacia) o plana",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "Punta posicionada en cámara pulpar",
+          "tiempo_ciclos": "No estandarizado en la revisión; similar a PIPS (ciclos de 30 s)"
+        },
+        {
+          "equipo": "Biolase Waterlase (Er,Cr:YSGG) — Protocolo RapidEndo (intracanal)",
+          "longitud_de_onda": "2780 nm",
+          "potencia": "No especificado (calculado: 25 mJ × 10 Hz = 0.25 W)",
+          "frecuencia": "10 Hz",
+          "modo_de_pulso": "Pulsado",
+          "fibra_punta": "No especificado (punta intracanal flexible)",
+          "agua_pct": "Presente inicialmente (irrigación con agua), luego con irrigante de elección",
+          "aire_pct": "No especificado",
+          "distancia": "Punta a 1–5 mm del límite de trabajo; movimiento coronal durante activación",
+          "tiempo_ciclos": "3–4 pasadas por conducto en agua, luego 3 pasadas por conducto por cada irrigante"
+        },
+        {
+          "equipo": "Er,Cr:YSGG (genérico) — Protocolo intracoronal experimental (Betancourt 2019/2020)",
+          "longitud_de_onda": "2780 nm",
+          "potencia": "1.0 W (100 mJ × 10 Hz) o 0.55 W (55 mJ × 10 Hz)",
+          "frecuencia": "10 Hz",
+          "modo_de_pulso": "Pulsado, 140 μs (estudio 2019) o 60 μs (estudio 2020)",
+          "fibra_punta": "200 μm, 21 mm (RTF2 tip)",
+          "agua_pct": "No especificado (activación intracoronal)",
+          "aire_pct": "No especificado",
+          "distancia": "Punta posicionada en cámara pulpar (activación intracoronal)",
+          "tiempo_ciclos": "30 s activación + 30 s reposo + 30 s activación (total 90 s activo)"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ No existe un protocolo LAI estandarizado único. Los parámetros varían significativamente entre fabricantes, estudios y técnicas (PIPS™ vs. intracanal vs. SWEEPS™). Los clínicos deben seguir las recomendaciones del fabricante de su equipo específico.",
+        "Solo los láseres de erbio (Er:YAG 2940 nm y Er,Cr:YSGG 2780 nm) y en menor medida el Nd:YAP (1340 nm) son adecuados para LAI basada en cavitación. Los láseres de diodo (810–1064 nm) tienen absorción en agua insuficiente (alpha < 0.2 cm⁻¹) y NO son adecuados para LAI por cavitación.",
+        "Para la técnica PIPS™ (punta en cámara pulpar): usar puntas cónicas, pulsos ultracortos (50 μs), baja energía (20 mJ), sin agua ni aire durante la activación. El conducto debe estar lleno de irrigante.",
+        "Para la técnica intracanal Er,Cr:YSGG (Biolase RapidEndo): la punta se mueve en dirección coronal desde 1–5 mm del límite de trabajo. Se requiere mayor energía de pulso (25 mJ clásico, hasta 100 mJ en estudios experimentales) para garantizar agitación adecuada.",
+        "Pulsos más cortos producen burbujas de cavitación más grandes (relación inversamente proporcional). Mayor energía de pulso produce burbujas más grandes (relación directamente proporcional). Las puntas cónicas producen burbujas esféricas más eficientes que las puntas planas.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "La activación LAI de NaOCl y EDTA puede causar mayor desintegración superficial de la dentina del conducto comparada con activación sónica o ultrasónica (Widbiller et al. 2023). Considerar este efecto en protocolos de endodoncia mínimamente invasiva.",
+        "LAI es efectiva para resolver el 'vapour lock' apical: fragmenta progresivamente las burbujas de aire atrapadas hasta llenar el conducto con irrigante.",
+        "El Er:YAG puede usarse de forma segura bajo el microscopio operatorio dental (transmisión cero a través del microscopio). Siempre usar protectores oculares específicos para la longitud de onda para el paciente y todo el personal.",
+        "El documento presenta PIPS™ y LAI con erbio favorablemente; existen alternativas de activación de irrigante (ultrasónica, sónica, multisónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico y la disponibilidad de equipos.",
+        "La evidencia clínica sobre mejora en curación de periodontitis apical con LAI es escasa (un solo RCT disponible). La ausencia de evidencia no equivale a evidencia de ausencia de efecto."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Completar la preparación quimiomecánica del conducto radicular con instrumentación rotatoria o manual hasta el diámetro apical deseado.",
+        "Llenar completamente el conducto radicular con el irrigante de elección (NaOCl al 3–6% como primera opción).",
+        "Seleccionar la punta láser apropiada según la técnica: punta cónica stripped (PIPS™, posición en cámara pulpar) o punta intracanal flexible (técnica Er,Cr:YSGG intracanal).",
+        "Para técnica PIPS™: posicionar la punta cónica estáticamente en la cámara pulpar (nivel del orificio del conducto), sin introducirla en el conducto. Activar el láser con los parámetros seleccionados (20 mJ, 10–15 Hz, 50 μs, sin agua ni aire) durante 30 segundos.",
+        "Para técnica intracanal Er,Cr:YSGG: introducir la punta hasta 1–5 mm del límite de trabajo y retirarla en dirección coronal mientras se emiten pulsos, repitiendo 3–4 veces por conducto.",
+        "Respetar el tiempo de reposo (30 s) entre ciclos de activación para permitir la acción del irrigante.",
+        "Repetir el ciclo de activación con EDTA (17–18%) para remoción de la capa de barro dentinario, seguido de un ciclo final con NaOCl.",
+        "Mantener el conducto lleno de irrigante durante toda la activación LAI; reponer el irrigante entre ciclos si es necesario.",
+        "Secar el conducto con puntas de papel y proceder a la obturación del sistema de conductos radiculares."
+      ],
+      "indications": [
+        "Tratamiento endodóntico primario en dientes con periodontitis apical, especialmente con anatomía compleja (istmos, aletas, deltas apicales, conductos laterales)",
+        "Retratamiento endodóntico para mejorar la desinfección y remoción de detritos",
+        "Casos donde se busca mejorar la penetración del irrigante en los túbulos dentinarios",
+        "Remoción de hidróxido de calcio de conductos con anatomía compleja",
+        "Endodoncia mínimamente invasiva donde se requiere desinfección efectiva con menor diámetro de preparación apical",
+        "Resolución del 'vapour lock' apical durante la irrigación"
+      ],
+      "contraindications": [
+        "Uso de láseres de diodo (810–1064 nm) para LAI basada en cavitación (absorción en agua insuficiente)",
+        "Activación LAI sin irrigante en el conducto (el conducto debe estar lleno de irrigante durante toda la activación)",
+        "Pacientes con marcapasos u otros dispositivos electrónicos implantables (precaución general con equipos láser; consultar especificaciones del fabricante)",
+        "Ausencia de protección ocular adecuada para el paciente y el personal"
+      ],
+      "postop_care": [
+        "Seguimiento clínico y radiográfico estándar post-tratamiento endodóntico",
+        "Informar al paciente sobre posible sensibilidad postoperatoria (aunque los ensayos clínicos no muestran mayor dolor con LAI vs. otras técnicas)",
+        "Restauración coronal definitiva lo antes posible para prevenir recontaminación"
+      ],
+      "evidence_level": "Moderado — basado en múltiples estudios de laboratorio en dientes extraídos con resultados consistentes; evidencia clínica limitada (pocos RCTs, principalmente sobre dolor postoperatorio). Revisión narrativa con selección crítica de estudios de desinfección.",
+      "keywords_es": [
+        "irrigación activada por láser",
+        "LAI endodoncia",
+        "PIPS",
+        "SWEEPS",
+        "Er:YAG endodoncia",
+        "Er,Cr:YSGG endodoncia",
+        "cavitación láser",
+        "streaming fotoacústico",
+        "desinfección conducto radicular",
+        "activación irrigante endodóntico",
+        "NaOCl activado láser",
+        "EDTA activado láser",
+        "biofilm intracanal",
+        "Enterococcus faecalis endodoncia",
+        "periodontitis apical tratamiento",
+        "Fotona LightWalker endodoncia",
+        "Biolase Waterlase endodoncia",
+        "smear layer remoción láser",
+        "vapour lock apical",
+        "endodoncia mínimamente invasiva láser"
+      ],
+      "keywords_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "PIPS photon-induced photoacoustic streaming",
+        "SWEEPS shock wave enhanced emission",
+        "Er:YAG endodontics",
+        "Er,Cr:YSGG endodontics",
+        "laser cavitation",
+        "photoacoustic streaming",
+        "root canal disinfection",
+        "irrigant activation endodontics",
+        "NaOCl laser activation",
+        "EDTA laser activation",
+        "intracanal biofilm removal",
+        "Enterococcus faecalis root canal",
+        "apical periodontitis treatment",
+        "Fotona LightWalker endodontics",
+        "Biolase Waterlase RapidEndo",
+        "smear layer laser removal",
+        "apical vapour lock",
+        "minimally invasive endodontics laser"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
 }
