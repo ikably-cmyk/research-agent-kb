@@ -9,43 +9,43 @@
   "study_type": "in_vitro",
   "evidence_level": "low",
   "key_points": [
-    "Laser-activated irrigation (LAI) with Er:YAG laser achieved the greatest overall removal of biofilm-mimicking hydrogel from the entire root canal system including isthmus structures.",
-    "In the coronal isthmus, no significant differences were found between LAI, SAI-E (EDDY), conventional needle irrigation (NI), and manual agitation (MA); SAI-EA (EndoActivator) and UAI showed inferior results.",
-    "In the apical isthmus, LAI, SAI-E, and NI showed the best results; all techniques outperformed UAI.",
-    "The study used a 3D-printed model with two parallel curved root canals (60° curvature) connected by isthmuses, filled with a colored biofilm-mimicking hydrogel.",
-    "Er:YAG laser parameters: P400FL tip at canal entrance, 25 pps, 50 mJ, 300 µs pulse duration.",
-    "Continuous irrigation with distilled water was used across all groups (3 × 20 s per canal, 3 ml/20 s).",
-    "Sonic activation with EDDY (SAI-E) was the second-best overall technique after LAI.",
-    "Ultrasonically-activated irrigation (UAI) showed the weakest performance in both isthmus regions."
+    "Se evaluó la remoción de un hidrogel biofilm-mimético de estructuras de istmo en un modelo de conducto radicular 3D impreso con 2 conductos curvos paralelos (60° de curvatura, radio 5 mm, dimensión 25/.06).",
+    "Los protocolos de irrigación comparados fueron: irrigación convencional con aguja (NI), agitación manual (MA), EndoActivator (SAI-EA), EDDY (SAI-E), irrigación activada ultrasónicamente (UAI) e irrigación activada por láser (LAI, Er:YAG, AdvErl Evo, Morita).",
+    "LAI utilizó una punta P400FL en la entrada del conducto, 25 pps, 50 mJ, 300 μs, con agua destilada como irrigante (3 × 20 s por conducto, 3 ml/20 s).",
+    "LAI mostró la mayor remoción de hidrogel del sistema de conductos completo (p < 0.05), seguida por SAI-E (EDDY).",
+    "En el istmo coronal, no hubo diferencias significativas entre LAI, SAI-E, NI y MA; SAI-EA y UAI mostraron resultados inferiores.",
+    "En el istmo apical, todas las técnicas superaron a UAI; LAI, SAI-E y NI mostraron los mejores resultados.",
+    "El modelo 3D impreso incluía istmos (2.5 × 0.4 × 0.2 mm) a 5 mm y 8 mm del ápice, y conductos laterales (diámetro 0.2 mm) a 2, 5 y 8 mm del ápice.",
+    "El estudio es in vitro con un modelo simulado; la extrapolación clínica directa requiere cautela."
   ],
   "outcomes": [
     {
-      "measured": "Hydrogel removal from entire root canal system",
-      "result": "LAI showed the greatest removal, followed by SAI-E; statistically significant differences among groups",
+      "measured": "Remoción de hidrogel del sistema de conductos completo",
+      "result": "LAI mostró la mayor remoción (p < 0.05), seguida por SAI-E (EDDY)",
       "statistical_significance": true,
-      "clinical_significance": "LAI may offer superior debridement of complex anatomy including isthmuses"
+      "clinical_significance": "LAI con punta en la entrada del conducto puede mejorar la limpieza de anatomías complejas como istmos"
     },
     {
-      "measured": "Hydrogel removal from coronal isthmus",
-      "result": "No significant difference between LAI, SAI-E, NI, and MA; SAI-EA and UAI were inferior",
+      "measured": "Remoción de hidrogel en istmo coronal",
+      "result": "Sin diferencias significativas entre LAI, SAI-E, NI y MA; SAI-EA y UAI inferiores (p < 0.05)",
       "statistical_significance": true,
-      "clinical_significance": "Simpler techniques (NI, MA) may be sufficient for coronal isthmus cleaning"
+      "clinical_significance": "Técnicas más simples como NI pueden ser comparables a LAI en el istmo coronal"
     },
     {
-      "measured": "Hydrogel removal from apical isthmus",
-      "result": "LAI, SAI-E, and NI showed best results; all techniques outperformed UAI",
+      "measured": "Remoción de hidrogel en istmo apical",
+      "result": "LAI, SAI-E y NI mostraron los mejores resultados; todas las técnicas superaron a UAI (p < 0.05)",
       "statistical_significance": true,
-      "clinical_significance": "UAI was least effective in the apical isthmus region"
+      "clinical_significance": "UAI fue la técnica menos efectiva en el istmo apical en este modelo"
     }
   ],
-  "notes": "In vitro study using 3D-printed model; results may not directly translate to clinical settings. Distilled water used instead of NaOCl or EDTA, which limits clinical extrapolation.",
+  "notes": "Estudio in vitro con modelo 3D impreso. El hidrogel coloreado es un sustituto del biofilm, no biofilm real. Los resultados no pueden extrapolarse directamente a la clínica sin estudios adicionales.",
   "population": {
-    "n_participants": null,
+    "n_participants": 20,
     "age_range": null,
-    "condition": "3D-printed root canal model with isthmus structures (n=20 per group)",
-    "sample_type": "3D-printed resin root canal models"
+    "condition": "Modelo de conducto radicular 3D impreso con istmos y conductos laterales",
+    "sample_type": "Modelos in vitro (n=20 por grupo de irrigación)"
   },
-  "superiority_claim": "El autor afirma que 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'",
+  "superiority_claim": "El autor afirma: 'Laser-activated irrigation (LAI) was superior to other irrigation techniques in the entire root canal system.'",
   "conflicts_of_interest": null,
   "funding_source_text": null,
   "source_citation": "Donnermeyer, D., Dust, P. C., Schäfer, E., & Bürklein, S. (2024). Comparative Analysis of Irrigation Techniques for Cleaning Efficiency in Isthmus Structures. Journal of Endodontics. https://doi.org/10.1016/j.joen.2024.02.008",
@@ -64,37 +64,139 @@
       "irradiance_w_cm2": null,
       "total_dose_j": null,
       "contact": false,
-      "cooling": null
+      "cooling": "Agua destilada como irrigante (3 ml/20 s); sin spray de agua/aire del láser especificado"
     }
   ],
   "treatment_protocol": {
     "sessions_count": 1,
     "session_interval_days": null,
     "application_time_sec": 60.0,
-    "application_technique": "P400FL tip at canal entrance (non-contact); 3 × 20 s per root canal",
+    "application_technique": "Punta P400FL posicionada en la entrada del conducto (no introducida en el conducto); 3 ciclos de 20 s por conducto",
     "anatomical_points": [
-      "canal entrance",
-      "coronal isthmus",
-      "apical isthmus",
-      "lateral canals"
+      "entrada del conducto radicular",
+      "istmo coronal (5 mm del ápice)",
+      "istmo apical (8 mm del ápice)",
+      "conductos laterales"
     ]
   },
-  "clinical_indication": "Root canal irrigation and debridement of complex anatomy (isthmus structures, lateral canals)",
-  "target_tissue": "root canal system (isthmus, lateral canals, curved canals)",
+  "clinical_indication": "Irrigación activada por láser para limpieza de anatomías complejas del sistema de conductos radiculares (istmos, conductos laterales)",
+  "target_tissue": "root canal system, isthmus, lateral canals",
   "brand_model_mentioned": [
     "AdvErl Evo (Morita)",
     "EndoActivator",
     "EDDY"
   ],
   "drugs_mentioned": null,
-  "photosensitivity_flag": null,
+  "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Distilled water used as irrigant instead of clinically relevant solutions (NaOCl, EDTA), limiting direct clinical translation.",
-    "Funding source and conflicts of interest not reported in abstract; full text not available to confirm.",
-    "Pulse duration reported as 300 µs; converted to 0.3 ms for schema — unit conversion assumed correct.",
-    "Power in watts not explicitly stated; only energy per pulse (50 mJ) and frequency (25 pps) reported.",
-    "Spot size of P400FL tip not explicitly stated in abstract."
-  ]
+    "La potencia total en vatios no se reporta explícitamente; solo se reportan energía por pulso (50 mJ) y frecuencia (25 pps), lo que permite calcular ~1.25 W promedio.",
+    "El modelo in vitro con hidrogel no replica fielmente el biofilm clínico ni la anatomía radicular real; la extrapolación clínica es limitada.",
+    "No se especifica si el spray de agua/aire del equipo láser estaba activo durante LAI; el irrigante fue agua destilada administrada externamente.",
+    "No se declaran conflictos de interés ni fuentes de financiamiento en el abstract disponible."
+  ],
+  "bibliographic_metadata": null,
+  "protocols": [
+    {
+      "name": "LAI con Er:YAG en entrada del conducto para limpieza de istmos y anatomías complejas",
+      "synonyms_es": [
+        "irrigación activada por láser endodóntico",
+        "activación fotoacústica con Er:YAG en conducto",
+        "LAI endodóntico Er:YAG",
+        "irrigación láser en istmo radicular",
+        "activación láser de irrigante endodóntico"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "Er:YAG laser irrigation activation",
+        "photoacoustic irrigation Er:YAG",
+        "laser-enhanced irrigation root canal"
+      ],
+      "purpose": "Activar el irrigante endodóntico mediante pulsos de Er:YAG posicionando la punta en la entrada del conducto, generando ondas de presión que mejoran la limpieza de anatomías complejas como istmos y conductos laterales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Er:YAG 2940 nm con punta radial/lateral (AdvErl Evo, Morita) — punta P400FL en entrada del conducto",
+          "representative_models": [
+            "AdvErl Evo (Morita)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "~1.25 W (calculado: 50 mJ × 25 Hz)",
+          "frecuencia": "25 Hz (pps)",
+          "modo_de_pulso": "300 μs pulsado",
+          "fibra_punta": "P400FL (punta radial, 400 μm)",
+          "agua_pct": "No especificado (irrigante externo: agua destilada 3 ml/20 s)",
+          "aire_pct": "No especificado",
+          "distancia": "Punta posicionada en la entrada del conducto (no introducida en el conducto)",
+          "tiempo_ciclos": "3 ciclos de 20 s por conducto (total 60 s por conducto)"
+        }
+      ],
+      "critical_notes": [
+        "La punta P400FL se posiciona en la ENTRADA del conducto, no se introduce en el interior; esto es diferente a técnicas LAI intraconducto.",
+        "El irrigante utilizado fue agua destilada en el modelo experimental; en clínica se usaría NaOCl y/o EDTA según el protocolo de irrigación.",
+        "El estudio es in vitro con hidrogel biofilm-mimético; los resultados no son directamente extrapolables a la práctica clínica con biofilm real.",
+        "El documento presenta LAI favorablemente; existen alternativas como SAI-E (EDDY) y NI que mostraron resultados comparables en los istmos específicamente.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona; este protocolo usa AdvErl Evo (Morita) con técnica LAI convencional desde la entrada del conducto, no desde la cámara pulpar."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar el sistema de conductos con instrumentación rotatoria hasta la conicidad y longitud de trabajo deseada (en el modelo: 25/.06, 20 mm).",
+        "Cargar el irrigante (agua destilada en el estudio; NaOCl/EDTA en clínica) en el conducto mediante aguja de irrigación convencional.",
+        "Posicionar la punta P400FL del láser Er:YAG en la entrada del conducto radicular (no introducirla en el interior del conducto).",
+        "Activar el láser con los parámetros: 25 pps, 50 mJ, 300 μs por ciclo de 20 s.",
+        "Repetir 3 ciclos de 20 s por conducto, reponiendo el irrigante entre ciclos según necesidad.",
+        "Evaluar la limpieza y completar el protocolo de irrigación final según el caso clínico."
+      ],
+      "indications": [
+        "Sistemas de conductos con anatomías complejas: istmos, conductos laterales, conductos en C.",
+        "Casos en los que la irrigación convencional con aguja es insuficiente para alcanzar zonas de difícil acceso.",
+        "Conductos curvos donde la introducción de puntas de activación en el interior puede ser difícil."
+      ],
+      "contraindications": [
+        "Pacientes con marcapasos (precaución general con equipos láser; verificar con el fabricante).",
+        "Ausencia de irrigante en el conducto durante la activación (riesgo de daño térmico).",
+        "No usar en contacto directo con tejidos periapicales sin irrigante interpuesto."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con modelo 3D impreso y hidrogel biofilm-mimético; n=20 por grupo; no hay RCTs clínicos con este protocolo específico.",
+      "keywords_es": [
+        "irrigación activada por láser",
+        "LAI endodoncia",
+        "Er:YAG endodoncia",
+        "istmo radicular",
+        "conductos laterales",
+        "limpieza sistema de conductos",
+        "AdvErl Evo Morita",
+        "activación fotoacústica",
+        "biofilm endodóntico",
+        "modelo 3D impreso endodoncia",
+        "irrigación endodóntica",
+        "desinfección conducto radicular",
+        "anatomía compleja endodoncia",
+        "punta P400FL",
+        "activación sónica EDDY"
+      ],
+      "keywords_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "Er:YAG endodontics",
+        "root canal isthmus",
+        "lateral canals",
+        "root canal cleaning",
+        "AdvErl Evo Morita",
+        "photoacoustic activation",
+        "endodontic biofilm",
+        "3D printed root canal model",
+        "endodontic irrigation",
+        "root canal disinfection",
+        "complex root canal anatomy",
+        "P400FL tip",
+        "sonic activation EDDY"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
 }

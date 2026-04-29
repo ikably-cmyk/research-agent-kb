@@ -4,38 +4,39 @@
   ],
   "uuid": "6f9f0c",
   "target_apps": [
-    "laserrx",
-    "ikmeds"
+    "ikmeds",
+    "laserrx"
   ],
   "study_type": "cohort_retrospective",
   "evidence_level": "low",
   "key_points": [
-    "Retrospective review of 36 rosacea patients receiving concurrent laser/IPL therapy and systemic doxycycline (standard or anti-inflammatory dose).",
-    "No adverse reactions related to photosensitivity or phototoxicity were observed when combining doxycycline with pulsed dye laser (PDL) or intense pulsed light (IPL).",
-    "All patients achieved some degree of clinical clearance of rosacea signs and symptoms.",
-    "The theoretical risk of photosensitivity from doxycycline combined with laser/light therapy was not realized in this cohort.",
-    "Combination of doxycycline with laser or nonlaser light therapy is presented as a valid treatment approach for rosacea."
+    "No adverse reactions related to doxycycline combined with laser/light therapy were reported in 36 rosacea patients.",
+    "No photosensitivity or phototoxicity reactions were observed to pulsed dye laser (PDL) or intense pulsed light (IPL) in patients receiving concomitant systemic doxycycline.",
+    "Both standard-dose and anti-inflammatory dose doxycycline were used concurrently with laser/light treatments without safety concerns.",
+    "All patients achieved some degree of clearance of rosacea signs and symptoms.",
+    "The theoretical risk of photosensitivity from doxycycline combined with laser/IPL therapy was not observed in this retrospective cohort.",
+    "Combination therapy (doxycycline + laser/light) may yield better results than monotherapy for rosacea management."
   ],
   "outcomes": [
     {
       "measured": "Incidence of photosensitivity or phototoxicity reactions",
-      "result": "Zero adverse reactions related to photosensitivity observed in all 36 patients",
+      "result": "Zero adverse reactions related to photosensitivity observed in 36 patients",
       "statistical_significance": null,
       "clinical_significance": "Supports safety of combining doxycycline with PDL or IPL for rosacea treatment"
     },
     {
-      "measured": "Clinical clearance of rosacea",
+      "measured": "Degree of rosacea clearance",
       "result": "All patients achieved some degree of clearance",
       "statistical_significance": null,
-      "clinical_significance": "Combination therapy effective for rosacea symptom improvement"
+      "clinical_significance": "Combination therapy appears effective for rosacea symptom reduction"
     }
   ],
-  "notes": "Small retrospective cohort (n=36); no control group. Results should be interpreted cautiously. The study addresses a clinically relevant safety concern but is limited by its design and sample size.",
+  "notes": "Retrospective study with small sample size (n=36). No control group. Results suggest safety but cannot definitively rule out rare photosensitivity events. Theoretical risk of doxycycline-induced photosensitivity with laser/IPL remains a consideration in clinical practice, though not observed in this cohort.",
   "population": {
     "n_participants": 36,
-    "age_range": "Adolescent to Aged (MeSH terms suggest range from young adult to elderly)",
+    "age_range": "Adolescent to Aged (per MeSH terms)",
     "condition": "Rosacea",
-    "sample_type": "Patients receiving concurrent laser/IPL and systemic doxycycline"
+    "sample_type": "Patients receiving laser/light treatments concurrently with systemic doxycycline"
   },
   "superiority_claim": null,
   "conflicts_of_interest": null,
@@ -43,32 +44,176 @@
   "source_citation": "Schilling, L. M., Halvorson, C. R., Weiss, R. A., Weiss, M. A., & Beasley, K. L. (2019). Safety of Combination Laser or Intense Pulsed Light Therapies and Doxycycline for the Treatment of Rosacea. Dermatologic Surgery, 45(12), 1578–1582. https://doi.org/10.1097/DSS.0000000000002009",
   "contraindications": [],
   "adverse_events": [
-    "No photosensitivity or phototoxicity reactions observed in this cohort (theoretical risk not realized)"
+    "No photosensitivity reactions observed in this cohort",
+    "Theoretical risk of phototoxicity with doxycycline + laser/IPL exists but was not manifested in this study"
   ],
-  "laser_parameters": [],
-  "treatment_protocol": null,
-  "clinical_indication": "Rosacea treatment with combined laser/IPL and systemic doxycycline",
+  "laser_parameters": [
+    {
+      "wavelength_nm": 595,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": null,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "facial skin affected by rosacea"
+    ]
+  },
+  "clinical_indication": "Rosacea — combination treatment with systemic doxycycline and laser/IPL phototherapy",
   "target_tissue": "skin",
-  "brand_model_mentioned": null,
+  "brand_model_mentioned": [
+    "PDL (pulsed dye laser)",
+    "IPL (intense pulsed light)"
+  ],
   "drugs_mentioned": [
     {
       "name": "doxycycline",
-      "drug_class": "Tetracycline antibiotic / anti-inflammatory",
+      "drug_class": "Tetracycline antibiotic / anti-inflammatory agent",
       "interaction_type": "caution",
-      "dental_relevance": "Doxycycline is used in dentistry (e.g., periodontal therapy, antibiotic prophylaxis). Theoretical photosensitivity risk when combined with laser or light-based dental treatments; this study found no photosensitivity reactions with PDL or IPL in dermatology context.",
+      "dental_relevance": "Doxycycline is commonly prescribed in dentistry (periodontal therapy, prophylaxis). Theoretical photosensitivity risk when combined with laser or light-based dental treatments (e.g., diode laser, PBM/LLLT). This study found no photosensitivity reactions with PDL or IPL in dermatology, which may inform dental laser use, but direct extrapolation requires caution.",
       "photosensitivity": true,
-      "laser_implication": "Theoretical photosensitivity risk when combining doxycycline with laser or IPL treatments; this retrospective study found no actual photosensitivity reactions with PDL or IPL wavelengths in rosacea patients, suggesting the combination may be safe in practice."
+      "laser_implication": "Doxycycline carries a theoretical photosensitivity risk with laser and IPL treatments. This retrospective study found no photosensitivity reactions when combining doxycycline (standard or anti-inflammatory dose) with PDL (~595 nm) or IPL in rosacea patients. Clinicians using laser or PBM in patients on doxycycline should be aware of the theoretical risk but may proceed with appropriate monitoring based on available evidence."
     }
   ],
   "photosensitivity_flag": true,
-  "perioperative_consideration": "Patients on systemic doxycycline (standard or anti-inflammatory dose) undergoing laser or IPL procedures: theoretical photosensitivity risk exists but was not observed in this cohort. Clinical judgment required; monitor for any signs of phototoxicity.",
+  "perioperative_consideration": "Patients on systemic doxycycline (standard or anti-inflammatory dose) undergoing laser or IPL treatments do not appear to have increased risk of photosensitivity reactions based on this retrospective cohort. However, the theoretical risk exists and clinicians should monitor patients and consider informing them of this possibility. No dose adjustment or treatment delay was required in this study.",
   "confidence": "medium",
   "uncertainties": [
-    "Specific laser/IPL parameters (wavelength, fluence, power, pulse duration) not reported in the abstract.",
-    "Exact doxycycline doses (standard vs. anti-inflammatory) not specified in the abstract.",
-    "No control group; retrospective design limits causal inference.",
-    "Conflict of interest and funding information not available in the abstract.",
-    "Exact age range not specified numerically; inferred from MeSH terms.",
-    "Full text not available; some details may be present in the full article."
-  ]
+    "Specific laser/IPL parameters (fluence, pulse duration, spot size) not reported — cannot assess dose-response relationship with photosensitivity risk.",
+    "IPL wavelength range not precisely specified in the abstract; assumed broadband visible-to-NIR spectrum.",
+    "Small retrospective sample (n=36) limits generalizability; rare photosensitivity events may not have been captured.",
+    "No control group; cannot determine whether combination therapy outcomes differ from monotherapy.",
+    "Doxycycline doses (standard vs. anti-inflammatory) not individually analyzed for differential photosensitivity risk.",
+    "Results are from a dermatology context (facial rosacea); direct extrapolation to dental laser applications requires caution.",
+    "Full text not available; some methodological details may be missing from abstract alone."
+  ],
+  "bibliographic_metadata": null,
+  "protocols": [
+    {
+      "name": "Terapia combinada doxiciclina + láser/IPL para rosácea — evaluación de seguridad fotosensibilizante",
+      "synonyms_es": [
+        "láser con doxiciclina en rosácea",
+        "IPL y antibiótico tetraciclina",
+        "fotosensibilidad por doxiciclina y luz pulsada",
+        "terapia combinada rosácea láser oral"
+      ],
+      "synonyms_en": [
+        "doxycycline plus laser rosacea",
+        "IPL with systemic antibiotic",
+        "doxycycline photosensitivity laser",
+        "combination light therapy and tetracycline"
+      ],
+      "purpose": "Evaluar la seguridad de combinar doxiciclina sistémica (dosis estándar o antiinflamatoria) con tratamientos de láser de colorante pulsado (PDL) o luz pulsada intensa (IPL) en pacientes con rosácea, con énfasis en el riesgo teórico de fotosensibilidad.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de colorante pulsado (PDL) ~595 nm — uso en rosácea con doxiciclina concomitante",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "~595 nm (PDL)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Pulsado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        },
+        {
+          "equipment_class": "Luz pulsada intensa (IPL) — espectro visible-NIR broadband — uso en rosácea con doxiciclina concomitante",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "Broadband visible-NIR (rango IPL, no especificado)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Pulsado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter retrospectivo/observacional. Los parámetros clínicos exactos (fluencia, duración de pulso, spot size) no fueron reportados en el estudio.",
+        "La doxiciclina tiene riesgo teórico de fotosensibilidad con luz láser e IPL; sin embargo, este estudio retrospectivo (n=36) no observó ninguna reacción adversa fotosensibilizante.",
+        "Tanto la dosis estándar como la dosis antiinflamatoria de doxiciclina fueron utilizadas sin diferencias en eventos adversos reportados.",
+        "El documento presenta esta combinación favorablemente; existen alternativas terapéuticas para rosácea sin el riesgo teórico de fotosensibilidad que pueden ser apropiadas según el caso clínico.",
+        "La extrapolación directa a procedimientos de láser dental (PBM, diodo, Er:YAG) en pacientes con doxiciclina requiere precaución adicional, ya que el contexto clínico difiere."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Rosácea con componente vascular o eritematoso que requiere tratamiento combinado sistémico y fototerápico",
+        "Pacientes en tratamiento con doxiciclina (dosis estándar o antiinflamatoria) que requieren PDL o IPL para rosácea"
+      ],
+      "contraindications": [
+        "Hipersensibilidad conocida a doxiciclina o tetraciclinas",
+        "Embarazo (doxiciclina contraindicada)",
+        "Historial documentado de reacciones de fotosensibilidad severa a tetraciclinas"
+      ],
+      "postop_care": [
+        "Monitorear al paciente para signos de fotosensibilidad cutánea tras cada sesión de láser/IPL",
+        "Instruir al paciente sobre protección solar adecuada durante el tratamiento con doxiciclina"
+      ],
+      "evidence_level": "Bajo — estudio retrospectivo sin grupo control, n=36. No permite establecer causalidad ni descartar eventos raros de fotosensibilidad.",
+      "keywords_es": [
+        "doxiciclina fotosensibilidad",
+        "láser rosácea",
+        "IPL rosácea",
+        "tetraciclina y luz pulsada",
+        "fotosensibilidad antibiótico láser",
+        "PDL rosácea",
+        "terapia combinada rosácea",
+        "doxiciclina dosis antiinflamatoria",
+        "fototoxicidad doxiciclina",
+        "seguridad láser antibiótico",
+        "rosácea tratamiento combinado",
+        "luz pulsada intensa dermatología"
+      ],
+      "keywords_en": [
+        "doxycycline photosensitivity",
+        "laser rosacea",
+        "IPL rosacea",
+        "tetracycline light therapy",
+        "photosensitivity antibiotic laser",
+        "pulsed dye laser rosacea",
+        "combination therapy rosacea",
+        "anti-inflammatory dose doxycycline",
+        "phototoxicity doxycycline",
+        "laser safety antibiotic",
+        "rosacea combination treatment",
+        "intense pulsed light dermatology"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
 }

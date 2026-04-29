@@ -10,34 +10,34 @@
   "evidence_level": "moderate",
   "key_points": [
     "Umbrella review of 9 systematic reviews evaluating laser-activated irrigation (LAI) in endodontics, covering Er:YAG, Er,Cr:YSGG, Nd:YAG, and diode laser systems.",
-    "Available evidence on laser-activated irrigation remains limited and heterogeneous; findings across systematic reviews are inconsistent.",
-    "Some systematic reviews suggest potential benefits in canal disinfection and postoperative outcomes, but results are not conclusive.",
+    "Evidence on LAI in endodontics remains limited and heterogeneous; findings are inconsistent across included systematic reviews.",
+    "Some systematic reviews suggest potential benefits in canal disinfection and postoperative pain reduction, but results are not consistent.",
     "Major sources of heterogeneity include variability in laser wavelengths, study designs, and outcome measures.",
     "Laser-assisted irrigation should currently be regarded as an adjunct with unproven clinical benefit, pending robust evidence from well-designed studies with standardised protocols.",
-    "Further standardised, high-quality clinical research is required before definitive conclusions can be established.",
+    "Further standardised, high-quality clinical research is required before definitive conclusions on clinical effectiveness of LAI can be established.",
     "Methodological quality of included systematic reviews was assessed using the AMSTAR 2 tool.",
-    "Review registered at PROSPERO (CRD42025599352); 5 databases searched through December 2024 with no language restrictions."
+    "Review registered at PROSPERO (CRD42025599352); 5 databases searched from inception through December 2024."
   ],
   "outcomes": [
     {
       "measured": "Microbial reduction in root canals",
-      "result": "Some systematic reviews suggest potential benefits, but findings are inconsistent across studies",
+      "result": "Some systematic reviews suggest potential benefits, but findings are inconsistent across studies.",
       "statistical_significance": null,
-      "clinical_significance": "Unproven clinical benefit; evidence is heterogeneous and limited"
+      "clinical_significance": "Uncertain; heterogeneity in laser parameters and study designs prevents definitive conclusions."
     },
     {
-      "measured": "Postoperative outcomes",
-      "result": "Some systematic reviews suggest potential benefits, but results are inconsistent",
+      "measured": "Postoperative pain/outcomes",
+      "result": "Some reviews suggest potential benefits, but evidence is inconsistent.",
       "statistical_significance": null,
-      "clinical_significance": "Cannot draw definitive conclusions due to variability in study designs and outcome measures"
+      "clinical_significance": "Uncertain; further standardised research required."
     }
   ],
-  "notes": "This is an umbrella review (review of systematic reviews). Initially 319 systematic reviews identified; 9 ultimately included after exclusion of duplicates, in vitro-only studies, and studies with limited clinical relevance. The review focuses on primary endodontic cases.",
+  "notes": "Umbrella review methodology: 319 systematic reviews initially identified, 116 duplicates removed, 203 screened, 22 met eligibility criteria, 9 ultimately included after exclusion of in vitro-only and limited clinical relevance reviews.",
   "population": {
     "n_participants": null,
     "age_range": null,
     "condition": "Primary endodontic cases requiring root canal treatment",
-    "sample_type": "Systematic reviews of clinical studies"
+    "sample_type": "Systematic reviews of clinical and mixed studies"
   },
   "superiority_claim": null,
   "conflicts_of_interest": null,
@@ -48,16 +48,108 @@
   "laser_parameters": [],
   "treatment_protocol": null,
   "clinical_indication": "Root canal irrigation and disinfection in primary endodontic cases",
-  "target_tissue": "root canal (pulp chamber and canal walls)",
+  "target_tissue": "dentin, pulp",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
   "photosensitivity_flag": null,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "No specific laser parameters (wavelength settings, power, fluence, pulse duration) are reported in the abstract; the review aggregates findings across multiple laser types without protocol-level detail.",
-    "Conflicts of interest and funding sources not declared in the available abstract.",
-    "AMSTAR 2 quality ratings for individual included systematic reviews not detailed in the abstract.",
-    "Number of patients across included studies not reported in the abstract."
-  ]
+    "No specific laser parameters (power, fluence, pulse duration, frequency) are reported in the abstract; the paper is a review of reviews without original parameter data.",
+    "The number of patients across included systematic reviews is not specified in the abstract.",
+    "Specific laser brands or models are not mentioned.",
+    "The direction and magnitude of effect for microbial reduction and postoperative outcomes are not quantified in the abstract."
+  ],
+  "bibliographic_metadata": null,
+  "protocols": [
+    {
+      "name": "Irrigación Activada por Láser (LAI) en Endodoncia — Revisión de Evidencia",
+      "synonyms_es": [
+        "irrigación activada por láser",
+        "activación láser del irrigante endodóntico",
+        "desinfección de conductos con láser",
+        "irrigación asistida por láser en endodoncia",
+        "LAI endodoncia"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation",
+        "laser-assisted irrigation",
+        "laser canal disinfection",
+        "LAI endodontics",
+        "laser irrigant activation"
+      ],
+      "purpose": "Activar irrigantes endodónticos mediante energía láser para mejorar la desinfección del sistema de conductos radiculares y reducir la carga microbiana, como complemento a la irrigación convencional.",
+      "parameters_table": [
+        {
+          "equipment_class": "No especificado — revisión abarca Er:YAG 2940 nm, Er,Cr:YSGG 2780 nm, Nd:YAG 1064 nm y láseres de diodo",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "No especificado (Er:YAG 2940 nm / Er,Cr:YSGG 2780 nm / Nd:YAG 1064 nm / Diodo)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados. Basado en: Duarte et al. 2026 (umbrella review).",
+        "La evidencia disponible es limitada y heterogénea; la variabilidad en longitudes de onda, diseños de estudio y medidas de resultado impide establecer conclusiones definitivas.",
+        "La irrigación asistida por láser debe considerarse actualmente como un complemento con beneficio clínico no probado, a la espera de evidencia robusta de estudios bien diseñados con protocolos estandarizados.",
+        "El documento presenta resultados de múltiples revisiones sistemáticas; existen alternativas convencionales de irrigación (NaOCl, EDTA, ultrasonidos) con mayor nivel de evidencia establecido.",
+        "Se evaluaron Er:YAG, Er,Cr:YSGG, Nd:YAG y láseres de diodo; ninguna longitud de onda demostró superioridad consistente sobre las demás en los estudios incluidos."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Casos de endodoncia primaria que requieren desinfección del sistema de conductos radiculares.",
+        "Uso como complemento a la irrigación convencional cuando se busca mejorar la reducción microbiana intracanal."
+      ],
+      "contraindications": [
+        "No se pueden establecer contraindicaciones específicas basadas en esta revisión debido a la heterogeneidad de la evidencia.",
+        "No recomendado como sustituto de la irrigación convencional hasta que exista evidencia clínica robusta y protocolos estandarizados."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — umbrella review de 9 revisiones sistemáticas con hallazgos inconsistentes y alta heterogeneidad metodológica; no se pueden establecer conclusiones definitivas sobre efectividad clínica.",
+      "keywords_es": [
+        "irrigación activada por láser",
+        "LAI endodoncia",
+        "Er:YAG endodoncia",
+        "Er,Cr:YSGG conducto radicular",
+        "Nd:YAG endodoncia",
+        "láser de diodo endodoncia",
+        "desinfección intracanal láser",
+        "reducción microbiana conducto",
+        "irrigación endodóntica",
+        "NaOCl activación láser",
+        "smear layer láser",
+        "dolor postoperatorio endodoncia",
+        "revisión sistemática endodoncia láser",
+        "umbrella review láser dental",
+        "biofilm intracanal"
+      ],
+      "keywords_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "Er:YAG root canal",
+        "Er,Cr:YSGG endodontics",
+        "Nd:YAG endodontics",
+        "diode laser endodontics",
+        "intracanal laser disinfection",
+        "microbial reduction root canal",
+        "endodontic irrigation",
+        "NaOCl laser activation",
+        "smear layer laser",
+        "postoperative pain endodontics",
+        "systematic review laser endodontics",
+        "umbrella review dental laser",
+        "intracanal biofilm"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
 }
