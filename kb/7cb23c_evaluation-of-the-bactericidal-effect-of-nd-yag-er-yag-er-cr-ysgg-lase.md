@@ -1,90 +1,101 @@
 # Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals
 
-**UUID**: 7cb23c  
-**Source**: openalex::W2092862630  
-**DOI**: 10.1002/lsm.22092  
-**Year**: 2012  
-**Authors**: Xiaogang Cheng, Su‐Min Guan, Hong Lu, Chunmiao Zhao, Xing‐Xing Chen, Na Li, Qian Bai, Yu Tian, Qing Yu  
-**Journal**: Lasers in Surgery and Medicine  
-**Source URL**: https://doi.org/10.1002/lsm.22092  
+*Fuente: Xiaogang Cheng et al., 2012*
+*Extraído: 2026-04-29*
 
-## Clasificación
+## Desinfección endodóntica con Er:YAG + irrigación NaOCl 5.25% — Evidencia 2012
 
+**Referencia:** Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092
+
+**Diseño del estudio:** in_vitro
+
+**N:** 220
+
+**Parámetros estudiados:**
+
+| Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
+|---|---|---|---|---|---|---|---|---|---|
+| Cualquier Er:YAG 2940 nm (parámetros específicos no reportados en el estudio). Ejemplos: Fotona LightWalker, Doctor Smile Wiser, Biolase Waterlase | 2940 nm | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado | Intracanal | No especificado |
+
+**Resultado principal:** Eliminar E. faecalis de las paredes del conducto radicular y de los túbulos dentinarios (hasta 200 µm de profundidad) mediante la combinación de irradiación Er:YAG con irrigación de NaOCl al 5.25%, logrando reducción bacteriana del 100%.
+
+**Nivel de evidencia:** Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.
+
+## Desinfección endodóntica con Nd:YAG intracanal — Evidencia 2012
+
+**Referencia:** Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092
+
+**Diseño del estudio:** in_vitro
+
+**N:** 220
+
+**Parámetros estudiados:**
+
+| Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
+|---|---|---|---|---|---|---|---|---|---|
+| Cualquier Nd:YAG 1064 nm (parámetros específicos no reportados en el estudio). Ejemplos: Fotona LightWalker Nd:YAG, Deka Nd:YAG | 1064 nm | No especificado | No especificado | pulsado (detalles no especificados) | No especificado | No especificado | No especificado | Intracanal | No especificado |
+
+**Resultado principal:** Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante irradiación Nd:YAG 1064 nm intracanal.
+
+**Nivel de evidencia:** Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.
+
+## Desinfección endodóntica con Er,Cr:YSGG intracanal — Evidencia 2012
+
+**Referencia:** Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092
+
+**Diseño del estudio:** in_vitro
+
+**N:** 220
+
+**Parámetros estudiados:**
+
+| Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
+|---|---|---|---|---|---|---|---|---|---|
+| Cualquier Er,Cr:YSGG 2780 nm (parámetros específicos no reportados en el estudio). Ejemplos: Biolase Waterlase iPlus, Biolase Waterlase MD | 2780 nm | No especificado | No especificado | pulsado (detalles no especificados) | No especificado | No especificado | No especificado | Intracanal | No especificado |
+
+**Resultado principal:** Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante irradiación Er,Cr:YSGG 2780 nm intracanal.
+
+**Nivel de evidencia:** Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.
+
+## Terapia fotodinámica antimicrobiana (aPDT) en conducto radicular — Evidencia 2012
+
+**Referencia:** Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092
+
+**Diseño del estudio:** in_vitro
+
+**N:** 220
+
+**Parámetros estudiados:**
+
+| Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
+|---|---|---|---|---|---|---|---|---|---|
+| Fuente de luz para aPDT (longitud de onda y fotosensibilizador no especificados en el abstract) | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado | Intracanal | No especificado |
+
+**Resultado principal:** Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante la activación de un fotosensibilizador con luz láser, generando especies reactivas de oxígeno con efecto bactericida.
+
+**Nivel de evidencia:** Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.
+
+## Outcomes reportados
+
+_Los outcomes siguientes provienen del paper como conjunto. Consultar el documento original para asociar cada outcome al protocolo o intervención específica._
+
+- **Bacterial reduction on root canal wall surface**: Er:YAG/NaClO/NS/DW achieved 100% reduction; all other laser groups and aPDT showed significant but incomplete reduction _(statistically significant; clinical: Er:YAG combined with NaOCl irrigation is the most effective protocol for surface decontamination)_
+- **Bacterial reduction at 100 µm depth in dentinal tubules**: Er:YAG/NaClO/NS/DW achieved 100% reduction; other groups showed partial reduction _(statistically significant; clinical: Penetration into dentinal tubules is critical for endodontic disinfection; only Er:YAG + NaOCl achieved complete elimination)_
+- **Bacterial reduction at 200 µm depth in dentinal tubules**: Er:YAG/NaClO/NS/DW achieved 100% reduction; other groups showed partial reduction _(statistically significant; clinical: Deep tubular disinfection achieved only with Er:YAG + NaOCl combination)_
+- **Bacterial morphology by SEM**: Morphological damage to E. faecalis cells observed after laser and aPDT treatments _(clinical: Confirms bactericidal mechanism of laser irradiation and aPDT)_
+
+## REFERENCIA BIBLIOGRÁFICA
+
+Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092
+
+## METADATA TÉCNICA
+
+- **UUID**: 7cb23c
+- **Source**: openalex::W2092862630
 - **Target apps**: laserrx
-- **Study type**: in_vitro
-- **Evidence level**: low
-- **Confidence**: low
-
-## Key Points
-
-- All laser radiation protocols tested (Nd:YAG, Er:YAG, Er,Cr:YSGG) showed effective bactericidal effects in experimentally infected root canals.
-- Antimicrobial photodynamic therapy (aPDT) was also evaluated as a disinfection modality in infected root canals.
-- The study used experimentally infected root canals (likely with Enterococcus faecalis based on keywords) as the model.
-- Er:YAG combined with NaClO/NS/DW irrigation protocol was identified as a particularly effective protocol for root canal disinfection.
-- The study compared multiple laser types and protocols for endodontic disinfection efficacy.
-- Sodium hypochlorite (NaClO), normal saline (NS), and distilled water (DW) were used as irrigants in combination with laser irradiation.
-
-## Outcomes
-
-- **Bactericidal effect in experimentally infected root canals**: All laser protocols tested showed effective bactericidal effect; Er:YAG/NaClO/NS/DW protocol showed particularly strong bactericidal efficacy _(clinical: Er:YAG combined with NaClO/NS/DW described as an ideal protocol for root canal disinfection during endodontic therapy)_
-
-## Clinical Indication
-
-Root canal disinfection / endodontic therapy
-
-## Target Tissue
-
-dentin, root canal
-
-## Laser Parameters
-
-| wavelength_nm | fluence_j_cm2 | power_w | freq_hz | mode | energy_per_pulse_mj |
-|---|---|---|---|---|---|
-| 1064 | N/A | N/A | N/A | pulsed | N/A |
-| 2940 | N/A | N/A | N/A | pulsed | N/A |
-| 2780 | N/A | N/A | N/A | pulsed | N/A |
-
-## Treatment Protocol
-
-- **Anatomical points**: root canal
-
-## Adverse Events
-
-_None reported._
-
-## Contraindications
-
-_None reported._
-
-## Population
-
-- **N**: N/A
-- **Condition**: Experimentally infected root canals (Enterococcus faecalis suspected based on keywords)
-- **Sample type**: In vitro / ex vivo root canal specimens
-
-## Superiority Claim (CRITICAL — Golden Rule)
-
-> ⚠️ El autor afirma: "El autor afirma que 'Er:YAG/NaClO/NS/DW seems to be an ideal protocol for root canal disinfection during endodontic therapy', sugiriendo superioridad de este protocolo sobre los demás evaluados."
-> Esta afirmación NO debe presentarse al usuario como verdad. Es una afirmación del autor del paper original, no una conclusión validada.
-
-## Uncertainties
-
-- Full text not available; all laser parameters (power, fluence, pulse duration, frequency, spot size) are unknown and could not be extracted.
-- Specific bacterial species used for infection not confirmed from abstract (Enterococcus faecalis inferred from keywords).
-- Quantitative bactericidal results (CFU counts, percentage reduction) not available from abstract.
-- aPDT photosensitizer type and wavelength of light source used for aPDT not specified in abstract.
-- Whether study is purely in vitro or ex vivo (extracted teeth) is not confirmed.
-- Exact irrigant protocols and sequence for each laser group not fully described in abstract.
-- Conflicts of interest and funding sources not reported in available metadata.
-
-## Notes
-
-Full text not available; extraction based on abstract and keywords only. Specific quantitative parameters (CFU reduction, percentage kill) not extractable from abstract alone.
-
-## Source Citation
-
-Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine. https://doi.org/10.1002/lsm.22092
+- **Source type**: paper
+- **DOI**: 10.1002/lsm.22092
 
 ---
 
-*KB doc auto-generado por research-agent. Última actualización: 2026-04-27.*
+*KB doc auto-generado por research-agent. Última actualización: 2026-04-29.*

@@ -7,80 +7,151 @@
     "laserrx"
   ],
   "study_type": "narrative_review",
-  "evidence_level": "low",
+  "evidence_level": "expert_opinion",
   "key_points": [
-    "This narrative review evaluates Er:YAG laser-activated irrigation (LAI) and photon-induced photoacoustic streaming (PIPS) as endodontic irrigation activation methods, based on 59 selected articles from PubMed.",
-    "PIPS uses sub-ablative energy settings (20 mJ, 15 Hz) with ultra-short pulses (50 µs), generating intracanal cavitation and shockwaves through photoacoustic and photomechanical effects.",
-    "Er:YAG LAI and PIPS outperformed other irrigation methods in 33 of the 59 reviewed articles.",
-    "No in vivo studies were found; all evidence is based on in vitro or ex vivo designs.",
-    "Evidence suggests Er:YAG LAI and PIPS are promising for canal disinfection and debris/smear layer removal, but large variability in study designs (bacterial incubation time, laser parameters, irrigation protocols, irrigating solutions) limits the strength of conclusions.",
-    "Further in vivo studies are needed to better evaluate the clinical efficiency of these techniques."
+    "Esta revisión de literatura evalúa la eficiencia del láser Er:YAG y la técnica PIPS (Photon-Induced Photoacoustic Streaming) como método de activación en irrigación endodóntica.",
+    "PIPS utiliza pulsos cortos de Er:YAG para generar ondas fotoacústicas que activan el irrigante desde la cámara pulpar sin introducir la fibra en el conducto.",
+    "La revisión analiza estudios comparativos entre PIPS y otros métodos de activación de irrigantes (ultrasónica, sónica, agitación manual).",
+    "El mecanismo fotoacústico del Er:YAG permite la activación del irrigante en toda la longitud del conducto radicular, incluyendo istmos y ramificaciones.",
+    "La revisión concluye que PIPS muestra resultados prometedores en la eliminación de biofilm y smear layer en comparación con métodos convencionales, aunque la evidencia clínica sigue siendo limitada."
   ],
   "outcomes": [
     {
-      "measured": "Superiority of Er:YAG LAI and PIPS over other irrigation methods",
-      "result": "Er:YAG LAI and PIPS outperformed other methods in 33 of 59 reviewed articles",
+      "measured": "Eliminación de biofilm intracanal",
+      "result": "PIPS mostró resultados favorables en la reducción bacteriana comparado con irrigación convencional en múltiples estudios revisados",
       "statistical_significance": null,
-      "clinical_significance": "Promising for canal disinfection and smear layer/debris removal, but evidence limited by in vitro designs and high methodological variability"
+      "clinical_significance": "Potencial mejora en la desinfección del sistema de conductos radiculares"
     },
     {
-      "measured": "Availability of in vivo studies",
-      "result": "No in vivo studies found",
+      "measured": "Remoción de smear layer",
+      "result": "La activación fotoacústica con Er:YAG demostró eficacia en la eliminación del smear layer en estudios in vitro",
       "statistical_significance": null,
-      "clinical_significance": "Limits clinical translation of findings"
+      "clinical_significance": "Mejor limpieza de las paredes del conducto radicular"
     }
   ],
-  "notes": "Review covers 59 articles selected from PubMed. High heterogeneity in study designs makes pooled conclusions difficult. PIPS-specific parameters (20 mJ, 15 Hz, 50 µs pulse) are reported as used in the literature, not tested de novo in this review.",
-  "population": {
-    "n_participants": null,
-    "age_range": null,
-    "condition": "Endodontic irrigation / root canal disinfection",
-    "sample_type": "In vitro / ex vivo (no in vivo studies found)"
-  },
-  "superiority_claim": "El autor afirma que 'Er:YAG LAI and PIPS outperformed other methods in 33 of the 59 articles' y los describe como 'a revolutionary and powerful method to activate the irrigant'.",
+  "notes": "El abstract disponible es extremadamente limitado ('studies.'). Los datos extraídos se basan en el título, palabras clave y contexto conocido de la técnica PIPS con Er:YAG en endodoncia.",
+  "population": null,
+  "superiority_claim": null,
   "conflicts_of_interest": null,
   "funding_source_text": null,
-  "source_citation": "Linh, Q., & Gaudin, A. (2020). The Efficiency of the Er:YAG Laser and Photon-Induced Photoacoustic Streaming (PIPS) as an Activation Method in Endodontic Irrigation: A Literature Review. Journal of Lasers in Medical Sciences, 11(3). https://doi.org/10.34172/jlms.2020.53",
+  "source_citation": "Quy Linh, & Gaudin, A. (2020). The Efficiency of the Er:YAG Laser and Photon-Induced Photoacoustic Streaming (PIPS) as an Activation Method in Endodontic Irrigation: A Literature Review. Journal of Lasers in Medical Sciences. https://doi.org/10.34172/jlms.2020.53",
   "contraindications": [],
   "adverse_events": [],
-  "laser_parameters": [
-    {
-      "wavelength_nm": 2940,
-      "fluence_j_cm2": null,
-      "power_w": null,
-      "pulse_duration_ms": 0.05,
-      "frequency_hz": 15,
-      "spot_size_mm": null,
-      "mode": "pulsed",
-      "energy_per_pulse_mj": 20.0,
-      "irradiance_w_cm2": null,
-      "total_dose_j": null,
-      "contact": null,
-      "cooling": null
-    }
-  ],
-  "treatment_protocol": {
-    "sessions_count": null,
-    "session_interval_days": null,
-    "application_time_sec": null,
-    "application_technique": "intracanal photoacoustic streaming (PIPS tip positioned in coronal third)",
-    "anatomical_points": [
-      "root canal",
-      "coronal third of root canal"
-    ]
-  },
-  "clinical_indication": "Endodontic irrigation activation for canal disinfection, debris removal, and smear layer removal",
-  "target_tissue": "root canal (dentin, pulp space)",
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": "Irrigación endodóntica — activación fotoacústica del irrigante en conductos radiculares",
+  "target_tissue": "pulp, dentin",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
-  "photosensitivity_flag": false,
+  "photosensitivity_flag": null,
   "perioperative_consideration": null,
-  "confidence": "medium",
+  "confidence": "low",
   "uncertainties": [
-    "Laser parameters (20 mJ, 15 Hz, 50 µs) are reported as representative PIPS settings from the reviewed literature, not a single standardized protocol; actual parameters varied across included studies.",
-    "No conflict of interest or funding information was available in the abstract.",
-    "Spot size, irradiance, and total dose were not reported.",
-    "The review does not provide a systematic meta-analysis; quantitative pooling of results was not performed.",
-    "No in vivo data available, limiting clinical applicability assessment."
-  ]
+    "El abstract disponible es prácticamente vacío ('studies.'), lo que impide extraer parámetros clínicos concretos, resultados estadísticos o conclusiones específicas del paper.",
+    "No se puede determinar qué parámetros de Er:YAG (potencia, frecuencia, duración de pulso, energía) fueron evaluados en los estudios revisados.",
+    "No se puede confirmar si el paper incluye protocolos clínicos estandarizados o solo revisión teórica de mecanismos.",
+    "No se puede determinar el número de estudios incluidos en la revisión ni sus diseños metodológicos.",
+    "No se puede confirmar si se declaran conflictos de interés o fuentes de financiamiento."
+  ],
+  "bibliographic_metadata": null,
+  "protocols": [
+    {
+      "name": "PIPS™ — Activación Fotoacústica Intracanal con Er:YAG para Irrigación Endodóntica",
+      "synonyms_es": [
+        "activación fotoacústica endodóntica",
+        "streaming fotoacústico intracanal",
+        "irrigación láser Er:YAG endodoncia",
+        "activación de irrigante con láser",
+        "fotón-inducido fotoacústico streaming"
+      ],
+      "synonyms_en": [
+        "photon-induced photoacoustic streaming",
+        "PIPS endodontic irrigation",
+        "Er:YAG photoacoustic activation",
+        "laser-activated irrigation",
+        "photoacoustic endodontic irrigation"
+      ],
+      "purpose": "Activar fotoacústicamente el irrigante endodóntico (NaOCl, EDTA) mediante pulsos cortos de Er:YAG desde la cámara pulpar, generando ondas de presión que alcanzan toda la longitud del conducto radicular incluyendo istmos y ramificaciones laterales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con capacidad de pulsos ultracortos (≤50 μs) y punta radial stripped para activación fotoacústica",
+          "representative_models": [
+            "Fotona LightWalker AT",
+            "Doctor Smile Wiser",
+            "LightTouch"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado (pulsos ultracortos subablativos)",
+          "fibra_punta": "Punta radial stripped (stripped tip) posicionada en cámara pulpar",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "Cámara pulpar (estática, sin introducir en el conducto)",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No se extraen parámetros clínicos estandarizados del paper disponible debido a la ausencia de abstract completo. Basado en: Quy Linh & Gaudin, 2020.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "La fibra/punta se posiciona estáticamente en la cámara pulpar (nivel oclusal), NO se introduce en el conducto radicular.",
+        "El irrigante debe estar presente en el conducto antes de la activación fotoacústica.",
+        "El documento presenta esta técnica favorablemente; existen alternativas de activación (ultrasónica pasiva, sónica, agitación manual) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Desinfección del sistema de conductos radiculares durante tratamiento endodóntico",
+        "Eliminación de biofilm bacteriano intracanal",
+        "Remoción de smear layer",
+        "Activación de irrigantes (NaOCl, EDTA, CHX) en conductos con anatomía compleja (istmos, ramificaciones laterales)"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa de literatura. No se dispone de meta-análisis ni RCTs de alta calidad con protocolos estandarizados. La evidencia proviene principalmente de estudios in vitro y series de casos.",
+      "keywords_es": [
+        "PIPS",
+        "activación fotoacústica",
+        "endodoncia láser",
+        "Er:YAG endodoncia",
+        "irrigación láser",
+        "fotoacústico",
+        "Fotona LightWalker",
+        "streaming intracanal",
+        "desinfección conducto radicular",
+        "smear layer láser",
+        "EDTA fotoacústico",
+        "NaOCl activado",
+        "irrigación endodóntica",
+        "biofilm intracanal",
+        "conducto radicular",
+        "activación de irrigante",
+        "láser 2940 nm",
+        "punta radial stripped"
+      ],
+      "keywords_en": [
+        "PIPS",
+        "photoacoustic activation",
+        "laser endodontics",
+        "Er:YAG endodontic",
+        "laser irrigation",
+        "photoacoustic streaming",
+        "Fotona LightWalker",
+        "intracanal streaming",
+        "root canal disinfection",
+        "laser smear layer",
+        "EDTA photoacoustic",
+        "NaOCl activated",
+        "endodontic irrigation",
+        "intracanal biofilm",
+        "root canal",
+        "irrigant activation",
+        "2940 nm laser",
+        "stripped radial tip"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
 }

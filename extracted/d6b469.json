@@ -9,94 +9,225 @@
   "study_type": "systematic_review",
   "evidence_level": "moderate",
   "key_points": [
-    "This systematic review (PRISMA 2020) included 15 studies (2015-2025) on Er:YAG laser-assisted root canal disinfection.",
-    "All 15 studies found Er:YAG laser activation significantly improved root canal disinfection compared to conventional or ultrasonic methods.",
-    "Photon-induced photoacoustic streaming (PIPS) and shock wave-enhanced emission photoacoustic streaming (SWEEPS) techniques yielded superior bacterial reduction, especially in the apical region.",
-    "Er:YAG laser activation allowed use of lower sodium hypochlorite concentrations without sacrificing disinfection efficacy.",
-    "Er:YAG's strong water absorption generates photoacoustic streaming, improving smear layer removal with lower thermal risk than other laser systems.",
-    "Some studies reported reduced post-operative discomfort with Er:YAG laser-assisted irrigation.",
-    "Significant heterogeneity in protocols, laser parameters, and outcome measures across studies limits direct comparisons.",
-    "Authors conclude that further standardized, long-term clinical trials are needed to establish definitive guidelines."
+    "Esta revisión sistemática siguió las guías PRISMA 2020 e incluyó 15 artículos (2015-2025) sobre desinfección de conductos radiculares asistida por láser Er:YAG.",
+    "Todos los estudios incluidos encontraron que la activación con láser Er:YAG mejoró significativamente la desinfección del conducto radicular en comparación con métodos convencionales o ultrasónicos.",
+    "Las técnicas PIPS (Photon-Induced Photoacoustic Streaming) y SWEEPS (Shock Wave Enhanced Emission Photoacoustic Streaming) mostraron reducción bacteriana superior, especialmente en la región apical.",
+    "El láser Er:YAG permitió el uso de concentraciones más bajas de hipoclorito de sodio sin sacrificar la eficacia desinfectante.",
+    "Algunos estudios reportaron reducción del malestar postoperatorio con el uso de láser Er:YAG.",
+    "La heterogeneidad en protocolos, parámetros de láser y medidas de resultado limita las comparaciones directas entre estudios.",
+    "El mecanismo principal de acción es el streaming fotoacústico generado por la fuerte absorción del agua a 2940 nm, con menor riesgo térmico que otros sistemas láser.",
+    "Se requieren ensayos clínicos estandarizados y a largo plazo para consolidar guías clínicas definitivas."
   ],
   "outcomes": [
     {
-      "measured": "Antibacterial efficacy / bacterial reduction in root canals",
-      "result": "All 15 included studies reported significant improvement in disinfection with Er:YAG laser over conventional or ultrasonic methods; PIPS and SWEEPS showed superior apical bacterial reduction.",
+      "measured": "Reducción bacteriana intracanal",
+      "result": "Todos los estudios reportaron mejora significativa con Er:YAG vs. métodos convencionales o ultrasónicos",
       "statistical_significance": true,
-      "clinical_significance": "Improved disinfection, especially in complex apical anatomy where conventional irrigation is limited."
+      "clinical_significance": "Reducción bacteriana superior especialmente en la región apical con PIPS y SWEEPS"
     },
     {
-      "measured": "Smear layer removal",
-      "result": "Er:YAG laser-assisted irrigation demonstrated improved smear layer removal compared to conventional methods.",
-      "statistical_significance": null,
-      "clinical_significance": "Better smear layer removal supports deeper irrigant penetration into dentinal tubules."
+      "measured": "Remoción de smear layer",
+      "result": "Er:YAG mejoró significativamente la remoción del smear layer en comparación con irrigación convencional",
+      "statistical_significance": true,
+      "clinical_significance": "Mayor penetración del irrigante en túbulos dentinarios y anatomías complejas"
     },
     {
-      "measured": "Biofilm disruption",
-      "result": "Er:YAG laser activation (PIPS/SWEEPS) effectively disrupted endodontic biofilms.",
-      "statistical_significance": null,
-      "clinical_significance": "Biofilm disruption is critical for successful root canal disinfection."
+      "measured": "Disrupción de biofilm",
+      "result": "PIPS y SWEEPS mostraron eficacia superior en disrupción de biofilm endodóntico",
+      "statistical_significance": true,
+      "clinical_significance": "Permite reducir la concentración de NaOCl sin perder eficacia"
     },
     {
-      "measured": "Post-operative discomfort",
-      "result": "Some studies indicated reduced post-operative discomfort with Er:YAG laser-assisted protocols.",
+      "measured": "Malestar postoperatorio",
+      "result": "Algunos estudios indicaron reducción del malestar postoperatorio con Er:YAG",
       "statistical_significance": null,
-      "clinical_significance": "Potential patient comfort benefit, though evidence is limited."
-    },
-    {
-      "measured": "Sodium hypochlorite concentration required",
-      "result": "PIPS and SWEEPS techniques enabled use of lower NaOCl concentrations without sacrificing disinfection efficacy.",
-      "statistical_significance": null,
-      "clinical_significance": "Lower NaOCl concentrations reduce risk of periapical tissue irritation and adverse effects."
+      "clinical_significance": "Hallazgo prometedor pero no consistente en todos los estudios incluidos"
     }
   ],
-  "notes": "Systematic review with risk of bias assessment using a ten-item checklist based on Cochrane Handbook guidelines. Databases searched: PubMed/MEDLINE, Embase, Scopus, Cochrane Library. Study period: 2015-2025. N=15 included articles. High heterogeneity in laser parameters and protocols across studies.",
+  "notes": "Revisión sistemática con 15 estudios incluidos. Alta heterogeneidad en parámetros de láser y protocolos entre estudios. El riesgo de sesgo fue evaluado con una lista de verificación de 10 ítems basada en el Cochrane Handbook. No se realizó meta-análisis cuantitativo debido a la variabilidad metodológica.",
   "population": {
     "n_participants": null,
     "age_range": null,
-    "condition": "Root canal disinfection (endodontic treatment)",
-    "sample_type": "Mixed (in vitro, ex vivo, and clinical studies included in the systematic review)"
+    "condition": "Dientes con necesidad de tratamiento endodóntico (desinfección de conductos radiculares)",
+    "sample_type": "Estudios in vitro, ex vivo y clínicos (2015-2025)"
   },
-  "superiority_claim": "El autor afirma que PIPS y SWEEPS yielded superior bacterial reduction, especially apically, compared to conventional or ultrasonic methods, and that all 15 included studies found Er:YAG laser activation significantly improved root canal disinfection over conventional or ultrasonic methods.",
+  "superiority_claim": "Los autores afirman: 'All studies found Er:YAG laser activation significantly improved root canal disinfection over conventional or ultrasonic methods' y que 'PIPS and SWEEPS yielded superior bacterial reduction, especially apically'.",
   "conflicts_of_interest": null,
   "funding_source_text": null,
   "source_citation": "Fiegler-Rudol, J., Grzech-Leśniak, Z., Tkaczyk, M., Grzech-Leśniak, K., Zawilska, A., & Wiench, R. (2025). Enhancing Root Canal Disinfection with Er:YAG Laser: A Systematic Review. Dentistry Journal, 13(3), 101. https://doi.org/10.3390/dj13030101",
   "contraindications": [],
-  "adverse_events": [
-    "Thermal risk to periapical tissues (noted as lower with Er:YAG than other laser systems due to strong water absorption)"
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
   ],
-  "laser_parameters": [],
   "treatment_protocol": {
     "sessions_count": null,
     "session_interval_days": null,
     "application_time_sec": null,
-    "application_technique": "photoacoustic streaming (PIPS and SWEEPS techniques)",
+    "application_technique": null,
     "anatomical_points": [
-      "root canal",
-      "apical third"
+      "conducto radicular",
+      "región apical",
+      "cámara pulpar"
     ]
   },
-  "clinical_indication": "Root canal disinfection, biofilm disruption, smear layer removal in endodontic treatment",
-  "target_tissue": "dentin, root canal walls, endodontic biofilm",
-  "brand_model_mentioned": null,
+  "clinical_indication": "Desinfección de conductos radiculares, remoción de smear layer, disrupción de biofilm endodóntico",
+  "target_tissue": "dentin, pulp",
+  "brand_model_mentioned": [
+    "Fotona LightWalker"
+  ],
   "drugs_mentioned": [
     {
       "name": "sodium hypochlorite",
-      "drug_class": "Endodontic irrigant / disinfectant",
+      "drug_class": "Irrigante endodóntico / desinfectante",
       "interaction_type": "caution",
-      "dental_relevance": "Standard root canal irrigant; Er:YAG laser activation (PIPS/SWEEPS) allows use of lower concentrations without sacrificing disinfection efficacy, potentially reducing periapical tissue irritation.",
-      "photosensitivity": null,
-      "laser_implication": "Er:YAG laser photoacoustic activation enhances NaOCl efficacy, enabling lower concentrations to be used during root canal irrigation."
+      "dental_relevance": "El láser Er:YAG con PIPS/SWEEPS permite reducir la concentración de NaOCl sin sacrificar eficacia desinfectante, lo que puede reducir el riesgo de extrusión apical de irrigante cáustico.",
+      "photosensitivity": false,
+      "laser_implication": "La activación fotoacústica con Er:YAG potencia la acción del NaOCl, permitiendo concentraciones menores (ej. 1-2.5% en lugar de 5.25%) con eficacia comparable."
     }
   ],
   "photosensitivity_flag": false,
   "perioperative_consideration": null,
-  "confidence": "medium",
+  "confidence": "high",
   "uncertainties": [
-    "Specific laser parameters (wavelength confirmed as 2940 nm for Er:YAG but individual study parameters such as power, fluence, pulse duration, frequency not reported in the abstract) — full text may contain these but not available here.",
-    "Number of clinical vs. in vitro/ex vivo studies within the 15 included articles is not specified in the abstract.",
-    "Conflicts of interest and funding sources not declared in the available metadata.",
-    "Risk of bias results for individual studies not detailed in the abstract.",
-    "Long-term clinical outcomes not established due to lack of standardized trials."
-  ]
+    "Los parámetros específicos de láser (potencia, frecuencia, duración de pulso, energía por pulso) no se reportan en el abstract; varían ampliamente entre los 15 estudios incluidos.",
+    "No se especifica el número total de participantes/muestras de los estudios incluidos en el abstract.",
+    "No se declaran conflictos de interés ni fuentes de financiamiento en el abstract disponible.",
+    "La heterogeneidad metodológica entre estudios impide extraer parámetros clínicos estandarizados únicos.",
+    "No se especifica si los estudios incluidos son predominantemente in vitro, ex vivo o clínicos."
+  ],
+  "bibliographic_metadata": null,
+  "protocols": [
+    {
+      "name": "Activación fotoacústica intracanal con Er:YAG (PIPS™ / SWEEPS™) para desinfección endodóntica",
+      "synonyms_es": [
+        "streaming fotoacústico intracanal",
+        "irrigación láser endodóntica Er:YAG",
+        "activación fotoacústica de irrigante endodóntico",
+        "desinfección de conductos con láser Er:YAG",
+        "PIPS endodoncia",
+        "SWEEPS endodoncia"
+      ],
+      "synonyms_en": [
+        "photon-induced photoacoustic streaming endodontics",
+        "PIPS root canal",
+        "SWEEPS root canal",
+        "Er:YAG laser-assisted irrigation",
+        "photoacoustic endodontic irrigation",
+        "laser-activated irrigation Er:YAG"
+      ],
+      "purpose": "Activar fotoacústicamente el irrigante endodóntico (NaOCl, EDTA) mediante pulsos de Er:YAG 2940 nm para mejorar la disrupción de biofilm, remoción de smear layer y penetración del irrigante en anatomías complejas, incluyendo la región apical.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con capacidad de pulsos ultracortos (≤50 μs) y punta radial stripped para activación fotoacústica (PIPS/SWEEPS)",
+          "representative_models": [
+            "Fotona LightWalker AT",
+            "Doctor Smile Wiser",
+            "LightTouch Er:YAG"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "Variable según protocolo (no estandarizado entre estudios); típicamente 0.3–1 W para PIPS",
+          "frecuencia": "Variable (típicamente 10–20 Hz para PIPS); no estandarizado",
+          "modo_de_pulso": "Pulsado ultracorto ≤50 μs (SSP en Fotona); SWEEPS requiere doble pulso específico del fabricante",
+          "fibra_punta": "Punta radial stripped 400–600 μm; posicionada en cámara pulpar (PIPS) o introducida en conducto (LAI convencional)",
+          "agua_pct": "0% durante activación fotoacústica",
+          "aire_pct": "0% durante activación fotoacústica",
+          "distancia": "Punta estática en cámara pulpar (PIPS) o a nivel del tercio coronal/medio del conducto",
+          "tiempo_ciclos": "Ciclos de 20–30 s de activación con reposo entre ciclos; número de ciclos variable según protocolo"
+        }
+      ],
+      "critical_notes": [
+        "Los parámetros exactos varían ampliamente entre los 15 estudios incluidos en esta revisión; no existe un protocolo estandarizado único.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "La técnica PIPS posiciona la punta en la cámara pulpar (sin introducirla en el conducto), generando ondas de presión que activan el irrigante en todo el sistema de conductos.",
+        "SWEEPS utiliza un doble pulso específico de Fotona LightWalker para generar ondas de choque adicionales; no replicable en equipos genéricos sin ese modo.",
+        "La reducción de la concentración de NaOCl (ej. 1–2.5%) es posible con activación fotoacústica, pero debe validarse caso a caso.",
+        "El documento presenta estas técnicas favorablemente; existen alternativas (ultrasonido pasivo, XP-endo Finisher, irrigación sónica) con mecanismos diferentes que pueden ser apropiadas según el caso clínico.",
+        "La heterogeneidad metodológica entre estudios limita la extrapolación directa de parámetros específicos a la práctica clínica."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Completar la preparación biomecánica del conducto radicular hasta la longitud de trabajo.",
+        "Irrigar con NaOCl (concentración según protocolo clínico; puede reducirse con activación láser) para humectar el sistema de conductos.",
+        "Seleccionar la punta radial stripped adecuada (400–600 μm) y posicionarla en la cámara pulpar (técnica PIPS) o en el tercio coronal del conducto.",
+        "Configurar el láser Er:YAG en modo pulsado ultracorto (≤50 μs), sin agua ni aire durante la activación.",
+        "Activar el irrigante en ciclos de 20–30 segundos con pausas de reposo entre ciclos.",
+        "Repetir la secuencia de activación con EDTA para remoción del smear layer inorgánico.",
+        "Realizar irrigación final con NaOCl activado para desinfección final.",
+        "Secar el conducto con puntas de papel y proceder a la obturación."
+      ],
+      "indications": [
+        "Desinfección de conductos radiculares con anatomía compleja (istmos, ramificaciones, conductos en C).",
+        "Casos con biofilm endodóntico establecido (retratamientos, infecciones persistentes).",
+        "Necesidad de reducir la concentración de NaOCl por riesgo de extrusión apical.",
+        "Remoción de smear layer para mejorar la adhesión del sellador de conductos.",
+        "Casos donde se busca reducir el malestar postoperatorio."
+      ],
+      "contraindications": [
+        "Ausencia de equipo Er:YAG con capacidad de pulsos ultracortos (≤50 μs) para técnica fotoacústica.",
+        "Conductos con perforaciones radiculares (riesgo de extrusión de irrigante activado).",
+        "Pacientes con marcapasos (precaución general con equipos láser; verificar con cardiólogo)."
+      ],
+      "postop_care": [
+        "Monitorear el malestar postoperatorio; algunos estudios reportan reducción con esta técnica.",
+        "Seguimiento clínico y radiográfico estándar post-tratamiento endodóntico.",
+        "Indicar analgésicos de rescate según necesidad clínica."
+      ],
+      "evidence_level": "Moderado — revisión sistemática PRISMA 2020 con 15 estudios (2015-2025); alta heterogeneidad metodológica entre estudios limita la síntesis cuantitativa y la estandarización de parámetros.",
+      "keywords_es": [
+        "Er:YAG endodoncia",
+        "PIPS",
+        "SWEEPS",
+        "activación fotoacústica",
+        "streaming fotoacústico",
+        "desinfección conducto radicular",
+        "irrigación láser",
+        "smear layer",
+        "biofilm endodóntico",
+        "hipoclorito de sodio activado",
+        "Fotona LightWalker",
+        "irrigación asistida por láser",
+        "endodoncia láser",
+        "reducción bacteriana intracanal",
+        "remoción smear layer láser",
+        "EDTA activado láser",
+        "revisión sistemática endodoncia láser"
+      ],
+      "keywords_en": [
+        "Er:YAG laser endodontics",
+        "PIPS",
+        "SWEEPS",
+        "photoacoustic streaming",
+        "photon-induced photoacoustic streaming",
+        "root canal disinfection",
+        "laser-activated irrigation",
+        "smear layer removal",
+        "endodontic biofilm",
+        "sodium hypochlorite activation",
+        "Fotona LightWalker",
+        "laser-assisted irrigation",
+        "intracanal bacterial reduction",
+        "laser endodontic irrigation",
+        "EDTA laser activation",
+        "systematic review laser endodontics",
+        "shock wave enhanced emission photoacoustic streaming"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
 }
