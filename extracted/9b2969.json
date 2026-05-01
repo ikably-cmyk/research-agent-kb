@@ -9,39 +9,46 @@
   "study_type": "in_vitro",
   "evidence_level": "low",
   "key_points": [
-    "Er:YAG laser-assisted irrigation (LAI) and passive ultrasonic irrigation (PUI) both significantly reduced bacterial CFU counts compared to conventional irrigation (CI) in both conventional and minimally invasive access cavities (P < 0.05).",
-    "No statistically significant difference was found between Er:YAG LAI and PUI in overall root canal disinfection (P > 0.05).",
-    "Er:YAG LAI produced significantly fewer bacterial CFU in dentin debris compared to PUI and CI, suggesting superior penetration into dentinal tubules.",
-    "Minimally invasive access (MIA) with conventional irrigation (group 2A) showed better disinfection than conventional access with CI (group 1A) (P < 0.05).",
-    "No significant difference was found between conventional and minimally invasive access when using PUI or Er:YAG LAI, indicating both advanced techniques compensate for access cavity limitations.",
-    "The study used an Enterococcus faecalis infection model in extracted maxillary first molars, with instrumentation to ProTaper Universal F2 before disinfection and F3 for dentin debris collection.",
-    "Two-way ANOVA revealed significant antagonism between access cavity type and disinfection method (F = 3.394, P = 0.043 for CFU; F = 7.224, P = 0.002 for dentin debris)."
+    "In vitro study comparing conventional irrigation (CI), passive ultrasonic irrigation (PUI), and Er:YAG laser-activated irrigation (LAI) through conventional (CIA) and minimally invasive access (MIA) cavities in 66 extracted maxillary first molars infected with E. faecalis.",
+    "Both PUI and LAI significantly reduced bacterial CFU counts compared to conventional irrigation alone (P < 0.05), with no statistically significant difference between PUI and LAI in root canal lumen disinfection.",
+    "Er:YAG LAI was superior to PUI in removing bacteria from dentinal tubules, as evidenced by significantly lower CFU counts in dentin debris collected from the F3 file (P < 0.05; F = 7.224).",
+    "Minimally invasive access (MIA) with conventional irrigation (group 2A) showed better disinfection than conventional access with conventional irrigation (group 1A) (P < 0.05), suggesting MIA geometry may concentrate irrigant more effectively.",
+    "No significant difference was found between CIA and MIA when using PUI or LAI, indicating that advanced activation methods compensate for access cavity design limitations.",
+    "The authors conclude that Er:YAG LAI is more suitable for minimally invasive root canal treatment due to its effectiveness in dentinal tubule disinfection and ease of operation.",
+    "Instrumentation was performed to ProTaper Universal F2 before disinfection, then enlarged to F3 for dentin debris collection; E. faecalis biofilm model was used as the infection model.",
+    "Two-way ANOVA revealed significant antagonism between access cavity type and disinfection method (F = 3.394, P = 0.043 for canal CFU; F = 7.224, P = 0.002 for dentin debris CFU)."
   ],
   "outcomes": [
     {
-      "measured": "Bacterial CFU counts in root canal samples",
-      "result": "PUI and Er:YAG LAI significantly reduced CFU vs CI (P < 0.05); no significant difference between PUI and LAI (P > 0.05)",
+      "measured": "Bacterial CFU counts in root canal lumen after disinfection",
+      "result": "PUI and LAI both significantly reduced CFU vs. CI (P < 0.05); no significant difference between PUI and LAI (P > 0.05)",
       "statistical_significance": true,
-      "clinical_significance": "Both advanced irrigation techniques are effective for root canal disinfection regardless of access cavity type"
+      "clinical_significance": "Both ultrasonic and Er:YAG laser activation improve root canal disinfection over conventional irrigation alone"
     },
     {
-      "measured": "Bacterial CFU counts in dentin debris (F3 enlargement)",
-      "result": "Er:YAG LAI group had the least CFU in dentin debris among all groups (F = 7.224, P = 0.002)",
+      "measured": "Bacterial CFU counts in dentin debris (dentinal tubule disinfection)",
+      "result": "Er:YAG LAI group had the least CFU in dentin debris; significant antagonism F = 7.224, P = 0.002",
       "statistical_significance": true,
-      "clinical_significance": "Er:YAG laser may penetrate dentinal tubules more effectively than ultrasonic irrigation"
+      "clinical_significance": "Er:YAG laser-activated irrigation penetrates dentinal tubules more effectively than ultrasonic or conventional irrigation"
     },
     {
-      "measured": "Effect of access cavity type on disinfection with CI",
+      "measured": "Effect of access cavity type (CIA vs MIA) on disinfection with CI",
       "result": "MIA + CI (group 2A) was better than CIA + CI (group 1A) (P < 0.05)",
       "statistical_significance": true,
-      "clinical_significance": "Minimally invasive access may concentrate irrigant more effectively when using conventional irrigation alone"
+      "clinical_significance": "MIA geometry may concentrate irrigant, improving conventional irrigation efficacy"
+    },
+    {
+      "measured": "Effect of access cavity type on disinfection with PUI or LAI",
+      "result": "No significant difference between CIA and MIA when using PUI or LAI (P > 0.05)",
+      "statistical_significance": false,
+      "clinical_significance": "Advanced activation methods (PUI, LAI) overcome access cavity design limitations"
     }
   ],
-  "notes": "In vitro study using extracted maxillary first molars with E. faecalis biofilm model. Results may not fully translate to clinical settings. Computer-guided MIA preparation used. Er:YAG parameters not fully detailed in abstract.",
+  "notes": "In vitro study using extracted teeth and E. faecalis monoculture biofilm model; results may not fully translate to clinical conditions with polymicrobial infections and complex anatomy.",
   "population": {
     "n_participants": 66,
     "age_range": null,
-    "condition": "Extracted maxillary first molars with E. faecalis infection model",
+    "condition": "Extracted maxillary first molars infected with Enterococcus faecalis",
     "sample_type": "Extracted human teeth (in vitro)"
   },
   "superiority_claim": "El autor afirma que 'Er:YAG laser is better than ultrasonic in removing bacteria from dentinal tubules and is easy to operate, which is more suitable for minimally invasive root canal treatment.'",
@@ -70,13 +77,13 @@
     "sessions_count": 1,
     "session_interval_days": null,
     "application_time_sec": null,
-    "application_technique": "laser activated irrigation (LAI)",
+    "application_technique": "scanning",
     "anatomical_points": [
-      "root canal",
+      "root canal lumen",
       "dentinal tubules"
     ]
   },
-  "clinical_indication": "Root canal disinfection in minimally invasive and conventional access cavity preparations",
+  "clinical_indication": "Root canal disinfection (endodontic treatment) via minimally invasive or conventional access cavity",
   "target_tissue": "dentin, root canal",
   "brand_model_mentioned": [
     "ProTaper Universal F2",
@@ -87,7 +94,7 @@
       "name": "sodium hypochlorite",
       "drug_class": "Root canal irrigant / disinfectant",
       "interaction_type": null,
-      "dental_relevance": "Used as irrigant in all groups for root canal disinfection",
+      "dental_relevance": "Used as the primary irrigant in all groups for root canal disinfection",
       "photosensitivity": false,
       "laser_implication": null
     }
@@ -96,34 +103,33 @@
   "perioperative_consideration": null,
   "confidence": "medium",
   "uncertainties": [
-    "Specific Er:YAG laser parameters (power, energy per pulse, frequency, pulse duration, fiber tip type) not reported in the abstract; full text may contain these details.",
-    "Brand/model of Er:YAG laser used not specified in abstract.",
-    "Specific NaOCl concentration and volume used for irrigation not reported in abstract.",
-    "Ultrasonic device brand and parameters not specified.",
-    "Computer-guided MIA preparation system/software not identified."
+    "Specific Er:YAG laser parameters (power, energy per pulse, frequency, pulse duration, fiber tip type) are not reported in the abstract; full text may contain these details but they were not available for extraction.",
+    "The specific Er:YAG device brand/model used is not mentioned in the abstract.",
+    "Exact irrigation volume, concentration of NaOCl, and activation time per canal are not specified in the abstract.",
+    "The study uses a monoculture E. faecalis model which may not reflect clinical polymicrobial conditions."
   ],
   "bibliographic_metadata": null,
   "protocols": [
     {
-      "name": "Er:YAG Laser-Activated Irrigation (LAI) para desinfección de conductos radiculares con acceso mínimamente invasivo",
+      "name": "Er:YAG Laser-Activated Irrigation (LAI) en acceso mínimamente invasivo guiado por computadora",
       "synonyms_es": [
-        "irrigación activada por láser Er:YAG",
-        "LAI endodóntico con Er:YAG",
-        "activación de irrigante con láser de erbio",
-        "desinfección intracanal con láser Er:YAG",
-        "irrigación láser en acceso mínimamente invasivo"
+        "irrigación activada por láser Er:YAG endodoncia",
+        "activación de irrigante con láser erbio endodoncia",
+        "LAI Er:YAG acceso mínimamente invasivo",
+        "desinfección endodóntica con láser Er:YAG",
+        "irrigación láser intracanal Er:YAG"
       ],
       "synonyms_en": [
-        "Er:YAG laser activated irrigation",
+        "Er:YAG laser-activated irrigation",
         "LAI endodontics Er:YAG",
-        "laser-assisted root canal irrigation",
-        "erbium laser intracanal disinfection",
-        "Er:YAG LAI minimally invasive access"
+        "laser irrigation root canal Er:YAG",
+        "erbium laser endodontic irrigation",
+        "minimally invasive access laser disinfection"
       ],
-      "purpose": "Activar el irrigante endodóntico (NaOCl) mediante pulsos de láser Er:YAG 2940 nm para mejorar la desinfección del sistema de conductos radiculares, incluyendo los túbulos dentinarios, tanto en preparaciones de acceso convencional como mínimamente invasivo.",
+      "purpose": "Activar el irrigante endodóntico (NaOCl) mediante pulsos de láser Er:YAG 2940 nm dentro del conducto radicular para mejorar la desinfección del lumen canalar y los túbulos dentinarios, especialmente en accesos mínimamente invasivos guiados por computadora.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Er:YAG 2940 nm con fibra compatible para uso intracanal",
+          "equipment_class": "Cualquier Er:YAG 2940 nm con fibra endodóntica compatible con activación de irrigante intracanal",
           "representative_models": [
             "Fotona LightWalker",
             "Doctor Smile Wiser",
@@ -137,41 +143,39 @@
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal (detalles no especificados)",
+          "distancia": "Intracanal",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "Los parámetros técnicos específicos del protocolo (potencia, energía por pulso, frecuencia, tipo de punta) no fueron reportados en el paper original; consultar el texto completo para detalles.",
-        "El estudio comparó LAI con Er:YAG vs irrigación ultrasónica pasiva (PUI) y convencional en un modelo in vitro de E. faecalis; los resultados pueden no trasladarse directamente a la práctica clínica.",
-        "El documento presenta Er:YAG LAI favorablemente para penetración en túbulos dentinarios; existen alternativas (PUI, PIPS™, SWEEPS™, irrigación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
-        "El acceso mínimamente invasivo guiado por computadora (MIA) fue utilizado en el grupo experimental; la aplicabilidad con MIA manual puede diferir.",
-        "No se reportaron diferencias significativas entre LAI y PUI en la desinfección general del conducto; la ventaja de LAI fue específicamente en la reducción bacteriana en los túbulos dentinarios (debris de dentina)."
+        "Los parámetros técnicos específicos del láser Er:YAG (potencia, energía por pulso, frecuencia, duración de pulso, tipo de fibra) no fueron reportados en este estudio; se requiere consultar el texto completo o protocolos de referencia para implementación clínica.",
+        "El estudio demuestra que LAI con Er:YAG es equivalente a PUI en desinfección del lumen canalar, pero superior en penetración a túbulos dentinarios (menor CFU en debris dentinario, P < 0.05).",
+        "El modelo de infección utilizado fue monocultura de E. faecalis; la eficacia en infecciones polimicrobianas clínicas puede diferir.",
+        "El acceso mínimamente invasivo guiado por computadora (MIA) combinado con LAI mostró eficacia equivalente al acceso convencional con LAI, validando el uso de LAI en tratamientos mínimamente invasivos.",
+        "El documento presenta esta técnica favorablemente respecto a PUI para desinfección de túbulos dentinarios; existen alternativas (PUI, PIPS™, irrigación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Preparar el acceso cavitario (convencional o mínimamente invasivo guiado por computadora).",
-        "Instrumentar el conducto radicular hasta el tamaño deseado (en este estudio, ProTaper Universal F2).",
-        "Establecer la longitud de trabajo y confirmar la permeabilidad del conducto.",
-        "Introducir el irrigante (NaOCl) en el conducto radicular.",
-        "Insertar la fibra/punta del láser Er:YAG 2940 nm en el conducto radicular.",
-        "Activar el irrigante con pulsos de láser Er:YAG según los parámetros del equipo utilizado.",
-        "Repetir la activación según el protocolo establecido para cada conducto.",
-        "Recolectar muestras microbiológicas con puntas de papel para verificar la desinfección si se requiere control de calidad."
+        "Instrumentar el conducto radicular hasta el tamaño objetivo (en este estudio, ProTaper Universal F2) con irrigación convencional.",
+        "Establecer acceso mínimamente invasivo guiado por computadora o acceso convencional según el caso clínico.",
+        "Introducir la fibra del láser Er:YAG 2940 nm en el conducto radicular con el irrigante (NaOCl) presente.",
+        "Activar el irrigante mediante pulsos de láser Er:YAG con movimiento de vaivén o técnica de barrido intracanal.",
+        "Recolectar muestras microbiológicas con puntas de papel para verificar desinfección.",
+        "Ampliar el conducto al tamaño final (F3 en este estudio) y recolectar debris dentinario para evaluación de desinfección tubular si se requiere."
       ],
       "indications": [
-        "Desinfección de conductos radiculares en tratamiento endodóntico primario o retratamiento.",
-        "Casos con acceso mínimamente invasivo donde la irrigación convencional puede ser menos efectiva.",
-        "Infecciones por microorganismos resistentes como Enterococcus faecalis.",
-        "Necesidad de desinfección profunda de túbulos dentinarios."
+        "Desinfección de conductos radiculares en tratamiento endodóntico primario o retratamiento",
+        "Casos con acceso mínimamente invasivo guiado por computadora donde se requiere desinfección efectiva",
+        "Infecciones persistentes por E. faecalis u otros microorganismos resistentes en conductos radiculares",
+        "Casos donde se busca mejorar la penetración del irrigante en túbulos dentinarios"
       ],
       "contraindications": [
-        "Ausencia de equipo láser Er:YAG compatible con uso intracanal.",
-        "Conductos con anatomía que impida la inserción segura de la fibra láser.",
-        "Pacientes con marcapasos u otros dispositivos electrónicos implantables (verificar compatibilidad con el fabricante del equipo láser)."
+        "Ausencia de irrigante en el conducto durante la activación (riesgo de daño térmico)",
+        "Conductos con curvatura severa sin fibra flexible adecuada",
+        "Pacientes con marcapasos (verificar compatibilidad del equipo láser)"
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — estudio in vitro con modelo de E. faecalis en dientes extraídos (n=66); los resultados no han sido validados en ensayos clínicos controlados.",
+      "evidence_level": "Bajo — estudio in vitro con modelo de monocultura E. faecalis en dientes extraídos; n=66 dientes (11 por subgrupo); no hay seguimiento clínico.",
       "keywords_es": [
         "Er:YAG",
         "láser endodoncia",
@@ -184,27 +188,27 @@
         "irrigación ultrasónica pasiva",
         "PUI",
         "NaOCl activado",
-        "tratamiento endodóntico mínimamente invasivo",
-        "biofilm intracanal",
-        "smear layer",
-        "erbio YAG endodoncia"
+        "biofilm endodóntico",
+        "tratamiento de conductos mínimamente invasivo",
+        "debris dentinario",
+        "smear layer"
       ],
       "keywords_en": [
         "Er:YAG laser",
-        "laser endodontics",
-        "laser activated irrigation",
+        "laser-activated irrigation",
         "LAI",
+        "endodontic disinfection",
         "minimally invasive access cavity",
-        "root canal disinfection",
+        "root canal treatment",
         "Enterococcus faecalis",
         "dentinal tubules",
         "passive ultrasonic irrigation",
         "PUI",
-        "NaOCl activation",
-        "minimally invasive root canal treatment",
-        "intracanal biofilm",
-        "smear layer removal",
-        "erbium YAG endodontics"
+        "sodium hypochlorite activation",
+        "endodontic biofilm",
+        "minimally invasive endodontics",
+        "dentin debris",
+        "colony forming units CFU"
       ],
       "is_virtual_protocol": false
     }
