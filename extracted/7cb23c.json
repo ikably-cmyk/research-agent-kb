@@ -9,48 +9,47 @@
   "study_type": "in_vitro",
   "evidence_level": "low",
   "key_points": [
-    "All laser protocols tested (Nd:YAG, Er:YAG, Er,Cr:YSGG) and aPDT showed statistically significant bacterial reduction compared to saline negative control (P < 0.001) in E. faecalis-infected root canals.",
-    "Only the Er:YAG combined with 5.25% NaOCl irrigation achieved 100% bacterial elimination on root canal walls and at 100/200 µm depth inside dentinal tubules.",
-    "Er:YAG used with normal saline and distilled water (without NaOCl) did not achieve 100% bacterial elimination, highlighting the synergistic role of NaOCl irrigation.",
-    "SEM examination confirmed morphological changes in bacterial cells after laser and aPDT treatments.",
-    "220 extracted human teeth contaminated with E. faecalis ATCC 4083 for 4 weeks were used as the experimental model.",
-    "The study compared five experimental groups and two control groups (5.25% NaOCl as positive control, 0.9% saline as negative control).",
-    "aPDT showed bactericidal effect but did not achieve 100% bacterial elimination comparable to Er:YAG + NaOCl combination."
+    "Se evaluó el efecto bactericida de Nd:YAG, Er:YAG, Er,Cr:YSGG y terapia fotodinámica antimicrobiana (aPDT) en conductos radiculares infectados experimentalmente con Enterococcus faecalis ATCC 4083 durante 4 semanas.",
+    "El grupo Er:YAG combinado con NaOCl 5.25% + solución salina normal + agua destilada (Er:YAG/NaClO/NS/DW) fue el único que logró reducción bacteriana del 100% tanto en la superficie del conducto como a 100 y 200 µm dentro de los túbulos dentinarios.",
+    "Todos los protocolos láser evaluados mostraron reducciones bacterianas significativamente mayores que el control negativo (solución salina 0.9%), con p < 0.001.",
+    "La microscopía electrónica de barrido (SEM) confirmó alteraciones morfológicas en las células bacterianas tras los tratamientos.",
+    "El NaOCl 5.25% como control positivo no alcanzó reducción del 100% en túbulos dentinarios, mientras que Er:YAG/NaClO/NS/DW sí lo logró.",
+    "El estudio es in vitro con dientes extraídos; los resultados no son directamente extrapolables a la clínica sin estudios adicionales."
   ],
   "outcomes": [
     {
-      "measured": "Bacterial reduction on root canal wall surface",
-      "result": "Er:YAG/NaClO/NS/DW achieved 100% reduction; all other laser groups and aPDT showed significant but incomplete reduction",
+      "measured": "Reducción bacteriana en superficie del conducto radicular",
+      "result": "Solo Er:YAG/NaClO/NS/DW alcanzó 100% de reducción; los demás grupos láser y NaOCl mostraron reducciones significativas pero no completas.",
       "statistical_significance": true,
-      "clinical_significance": "Er:YAG combined with NaOCl irrigation is the most effective protocol for surface decontamination"
+      "clinical_significance": "La combinación de Er:YAG con NaOCl 5.25% parece ser el protocolo más efectivo para desinfección de la superficie del conducto."
     },
     {
-      "measured": "Bacterial reduction at 100 µm depth in dentinal tubules",
-      "result": "Er:YAG/NaClO/NS/DW achieved 100% reduction; other groups showed partial reduction",
+      "measured": "Reducción bacteriana a 100 µm dentro de túbulos dentinarios",
+      "result": "Er:YAG/NaClO/NS/DW logró 100% de reducción; otros grupos mostraron reducciones parciales.",
       "statistical_significance": true,
-      "clinical_significance": "Penetration into dentinal tubules is critical for endodontic disinfection; only Er:YAG + NaOCl achieved complete elimination"
+      "clinical_significance": "La penetración bactericida en túbulos dentinarios es clínicamente relevante para prevenir reinfección."
     },
     {
-      "measured": "Bacterial reduction at 200 µm depth in dentinal tubules",
-      "result": "Er:YAG/NaClO/NS/DW achieved 100% reduction; other groups showed partial reduction",
+      "measured": "Reducción bacteriana a 200 µm dentro de túbulos dentinarios",
+      "result": "Er:YAG/NaClO/NS/DW logró 100% de reducción; otros grupos mostraron reducciones parciales.",
       "statistical_significance": true,
-      "clinical_significance": "Deep tubular disinfection achieved only with Er:YAG + NaOCl combination"
+      "clinical_significance": "La desinfección a 200 µm de profundidad en dentina es difícil de lograr con métodos convencionales."
     },
     {
-      "measured": "Bacterial morphology by SEM",
-      "result": "Morphological damage to E. faecalis cells observed after laser and aPDT treatments",
+      "measured": "Morfología bacteriana por SEM",
+      "result": "Alteraciones morfológicas evidentes en células bacterianas tras todos los tratamientos activos.",
       "statistical_significance": null,
-      "clinical_significance": "Confirms bactericidal mechanism of laser irradiation and aPDT"
+      "clinical_significance": "Confirma el efecto bactericida a nivel ultraestructural."
     }
   ],
-  "notes": "Study uses ex vivo extracted human teeth, so classified as in_vitro/ex_vivo. The 4-week E. faecalis contamination model is a well-established endodontic biofilm model. The superiority of Er:YAG + NaOCl is attributed to the synergistic effect of laser-activated irrigation rather than laser alone.",
+  "notes": "Estudio in vitro con 220 conductos radiculares de dientes humanos extraídos. Los grupos experimentales fueron: Nd:YAG, Er:YAG/NaClO/NS/DW, Er:YAG/NS/DW, Er,Cr:YSGG y aPDT. Los parámetros específicos de cada láser no están detallados en el abstract disponible.",
   "population": {
     "n_participants": 220,
     "age_range": null,
-    "condition": "Extracted human teeth experimentally infected with E. faecalis ATCC 4083 for 4 weeks",
-    "sample_type": "Extracted human teeth (ex vivo)"
+    "condition": "Conductos radiculares infectados experimentalmente con Enterococcus faecalis ATCC 4083 (4 semanas)",
+    "sample_type": "Dientes humanos extraídos (in vitro)"
   },
-  "superiority_claim": "El autor afirma: 'Er:YAG/NaClO/NS/DW seems to be an ideal protocol for root canal disinfection during endodontic therapy' y fue el único grupo que alcanzó 100% de reducción bacteriana en superficie y a 100/200 µm de profundidad en túbulos dentinarios.",
+  "superiority_claim": "Los autores afirman: 'Er:YAG/NaClO/NS/DW seems to be an ideal protocol for root canal disinfection during endodontic therapy' basándose en ser el único grupo con reducción bacteriana del 100%.",
   "conflicts_of_interest": null,
   "funding_source_text": null,
   "source_citation": "Cheng, X., Guan, S.-M., Lu, H., Zhao, C., Chen, X.-X., Li, N., Bai, Q., Tian, Y., & Yu, Q. (2012). Evaluation of the bactericidal effect of Nd:YAG, Er:YAG, Er,Cr:YSGG laser radiation, and antimicrobial photodynamic therapy (aPDT) in experimentally infected root canals. Lasers in Surgery and Medicine, 44(10), 824–831. https://doi.org/10.1002/lsm.22092",
@@ -111,7 +110,7 @@
       "dentinal tubules at 200 µm depth"
     ]
   },
-  "clinical_indication": "Root canal disinfection / endodontic decontamination against E. faecalis biofilm",
+  "clinical_indication": "Desinfección de conductos radiculares infectados por Enterococcus faecalis en endodoncia",
   "target_tissue": "dentin, root canal walls, dentinal tubules",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
@@ -119,37 +118,33 @@
   "perioperative_consideration": null,
   "confidence": "medium",
   "uncertainties": [
-    "El abstract no reporta los parámetros técnicos específicos de cada láser (potencia, energía por pulso, frecuencia, duración de pulso, tipo de punta/fibra) — no fue posible extraer valores numéricos para los campos de laser_parameters.",
-    "No se especifica el fotosensibilizador utilizado en aPDT ni la longitud de onda de la fuente de luz para aPDT.",
-    "No se declaran conflictos de interés ni fuente de financiamiento en el abstract.",
-    "El estudio es ex vivo con dientes extraídos; la generalización clínica in vivo requiere cautela.",
-    "No se especifican marcas/modelos de los equipos láser utilizados."
+    "Los parámetros técnicos específicos de cada láser (potencia, energía por pulso, frecuencia, duración de pulso, tipo de fibra/punta) no están reportados en el abstract disponible.",
+    "No se especifica el fotosensibilizador utilizado en el grupo aPDT ni sus parámetros de irradiación.",
+    "No se describe la técnica de aplicación intracanal de cada láser (contacto, distancia, movimiento).",
+    "Los resultados son in vitro y no directamente extrapolables a la práctica clínica.",
+    "No se reportan datos de reducción bacteriana cuantitativa exacta para cada grupo individual (solo se indica que Er:YAG/NaClO/NS/DW alcanzó 100%)."
   ],
   "bibliographic_metadata": null,
   "protocols": [
     {
-      "name": "Desinfección endodóntica con Er:YAG + irrigación NaOCl 5.25%",
+      "name": "Desinfección endodóntica con Er:YAG + NaOCl 5.25% (protocolo combinado)",
       "synonyms_es": [
         "irrigación láser Er:YAG con hipoclorito de sodio",
-        "desinfección de conducto radicular con Er:YAG y NaOCl",
-        "tratamiento endodóntico láser Er:YAG asistido con irrigante",
-        "activación láser de irrigante endodóntico Er:YAG"
+        "desinfección intracanal Er:YAG + NaOCl",
+        "protocolo combinado láser-irrigante endodóntico",
+        "tratamiento de conducto con Er:YAG e hipoclorito"
       ],
       "synonyms_en": [
-        "Er:YAG laser-assisted root canal irrigation with NaOCl",
-        "Er:YAG endodontic disinfection with sodium hypochlorite",
-        "laser-activated irrigation Er:YAG NaOCl",
-        "Er:YAG root canal decontamination"
+        "Er:YAG laser with NaOCl irrigation",
+        "combined laser-irrigant root canal disinfection",
+        "Er:YAG endodontic disinfection protocol",
+        "laser-assisted root canal irrigation with sodium hypochlorite"
       ],
-      "purpose": "Eliminar E. faecalis de las paredes del conducto radicular y de los túbulos dentinarios (hasta 200 µm de profundidad) mediante la combinación de irradiación Er:YAG con irrigación de NaOCl al 5.25%, logrando reducción bacteriana del 100%.",
+      "purpose": "Eliminar Enterococcus faecalis de la superficie del conducto radicular y de los túbulos dentinarios hasta 200 µm de profundidad mediante la combinación de irradiación Er:YAG con irrigación de NaOCl 5.25%, solución salina normal y agua destilada.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Er:YAG 2940 nm (parámetros específicos no reportados en el estudio)",
-          "representative_models": [
-            "Fotona LightWalker",
-            "Doctor Smile Wiser",
-            "Biolase Waterlase"
-          ],
+          "equipment_class": "Cualquier Er:YAG 2940 nm",
+          "representative_models": [],
           "equipo": null,
           "longitud_de_onda": "2940 nm",
           "potencia": "No especificado",
@@ -158,48 +153,47 @@
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal",
+          "distancia": "No especificado",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "La combinación de Er:YAG con NaOCl 5.25% fue el único protocolo que alcanzó 100% de eliminación bacteriana en superficie y a 100/200 µm en túbulos dentinarios; el Er:YAG con solución salina/agua destilada sin NaOCl no logró este resultado.",
-        "Los parámetros técnicos específicos del láser (potencia, frecuencia, duración de pulso, tipo de punta) no fueron reportados en el abstract; consultar el artículo completo para detalles.",
-        "El modelo experimental utilizó E. faecalis ATCC 4083 en dientes extraídos durante 4 semanas; la extrapolación clínica in vivo requiere cautela.",
-        "El documento presenta esta combinación favorablemente; existen alternativas con mecanismos de acción diferentes (Nd:YAG, Er,Cr:YSGG, aPDT) que pueden ser apropiadas según el caso clínico."
+        "Parámetros técnicos específicos del protocolo (potencia, frecuencia, duración de pulso, tipo de punta) no reportados en el paper original; consultar el texto completo del artículo.",
+        "Este fue el único protocolo que logró reducción bacteriana del 100% tanto en la superficie del conducto como a 100 y 200 µm dentro de los túbulos dentinarios en el modelo in vitro.",
+        "El estudio es in vitro con E. faecalis ATCC 4083; la extrapolación clínica requiere validación en estudios in vivo.",
+        "El documento presenta este protocolo favorablemente; existen alternativas (Nd:YAG, Er,Cr:YSGG, aPDT, NaOCl solo) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
         "Preparar el conducto radicular con instrumentación convencional.",
-        "Irrigar con NaOCl al 5.25% como irrigante principal.",
-        "Aplicar irradiación Er:YAG intracanal según el protocolo del estudio.",
-        "Complementar con irrigación de solución salina normal y agua destilada.",
-        "Verificar la eliminación bacteriana mediante cultivo o SEM si es posible."
+        "Aplicar irrigación con NaOCl 5.25% durante el procedimiento.",
+        "Irradiar el conducto con láser Er:YAG 2940 nm según los parámetros del protocolo.",
+        "Complementar con irrigación de solución salina normal 0.9% y agua destilada.",
+        "Verificar la desinfección mediante cultivo bacteriano o SEM si es en contexto de investigación."
       ],
       "indications": [
-        "Desinfección de conductos radiculares infectados con E. faecalis",
+        "Conductos radiculares con infección por Enterococcus faecalis",
         "Casos de retratamiento endodóntico con biofilm resistente",
-        "Endodoncia en dientes con infección persistente"
+        "Desinfección intracanal como complemento a la instrumentación mecánica"
       ],
       "contraindications": [
-        "Parámetros específicos no definidos en este estudio — no aplicar sin conocer los parámetros seguros del equipo disponible",
-        "Perforaciones radiculares o anatomía radicular comprometida"
+        "Pacientes con contraindicaciones para el uso de NaOCl (alergia documentada al hipoclorito de sodio)",
+        "Conductos con perforación radicular (riesgo de extrusión de irrigante)"
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.",
+      "evidence_level": "Bajo — estudio in vitro con dientes extraídos, modelo de infección experimental con E. faecalis ATCC 4083. No hay RCTs clínicos que validen este protocolo específico.",
       "keywords_es": [
         "Er:YAG endodoncia",
         "desinfección conducto radicular",
         "hipoclorito de sodio láser",
         "Enterococcus faecalis",
         "túbulos dentinarios",
-        "irrigación láser",
+        "irrigación intracanal",
+        "láser endodóntico",
         "biofilm endodóntico",
         "reducción bacteriana",
-        "láser endodóntico",
-        "NaOCl activado láser",
-        "smear layer",
-        "retratamiento endodóntico",
+        "tratamiento de conducto láser",
+        "NaOCl endodoncia",
         "descontaminación intracanal"
       ],
       "keywords_en": [
@@ -208,197 +202,184 @@
         "sodium hypochlorite laser",
         "Enterococcus faecalis",
         "dentinal tubules",
-        "laser irrigation",
+        "intracanal irrigation",
+        "laser endodontics",
         "endodontic biofilm",
         "bacterial reduction",
-        "laser endodontics",
-        "NaOCl laser activation",
-        "smear layer",
-        "endodontic retreatment",
+        "laser root canal treatment",
+        "NaOCl endodontics",
         "intracanal decontamination"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Desinfección endodóntica con Nd:YAG intracanal",
+      "name": "Desinfección endodóntica con Nd:YAG 1064 nm",
       "synonyms_es": [
-        "irradiación Nd:YAG en conducto radicular",
-        "láser Nd:YAG endodóntico",
-        "desinfección intracanal Nd:YAG"
+        "irradiación Nd:YAG intracanal",
+        "láser Nd:YAG en conducto radicular",
+        "desinfección endodóntica Nd:YAG"
       ],
       "synonyms_en": [
         "Nd:YAG intracanal irradiation",
-        "Nd:YAG laser endodontics",
-        "Nd:YAG root canal disinfection"
+        "Nd:YAG laser root canal disinfection",
+        "Nd:YAG endodontic laser treatment"
       ],
-      "purpose": "Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante irradiación Nd:YAG 1064 nm intracanal.",
+      "purpose": "Reducir la carga bacteriana de Enterococcus faecalis en conductos radiculares infectados mediante irradiación con láser Nd:YAG 1064 nm como complemento o alternativa a la irrigación convencional.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Nd:YAG 1064 nm (parámetros específicos no reportados en el estudio)",
-          "representative_models": [
-            "Fotona LightWalker Nd:YAG",
-            "Deka Nd:YAG"
-          ],
+          "equipment_class": "Cualquier Nd:YAG 1064 nm",
+          "representative_models": [],
           "equipo": null,
           "longitud_de_onda": "1064 nm",
           "potencia": "No especificado",
           "frecuencia": "No especificado",
-          "modo_de_pulso": "pulsado (detalles no especificados)",
+          "modo_de_pulso": "No especificado",
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal",
+          "distancia": "No especificado",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "El Nd:YAG mostró reducción bacteriana significativa pero no alcanzó 100% de eliminación en este estudio.",
-        "Los parámetros técnicos específicos no fueron reportados en el abstract; consultar el artículo completo.",
-        "⚠️ Este protocolo es de carácter parcialmente teórico en cuanto a parámetros; los resultados de eficacia sí están reportados. Basado en: Cheng et al. 2012.",
-        "El documento presenta esta técnica favorablemente frente al control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "Parámetros técnicos específicos no reportados en el abstract; consultar el texto completo del artículo.",
+        "El protocolo Nd:YAG solo (sin NaOCl) no alcanzó reducción bacteriana del 100% en este estudio in vitro.",
+        "El estudio es in vitro; la extrapolación clínica requiere validación adicional.",
+        "El documento presenta este protocolo favorablemente en comparación con el control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
-      "technique_steps": [
-        "Preparar el conducto radicular con instrumentación convencional.",
-        "Introducir la fibra Nd:YAG intracanal.",
-        "Aplicar irradiación Nd:YAG según el protocolo del estudio.",
-        "Irrigar según el protocolo asignado."
-      ],
+      "technique_steps": [],
       "indications": [
-        "Desinfección de conductos radiculares infectados con E. faecalis",
-        "Endodoncia asistida por láser Nd:YAG"
+        "Desinfección intracanal como complemento a la instrumentación mecánica",
+        "Conductos radiculares con infección bacteriana"
       ],
-      "contraindications": [
-        "Parámetros específicos no definidos en este estudio — no aplicar sin conocer los parámetros seguros del equipo disponible"
-      ],
+      "contraindications": [],
       "postop_care": [],
-      "evidence_level": "Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.",
+      "evidence_level": "Bajo — estudio in vitro con dientes extraídos, modelo de infección experimental con E. faecalis ATCC 4083.",
       "keywords_es": [
         "Nd:YAG endodoncia",
-        "desinfección conducto radicular",
+        "láser Nd:YAG conducto",
+        "desinfección intracanal Nd:YAG",
         "Enterococcus faecalis",
+        "bactericida endodóntico",
         "láser 1064 nm",
-        "reducción bacteriana intracanal",
-        "biofilm endodóntico",
-        "láser endodóntico",
+        "tratamiento de conducto láser",
+        "reducción bacteriana",
         "túbulos dentinarios",
-        "descontaminación intracanal",
-        "retratamiento endodóntico"
+        "endodoncia láser",
+        "descontaminación radicular",
+        "biofilm intracanal"
       ],
       "keywords_en": [
         "Nd:YAG endodontics",
-        "root canal disinfection",
+        "Nd:YAG laser root canal",
+        "intracanal disinfection Nd:YAG",
         "Enterococcus faecalis",
+        "bactericidal endodontic",
         "1064 nm laser",
-        "intracanal bacterial reduction",
-        "endodontic biofilm",
-        "laser endodontics",
+        "laser root canal treatment",
+        "bacterial reduction",
         "dentinal tubules",
-        "intracanal decontamination",
-        "endodontic retreatment"
+        "laser endodontics",
+        "root canal decontamination",
+        "intracanal biofilm"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Desinfección endodóntica con Er,Cr:YSGG intracanal",
+      "name": "Desinfección endodóntica con Er,Cr:YSGG 2780 nm",
       "synonyms_es": [
-        "irradiación Er,Cr:YSGG en conducto radicular",
-        "láser Er,Cr:YSGG endodóntico",
-        "desinfección intracanal Er,Cr:YSGG 2780 nm"
+        "irradiación Er,Cr:YSGG intracanal",
+        "láser Er,Cr:YSGG en conducto radicular",
+        "desinfección endodóntica Er,Cr:YSGG"
       ],
       "synonyms_en": [
         "Er,Cr:YSGG intracanal irradiation",
-        "Er,Cr:YSGG laser endodontics",
-        "Er,Cr:YSGG root canal disinfection"
+        "Er,Cr:YSGG laser root canal disinfection",
+        "Er,Cr:YSGG endodontic laser treatment"
       ],
-      "purpose": "Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante irradiación Er,Cr:YSGG 2780 nm intracanal.",
+      "purpose": "Reducir la carga bacteriana de Enterococcus faecalis en conductos radiculares infectados mediante irradiación con láser Er,Cr:YSGG 2780 nm.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Er,Cr:YSGG 2780 nm (parámetros específicos no reportados en el estudio)",
+          "equipment_class": "Cualquier Er,Cr:YSGG 2780 nm",
           "representative_models": [
-            "Biolase Waterlase iPlus",
-            "Biolase Waterlase MD"
+            "Biolase Waterlase"
           ],
           "equipo": null,
           "longitud_de_onda": "2780 nm",
           "potencia": "No especificado",
           "frecuencia": "No especificado",
-          "modo_de_pulso": "pulsado (detalles no especificados)",
+          "modo_de_pulso": "No especificado",
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal",
+          "distancia": "No especificado",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "El Er,Cr:YSGG mostró reducción bacteriana significativa pero no alcanzó 100% de eliminación en este estudio.",
-        "Los parámetros técnicos específicos no fueron reportados en el abstract; consultar el artículo completo.",
-        "⚠️ Este protocolo es de carácter parcialmente teórico en cuanto a parámetros; los resultados de eficacia sí están reportados. Basado en: Cheng et al. 2012.",
-        "El documento presenta esta técnica favorablemente frente al control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "Parámetros técnicos específicos no reportados en el abstract; consultar el texto completo del artículo.",
+        "El protocolo Er,Cr:YSGG solo no alcanzó reducción bacteriana del 100% en este estudio in vitro.",
+        "El estudio es in vitro; la extrapolación clínica requiere validación adicional.",
+        "El documento presenta este protocolo favorablemente en comparación con el control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
-      "technique_steps": [
-        "Preparar el conducto radicular con instrumentación convencional.",
-        "Introducir la punta Er,Cr:YSGG intracanal.",
-        "Aplicar irradiación Er,Cr:YSGG según el protocolo del estudio.",
-        "Irrigar según el protocolo asignado."
-      ],
+      "technique_steps": [],
       "indications": [
-        "Desinfección de conductos radiculares infectados con E. faecalis",
-        "Endodoncia asistida por láser Er,Cr:YSGG"
+        "Desinfección intracanal como complemento a la instrumentación mecánica",
+        "Conductos radiculares con infección bacteriana"
       ],
-      "contraindications": [
-        "Parámetros específicos no definidos en este estudio — no aplicar sin conocer los parámetros seguros del equipo disponible"
-      ],
+      "contraindications": [],
       "postop_care": [],
-      "evidence_level": "Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.",
+      "evidence_level": "Bajo — estudio in vitro con dientes extraídos, modelo de infección experimental con E. faecalis ATCC 4083.",
       "keywords_es": [
         "Er,Cr:YSGG endodoncia",
-        "desinfección conducto radicular",
+        "láser Er,Cr:YSGG conducto",
+        "desinfección intracanal Er,Cr:YSGG",
         "Enterococcus faecalis",
+        "bactericida endodóntico",
         "láser 2780 nm",
-        "reducción bacteriana intracanal",
-        "biofilm endodóntico",
-        "láser endodóntico",
+        "tratamiento de conducto láser",
+        "reducción bacteriana",
         "túbulos dentinarios",
-        "descontaminación intracanal",
+        "endodoncia láser",
         "Biolase Waterlase",
-        "retratamiento endodóntico"
+        "biofilm intracanal"
       ],
       "keywords_en": [
         "Er,Cr:YSGG endodontics",
-        "root canal disinfection",
+        "Er,Cr:YSGG laser root canal",
+        "intracanal disinfection Er,Cr:YSGG",
         "Enterococcus faecalis",
+        "bactericidal endodontic",
         "2780 nm laser",
-        "intracanal bacterial reduction",
-        "endodontic biofilm",
-        "laser endodontics",
+        "laser root canal treatment",
+        "bacterial reduction",
         "dentinal tubules",
-        "intracanal decontamination",
+        "laser endodontics",
         "Biolase Waterlase",
-        "endodontic retreatment"
+        "intracanal biofilm"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Terapia fotodinámica antimicrobiana (aPDT) en conducto radicular",
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) en conductos radiculares",
       "synonyms_es": [
-        "PDT antimicrobiana endodóntica",
-        "fotodinámica intracanal",
-        "terapia fotodinámica endodoncia",
-        "aPDT conducto radicular"
+        "fotodinámica antimicrobiana endodóntica",
+        "PDT antimicrobiana intracanal",
+        "terapia fotodinámica en endodoncia",
+        "desinfección fotodinámica de conducto"
       ],
       "synonyms_en": [
         "antimicrobial photodynamic therapy endodontics",
         "aPDT root canal",
         "photodynamic therapy intracanal",
-        "PDT endodontic disinfection"
+        "endodontic photodynamic disinfection"
       ],
-      "purpose": "Reducir la carga bacteriana de E. faecalis en conductos radiculares infectados mediante la activación de un fotosensibilizador con luz láser, generando especies reactivas de oxígeno con efecto bactericida.",
+      "purpose": "Reducir la carga bacteriana de Enterococcus faecalis en conductos radiculares infectados mediante la activación de un fotosensibilizador con luz láser, generando especies reactivas de oxígeno con efecto bactericida.",
       "parameters_table": [
         {
-          "equipment_class": "Fuente de luz para aPDT (longitud de onda y fotosensibilizador no especificados en el abstract)",
+          "equipment_class": "Láser de diodo o fuente de luz compatible con fotosensibilizador para aPDT endodóntica",
           "representative_models": [],
           "equipo": null,
           "longitud_de_onda": "No especificado",
@@ -408,61 +389,52 @@
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal",
+          "distancia": "No especificado",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "El fotosensibilizador utilizado y la longitud de onda de la fuente de luz para aPDT no fueron especificados en el abstract; consultar el artículo completo.",
-        "La aPDT mostró reducción bacteriana significativa pero no alcanzó 100% de eliminación en este estudio.",
-        "⚠️ Este protocolo es de carácter parcialmente teórico en cuanto a parámetros; los resultados de eficacia sí están reportados. Basado en: Cheng et al. 2012.",
-        "El documento presenta esta técnica favorablemente frente al control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "El fotosensibilizador utilizado y sus parámetros de irradiación no están especificados en el abstract disponible; consultar el texto completo.",
+        "El protocolo aPDT no alcanzó reducción bacteriana del 100% en este estudio in vitro.",
+        "El estudio es in vitro; la extrapolación clínica requiere validación adicional.",
+        "El documento presenta este protocolo favorablemente en comparación con el control negativo; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
-      "technique_steps": [
-        "Preparar el conducto radicular con instrumentación convencional.",
-        "Aplicar el fotosensibilizador intracanal y dejar actuar el tiempo de incubación requerido.",
-        "Activar el fotosensibilizador con la fuente de luz láser intracanal.",
-        "Irrigar para eliminar residuos del fotosensibilizador."
-      ],
+      "technique_steps": [],
       "indications": [
-        "Desinfección de conductos radiculares infectados con E. faecalis",
-        "Endodoncia en pacientes donde se busca evitar irrigantes químicos agresivos",
-        "Complemento a la instrumentación endodóntica convencional"
+        "Desinfección intracanal como complemento a la instrumentación mecánica",
+        "Conductos radiculares con infección bacteriana resistente"
       ],
-      "contraindications": [
-        "Parámetros específicos no definidos en este estudio — no aplicar sin conocer el fotosensibilizador y fuente de luz apropiados",
-        "Alergia conocida al fotosensibilizador utilizado"
-      ],
+      "contraindications": [],
       "postop_care": [],
-      "evidence_level": "Bajo — estudio in vitro/ex vivo con dientes extraídos, n=220 conductos, modelo de E. faecalis. No hay RCTs clínicos con este protocolo específico.",
+      "evidence_level": "Bajo — estudio in vitro con dientes extraídos, modelo de infección experimental con E. faecalis ATCC 4083.",
       "keywords_es": [
         "terapia fotodinámica antimicrobiana",
         "aPDT endodoncia",
         "fotosensibilizador intracanal",
-        "desinfección conducto radicular",
+        "desinfección fotodinámica",
         "Enterococcus faecalis",
-        "PDT dental",
-        "biofilm endodóntico",
+        "bactericida endodóntico",
+        "PDT conducto radicular",
         "reducción bacteriana",
-        "láser endodóntico",
         "túbulos dentinarios",
-        "descontaminación intracanal",
-        "fotodinámica dental"
+        "endodoncia láser",
+        "fotodinámica dental",
+        "biofilm intracanal"
       ],
       "keywords_en": [
         "antimicrobial photodynamic therapy",
         "aPDT endodontics",
         "photosensitizer intracanal",
-        "root canal disinfection",
+        "photodynamic disinfection",
         "Enterococcus faecalis",
-        "PDT dental",
-        "endodontic biofilm",
+        "bactericidal endodontic",
+        "PDT root canal",
         "bacterial reduction",
-        "laser endodontics",
         "dentinal tubules",
-        "intracanal decontamination",
-        "photodynamic dental"
+        "laser endodontics",
+        "dental photodynamic therapy",
+        "intracanal biofilm"
       ],
       "is_virtual_protocol": false
     }
