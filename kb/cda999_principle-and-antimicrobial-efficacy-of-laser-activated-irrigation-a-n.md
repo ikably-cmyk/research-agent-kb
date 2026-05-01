@@ -1,7 +1,7 @@
 # LaserRx KB — Principle and antimicrobial efficacy of laser-activated irrigation: A narrative review
 
 *Fuente: Maarten Meire, Roeland J. G. De Moor. Principle and antimicrobial efficacy of laser-activated irrigation: A narrative review. International Endodontic Journal 2024; doi:10.1111/iej.14042.*
-*Extraído: 2026-04-28*
+*Extraído: 2026-05-01*
 
 ## Irrigación Activada por Láser (LAI) — Principios, Mecanismo y Parámetros (Er:YAG y Er,Cr:YSGG) — Evidencia 2024
 
@@ -23,6 +23,11 @@
 **Resultado principal:** Activar el irrigante endodóntico (NaOCl, EDTA u otros) mediante pulsos de láser de erbio para generar cavitación y dinámicas de fluido intensas en todo el sistema de conductos radiculares, mejorando la limpieza y desinfección intracanal más allá de lo alcanzable con irrigación convencional con jeringa.
 
 - **Desinfección del conducto radicular (LAI vs. irrigación convencional)**: LAI superior a irrigación convencional en 11 de 18 estudios revisados; sin diferencias significativas en los 7 restantes (revisión Do & Gaudin 2020) _(statistically significant; clinical: LAI muestra tendencia consistente a mayor eficacia antimicrobiana que la irrigación con jeringa convencional en modelos de laboratorio)_
+- **Eficacia antimicrobiana LAI vs. activación ultrasónica (UAI)**: LAI mostró eficacia antimicrobiana superior a UAI en 5 de 8 estudios seleccionados; sin diferencias en los 3 restantes (revisión sistemática Badami et al. 2023) _(statistically significant; clinical: Tendencia de mayor eficacia de LAI sobre UAI, aunque la heterogeneidad metodológica limita las conclusiones)_
+- **Dolor postoperatorio tras LAI vs. otras técnicas de activación**: Ningún ensayo clínico encontró mayor nivel de dolor postoperatorio con LAI versus sin activación u otras técnicas de activación _(not statistically significant; clinical: LAI no incrementa el dolor postoperatorio; perfil de seguridad clínica comparable a otras técnicas)_
+- **Curación de periodontitis apical con LAI (Er,Cr:YSGG) vs. tratamiento convencional**: Sin diferencia significativa en curación apical a 1 año (único RCT disponible, Martins et al. 2014) _(not statistically significant; clinical: Evidencia clínica insuficiente para demostrar beneficio de LAI sobre curación de periodontitis apical)_
+- **Velocidad de fluido intracanal inducida por LAI vs. activación ultrasónica**: LAI (PIPS) indujo velocidades de fluido 0.3–0.5 m/s, aproximadamente 10 veces superiores a las de una lima ultrasónica oscilante; movimiento significativo hasta 19 mm desde la punta _(clinical: LAI genera dinámicas de irrigante significativamente mayores a distancia, permitiendo limpieza 'desde lejos' sin posicionamiento intracanal)_
+- **Cambios de temperatura en la raíz durante LAI**: Incrementos máximos de 2.5°C en la superficie radicular apical con Er:YAG y Er,Cr:YSGG en operación intracanal bajo condiciones clínicamente relevantes _(clinical: Ambos láseres de erbio pueden usarse de forma segura sin riesgo térmico significativo para los tejidos periapicales)_
 
 **Nivel de evidencia:** Moderado — basado en múltiples estudios de laboratorio en dientes extraídos con resultados consistentes; evidencia clínica limitada (pocos RCTs, principalmente sobre dolor postoperatorio). Revisión narrativa con selección crítica de estudios de desinfección.
 
@@ -40,4 +45,4 @@ Maarten Meire, Roeland J. G. De Moor. Principle and antimicrobial efficacy of la
 
 ---
 
-*KB doc auto-generado por research-agent. Última actualización: 2026-04-28.*
+*KB doc auto-generado por research-agent. Última actualización: 2026-05-01.*
