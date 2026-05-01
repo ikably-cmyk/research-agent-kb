@@ -14,8 +14,8 @@
     "In prosthodontics and orthodontics, erbium lasers enable minimally invasive debonding of crowns, veneers, and brackets while preserving underlying structures.",
     "In periodontology and peri-implantitis, lasers improve debridement, support tissue regeneration, and enhance wound healing.",
     "Photobiomodulation (PBM/LLLT) contributes to pain reduction, inflammation control, and tissue repair across multiple dental specialties.",
-    "Clinical outcomes vary significantly with wavelength, energy settings, and clinical protocols, underscoring the need for standardization.",
-    "The review is aligned with the FDI Policy Statement on dental lasers, providing an international policy framework for clinical practice.",
+    "Clinical outcomes vary with wavelength, energy settings, and clinical protocols, underscoring the need for standardization.",
+    "The review is aligned with the FDI Policy Statement on dental lasers, providing an evidence-based synthesis for clinicians and educators.",
     "Further high-quality randomized controlled trials are necessary to define standardized protocols for laser use in dentistry.",
     "Lasers represent valuable adjuncts to conventional dental treatment by enabling minimally invasive procedures and promoting biological healing."
   ],
@@ -30,7 +30,7 @@
       "measured": "Endodontic disinfection with laser-activated irrigation (PIPS™/SWEEPS™)",
       "result": "Enhanced irrigant penetration and biofilm disruption compared to conventional irrigation",
       "statistical_significance": null,
-      "clinical_significance": "Clinically relevant improvement in root canal disinfection"
+      "clinical_significance": "Clinically relevant improvement in root canal disinfection outcomes"
     },
     {
       "measured": "Debonding of prosthetic and orthodontic elements with erbium lasers",
@@ -51,8 +51,13 @@
       "clinical_significance": "Supports use of PBM as adjunct across multiple dental specialties"
     }
   ],
-  "notes": "Narrative review aligned with FDI Policy Statement. No original clinical data; synthesizes existing evidence across multiple dental specialties. No specific laser parameters reported — protocols are described conceptually without numerical values.",
-  "population": null,
+  "notes": "Narrative review aligned with FDI Policy Statement. No original clinical data; synthesizes existing evidence across multiple dental laser applications. No specific clinical parameters reported for individual procedures.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Multiple dental conditions (caries, endodontic infection, periodontal disease, peri-implantitis, prosthetic/orthodontic debonding)",
+    "sample_type": "Narrative review — no primary patient population"
+  },
   "superiority_claim": null,
   "conflicts_of_interest": null,
   "funding_source_text": null,
@@ -61,44 +66,46 @@
   "adverse_events": [],
   "laser_parameters": [],
   "treatment_protocol": null,
-  "clinical_indication": "Multiple dental applications: caries removal, endodontic disinfection, periodontal therapy, peri-implant therapy, prosthetic and orthodontic debonding, photobiomodulation",
-  "target_tissue": "dentin, enamel, pulp, gingiva, bone, periodontal tissue, peri-implant tissue",
+  "clinical_indication": "Multiple dental applications: caries removal, endodontic disinfection, periodontal therapy, peri-implant therapy, prosthetic/orthodontic debonding, photobiomodulation",
+  "target_tissue": "enamel, dentin, pulp, gingiva, bone, periodontal tissue, peri-implant tissue",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
   "photosensitivity_flag": null,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "No specific laser parameters (wavelength, power, fluence, pulse duration) are reported in the abstract; the full text may contain more detail but is not available here.",
-    "The review is narrative, so no pooled effect sizes or meta-analytic data are available.",
-    "Specific brands or models of lasers are not mentioned in the abstract.",
-    "The FDI Policy Statement referenced is not cited explicitly in the abstract, limiting direct cross-referencing."
+    "No specific clinical parameters (wavelength, power, fluence, pulse duration) reported for any individual procedure — narrative review only.",
+    "No primary data; conclusions are synthesized from existing literature without meta-analytic pooling.",
+    "FDI Policy Statement alignment details not fully reproducible from abstract alone.",
+    "Specific laser brands/models not mentioned in abstract or available metadata."
   ],
   "bibliographic_metadata": null,
   "protocols": [
     {
-      "name": "Láser en Odontología — Visión General Multiespecialidad (Revisión Teórica FDI)",
+      "name": "Ablación de caries con láser de erbio",
       "synonyms_es": [
-        "láseres dentales aplicaciones clínicas",
-        "láser odontológico multiespecialidad",
-        "revisión láser dental FDI",
-        "aplicaciones del láser en odontología",
-        "láser mínimamente invasivo dental"
+        "remoción de caries con láser",
+        "preparación cavitaria con láser",
+        "eliminación de tejido cariado con erbio",
+        "ablación selectiva de caries"
       ],
       "synonyms_en": [
-        "dental lasers clinical applications",
-        "laser dentistry multispecialty overview",
-        "FDI laser policy dentistry",
-        "minimally invasive laser dentistry",
-        "laser adjunct dental treatment"
+        "laser caries removal",
+        "erbium laser cavity preparation",
+        "selective caries ablation",
+        "laser caries excavation"
       ],
-      "purpose": "Proporcionar una síntesis basada en evidencia de las aplicaciones del láser en odontología (cariología, endodoncia, prostodoncia, ortodoncia, periodoncia y terapia peri-implantaria), alineada con la Declaración de Política de la FDI, para orientar la práctica clínica global.",
+      "purpose": "Eliminación selectiva y mínimamente invasiva del tejido cariado mediante láser de erbio, preservando la estructura dental sana y mejorando la adhesión del sustrato.",
       "parameters_table": [
         {
-          "equipment_class": "No especificado",
-          "representative_models": [],
+          "equipment_class": "Cualquier Er:YAG 2940 nm o Er,Cr:YSGG 2780 nm",
+          "representative_models": [
+            "Fotona LightWalker",
+            "Biolase Waterlase iPlus",
+            "Doctor Smile Wiser"
+          ],
           "equipo": null,
-          "longitud_de_onda": "No especificado",
+          "longitud_de_onda": "2940 nm (Er:YAG) o 2780 nm (Er,Cr:YSGG)",
           "potencia": "No especificado",
           "frecuencia": "No especificado",
           "modo_de_pulso": "No especificado",
@@ -110,67 +117,427 @@
         }
       ],
       "critical_notes": [
-        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados reportados en este documento. Basado en: Grzech-Leśniak (2026).",
-        "Los resultados clínicos varían significativamente según la longitud de onda, los ajustes de energía y los protocolos clínicos utilizados; se requiere estandarización.",
-        "El documento presenta múltiples aplicaciones favorablemente; existen alternativas convencionales con evidencia establecida que pueden ser apropiadas según el caso clínico.",
-        "Se requieren ensayos clínicos aleatorizados de alta calidad para definir protocolos estandarizados en cada especialidad.",
-        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia."
+        "El documento presenta esta técnica favorablemente; existen alternativas convencionales (instrumental rotatorio, quimiomecánico) con eficacia comparable según el caso clínico.",
+        "Parámetros técnicos específicos del protocolo no reportados en el paper original — se trata de una revisión narrativa sin datos de parámetros individuales.",
+        "La eficacia y selectividad dependen del ajuste correcto de longitud de onda, energía y refrigeración; la estandarización de protocolos aún es necesaria según los autores."
       ],
-      "pbm_complement": "La fotobiomodulación (PBM/LLLT) se menciona como complemento en múltiples especialidades para reducción del dolor, control de la inflamación y reparación tisular. No se especifican parámetros concretos en este documento.",
+      "pbm_complement": null,
       "technique_steps": [],
       "indications": [
-        "Remoción de caries (ablación selectiva con láseres de erbio)",
-        "Desinfección endodóntica mediante irrigación activada por láser (PIPS™, SWEEPS™)",
-        "Desbonding de coronas, carillas y brackets con láseres de erbio",
-        "Desbridamiento periodontal y terapia peri-implantaria",
-        "Fotobiomodulación para reducción del dolor, inflamación y cicatrización tisular"
+        "Remoción de tejido cariado en dentina y esmalte",
+        "Preparación cavitaria mínimamente invasiva",
+        "Eliminación de smear layer para mejorar adhesión"
       ],
       "contraindications": [],
       "postop_care": [],
-      "evidence_level": "Bajo — revisión narrativa teórica. No hay parámetros clínicos estandarizados ni datos originales. Basado en síntesis de estudios existentes alineada con la Declaración de Política de la FDI (Grzech-Leśniak, 2026).",
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados; síntesis de estudios existentes sin meta-análisis.",
       "keywords_es": [
+        "ablación de caries",
+        "láser de erbio",
+        "Er:YAG caries",
+        "Er,Cr:YSGG caries",
+        "preparación cavitaria láser",
+        "remoción de caries mínimamente invasiva",
+        "smear layer",
+        "adhesión dental láser",
+        "odontología mínimamente invasiva",
         "láser dental",
-        "Er:YAG",
-        "Er,Cr:YSGG",
-        "fotobiomodulación",
-        "PBM",
-        "LLLT",
-        "PIPS",
-        "SWEEPS",
-        "endodoncia láser",
-        "periodoncia láser",
-        "caries láser",
-        "desbonding láser",
-        "peri-implantitis láser",
-        "irrigación activada por láser",
-        "FDI política láser",
-        "láser mínimamente invasivo",
-        "erbio láser odontología",
-        "smear layer láser",
-        "biofilm láser",
-        "cicatrización láser"
+        "caries dentina",
+        "caries esmalte",
+        "Biolase Waterlase",
+        "Fotona LightWalker",
+        "erbio odontología"
       ],
       "keywords_en": [
-        "dental laser",
-        "Er:YAG",
-        "Er,Cr:YSGG",
-        "photobiomodulation",
-        "PBM",
-        "LLLT",
-        "PIPS",
-        "SWEEPS",
-        "laser endodontics",
-        "laser periodontics",
-        "caries laser removal",
-        "laser debonding",
-        "peri-implantitis laser",
-        "laser-activated irrigation",
-        "FDI laser policy",
-        "minimally invasive laser dentistry",
+        "laser caries removal",
         "erbium laser dentistry",
-        "smear layer laser",
-        "biofilm laser disruption",
-        "laser wound healing"
+        "Er:YAG caries ablation",
+        "Er,Cr:YSGG caries",
+        "laser cavity preparation",
+        "minimally invasive caries",
+        "smear layer removal",
+        "dental adhesion laser",
+        "minimally invasive dentistry",
+        "dental laser",
+        "dentin caries",
+        "enamel caries",
+        "Biolase Waterlase",
+        "Fotona LightWalker",
+        "erbium dental laser"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Irrigación activada por láser en endodoncia (LAI / PIPS™ / SWEEPS™)",
+      "synonyms_es": [
+        "activación fotoacústica del irrigante endodóntico",
+        "irrigación láser intracanal",
+        "desinfección endodóntica con láser",
+        "streaming fotoacústico endodóntico",
+        "activación de irrigante con erbio"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "photon-induced photoacoustic streaming",
+        "PIPS endodontics",
+        "SWEEPS endodontics",
+        "photoacoustic irrigation",
+        "laser endodontic disinfection"
+      ],
+      "purpose": "Mejora de la penetración del irrigante endodóntico y disrupción del biofilm intracanal mediante protocolos de activación fotoacústica con láser de erbio, como PIPS™ y SWEEPS™.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con punta radial stripped y pulsos ≤50 μs (PIPS™/activación fotoacústica)",
+          "representative_models": [
+            "Fotona LightWalker AT",
+            "Doctor Smile Wiser",
+            "LightTouch"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "≤50 μs (SSP para Fotona LightWalker)",
+          "fibra_punta": "Punta radial stripped (ej. punta PIPS 600 μm)",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "Cámara pulpar (técnica PIPS™) o intracanal según protocolo",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "Parámetros técnicos específicos no reportados en este paper — revisión narrativa sin datos de parámetros individuales.",
+        "La eficacia varía con la longitud de onda, ajustes de energía y protocolo clínico; los autores subrayan la necesidad de estandarización.",
+        "El documento presenta estas técnicas favorablemente; existen alternativas (irrigación ultrasónica pasiva PUI, irrigación sónica, irrigación convencional) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Desinfección del sistema de conductos radiculares",
+        "Disrupción de biofilm intracanal (incluyendo E. faecalis)",
+        "Mejora de penetración del irrigante (NaOCl, EDTA) en conductos laterales y túbulos dentinarios",
+        "Eliminación del smear layer endodóntico"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa; la evidencia subyacente incluye RCTs y estudios micro-CT pero los parámetros no se reportan en este paper.",
+      "keywords_es": [
+        "irrigación activada por láser",
+        "LAI endodoncia",
+        "PIPS endodoncia",
+        "SWEEPS endodoncia",
+        "activación fotoacústica",
+        "streaming fotoacústico",
+        "desinfección endodóntica láser",
+        "Er:YAG endodoncia",
+        "biofilm intracanal",
+        "NaOCl activado láser",
+        "EDTA fotoacústico",
+        "smear layer endodoncia",
+        "Fotona LightWalker endodoncia",
+        "conducto radicular láser",
+        "irrigación intracanal"
+      ],
+      "keywords_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "PIPS endodontics",
+        "SWEEPS endodontics",
+        "photoacoustic activation",
+        "photoacoustic streaming",
+        "laser endodontic disinfection",
+        "Er:YAG endodontics",
+        "intracanal biofilm",
+        "NaOCl laser activation",
+        "EDTA photoacoustic",
+        "smear layer endodontics",
+        "Fotona LightWalker endodontics",
+        "root canal laser",
+        "intracanal irrigation"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Debonding de elementos protésicos y ortodónticos con láser de erbio",
+      "synonyms_es": [
+        "desbondeo con láser",
+        "remoción de coronas con láser",
+        "despegado de brackets con láser",
+        "debonding de carillas con erbio",
+        "remoción de prótesis con láser"
+      ],
+      "synonyms_en": [
+        "laser debonding",
+        "laser crown removal",
+        "laser bracket debonding",
+        "erbium veneer debonding",
+        "laser prosthetic debonding"
+      ],
+      "purpose": "Remoción mínimamente invasiva de coronas, carillas y brackets mediante láser de erbio, preservando las estructuras subyacentes y reduciendo el daño iatrogénico.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm o Er,Cr:YSGG 2780 nm",
+          "representative_models": [
+            "Fotona LightWalker",
+            "Biolase Waterlase iPlus",
+            "Doctor Smile Wiser"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm (Er:YAG) o 2780 nm (Er,Cr:YSGG)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "Parámetros técnicos específicos no reportados en este paper — revisión narrativa.",
+        "El documento presenta esta técnica favorablemente; existen alternativas convencionales (instrumental manual, ultrasonidos) que pueden ser apropiadas según el caso clínico.",
+        "La preservación de estructuras subyacentes depende del ajuste correcto de parámetros; la estandarización de protocolos aún es necesaria."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Remoción de coronas cementadas",
+        "Debonding de carillas cerámicas",
+        "Remoción de brackets ortodónticos",
+        "Situaciones donde se requiere preservación máxima de estructura dental subyacente"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados.",
+      "keywords_es": [
+        "debonding láser",
+        "remoción de coronas láser",
+        "desbondeo brackets láser",
+        "carillas debonding erbio",
+        "Er:YAG debonding",
+        "Er,Cr:YSGG debonding",
+        "prótesis remoción láser",
+        "ortodoncia láser",
+        "prostodoncia láser",
+        "láser dental mínimamente invasivo",
+        "Fotona debonding",
+        "Biolase debonding",
+        "cerámica debonding láser",
+        "adhesivo dental láser",
+        "remoción restauraciones láser"
+      ],
+      "keywords_en": [
+        "laser debonding",
+        "laser crown removal",
+        "laser bracket debonding",
+        "erbium veneer debonding",
+        "Er:YAG debonding",
+        "Er,Cr:YSGG debonding",
+        "prosthetic laser removal",
+        "orthodontic laser",
+        "prosthodontic laser",
+        "minimally invasive laser dentistry",
+        "Fotona debonding",
+        "Biolase debonding",
+        "ceramic debonding laser",
+        "dental adhesive laser",
+        "restoration removal laser"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Terapia láser periodontal y peri-implantaria",
+      "synonyms_es": [
+        "desbridamiento periodontal con láser",
+        "terapia láser peri-implantitis",
+        "cirugía periodontal láser",
+        "descontaminación implante láser",
+        "LAPIP",
+        "LANAP",
+        "regeneración periodontal láser"
+      ],
+      "synonyms_en": [
+        "laser periodontal therapy",
+        "laser peri-implant therapy",
+        "laser periodontal debridement",
+        "laser implant decontamination",
+        "LAPIP",
+        "LANAP",
+        "laser periodontal regeneration"
+      ],
+      "purpose": "Mejora del desbridamiento periodontal y peri-implantario, apoyo a la regeneración tisular y mejora de la cicatrización mediante terapia láser como adyuvante al tratamiento convencional.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo (810–980 nm) con punta no iniciada para desbridamiento subgingival",
+          "representative_models": [
+            "Biolase Epic X",
+            "Fotona LightWalker (Nd:YAG)",
+            "Sirona SIROLaser"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "810–980 nm (diodo) o 1064 nm (Nd:YAG)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "Fibra flexible, punta no iniciada para subgingival",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Subgingival, en contacto con tejido blando",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "El erbio (Er:YAG / Er,Cr:YSGG) NO se recomienda en desbridamiento subgingival directo sobre superficie radicular. Usar diodo con punta no iniciada o Nd:YAG en su lugar.",
+        "Diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante (riesgo de carbonización del titanio). Mantener distancia de ≥1 mm o usar punta no iniciada.",
+        "Contacto directo de diodo con punta iniciada sobre superficie de implante de titanio está contraindicado.",
+        "Parámetros técnicos específicos no reportados en este paper — revisión narrativa.",
+        "El documento presenta estas técnicas favorablemente; existen alternativas convencionales (raspado y alisado radicular, desbridamiento mecánico) que pueden ser apropiadas según el caso clínico.",
+        "La estandarización de protocolos es necesaria; los resultados varían con la longitud de onda y los ajustes de energía."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Periodontitis crónica y agresiva como adyuvante al tratamiento convencional",
+        "Peri-implantitis",
+        "Desbridamiento de bolsas periodontales",
+        "Descontaminación de superficie de implante",
+        "Apoyo a la regeneración tisular periodontal"
+      ],
+      "contraindications": [
+        "Contacto directo de diodo con punta iniciada sobre superficie de implante de titanio",
+        "Uso de erbio directamente sobre superficie radicular en desbridamiento subgingival"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados; la evidencia subyacente es heterogénea.",
+      "keywords_es": [
+        "terapia láser periodontal",
+        "peri-implantitis láser",
+        "LAPIP",
+        "LANAP",
+        "desbridamiento subgingival láser",
+        "descontaminación implante láser",
+        "cirugía periodontal láser",
+        "regeneración periodontal láser",
+        "diodo periodontal",
+        "Nd:YAG periodontal",
+        "bolsa periodontal láser",
+        "cicatrización periodontal láser",
+        "láser dental periodoncia",
+        "implante dental láser",
+        "biofilm periodontal láser"
+      ],
+      "keywords_en": [
+        "laser periodontal therapy",
+        "peri-implantitis laser",
+        "LAPIP",
+        "LANAP",
+        "subgingival laser debridement",
+        "implant decontamination laser",
+        "laser periodontal surgery",
+        "laser periodontal regeneration",
+        "diode periodontal laser",
+        "Nd:YAG periodontal",
+        "periodontal pocket laser",
+        "periodontal wound healing laser",
+        "dental laser periodontology",
+        "dental implant laser",
+        "periodontal biofilm laser"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Fotobiomodulación (PBM/LLLT) en odontología",
+      "synonyms_es": [
+        "terapia láser de baja intensidad",
+        "LLLT dental",
+        "fotobiomodulación dental",
+        "láser terapéutico dental",
+        "bioestimulación láser",
+        "terapia fotónica dental",
+        "PBM odontología"
+      ],
+      "synonyms_en": [
+        "photobiomodulation",
+        "PBM dentistry",
+        "low-level laser therapy",
+        "LLLT dentistry",
+        "therapeutic laser dentistry",
+        "biostimulation laser",
+        "photonic therapy dentistry"
+      ],
+      "purpose": "Reducción del dolor, control de la inflamación y promoción de la reparación tisular mediante fotobiomodulación con láser o LED de baja intensidad como adyuvante en múltiples procedimientos dentales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser o LED de baja intensidad (630–1000 nm) para fotobiomodulación",
+          "representative_models": [
+            "Biolase Epic X (modo PBM)",
+            "Fotona LightWalker (Nd:YAG subablativo)",
+            "Thor Photomedicine"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "630–1000 nm (rojo/infrarrojo cercano)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados reportados en este paper. Basado en: Grzech-Leśniak 2026.",
+        "Los resultados varían con la longitud de onda, fluencia y protocolo clínico; la estandarización es necesaria según los autores.",
+        "El documento presenta la PBM favorablemente; la evidencia subyacente es heterogénea y se requieren ensayos de alta calidad para definir protocolos estandarizados."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Reducción del dolor postoperatorio dental",
+        "Control de la inflamación oral",
+        "Promoción de la reparación y cicatrización tisular",
+        "Adyuvante en múltiples especialidades dentales (periodoncia, endodoncia, cirugía oral, ortodoncia)"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados. No hay RCTs con protocolos clínicos estandarizados reportados en este paper.",
+      "keywords_es": [
+        "fotobiomodulación",
+        "PBM dental",
+        "LLLT dental",
+        "terapia láser baja intensidad",
+        "bioestimulación láser",
+        "láser terapéutico",
+        "reducción dolor láser",
+        "inflamación láser dental",
+        "cicatrización láser",
+        "reparación tisular láser",
+        "LED dental terapéutico",
+        "láser rojo dental",
+        "infrarrojo dental",
+        "terapia fotónica",
+        "odontología láser terapéutico"
+      ],
+      "keywords_en": [
+        "photobiomodulation",
+        "PBM dentistry",
+        "LLLT dentistry",
+        "low-level laser therapy",
+        "biostimulation laser",
+        "therapeutic laser",
+        "laser pain reduction",
+        "dental laser inflammation",
+        "laser wound healing",
+        "tissue repair laser",
+        "therapeutic LED dental",
+        "red laser dental",
+        "near-infrared dental",
+        "photonic therapy",
+        "therapeutic dental laser"
       ],
       "is_virtual_protocol": true
     }
