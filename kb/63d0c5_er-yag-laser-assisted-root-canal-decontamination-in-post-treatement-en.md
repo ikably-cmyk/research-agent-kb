@@ -3,7 +3,7 @@
 *Fuente: Zabrac E et al., 2026*
 *Extraído: 2026-05-01*
 
-## Irrigación Activada con Láser Er:YAG en Retratamiento Endodóntico por Periodontitis Apical Post-tratamiento — Evidencia 2026
+## Irrigación Activada con Láser Er:YAG (LAI) en Retratamiento Endodóntico por Periodontitis Apical Post-tratamiento — Evidencia 2026
 
 **Referencia:** Zabrac, E., Chirila, M., Dragomirescu, A., & Suciu, I. (2026). Er:YAG Laser-Assisted Root Canal Decontamination in Post-treatment Endodontic Apical Periodontitis: A Case Report. Cureus. https://doi.org/10.7759/cureus.102709
 
@@ -15,13 +15,13 @@
 
 | Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
 |---|---|---|---|---|---|---|---|---|---|
-| Cualquier Er:YAG 2940 nm dental. Ejemplos: Fotona LightWalker, Doctor Smile Wiser, Biolase Waterlase | 2940 nm | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado | No especificado |
+| Cualquier Er:YAG 2940 nm con capacidad de activación de irrigante intracanal (LAI/fotoacústica). Ejemplos: Fotona LightWalker, Doctor Smile Wiser, Biolase Waterlase | 2940 nm | No especificado | No especificado | No especificado | No especificado | 0% | 0% | No especificado | No especificado |
 
-**Resultado principal:** Mejorar la desinfección del sistema de conductos radiculares mediante la activación con láser Er:YAG del irrigante (NaOCl 5.25%) en casos de periodontitis apical crónica post-tratamiento que requieren retratamiento endodóntico.
+**Resultado principal:** Potenciar la desinfección del sistema de conductos radiculares mediante la activación del irrigante (NaOCl 5.25%) con láser Er:YAG, con el objetivo de eliminar el biofilm bacteriano persistente responsable de la periodontitis apical post-tratamiento.
 
-- **Regresión de lesión apical periapical (CBCT)**: Tendencia hacia la regresión de la lesión apical a los 3 meses postoperatorios _(clinical: Mejoría clínica y radiológica observada en seguimiento a corto plazo (3 meses))_
+- **Regresión radiográfica de lesión apical periapical (CBCT)**: Tendencia hacia la regresión de la lesión apical a los 3 meses postoperatorios _(clinical: Mejoría clínica y radiográfica en caso único de periodontitis apical crónica post-tratamiento)_
 
-**Nivel de evidencia:** Bajo — reporte de caso único (n=1), sin grupo control, seguimiento de 3 meses únicamente.
+**Nivel de evidencia:** Bajo — basado en un único reporte de caso (n=1) con seguimiento de 3 meses. No permite inferencias estadísticas ni generalizaciones clínicas.
 
 ## REFERENCIA BIBLIOGRÁFICA
 
