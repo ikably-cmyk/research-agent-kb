@@ -9,33 +9,26 @@
   "study_type": "case_report",
   "evidence_level": "low",
   "key_points": [
-    "Se reporta un caso de periodontitis apical crónica post-tratamiento en diente 47, tratado mediante retratamiento endodóntico con irrigación activada por láser Er:YAG.",
-    "La irrigación con NaOCl al 5.25% fue activada con láser Er:YAG para mejorar la desinfección del sistema de conductos radiculares.",
-    "La evaluación radiográfica mediante CBCT a los 3 meses mostró tendencia a la regresión de la lesión apical y mejoría clínica.",
-    "No se reportaron eventos adversos postoperatorios.",
-    "El biofilm bacteriano persistente en el sistema endodóntico es la principal causa de periodontitis apical post-tratamiento.",
-    "El láser Er:YAG fue utilizado como herramienta de activación fotoacústica del irrigante, no como instrumento ablativo directo sobre dentina."
+    "Case report of Er:YAG laser-assisted root canal decontamination in a patient with post-treatment chronic apical periodontitis at tooth 47.",
+    "Root canal irrigation was performed with 5.25% sodium hypochlorite activated with an Er:YAG dental laser to enhance disinfection.",
+    "CBCT evaluation at 3 months showed a tendency toward apical lesion regression and clinical improvement with no adverse events.",
+    "Bacterial biofilm persistence in the endodontic system is identified as the primary cause of post-treatment apical periodontitis.",
+    "Laser technologies are highlighted for their ability to penetrate the endodontic system and exert photothermal effects on resistant microorganisms."
   ],
   "outcomes": [
     {
-      "measured": "Regresión radiográfica de lesión apical periapical (CBCT)",
-      "result": "Tendencia hacia la regresión de la lesión apical a los 3 meses postoperatorios",
+      "measured": "Apical lesion regression (CBCT)",
+      "result": "Tendency toward regression at 3-month follow-up",
       "statistical_significance": null,
-      "clinical_significance": "Mejoría clínica y radiográfica en caso único de periodontitis apical crónica post-tratamiento"
-    },
-    {
-      "measured": "Eventos adversos postoperatorios",
-      "result": "Ningún evento adverso observado",
-      "statistical_significance": null,
-      "clinical_significance": "Perfil de seguridad favorable en este caso individual"
+      "clinical_significance": "Clinical improvement observed with no postoperative adverse events"
     }
   ],
-  "notes": "Reporte de caso único (n=1). Los resultados no son generalizables. El seguimiento es de solo 3 meses, insuficiente para confirmar curación completa de la lesión periapical. No se especifican los parámetros exactos del láser Er:YAG utilizado en el abstract.",
+  "notes": "Single case report; no control group. Specific Er:YAG laser parameters (power, frequency, pulse duration, fiber tip) are not reported in the abstract. Retreatment was performed on tooth 47 (mandibular second molar).",
   "population": {
     "n_participants": 1,
     "age_range": null,
-    "condition": "Periodontitis apical crónica post-tratamiento (diente 47)",
-    "sample_type": "Paciente humano adulto"
+    "condition": "Post-treatment chronic apical periodontitis (tooth 47)",
+    "sample_type": "Human clinical case"
   },
   "superiority_claim": null,
   "conflicts_of_interest": null,
@@ -66,54 +59,42 @@
     "application_technique": null,
     "anatomical_points": [
       "root canal system",
-      "periapical region"
+      "apical region"
     ]
   },
-  "clinical_indication": "Post-treatment apical periodontitis (chronic) — endodontic retreatment with laser-activated irrigation",
-  "target_tissue": "dentin, pulp space, root canal system",
+  "clinical_indication": "Post-treatment apical periodontitis / endodontic retreatment",
+  "target_tissue": "dentin, pulp, periapical tissue",
   "brand_model_mentioned": [],
-  "drugs_mentioned": [
-    {
-      "name": "sodium hypochlorite",
-      "drug_class": "Irrigante endodóntico / desinfectante",
-      "interaction_type": null,
-      "dental_relevance": "Irrigante principal al 5.25% utilizado para desinfección del sistema de conductos radiculares; activado con láser Er:YAG para potenciar su efecto antimicrobiano.",
-      "photosensitivity": false,
-      "laser_implication": "La activación con Er:YAG (LAI) potencia la acción del NaOCl mediante efectos fotoacústicos e hidrodinámicos, mejorando la penetración en túbulos dentinarios y zonas de istmos."
-    }
-  ],
+  "drugs_mentioned": null,
   "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "medium",
   "uncertainties": [
-    "No se reportan los parámetros específicos del láser Er:YAG (potencia, frecuencia, energía por pulso, duración de pulso, tipo de punta/fibra) en el abstract ni en el texto disponible.",
-    "No se especifica si la técnica de activación fue LAI (laser-activated irrigation) clásica o fotoacústica (PIPS-like).",
-    "Seguimiento de solo 3 meses; insuficiente para confirmar curación completa de la lesión periapical.",
-    "Caso único (n=1): no permite inferencias estadísticas ni generalizaciones clínicas.",
-    "No se describe el protocolo de instrumentación ni la secuencia completa de irrigación."
+    "Specific Er:YAG laser parameters (power, frequency, pulse duration, fiber tip type, water/air settings) not reported in the abstract or available full text.",
+    "Activation technique details (LAI, PIPS-equivalent, or simple intracanal irradiation) not specified.",
+    "Follow-up limited to 3 months; long-term outcome unknown.",
+    "Single case report — no generalizability."
   ],
   "bibliographic_metadata": null,
   "protocols": [
     {
-      "name": "Irrigación Activada con Láser Er:YAG (LAI) en Retratamiento Endodóntico por Periodontitis Apical Post-tratamiento",
+      "name": "Er:YAG Laser-Activated Irrigation (LAI) para Retratamiento Endodóntico con Periodontitis Apical",
       "synonyms_es": [
-        "irrigación activada por láser en retratamiento endodóntico",
+        "irrigación activada con láser Er:YAG en retratamiento",
         "descontaminación del conducto radicular con Er:YAG",
-        "activación fotoacústica de NaOCl con Er:YAG",
-        "LAI endodóntica con erbio",
-        "irrigación láser en periodontitis apical crónica"
+        "activación de irrigante con láser de erbio en endodoncia",
+        "LAI con Er:YAG en periodontitis apical post-tratamiento"
       ],
       "synonyms_en": [
-        "laser-activated irrigation in endodontic retreatment",
-        "Er:YAG root canal decontamination",
-        "photoacoustic NaOCl activation with Er:YAG",
-        "LAI endodontics erbium",
-        "laser irrigation in post-treatment apical periodontitis"
+        "Er:YAG laser-activated irrigation in retreatment",
+        "laser-assisted root canal decontamination Er:YAG",
+        "Er:YAG LAI endodontic retreatment",
+        "erbium laser irrigation activation apical periodontitis"
       ],
-      "purpose": "Potenciar la desinfección del sistema de conductos radiculares mediante la activación del irrigante (NaOCl 5.25%) con láser Er:YAG, con el objetivo de eliminar el biofilm bacteriano persistente responsable de la periodontitis apical post-tratamiento.",
+      "purpose": "Activar el irrigante endodóntico (NaOCl 5.25%) mediante láser Er:YAG para mejorar la descontaminación del sistema de conductos radiculares en casos de periodontitis apical post-tratamiento, potenciando la eliminación de biofilm bacteriano resistente.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Er:YAG 2940 nm con capacidad de activación de irrigante intracanal (LAI/fotoacústica)",
+          "equipment_class": "Cualquier Er:YAG 2940 nm con fibra intracanal",
           "representative_models": [
             "Fotona LightWalker",
             "Doctor Smile Wiser",
@@ -125,81 +106,72 @@
           "frecuencia": "No especificado",
           "modo_de_pulso": "No especificado",
           "fibra_punta": "No especificado",
-          "agua_pct": "0%",
-          "aire_pct": "0%",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
           "distancia": "No especificado",
           "tiempo_ciclos": "No especificado"
         }
       ],
       "critical_notes": [
-        "Los parámetros específicos del láser Er:YAG (potencia, frecuencia, energía por pulso, tipo de punta) NO están reportados en el paper original. Este protocolo es de carácter descriptivo basado en el caso clínico.",
-        "El irrigante utilizado fue NaOCl al 5.25%, activado con Er:YAG para mejorar la penetración en el sistema de conductos y la eliminación de biofilm.",
-        "El documento presenta esta técnica favorablemente en un caso único; existen alternativas con mecanismos de acción diferentes (PUI, irrigación sónica, EDTA, CHX) que pueden ser apropiadas según el caso clínico.",
-        "El seguimiento de 3 meses es insuficiente para confirmar curación completa de la lesión periapical; se recomienda seguimiento mínimo de 12 meses según criterios de éxito endodóntico.",
-        "La evaluación de eficacia se realizó mediante CBCT comparativo (inicial vs. postoperatorio a 3 meses)."
+        "Los parámetros específicos del láser Er:YAG (potencia, frecuencia, duración de pulso, tipo de punta) no fueron reportados en el artículo original; consultar protocolos de referencia para LAI con Er:YAG.",
+        "El irrigante utilizado fue NaOCl al 5.25%; la activación láser potencia la acción antimicrobiana mediante efectos fototérmicos y fotoacústicos.",
+        "El documento presenta esta técnica favorablemente en un caso único; existen alternativas con mecanismos de acción diferentes (PUI, activación sónica, EDDY) que pueden ser apropiadas según el caso clínico.",
+        "La evaluación de eficacia se realizó mediante CBCT a los 3 meses, mostrando tendencia a la regresión de la lesión apical, pero el seguimiento es limitado."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Realizar examen clínico y radiográfico (CBCT) para confirmar diagnóstico de periodontitis apical crónica post-tratamiento.",
-        "Indicar retratamiento endodóntico y obtener consentimiento informado.",
-        "Acceder al sistema de conductos radiculares y remover la obturación previa.",
-        "Realizar instrumentación del sistema de conductos con técnica convencional.",
-        "Irrigar con NaOCl al 5.25% durante la instrumentación.",
-        "Activar el irrigante (NaOCl 5.25%) con láser Er:YAG para potenciar la desinfección del sistema de conductos.",
-        "Realizar obturación definitiva del sistema de conductos.",
-        "Evaluar radiográficamente (CBCT) a los 3 meses para valorar regresión de la lesión apical."
+        "Realizar examen clínico y radiográfico (CBCT) para confirmar periodontitis apical crónica post-tratamiento.",
+        "Indicar retratamiento endodóntico y obtener acceso al sistema de conductos.",
+        "Realizar la instrumentación y conformación del conducto radicular.",
+        "Irrigar con NaOCl al 5.25% durante todo el procedimiento.",
+        "Activar el irrigante con el láser Er:YAG 2940 nm introduciendo la fibra intracanal para mejorar la descontaminación.",
+        "Evaluar la evolución radiográfica mediante CBCT postoperatorio a los 3 meses."
       ],
       "indications": [
         "Periodontitis apical crónica post-tratamiento (retratamiento endodóntico)",
-        "Biofilm bacteriano persistente en el sistema de conductos radiculares",
-        "Casos con anatomía compleja donde la irrigación convencional es insuficiente",
-        "Lesiones periapicales con escasa respuesta al tratamiento convencional"
+        "Persistencia de biofilm bacteriano en el sistema de conductos radiculares",
+        "Casos con lesión apical que no ha resuelto tras tratamiento endodóntico convencional"
       ],
       "contraindications": [
-        "Pacientes con marcapasos (precaución con equipos láser según protocolo del fabricante)",
-        "Imposibilidad de acceso al sistema de conductos para introducir la fibra/punta láser",
-        "Perforación radicular no reparada"
+        "Pacientes con contraindicaciones para retratamiento endodóntico (considerar cirugía apical o extracción según el caso)",
+        "Imposibilidad de acceso al sistema de conductos"
       ],
       "postop_care": [
-        "Control clínico y radiográfico a los 3 meses post-tratamiento.",
-        "Seguimiento radiográfico adicional a los 6 y 12 meses para confirmar curación de la lesión periapical.",
-        "Indicar analgésicos de rescate si hay dolor postoperatorio.",
-        "Restauración coronal definitiva para evitar recontaminación del sistema de conductos."
+        "Control clínico y radiográfico (CBCT) a los 3 meses para evaluar regresión de la lesión apical.",
+        "Monitorear síntomas postoperatorios; en este caso no se reportaron eventos adversos."
       ],
-      "evidence_level": "Bajo — basado en un único reporte de caso (n=1) con seguimiento de 3 meses. No permite inferencias estadísticas ni generalizaciones clínicas.",
+      "evidence_level": "Bajo — reporte de caso único (n=1), sin grupo control, seguimiento de 3 meses.",
       "keywords_es": [
         "Er:YAG",
-        "láser endodóntico",
-        "irrigación activada por láser",
-        "LAI",
-        "periodontitis apical post-tratamiento",
+        "láser endodoncia",
         "retratamiento endodóntico",
-        "biofilm endodóntico",
+        "periodontitis apical post-tratamiento",
+        "irrigación activada con láser",
+        "LAI endodoncia",
         "hipoclorito de sodio activado",
         "descontaminación conducto radicular",
+        "biofilm endodóntico",
         "CBCT endodoncia",
         "erbio endodoncia",
-        "activación fotoacústica",
         "periodontitis apical crónica",
-        "desinfección intracanal",
-        "NaOCl láser"
+        "láser Er:YAG 2940 nm",
+        "activación de irrigante"
       ],
       "keywords_en": [
         "Er:YAG",
         "laser endodontics",
-        "laser-activated irrigation",
-        "LAI",
-        "post-treatment apical periodontitis",
         "endodontic retreatment",
-        "endodontic biofilm",
-        "activated sodium hypochlorite",
+        "post-treatment apical periodontitis",
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "sodium hypochlorite activation",
         "root canal decontamination",
+        "endodontic biofilm",
         "CBCT endodontics",
         "erbium endodontics",
-        "photoacoustic activation",
         "chronic apical periodontitis",
-        "intracanal disinfection",
-        "NaOCl laser activation"
+        "Er:YAG 2940 nm",
+        "irrigant activation"
       ],
       "is_virtual_protocol": false
     }
