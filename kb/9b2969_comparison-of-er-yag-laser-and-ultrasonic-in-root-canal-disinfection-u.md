@@ -3,7 +3,7 @@
 *Fuente: XiaoYang Shan et al., 2022*
 *Extraído: 2026-05-01*
 
-## Er:YAG Laser-Activated Irrigation (LAI) en Acceso Mínimamente Invasivo — Evidencia 2022
+## Activación de irrigante con Er:YAG (LAI) en acceso mínimamente invasivo guiado por computadora — Evidencia 2022
 
 **Referencia:** Shan, X., Tian, F., Li, J., Yang, N., Wang, Y., & Sun, H. (2022). Comparison of Er:YAG laser and ultrasonic in root canal disinfection under minimally invasive access cavity. Lasers in Medical Science. https://doi.org/10.1007/s10103-022-03613-0
 
@@ -15,13 +15,13 @@
 
 | Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
 |---|---|---|---|---|---|---|---|---|---|
-| Cualquier Er:YAG 2940 nm con fibra intracanal para activación de irrigante (LAI). Ejemplos: Fotona LightWalker, Doctor Smile Wiser, Biolase Waterlase | 2940 nm | No especificado | No especificado | Pulsado (duración no especificada) | No especificado | No especificado | No especificado | Intracanal (profundidad no especificada) | No especificado |
+| Cualquier Er:YAG 2940 nm con fibra intracanal compatible. Ejemplos: Fotona LightWalker, Doctor Smile Wiser, Biolase Waterlase | 2940 nm | No especificado | No especificado | Pulsado (duración no especificada) | No especificado (fibra intracanal; tipo no reportado en el estudio) | No especificado | No especificado | Intracanal | No especificado |
 
-**Resultado principal:** Activar el irrigante endodóntico (NaOCl) mediante pulsos de láser Er:YAG para mejorar la desinfección del sistema de conductos radiculares, incluyendo los túbulos dentinarios, en cavidades de acceso mínimamente invasivas o convencionales.
+**Resultado principal:** Activar el irrigante endodóntico (NaOCl) mediante pulsos de Er:YAG 2940 nm dentro del conducto radicular para mejorar la desinfección tanto en el lumen del conducto como en los túbulos dentinarios, especialmente en cavidades de acceso mínimamente invasivo guiadas por computadora.
 
-- **Bacterial CFU counts in root canal lumen (paper tip method)**: PUI and LAI both significantly reduced CFU vs CI (P < 0.05); no significant difference between PUI and LAI (P > 0.05) _(statistically significant; clinical: Both PUI and LAI are more effective than conventional irrigation for root canal lumen disinfection regardless of access type)_
+- **Bacterial CFU counts in root canal lumen after disinfection**: PUI and LAI both significantly reduced CFU vs. CI (P < 0.05); no significant difference between PUI and LAI (P > 0.05) _(statistically significant; clinical: Both activated irrigation methods are more effective than conventional irrigation regardless of access type)_
 
-**Nivel de evidencia:** Bajo — estudio in vitro con modelo de E. faecalis en dientes extraídos (n=66); no hay datos clínicos en pacientes.
+**Nivel de evidencia:** Bajo — estudio in vitro con modelo de E. faecalis en dientes extraídos; n=66 dientes divididos en 6 subgrupos; no hay seguimiento clínico.
 
 ## REFERENCIA BIBLIOGRÁFICA
 
