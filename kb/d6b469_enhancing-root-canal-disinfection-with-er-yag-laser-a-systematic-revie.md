@@ -1,9 +1,11 @@
 # Enhancing Root Canal Disinfection with Er:YAG Laser: A Systematic Review.
 
 *Fuente: Jakub Fiegler-Rudol et al., 2025*
-*Extraído: 2026-04-29*
+*Extraído: 2026-05-01*
 
-## Activación fotoacústica intracanal con Er:YAG (PIPS™ / SWEEPS™) para desinfección endodóntica — Evidencia 2025
+## Activación fotoacústica intracanal con Er:YAG 2940 nm (PIPS™ / SWEEPS™) — Revisión sistemática — Evidencia 2025
+
+*[Protocolo virtual — extraído de fuente teórica sin parámetros directos]*
 
 **Referencia:** Fiegler-Rudol, J., Grzech-Leśniak, Z., Tkaczyk, M., Grzech-Leśniak, K., Zawilska, A., & Wiench, R. (2025). Enhancing Root Canal Disinfection with Er:YAG Laser: A Systematic Review. Dentistry Journal, 13(3), 101. https://doi.org/10.3390/dj13030101
 
@@ -15,13 +17,13 @@
 
 | Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
 |---|---|---|---|---|---|---|---|---|---|
-| Cualquier Er:YAG 2940 nm con capacidad de pulsos ultracortos (≤50 μs) y punta radial stripped para activación fotoacústica (PIPS/SWEEPS). Ejemplos: Fotona LightWalker AT, Doctor Smile Wiser, LightTouch Er:YAG | 2940 nm | Variable según protocolo (no estandarizado entre estudios); típicamente 0.3–1 W para PIPS | Variable (típicamente 10–20 Hz para PIPS); no estandarizado | Pulsado ultracorto ≤50 μs (SSP en Fotona); SWEEPS requiere doble pulso específico del fabricante | Punta radial stripped 400–600 μm; posicionada en cámara pulpar (PIPS) o introducida en conducto (LAI convencional) | 0% durante activación fotoacústica | 0% durante activación fotoacústica | Punta estática en cámara pulpar (PIPS) o a nivel del tercio coronal/medio del conducto | Ciclos de 20–30 s de activación con reposo entre ciclos; número de ciclos variable según protocolo |
+| Cualquier Er:YAG 2940 nm con capacidad de activación fotoacústica (PIPS™ o SWEEPS™), punta radial stripped. Ejemplos: Fotona LightWalker AT, Doctor Smile Wiser, LightTouch | 2940 nm | No especificado (varía entre estudios incluidos) | No especificado (varía entre estudios incluidos) | Pulsado ultracorto (≤50 μs para PIPS™; modo SWEEPS™ para doble pulso) | Punta radial stripped (600 μm típico); posicionada en cámara pulpar (PIPS™) o intracanal (SWEEPS™) | 0% durante activación fotoacústica | 0% durante activación fotoacústica | Cámara pulpar (PIPS™) o tercio coronal/medio del conducto (SWEEPS™) | No especificado uniformemente; varía entre estudios (típicamente ciclos de 20–30 s) |
 
-**Resultado principal:** Activar fotoacústicamente el irrigante endodóntico (NaOCl, EDTA) mediante pulsos de Er:YAG 2940 nm para mejorar la disrupción de biofilm, remoción de smear layer y penetración del irrigante en anatomías complejas, incluyendo la región apical.
+**Resultado principal:** Activación fotoacústica del irrigante endodóntico mediante pulsos de Er:YAG 2940 nm para mejorar la desinfección del sistema de conductos radiculares, la eliminación del smear layer y la disrupción de biofilm, especialmente en el tercio apical y anatomías complejas.
 
-- **Reducción bacteriana intracanal**: Todos los estudios reportaron mejora significativa con Er:YAG vs. métodos convencionales o ultrasónicos _(statistically significant; clinical: Reducción bacteriana superior especialmente en la región apical con PIPS y SWEEPS)_
+- **Antibacterial efficacy / bacterial reduction**: All 15 studies reported significant improvement in root canal disinfection with Er:YAG laser over conventional or ultrasonic methods; PIPS™ and SWEEPS™ showed superior apical bacterial reduction. _(statistically significant; clinical: Clinically relevant improvement in disinfection, especially in apical third and complex anatomies.)_
 
-**Nivel de evidencia:** Moderado — revisión sistemática PRISMA 2020 con 15 estudios (2015-2025); alta heterogeneidad metodológica entre estudios limita la síntesis cuantitativa y la estandarización de parámetros.
+**Nivel de evidencia:** Moderado — revisión sistemática PRISMA 2020 de 15 estudios (2015–2025); alta heterogeneidad en parámetros y diseños de estudio; sin meta-análisis cuantitativo.
 
 ## REFERENCIA BIBLIOGRÁFICA
 
@@ -37,4 +39,4 @@ Fiegler-Rudol, J., Grzech-Leśniak, Z., Tkaczyk, M., Grzech-Leśniak, K., Zawils
 
 ---
 
-*KB doc auto-generado por research-agent. Última actualización: 2026-04-29.*
+*KB doc auto-generado por research-agent. Última actualización: 2026-05-01.*
