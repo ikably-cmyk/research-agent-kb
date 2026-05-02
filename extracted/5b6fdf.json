@@ -1,0 +1,272 @@
+{
+  "article_refs": [
+    "pdf_local::pulp_caping::966ea3"
+  ],
+  "uuid": "5b6fdf",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "low",
+  "key_points": [
+    "Pilot RCT (n=10) comparing diode 808-nm laser-assisted vs. conventional direct pulp capping in carious exposures of permanent teeth.",
+    "Laser-assisted group (n=5) achieved 100% success rate at 1 year vs. 60% in conventional group (n=5).",
+    "Diode 808-nm laser was used for hemostasis (1.5 W CW, 400 µm fiber, contact, 2 s/mm) and cavity decontamination (1 W CW, 400 µm fiber, contact, 2 mm/s) prior to RM-GIC capping.",
+    "Three principal advantages of diode laser in direct pulp capping identified: decontamination effect, hemostatic effect, and bio-stimulation effect.",
+    "Near-infrared wavelengths (diode, Nd:YAG) penetrate 500–1100 µm into dentin with significant scattering, providing superior bactericidal effect in contaminated carious exposures compared to CO2 and erbium lasers.",
+    "Bio-stimulation effect of diode (810–903 nm range) promotes odontoblast-like cell differentiation, reparative dentin formation, and reduction of inflammation and pain.",
+    "Both groups used the same capping material (RM-GIC Vitrebond) and final restoration (Z350 XT + P60 composite).",
+    "Study limitations: very small sample (n=5 per group), pilot design, runs test used for statistical analysis — results should be interpreted with caution."
+  ],
+  "outcomes": [
+    {
+      "measured": "Pulp vitality success rate at 1 year",
+      "result": "Laser group: 100% (5/5); Conventional group: 60% (3/5)",
+      "statistical_significance": false,
+      "clinical_significance": "P>0.05 (not statistically significant due to small n), but clinically relevant difference observed in this pilot study"
+    },
+    {
+      "measured": "Sensitivity to thermal stimuli",
+      "result": "Conventional group showed slight sensitivity to heat; laser group showed sensitivity attributed to bio-stimulation effect only",
+      "statistical_significance": null,
+      "clinical_significance": "Laser group had fewer adverse thermal sensitivity symptoms"
+    },
+    {
+      "measured": "Radiographic bridge formation",
+      "result": "Assessed at 1, 6, and 12 months; laser group maintained vitality with no periapical changes at 1 year",
+      "statistical_significance": null,
+      "clinical_significance": "Positive radiographic outcomes in laser group"
+    }
+  ],
+  "notes": "Pilot study with very small sample size (n=5 per group). Statistical analysis used runs test (descriptive). Results are preliminary and require confirmation in larger RCTs. Registered at ClinicalTrials.gov as NCT01907919.",
+  "population": {
+    "n_participants": 10,
+    "age_range": "12–40 years (mean 26)",
+    "condition": "Permanent teeth with deep caries and carious pulp exposure",
+    "sample_type": "Clinical — human patients, permanent teeth"
+  },
+  "superiority_claim": "The authors state: 'The laser-assisted procedure proved to be more effective than the conventional technique in enhancing the outcomes of pulp-capping therapy in carious exposures.' and 'various studies confirmed the superiority of laser-assisted treatment over conventional, antibacterial agents.'",
+  "conflicts_of_interest": null,
+  "funding_source_text": "Study was done free of charge for control group patients. Extracted from a thesis at RWTH Aachen University. No external funding declared.",
+  "source_citation": "Yazdanfar, I., Gutknecht, N., & Franzen, R. (2014). Effects of diode laser on direct pulp capping treatment: A pilot study. Lasers in Medical Science. https://doi.org/10.1007/s10103-014-1574-8",
+  "contraindications": [
+    "Symptoms of irreversible pulpitis",
+    "Periapical radiographic changes",
+    "Bleeding continuing for more than 3 minutes after pulp exposure",
+    "Lack of patient acceptance"
+  ],
+  "adverse_events": [
+    "Slight sensitivity to heat stimulation in conventional group",
+    "Sensitivity attributed to bio-stimulation effect in laser group (transient)",
+    "Photothermal effects may include vaporization, carbonization, and protein denaturation if parameters not controlled"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 808,
+      "fluence_j_cm2": null,
+      "power_w": 1.5,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 0.4,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 808,
+      "fluence_j_cm2": null,
+      "power_w": 1.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 0.4,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "pulp exposure site",
+      "cavity walls"
+    ]
+  },
+  "clinical_indication": "Direct pulp capping of carious exposures in permanent teeth",
+  "target_tissue": "pulp",
+  "brand_model_mentioned": [
+    "Picasso-AMD (AMD, USA)",
+    "Vitrebond RM-GIC (3M ESPE)",
+    "Z350 XT composite (3M ESPE)",
+    "P60 composite (3M ESPE)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Total application time per tooth not explicitly reported — only speed/movement parameters given (2 s/mm for hemostasis; 2 mm/s for decontamination).",
+    "Fluence and irradiance not calculable from reported parameters without spot size confirmation.",
+    "Statistical significance not achieved (P>0.05) due to very small n; clinical conclusions are preliminary.",
+    "No blinding described — single operator performed all treatments.",
+    "Follow-up limited to 1 year; long-term outcomes unknown."
+  ],
+  "bibliographic_metadata": {
+    "title": "Effects of diode laser on direct pulp capping treatment: A pilot study",
+    "authors": [
+      "Iraj Yazdanfar",
+      "Norbert Gutknecht",
+      "Rene Franzen"
+    ],
+    "year": 2014,
+    "journal": "Lasers in Medical Science",
+    "doi": "10.1007/s10103-014-1574-8"
+  },
+  "protocols": [
+    {
+      "name": "Recubrimiento Pulpar Directo Asistido con Láser de Diodo 808 nm",
+      "synonyms_es": [
+        "recubrimiento pulpar directo con láser",
+        "pulpotomía parcial asistida con diodo",
+        "coagulación pulpar con láser de diodo",
+        "descontaminación cavitaria con diodo infrarrojo",
+        "hemostasia pulpar con láser"
+      ],
+      "synonyms_en": [
+        "diode laser-assisted direct pulp capping",
+        "laser pulp capping 808nm",
+        "diode laser pulp hemostasis and decontamination",
+        "near-infrared diode pulp capping",
+        "laser-assisted vital pulp therapy"
+      ],
+      "purpose": "Realizar hemostasia y descontaminación bacteriana del sitio de exposición pulpar cariosa mediante láser de diodo 808 nm antes de colocar el material de recubrimiento, con el objetivo de preservar la vitalidad pulpar y estimular la formación de dentina reparativa.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo 808 nm (modo CW, fibra 400 µm) — paso 1: hemostasia",
+          "representative_models": [
+            "Picasso-AMD (AMD, USA)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "808 nm",
+          "potencia": "1.5 W",
+          "frecuencia": "No especificado (CW)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra de 400 µm de diámetro, en contacto",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto directo",
+          "tiempo_ciclos": "2 s por cada 1 mm, movimiento de barrido vertical y horizontal sobre el sitio de exposición"
+        },
+        {
+          "equipment_class": "Láser de diodo 808 nm (modo CW, fibra 400 µm) — paso 2: descontaminación cavitaria",
+          "representative_models": [
+            "Picasso-AMD (AMD, USA)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "808 nm",
+          "potencia": "1.0 W",
+          "frecuencia": "No especificado (CW)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra de 400 µm de diámetro, en contacto",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto directo",
+          "tiempo_ciclos": "2 mm por segundo, movimiento circular sobre las paredes de la cavidad"
+        }
+      ],
+      "critical_notes": [
+        "El láser de diodo 808 nm penetra 500–1100 µm en dentina con alta dispersión, lo que lo hace especialmente útil para descontaminación en exposiciones cariosas con contaminación bacteriana profunda.",
+        "La hemostasia creada por el diodo incluye una delgada capa de necrosis superficial bajo la cual existe una zona de lesión reversible que permite la migración de células inflamatorias y fibroblastos para la formación del puente dentinario.",
+        "El efecto de bioestimulación del diodo (810–903 nm) promueve diferenciación de células odontoblasto-like, síntesis de matriz extracelular dentinaria y reducción de inflamación y dolor.",
+        "Parámetros reportados en estudio piloto con n=5; deben interpretarse como orientativos y no como protocolo definitivo estandarizado.",
+        "El documento presenta esta técnica favorablemente; existen alternativas (Ca(OH)2, MTA, Biodentine) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "Excluir casos con sangrado persistente >3 minutos tras la exposición pulpar, ya que indica inflamación irreversible."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar la cavidad con instrumentos rotatorios convencionales (fresas de diamante en turbina) para eliminar la dentina cariada bajo aislamiento absoluto con dique de goma.",
+        "Controlar el sangrado inicial con torundas de algodón estériles y solución salina.",
+        "Aplicar el láser de diodo 808 nm en modo CW a 1.5 W con fibra de 400 µm en contacto, realizando movimiento de barrido vertical y horizontal sobre el sitio de exposición pulpar a razón de 2 s por cada 1 mm para lograr hemostasia.",
+        "Aplicar el láser de diodo 808 nm en modo CW a 1.0 W con fibra de 400 µm en contacto, realizando movimiento circular sobre las paredes de la cavidad a razón de 2 mm/s para descontaminación bacteriana.",
+        "Colocar suavemente cemento de ionómero de vidrio modificado con resina (RM-GIC, Vitrebond) sobre la zona de exposición pulpar y el piso de la cavidad.",
+        "Completar la restauración final con una capa de composite fluido (Z350 XT) seguida de composite condensable (P60).",
+        "Evaluar la vitalidad pulpar clínica y radiográficamente a 1, 6 y 12 meses mediante prueba de frío, percusión y palpación."
+      ],
+      "indications": [
+        "Exposición pulpar cariosa en dientes permanentes con vitalidad confirmada",
+        "Ausencia de síntomas de pulpitis irreversible",
+        "Ausencia de cambios periapicales radiográficos",
+        "Control del sangrado en menos de 3 minutos tras la exposición",
+        "Dientes con desarrollo radicular completo o incompleto que requieren preservación de vitalidad"
+      ],
+      "contraindications": [
+        "Síntomas de pulpitis irreversible (dolor espontáneo, dolor prolongado al frío/calor)",
+        "Cambios periapicales radiográficos",
+        "Sangrado persistente por más de 3 minutos tras la exposición pulpar",
+        "Necrosis pulpar",
+        "Reabsorción radicular interna o externa"
+      ],
+      "postop_care": [
+        "Evaluar clínicamente a 1, 6 y 12 meses con prueba de frío, percusión y palpación.",
+        "Realizar control radiográfico periapical en cada cita de seguimiento para verificar formación de puente dentinario y ausencia de cambios periapicales.",
+        "Informar al paciente que puede presentar sensibilidad transitoria atribuible al efecto de bioestimulación del láser.",
+        "Ante cualquier síntoma (dolor espontáneo, sensibilidad prolongada, cambios radiográficos), reclasificar el caso como fracaso y considerar tratamiento endodóntico."
+      ],
+      "evidence_level": "Bajo — estudio piloto clínico aleatorizado con n=5 por grupo, sin cegamiento, análisis descriptivo con runs test. Resultados preliminares que requieren confirmación en estudios con mayor tamaño muestral.",
+      "keywords_es": [
+        "recubrimiento pulpar directo",
+        "láser de diodo",
+        "diodo 808 nm",
+        "exposición pulpar cariosa",
+        "hemostasia pulpar",
+        "descontaminación cavitaria",
+        "dentina reparativa",
+        "vitalidad pulpar",
+        "bioestimulación láser",
+        "ionómero de vidrio modificado con resina",
+        "Vitrebond",
+        "pulpitis reversible",
+        "preservación pulpar",
+        "terapia pulpar vital",
+        "Picasso AMD",
+        "infrarrojo cercano",
+        "odontoblastos",
+        "puente dentinario",
+        "caries profunda",
+        "endodoncia conservadora"
+      ],
+      "keywords_en": [
+        "direct pulp capping",
+        "diode laser",
+        "808nm diode",
+        "carious pulp exposure",
+        "pulp hemostasis",
+        "cavity decontamination",
+        "reparative dentin",
+        "pulp vitality",
+        "laser biostimulation",
+        "resin-modified glass ionomer",
+        "Vitrebond",
+        "reversible pulpitis",
+        "pulp preservation",
+        "vital pulp therapy",
+        "Picasso AMD",
+        "near-infrared laser",
+        "odontoblasts",
+        "dentin bridge",
+        "deep caries",
+        "conservative endodontics"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
