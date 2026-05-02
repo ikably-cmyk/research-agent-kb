@@ -1,0 +1,278 @@
+{
+  "article_refs": [
+    "pdf_local::martins_2018_double_laser_endo::67c1dc"
+  ],
+  "uuid": "ab07f0",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "case_series",
+  "evidence_level": "low",
+  "key_points": [
+    "Se propone un protocolo de doble longitud de onda (Er,Cr:YSGG 2780 nm + diodo 940 nm) emitidos simultáneamente a través de la misma punta de emisión radial (RFT) para tratamiento endodóntico.",
+    "El Er,Cr:YSGG 2780 nm actúa principalmente mediante cavitación mediada por agua para remoción de smear layer y debris; el diodo 940 nm penetra profundamente en los túbulos dentinarios para desinfección bacteriana hasta 1000 µm.",
+    "Los parámetros utilizados: Er,Cr:YSGG 1.25 W, 50 Hz, 25 mJ, pulso 60 µs, 80% agua, 30% aire; diodo 940 nm a 1 W en onda continua (CW); punta RFT2 de 270 µm (factor de calibración 0.55).",
+    "No se utilizaron irrigantes químicos convencionales (NaOCl, CHX, EDTA) ni medicación intraconducto (hidróxido de calcio); solo agua destilada como medio de irrigación.",
+    "Dos casos clínicos complejos (periodontitis apical asintomática y sintomática) mostraron remisión completa de síntomas tras la primera cita y curación radiográfica completa a los 12 meses.",
+    "La punta RFT produce distribución homogénea de energía en las paredes del conducto, cubre configuraciones anatómicas complejas (istmos, deltas apicales, conductos en C) y reduce el riesgo de extrusión apical.",
+    "El factor de calibración de la fibra RFT2 (0.55) implica que las potencias reales emitidas son 0.69 W (Er,Cr:YSGG) y 0.55 W (diodo 940 nm), no las mostradas en el panel.",
+    "Los autores sugieren que la combinación de ambas longitudes de onda puede superar las limitaciones individuales de cada láser, aunque los hallazgos son preliminares y se requieren RCTs.",
+    "No se prescribieron antibióticos en ninguno de los casos, apoyando la posición de que el drenaje y la desinfección son suficientes para infecciones endodónticas localizadas.",
+    "Se recomienda el uso de selladores a base de resina (Topseal) tras el tratamiento con láser Er,Cr:YSGG, ya que produce conductos libres de smear layer con túbulos dentinarios abiertos."
+  ],
+  "outcomes": [
+    {
+      "measured": "Remisión de síntomas clínicos (dolor, fístula, sensibilidad a la percusión)",
+      "result": "Remisión completa en ambos casos tras la primera cita",
+      "statistical_significance": null,
+      "clinical_significance": "Resolución clínica rápida sin medicación adicional"
+    },
+    {
+      "measured": "Curación radiográfica de periodontitis apical a 12 meses",
+      "result": "Regresión completa de la lesión periapical y restablecimiento de estructuras periodontales en ambos casos",
+      "statistical_significance": null,
+      "clinical_significance": "Curación ósea con reformación trabecular y lámina dura a los 12 meses"
+    },
+    {
+      "measured": "Limpieza de anatomías complejas (delta apical, istmos, conducto en C)",
+      "result": "Desbridamiento y obturación completos de deltas apicales, istmos y conductos en C en ambos casos",
+      "statistical_significance": null,
+      "clinical_significance": "La punta RFT con doble longitud de onda permitió limpiar anatomías de alta complejidad"
+    }
+  ],
+  "notes": "Estudio de prueba de concepto con solo 2 casos clínicos. Los autores reconocen explícitamente que se necesitan RCTs para confirmar los hallazgos. El factor de calibración de la fibra (0.55) es crítico para calcular la potencia real emitida. El protocolo se realizó sin irrigantes químicos convencionales, lo cual es una desviación significativa del estándar de cuidado actual.",
+  "population": {
+    "n_participants": 2,
+    "age_range": "47-67 años",
+    "condition": "Necrosis pulpar con periodontitis apical (asintomática y sintomática)",
+    "sample_type": "Pacientes clínicos con endodoncia de alta complejidad (diente 41 y diente 47 con configuración en C)"
+  },
+  "superiority_claim": "Los autores afirman: 'this innovative combination of lasers delivered by RFT may be of high clinical relevance in the near future' y que la combinación 'may clinically surpass all previously reported laser-assisted protocols'. También: 'The possibility of using two distinct lasers with two complementary effects...seems a very promising and logical combination.'",
+  "conflicts_of_interest": "The authors declare that they have no conflict of interest.",
+  "funding_source_text": null,
+  "source_citation": "Martins, M. R., Franzen, R., Depraet, F., & Gutknecht, N. (2018). Rationale for using a double-wavelength (940 nm + 2780 nm) laser in endodontics: literature overview and proof-of-concept. Lasers in Dental Science. https://doi.org/10.1007/s41547-017-0017-9",
+  "contraindications": [
+    "Uso de fibras de emisión directa (plain fibres) sin movimiento rotacional en conductos curvos — riesgo de resultados inconsistentes y transmisión de energía más allá del foramen apical",
+    "Potencias del diodo superiores a 1 W en onda continua pueden afectar la microestructura dentinaria",
+    "Proximidad a estructuras nerviosas (nervio mandibular) requiere precaución especial con irrigantes convencionales; el protocolo láser con agua destilada se presenta como alternativa más segura en estos casos"
+  ],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2780,
+      "fluence_j_cm2": null,
+      "power_w": 1.25,
+      "pulse_duration_ms": 0.06,
+      "frequency_hz": 50,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 25.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "80% agua, 30% aire"
+    },
+    {
+      "wavelength_nm": 940,
+      "fluence_j_cm2": null,
+      "power_w": 1.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 2,
+    "session_interval_days": 14,
+    "application_time_sec": null,
+    "application_technique": "Inserción de punta RFT hasta longitud de trabajo, retiro a velocidad ~2 mm/s con movimiento espiral; repetido 4 veces con ~15 s de pausa entre irradiaciones",
+    "anatomical_points": [
+      "conducto radicular completo desde ápice hasta cámara pulpar",
+      "delta apical",
+      "istmos",
+      "conductos laterales"
+    ]
+  },
+  "clinical_indication": "Tratamiento endodóntico de dientes con necrosis pulpar y periodontitis apical (asintomática y sintomática), incluyendo anatomías complejas (conducto en C, delta apical, proximidad al nervio mandibular)",
+  "target_tissue": "dentin, pulp, periapical bone",
+  "brand_model_mentioned": [
+    "Biolase Technology (Er,Cr:YSGG + diodo 940 nm)",
+    "RFT2 Biolase Technology (punta radial 270 µm)",
+    "Root Zx Morita (localizador apical)",
+    "Protaper Next Dentsply-Maillefer",
+    "ElementsTM Kerr Dental",
+    "Topseal Dentsply-Maillefer",
+    "KETAC Molar AplicapTM 3M ESPE",
+    "Ionoseal VOCO GmbH",
+    "SureFil SDR Dentsply",
+    "Filtek 3M ESPE"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "lidocaine",
+      "drug_class": "Local anesthetic (amide)",
+      "interaction_type": "caution",
+      "dental_relevance": "Anestesia local utilizada: lidocaína 2% con epinefrina 1:100,000 (Scandonest) para procedimientos endodónticos",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "epinephrine",
+      "drug_class": "Vasoconstrictor / sympathomimetic",
+      "interaction_type": "caution",
+      "dental_relevance": "Vasoconstrictor incluido en la solución anestésica (1:100,000); precaución en pacientes con patología cardiovascular",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "No se utilizaron irrigantes químicos convencionales (NaOCl, CHX, EDTA) ni medicación intraconducto entre citas. Solo agua destilada como irrigante. No se prescribieron antibióticos. El factor de calibración de la fibra RFT2 (0.55) debe considerarse: potencias reales son 0.69 W (Er,Cr:YSGG) y 0.55 W (diodo 940 nm).",
+  "confidence": "high",
+  "uncertainties": [
+    "El tiempo total de irradiación por conducto no se especifica explícitamente (solo se menciona velocidad de retiro ~2 mm/s y 4 repeticiones con 15 s de pausa).",
+    "No se reportan parámetros de temperatura intracanal ni externa durante el procedimiento en estos casos clínicos específicos (aunque se citan estudios previos al respecto).",
+    "El número de conductos tratados por diente y la longitud de trabajo exacta no se especifican para cada caso.",
+    "La duración de pulso de 60 µs corresponde al 'modo H' de Biolase para Er,Cr:YSGG; el paper no usa nomenclatura comercial pero los parámetros son consistentes con ese modo.",
+    "No se especifica si el movimiento espiral fue estandarizado o dependió del operador."
+  ],
+  "bibliographic_metadata": {
+    "title": "Rationale for using a double-wavelength (940 nm + 2780 nm) laser in endodontics: literature overview and proof-of-concept",
+    "authors": [
+      "Miguel R. Martins",
+      "Rene Franzen",
+      "Frederick Depraet",
+      "Norbert Gutknecht"
+    ],
+    "year": 2018,
+    "journal": "Lasers in Dental Science",
+    "doi": "10.1007/s41547-017-0017-9"
+  },
+  "protocols": [
+    {
+      "name": "Protocolo de doble longitud de onda Er,Cr:YSGG 2780 nm + Diodo 940 nm para desinfección y remoción de smear layer endodóntico",
+      "synonyms_es": [
+        "láser de doble longitud de onda en endodoncia",
+        "protocolo combinado Er,Cr:YSGG más diodo 940 nm",
+        "doble láser endodóntico simultáneo",
+        "tratamiento endodóntico con dos longitudes de onda",
+        "desinfección endodóntica con láser combinado"
+      ],
+      "synonyms_en": [
+        "double-wavelength laser endodontics",
+        "dual-wavelength laser root canal treatment",
+        "combined Er,Cr:YSGG and 940 nm diode protocol",
+        "simultaneous dual laser endodontic disinfection",
+        "dual laser RFT endodontic protocol"
+      ],
+      "purpose": "Combinar simultáneamente los efectos del láser Er,Cr:YSGG 2780 nm (remoción de smear layer y debris mediante cavitación mediada por agua) y el diodo 940 nm (desinfección profunda de túbulos dentinarios hasta 1000 µm) a través de una única punta de emisión radial (RFT), para lograr limpieza y desinfección tridimensional del sistema de conductos radiculares sin irrigantes químicos convencionales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Biolase Waterlase (Er,Cr:YSGG 2780 nm) + Diodo 940 nm Biolase, con punta RFT2 radial 270 µm — sistema de doble longitud de onda simultánea",
+          "representative_models": [
+            "Biolase Waterlase iPlus",
+            "Biolase Epic diode 940 nm"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2780 nm (Er,Cr:YSGG) + 940 nm (diodo) simultáneos",
+          "potencia": "Er,Cr:YSGG: 1.25 W (panel) / 0.69 W (real tras calibración 0.55); Diodo 940 nm: 1 W (panel) / 0.55 W (real)",
+          "frecuencia": "Er,Cr:YSGG: 50 Hz; Diodo 940 nm: N/A (CW)",
+          "modo_de_pulso": "Er,Cr:YSGG: 60 µs (modo H Biolase); Diodo 940 nm: onda continua (CW)",
+          "fibra_punta": "RFT2 Biolase, punta de emisión radial 270 µm; factor de calibración 0.55",
+          "agua_pct": "80% (Er,Cr:YSGG)",
+          "aire_pct": "30% (Er,Cr:YSGG)",
+          "distancia": "Punta insertada hasta longitud de trabajo (1 mm corto del ápice biológico); retiro a ~2 mm/s con movimiento espiral",
+          "tiempo_ciclos": "4 pasadas de ápice a coronal (~2 mm/s); ~15 s de pausa entre pasadas; protocolo idéntico en 2 citas separadas por 14 días"
+        }
+      ],
+      "critical_notes": [
+        "El factor de calibración de la fibra RFT2 es 0.55: las potencias reales emitidas son 0.69 W (Er,Cr:YSGG) y 0.55 W (diodo 940 nm), no las mostradas en el panel del equipo. Siempre verificar el factor de calibración de la punta utilizada.",
+        "No se utilizaron irrigantes químicos convencionales (NaOCl, CHX, EDTA) en este protocolo; solo agua destilada. Esta es una desviación significativa del estándar de cuidado actual y los autores reconocen que los hallazgos son preliminares (n=2).",
+        "La punta RFT2 se movió con movimiento espiral (no solo retiro lineal) para facilitar el retiro en conductos curvos y mejorar la cobertura de las paredes.",
+        "El diodo 940 nm presenta baja absorción en agua (µa = 0.04–0.05 cm⁻¹), lo que favorece la penetración profunda en dentina pero NO permite activación de irrigantes ni efectos de cavitación.",
+        "El Er,Cr:YSGG 2780 nm actúa mediante cavitación mediada por agua; requiere presencia de agua/irrigante en el conducto para su efecto de remoción de smear layer.",
+        "Potencias del diodo superiores a 1 W en onda continua pueden afectar la microestructura dentinaria; mantenerse en ≤1 W CW.",
+        "En conductos con foramen apical amplio (resorción inflamatoria, ápice inmaduro), el uso de Er,Cr:YSGG con bajas potencias y RFT reduce el riesgo de extrusión apical en comparación con irrigantes convencionales.",
+        "El documento presenta esta técnica favorablemente como prueba de concepto; existen alternativas con mecanismos de acción diferentes (PIPS™, LAI, PUI, irrigación sónica) que pueden ser apropiadas según el caso clínico.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. El protocolo descrito en este paper utiliza equipo Biolase con punta RFT2, que es una técnica de activación de irrigante diferente a PIPS™."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Administrar anestesia local (lidocaína 2% con epinefrina 1:100,000) y colocar dique de goma.",
+        "Preparar cavidad de acceso con fresa de carburo de alta velocidad.",
+        "Establecer longitud de trabajo electrónicamente (localizador apical) a 1 mm corto del ápice biológico y confirmar radiográficamente.",
+        "Confirmar permeabilidad con lima K #15.",
+        "Realizar preparación biomecánica con sistema rotatorio (ej. Protaper Next hasta X3 #30.07) irrigando con solución salina estéril entre cada lima.",
+        "Llenar cada conducto con agua destilada.",
+        "Insertar la punta RFT2 (270 µm) hasta la longitud de trabajo.",
+        "Activar simultáneamente el Er,Cr:YSGG (1.25 W, 50 Hz, 25 mJ, 60 µs, 80% agua, 30% aire) y el diodo 940 nm (1 W, CW).",
+        "Retirar la punta desde el ápice hacia coronal a velocidad aproximada de 2 mm/s con movimiento espiral.",
+        "Repetir la irradiación 4 veces con aproximadamente 15 segundos de pausa entre cada pasada.",
+        "Colocar pellet de algodón estéril en cámara pulpar y sellar con ionómero de vidrio (primera cita).",
+        "En la segunda cita (14 días después), re-acceder al conducto, rellenar con agua destilada y repetir el protocolo de irradiación idéntico.",
+        "Secar el conducto con puntas de papel estériles y verificar ausencia de supuración o exudado.",
+        "Obturar con técnica de onda continua de condensación, cono de gutapercha auto-ajustado y sellador a base de resina (ej. Topseal).",
+        "Restaurar la cavidad de acceso con material definitivo."
+      ],
+      "indications": [
+        "Necrosis pulpar con periodontitis apical (asintomática o sintomática)",
+        "Anatomías endodónticas complejas: conductos en C, deltas apicales, istmos",
+        "Casos con foramen apical amplio (resorción inflamatoria, ápice inmaduro) donde los irrigantes convencionales representan riesgo de extrusión",
+        "Dientes con proximidad a estructuras nerviosas (ej. nervio mandibular) donde se desea minimizar el riesgo de extrusión de irrigantes cáusticos",
+        "Pacientes en quienes se desea evitar el uso de irrigantes químicos convencionales"
+      ],
+      "contraindications": [
+        "Potencias del diodo 940 nm superiores a 1 W en onda continua (riesgo de daño a la microestructura dentinaria)",
+        "Uso sin agua destilada en el conducto para el componente Er,Cr:YSGG (el agua es necesaria para la cavitación y el efecto de remoción de smear layer)",
+        "Aplicación sin verificar el factor de calibración de la punta (riesgo de sobredosificación o subdosificación de energía real)"
+      ],
+      "postop_care": [
+        "No se prescribieron antibióticos ni antiinflamatorios en los casos reportados; el manejo del dolor postoperatorio no fue necesario.",
+        "Control radiográfico a los 6 y 12 meses para evaluar la curación periapical.",
+        "Restauración definitiva de la cavidad de acceso con materiales de alta resistencia (ionómero de vidrio + composite o SDR)."
+      ],
+      "evidence_level": "Bajo — prueba de concepto basada en 2 casos clínicos con seguimiento de 12 meses. No existen RCTs que evalúen este protocolo específico de doble longitud de onda simultánea.",
+      "keywords_es": [
+        "doble longitud de onda endodoncia",
+        "Er,Cr:YSGG 2780 nm endodoncia",
+        "diodo 940 nm endodoncia",
+        "láser combinado conducto radicular",
+        "punta de emisión radial RFT",
+        "remoción smear layer láser",
+        "desinfección endodóntica láser",
+        "cavitación mediada por agua láser",
+        "Biolase endodoncia",
+        "periodontitis apical tratamiento láser",
+        "conducto en C láser",
+        "delta apical desbridamiento",
+        "irrigación láser endodoncia",
+        "desinfección túbulos dentinarios",
+        "tratamiento endodóntico sin hipoclorito"
+      ],
+      "keywords_en": [
+        "double wavelength laser endodontics",
+        "Er,Cr:YSGG 2780 nm root canal",
+        "940 nm diode laser endodontics",
+        "dual laser root canal treatment",
+        "radial firing tip RFT endodontics",
+        "smear layer removal laser",
+        "endodontic laser disinfection",
+        "laser-activated irrigation",
+        "Biolase endodontics",
+        "apical periodontitis laser treatment",
+        "C-shaped canal laser",
+        "apical delta debridement laser",
+        "deep dentin disinfection laser",
+        "root canal without NaOCl",
+        "laser cavitation root canal"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
