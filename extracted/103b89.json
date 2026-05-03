@@ -1,0 +1,291 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101038_srep10093__46e66e86::55c183"
+  ],
+  "uuid": "103b89",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "Se desarrolló un dispositivo de terapia fotodinámica (PDT) de bajo costo basado en un LED de 635 nm alimentado por tres baterías AA alcalinas desechables, con un costo total de componentes inferior a $40 USD.",
+    "El dispositivo logró una irradiancia de aproximadamente 68 mW/cm² sobre un área circular de ~5.33 mm de diámetro a 1 cm de distancia, con una potencia de salida de 15 mW.",
+    "Se demostró respuesta citotóxica casi completa en cultivos monocapa y 3D de células de carcinoma escamoso A431 sensibilizadas con ALA (1 mM, 4 horas) e irradiadas con fluencias de hasta 80 J/cm².",
+    "La batería de 3 AA mostró mayor estabilidad de voltaje que la batería de 9V: caída de solo 13% en 90 minutos de operación continua versus 25% en 60 minutos para la de 9V.",
+    "La operación en ráfagas de 15 minutos con períodos de reposo de 5 minutos resultó en solo 7.5% de disminución total del voltaje en 6 períodos, con recuperación parcial entre ráfagas.",
+    "El error de dosimetría promedio por caída de potencia fue de 4.4%, considerado clínicamente aceptable frente a otras fuentes de incertidumbre en PDT.",
+    "La entrega fraccionada de luz (fracciones de 2 minutos) no mostró diferencia significativa en eficacia terapéutica versus entrega continua (p>0.05) en el modelo 3D in vitro.",
+    "Se adaptó un smartphone (iPhone 5S) con un array LED de 405 nm y un filtro de emisión de 660 nm para detectar fluorescencia de PpIX de forma cuantitativa, con linealidad R²=0.9391 en el rango 1-10 µg/mL.",
+    "El sistema de imagen con smartphone pudo diferenciar significativamente tejido tratado con ALA de controles no tratados (p<10⁻⁷).",
+    "El estudio sienta las bases para una plataforma portátil de PDT guiada por imagen para aplicaciones de salud global en entornos con recursos limitados o sin acceso a electricidad."
+  ],
+  "outcomes": [
+    {
+      "measured": "Viabilidad celular en monocapa (A431) tras ALA-PDT con LED 635 nm a batería",
+      "result": "Respuesta citotóxica sigmoidal con muerte celular casi completa a dosis >10 J/cm²",
+      "statistical_significance": true,
+      "clinical_significance": "Eficacia citotóxica demostrada en modelo in vitro de carcinoma escamoso oral"
+    },
+    {
+      "measured": "Volumen residual de enfermedad en cultivos 3D (A431) tras ALA-PDT",
+      "result": "Destrucción citotóxica casi total de nódulos 3D a 80 J/cm²; destrucción en profundidad confirmada por confocal en nódulos >100 µm",
+      "statistical_significance": true,
+      "clinical_significance": "Penetración de luz 635 nm suficiente para tratar nódulos tumorales de espesor clínicamente relevante"
+    },
+    {
+      "measured": "Estabilidad de voltaje de batería 3AA vs 9V bajo carga continua",
+      "result": "3AA: caída de 13% en 90 min; 9V: caída de 25% en 60 min",
+      "statistical_significance": null,
+      "clinical_significance": "Las baterías 3AA son preferibles para dosimetría estable en PDT portátil"
+    },
+    {
+      "measured": "Error de dosimetría por caída de potencia en operación por ráfagas (15 min ON / 5 min OFF)",
+      "result": "Error promedio de 4.4% (máximo 8.97% en primera ráfaga)",
+      "statistical_significance": null,
+      "clinical_significance": "Error clínicamente aceptable comparado con otras fuentes de incertidumbre en PDT"
+    },
+    {
+      "measured": "Detección cuantitativa de fluorescencia de PpIX con smartphone (iPhone 5S + LED 405 nm + filtro 660 nm)",
+      "result": "Linealidad R²=0.9391 en rango 1-10 µg/mL en phantoms de tejido; diferenciación significativa ALA vs control (p<10⁻⁷)",
+      "statistical_significance": true,
+      "clinical_significance": "Factibilidad de imagen guiada por fluorescencia de PpIX con dispositivo de bajo costo para planificación y monitoreo de PDT"
+    }
+  ],
+  "notes": "Este estudio es puramente in vitro (monocapa y cultivos 3D) y de caracterización de dispositivo. No hay datos clínicos en pacientes. El enfoque es en cáncer oral pero el modelo es A431 (carcinoma escamoso de piel). El fotosensibilizador es ALA-inducido PpIX, no un fármaco dental convencional. La relevancia para odontología es indirecta: PDT para lesiones orales premalignas/malignas con dispositivos portátiles de bajo costo.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Carcinoma escamoso (modelo in vitro A431); lesiones orales premalignas/malignas (contexto clínico propuesto)",
+    "sample_type": "Cultivos celulares monocapa y 3D de células A431 (carcinoma escamoso)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare no competing financial interests.",
+  "funding_source_text": "National Cancer Institute, US National Institutes of Health: R00CA155045 (to JPC), P01CA084203 (to TH), and UH2CA189901 (to TH and JPC).",
+  "source_citation": "Hempstead, J., Jones, D. P., Ziouche, A., Cramer, G. M., Rizvi, I., Arnason, S., Hasan, T., & Celli, J. P. (2015). Low-cost photodynamic therapy devices for global health settings: Characterization of battery-powered LED performance and smartphone imaging in 3D tumor models. Scientific Reports, 5, 10093. https://doi.org/10.1038/srep10093",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 635,
+      "fluence_j_cm2": 80.0,
+      "power_w": 0.015,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 5.33,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.068,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Disipador térmico TO-39 acoplado al LED con compuesto térmico"
+    },
+    {
+      "wavelength_nm": 405,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 900.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "lesión oral superficial (propuesto)",
+      "cultivo celular en placa multipocillo (in vitro)"
+    ]
+  },
+  "clinical_indication": "Terapia fotodinámica (PDT) para cáncer oral y lesiones premalignas de la cavidad oral en entornos con recursos limitados",
+  "target_tissue": "oral mucosa, squamous carcinoma cells",
+  "brand_model_mentioned": [
+    "OptoDiode OD-624L-ND",
+    "Warp 10 (Quantum Warp Light Devices)",
+    "Keithley 2401 Source Meter",
+    "Newport Power Meter Model 2935-C",
+    "Melles-Griot 13PEM001",
+    "iPhone 5S (Apple Inc.)",
+    "Eigen Imaging FluoroVu",
+    "Chroma Technology (filtro 660 nm)",
+    "Zeiss AxioObserver Z.1",
+    "Zeiss LSM 510"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "aminolevulinic acid (ALA)",
+      "drug_class": "Photosensitizer precursor (porphyrin precursor)",
+      "interaction_type": "caution",
+      "dental_relevance": "ALA tópico u oral induce acumulación de protoporfirina IX (PpIX) en tejido tumoral oral; utilizado como fotosensibilizador para PDT de lesiones orales premalignas y malignas. Requiere activación con luz de 635 nm.",
+      "photosensitivity": true,
+      "laser_implication": "ALA-inducido PpIX tiene máximo de excitación a ~409 nm (Soret band) y máximo terapéutico a 635 nm. La activación con LED o láser de 635 nm genera oxígeno singlete citotóxico. Pacientes tratados con ALA deben evitar exposición a luz solar o fuentes de luz intensa en las horas posteriores a la administración."
+    },
+    {
+      "name": "protoporphyrin IX (PpIX)",
+      "drug_class": "Endogenous photosensitizer (porphyrin)",
+      "interaction_type": "caution",
+      "dental_relevance": "PpIX acumulado selectivamente en tejido tumoral oral tras administración de ALA; sirve simultáneamente como agente terapéutico (PDT) y agente de contraste fluorescente para imagen tumoral.",
+      "photosensitivity": true,
+      "laser_implication": "PpIX es activado por luz de 635 nm para efecto terapéutico y por 405 nm para imagen de fluorescencia. La fotoactivación genera especies reactivas de oxígeno citotóxicas. Requiere protección ocular y cutánea durante el procedimiento."
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Pacientes que reciben ALA tópico u oral para PDT oral deben evitar exposición a luz solar intensa o fuentes de luz brillante durante al menos 24-48 horas post-administración para prevenir fotosensibilización sistémica. El tiempo de incubación de ALA antes de la irradiación es de 4 horas para acumulación óptima de PpIX.",
+  "confidence": "high",
+  "uncertainties": [
+    "Los parámetros de irradiancia (68 mW/cm²) y potencia (15 mW) son específicos del prototipo de laboratorio; la traslación a dispositivos clínicos requerirá recalibración.",
+    "El modelo celular A431 es de carcinoma escamoso de piel, no de mucosa oral; la extrapolación directa a lesiones orales clínicas tiene limitaciones.",
+    "No se reportan parámetros de potencia del array LED de 405 nm utilizado para imagen de fluorescencia.",
+    "El rango de fluencia clínicamente óptimo para PDT oral con ALA-PpIX no está definido en este paper; se menciona 20-100 J/cm² como rango probable.",
+    "La factibilidad clínica en pacientes reales no ha sido evaluada; el estudio es puramente in vitro.",
+    "El tamaño del spot de tratamiento (~5.33 mm de diámetro) es pequeño para lesiones orales clínicas; se requeriría acoplamiento a fibra óptica con difusor para aplicación clínica real."
+  ],
+  "bibliographic_metadata": {
+    "title": "Low-cost photodynamic therapy devices for global health settings: Characterization of battery-powered LED performance and smartphone imaging in 3D tumor models",
+    "authors": [
+      "Joshua Hempstead",
+      "Dustin P. Jones",
+      "Abdelali Ziouche",
+      "Gwendolyn M. Cramer",
+      "Imran Rizvi",
+      "Stephen Arnason",
+      "Tayyaba Hasan",
+      "Jonathan P. Celli"
+    ],
+    "year": 2015,
+    "journal": "Scientific Reports",
+    "doi": "10.1038/srep10093"
+  },
+  "protocols": [
+    {
+      "name": "PDT con ALA-PpIX mediante LED 635 nm portátil a batería para lesiones orales",
+      "synonyms_es": [
+        "terapia fotodinámica con ácido aminolevulínico oral",
+        "PDT portátil con LED para cáncer oral",
+        "fototerapia con protoporfirina IX en cavidad oral",
+        "PDT de bajo costo para lesiones orales premalignas",
+        "terapia fotodinámica con LED a batería"
+      ],
+      "synonyms_en": [
+        "ALA-PDT with battery-powered LED",
+        "portable photodynamic therapy for oral cancer",
+        "PpIX-mediated PDT with LED source",
+        "low-cost PDT for oral lesions",
+        "aminolevulinic acid photodynamic therapy oral"
+      ],
+      "purpose": "Activación fotodinámica de protoporfirina IX (PpIX) acumulada selectivamente en tejido tumoral oral mediante irradiación con LED de 635 nm alimentado por baterías, para destrucción citotóxica de lesiones orales malignas y premalignas en entornos con recursos limitados o sin acceso a electricidad.",
+      "parameters_table": [
+        {
+          "equipment_class": "LED de alta potencia 635 nm (no coherente, no láser)",
+          "representative_models": [
+            "OptoDiode OD-624L-ND"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "635 nm (FWHM 40 nm)",
+          "potencia": "15 mW (irradiancia: 68 mW/cm²)",
+          "frecuencia": "No especificado (operación continua o en ráfagas de 15 min)",
+          "modo_de_pulso": "Continuo (CW) o fraccionado (ráfagas de 15 min con reposo de 5 min)",
+          "fibra_punta": "Sin óptica adicional en prototipo; se propone acoplamiento a fibra multimodo con difusor distal para uso clínico oral",
+          "agua_pct": "No aplica (LED, no láser de erbio)",
+          "aire_pct": "No aplica (LED, no láser de erbio)",
+          "distancia": "1 cm desde la superficie celular (prototipo in vitro); contacto con difusor propuesto para uso clínico",
+          "tiempo_ciclos": "Fluencia total 20-80 J/cm²; ráfagas de 15 min ON / 5 min OFF recomendadas para estabilidad de batería; tiempo total variable según fluencia objetivo"
+        }
+      ],
+      "critical_notes": [
+        "El fotosensibilizador ALA debe administrarse 4 horas antes de la irradiación para acumulación óptima de PpIX en tejido tumoral.",
+        "La potencia de salida del LED disminuye con el uso de la batería (~4.4% de error de dosimetría promedio por ráfaga); se recomienda verificar y recalibrar la potencia entre tratamientos.",
+        "La operación en ráfagas (15 min ON / 5 min OFF) mejora la estabilidad de la batería y permite recuperación parcial del voltaje, con solo 7.5% de caída total en 6 períodos.",
+        "El spot de tratamiento del prototipo (~5.33 mm de diámetro) es pequeño; para lesiones orales clínicas se requiere acoplamiento a fibra óptica multimodo con difusor distal para cobertura uniforme.",
+        "Pacientes tratados con ALA deben evitar exposición a luz solar intensa durante al menos 24-48 horas post-administración.",
+        "Este protocolo fue validado únicamente en modelos in vitro (monocapa y 3D); la traslación clínica requiere estudios en pacientes.",
+        "El documento presenta esta tecnología favorablemente para entornos de recursos limitados; existen alternativas con láseres convencionales y fuentes de luz clínicas establecidas con mayor evidencia clínica.",
+        "⚠️ Este protocolo es de carácter experimental/in vitro. Los parámetros clínicos para uso en pacientes no han sido estandarizados en este estudio."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Administrar ALA (1 mM en medio de cultivo, o en suspensión oral para uso clínico) al tejido objetivo.",
+        "Incubar durante 4 horas a 37°C para permitir la acumulación de PpIX en células tumorales.",
+        "Reemplazar el medio con medio de cultivo completo fresco inmediatamente antes de la irradiación.",
+        "Posicionar el dispositivo LED de 635 nm a 1 cm de la superficie de tratamiento.",
+        "Verificar la potencia de salida del LED antes de cada sesión de tratamiento.",
+        "Irradiar con la fluencia objetivo (20-80 J/cm²) en modo continuo o en ráfagas de 15 minutos con reposos de 5 minutos.",
+        "Verificar y recalibrar la potencia de salida después de cada ráfaga de tratamiento si se usa modo fraccionado.",
+        "Evaluar la respuesta al tratamiento a las 24 horas mediante imagen de fluorescencia (calcein AM / bromuro de etidio) o clínicamente."
+      ],
+      "indications": [
+        "Lesiones orales premalignas (leucoplasia, eritroplasia, displasia oral)",
+        "Carcinoma escamoso oral en estadios tempranos (I/II)",
+        "Lesiones orales superficiales accesibles a la luz",
+        "Entornos con recursos limitados o sin acceso a electricidad donde la PDT convencional no está disponible",
+        "Pacientes en países en desarrollo con alta prevalencia de cáncer oral (ej. India: uso de tabaco de mascar)"
+      ],
+      "contraindications": [
+        "Porfiria o hipersensibilidad conocida a ALA o porfirinas",
+        "Lesiones profundas no superficiales sin acceso adecuado a la luz (sin fibra óptica con difusor)",
+        "Pacientes que no pueden evitar exposición a luz solar post-tratamiento",
+        "Lesiones en estadio avanzado (III/IV) que requieren cirugía radical como tratamiento primario"
+      ],
+      "postop_care": [
+        "Evitar exposición a luz solar intensa o fuentes de luz brillante durante 24-48 horas post-administración de ALA.",
+        "Evaluar respuesta al tratamiento a las 24 horas.",
+        "Considerar retratamiento según respuesta clínica y fluorescencia residual de PpIX."
+      ],
+      "evidence_level": "Bajo — estudio in vitro en línea celular A431 (carcinoma escamoso). Sin datos clínicos en pacientes. Prototipo de laboratorio de bajo costo no validado clínicamente.",
+      "keywords_es": [
+        "terapia fotodinámica",
+        "PDT oral",
+        "ácido aminolevulínico",
+        "ALA",
+        "protoporfirina IX",
+        "PpIX",
+        "LED 635 nm",
+        "cáncer oral",
+        "leucoplasia oral",
+        "fotosensibilizador",
+        "PDT portátil",
+        "PDT bajo costo",
+        "salud global",
+        "recursos limitados",
+        "carcinoma escamoso oral",
+        "fototerapia LED",
+        "imagen fluorescencia PpIX",
+        "dosimetría PDT",
+        "fraccionamiento luz PDT",
+        "lesiones premalignas orales"
+      ],
+      "keywords_en": [
+        "photodynamic therapy",
+        "oral PDT",
+        "aminolevulinic acid",
+        "ALA",
+        "protoporphyrin IX",
+        "PpIX",
+        "635 nm LED",
+        "oral cancer",
+        "oral leukoplakia",
+        "photosensitizer",
+        "portable PDT",
+        "low-cost PDT",
+        "global health",
+        "resource-limited settings",
+        "oral squamous carcinoma",
+        "LED phototherapy",
+        "PpIX fluorescence imaging",
+        "PDT dosimetry",
+        "fractionated light delivery",
+        "oral premalignant lesions"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
