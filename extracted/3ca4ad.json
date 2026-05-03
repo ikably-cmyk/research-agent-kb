@@ -9,86 +9,70 @@
   "study_type": "narrative_review",
   "evidence_level": "low",
   "key_points": [
-    "aPDT requires three components: a photosensitizer (PS), visible light of appropriate wavelength, and molecular oxygen; its antimicrobial effect is based on oxidative burst via type I (oxygen radicals) and type II (singlet oxygen) mechanisms.",
-    "Biofilm-state bacteria are up to 1000× more resistant to antibiotics than planktonic cells, partly due to EPS barrier, altered gene expression, persister cells, and genetic diversity.",
-    "Phenothiazinium dyes (Methylene Blue, Toluidine Blue) are the most studied PS for biofilm inactivation; results are highly variable depending on biofilm age, PS concentration, light dose, and biofilm thickness.",
-    "SAPYR (perinaphthenone derivative, singlet oxygen quantum yield ~0.99) achieved ≥5 log10 CFU reduction against Enterococcus faecalis biofilms at 100 μM with blue LED (460±20 nm, 600 mW/cm², 120 s), outperforming TMPyP which had no effect.",
-    "Curcumin (absorption max ~430 nm, type I mechanism) achieved ≥3 log10 reduction in multispecies biofilms at concentrations above 3 g/l with blue LED (450 nm, 5.7 J/cm²), but was less effective in dentine carious lesions.",
-    "Chitosan-conjugated Rose Bengal (CSRB) achieved 9 log10 reduction against Pseudomonas aeruginosa and 5 log10 against Enterococcus faecalis biofilms at 40 J/cm², outperforming unconjugated RB and MB.",
-    "In vitro biofilm results are difficult to translate to clinical settings: in situ biofilms (≥1000 μm thick) showed <1 log10 reduction with TBO+LED, whereas in vitro biofilms (100 μm) showed >5 log10 reduction under identical conditions.",
+    "aPDT requires three components: a photosensitizer (PS), visible light of appropriate wavelength, and molecular oxygen; its antimicrobial effect is based on generation of reactive oxygen species (ROS) via type I and type II photochemical mechanisms.",
+    "Biofilm-state bacteria are up to 1000× more resistant to antibiotics than planktonic counterparts, making aPDT a promising alternative due to its multi-target, non-specific oxidative mechanism with low resistance-development potential.",
+    "Phenothiazinium dyes (Methylene Blue, Toluidine Blue) are the most studied PS for oral biofilm inactivation; results are highly variable depending on biofilm age, species composition, PS concentration, and light dose.",
+    "SAPYR (perinaphthenone derivative) achieved ≥5 log10 CFU reduction against Enterococcus faecalis biofilms at 100 μM with a dental LED (460±20 nm, 600 mW/cm², 120 s), outperforming TMPyP which had no effect under identical conditions.",
+    "Curcumin (450 nm LED, 5.7 J/cm²) reduced multispecies biofilms (S. mutans + L. acidophilus) by ≥3 log10 at concentrations above 3 g/l, but showed only 69% reduction in dentine carious lesions.",
+    "Chitosan-conjugated Rose Bengal (CSRB) achieved 9 log10 reduction against P. aeruginosa and 5 log10 against E. faecalis biofilms at 40 J/cm², substantially outperforming unconjugated RB and MB.",
     "Er:YAG laser (2940 nm, 100 mJ, 15 Hz, 40 s) achieved 4 log10 inactivation of E. faecalis biofilms; 50 mJ pulses and Nd:YAG (1064 nm, 2 W) had no effect (<1 log10).",
-    "Only one of 22 reviewed studies used an antimicrobial drug (NaOCl) as positive control, limiting comparability; NaOCl at 2.5% achieved >6 log10 reduction regardless of immersion period.",
-    "Clinical aPDT application in dentistry (periodontitis, peri-implantitis, endodontics) is still in its infancy with conflicting results; aesthetic concerns exist due to blue staining from phenothiazinium dyes."
+    "In vitro aPDT results are difficult to translate to clinical settings: in situ biofilms (≥1000 μm thick) showed <1 log10 reduction with TBO+LED, versus >5 log10 for in vitro biofilms (100 μm) under identical conditions.",
+    "Standardization of biofilm models and CFU assays is lacking; the ASM requires ≥3 log10 CFU reduction to use the terms 'antimicrobial' or 'antibacterial'.",
+    "Clinical aPDT studies in dentistry (periodontitis, peri-implantitis, endodontics) have been conducted mainly with MB and TBO, with conflicting results; clinical application remains in its infancy."
   ],
   "outcomes": [
     {
-      "measured": "CFU reduction — MB+diode laser (1W, 665 nm, 30 J/cm²) on ex vivo polymicrobial periodontal biofilm",
-      "result": "Maximum 32% CFU reduction",
+      "measured": "aPDT with TBO (100 mg/l) + HeNe/LED on S. mutans biofilms (3–10 days)",
+      "result": "2–5 log10 CFU reduction depending on biofilm age, light source, and irradiation period",
       "statistical_significance": null,
-      "clinical_significance": "Below 3 log10 threshold; insufficient for antimicrobial claim"
+      "clinical_significance": "Achieved ≥3 log10 (ASM threshold) in some conditions"
     },
     {
-      "measured": "CFU reduction — TBO+HeNe/LED on S. mutans biofilms (3–10 days)",
-      "result": "2–5 log10 reduction depending on biofilm age, light source, irradiation period",
+      "measured": "aPDT with MB (25 μg/ml) + diode laser (1W, 665 nm) on polymicrobial root canal biofilm",
+      "result": "80% CFU reduction (Fimple et al., 2008)",
       "statistical_significance": null,
-      "clinical_significance": "Achieved 3 log10 threshold in some conditions"
+      "clinical_significance": "Did not reach 3 log10 threshold; authors suggest parameter optimization needed"
     },
     {
-      "measured": "CFU reduction — SAPYR (100 μM) + blue LED (460±20 nm, 600 mW/cm², 120 s) on E. faecalis monospecies biofilm (72 h)",
-      "result": "≥5 log10 CFU reduction",
+      "measured": "aPDT with TBO (25 μg/ml) + diode laser (100 mW, 625 nm) on E. faecalis root canal biofilms (4–8 weeks)",
+      "result": "Total elimination below CFU detection limit",
       "statistical_significance": null,
-      "clinical_significance": "Exceeds 3 log10 ASM threshold; highly effective"
+      "clinical_significance": "Complete eradication achieved; clinically significant"
     },
     {
-      "measured": "CFU reduction — TMPyP (100 μM) + blue LED on E. faecalis biofilm (72 h)",
-      "result": "No effect",
+      "measured": "Er:YAG (2940 nm, 100 mJ, 15 Hz, 40 s) vs. aPDT on E. faecalis biofilms",
+      "result": "Er:YAG 100 mJ: 4 log10; Er:YAG 50 mJ and Nd:YAG: <1 log10; NaOCl 2.5%: >6 log10",
       "statistical_significance": null,
-      "clinical_significance": "Ineffective; possibly due to steric hindrance and electrostatic interactions with EPS"
+      "clinical_significance": "NaOCl superior to both laser and aPDT; Er:YAG dose-dependent effect"
     },
     {
-      "measured": "CFU reduction — Er:YAG (2940 nm, 100 mJ, 15 Hz, 40 s) on E. faecalis biofilm (24 h)",
-      "result": "4 log10 reduction",
+      "measured": "SAPYR (100 μM) + dental LED (460±20 nm, 600 mW/cm², 120 s) on E. faecalis biofilms (72 h)",
+      "result": "≥5 log10 CFU reduction in both monospecies and polyspecies biofilms",
       "statistical_significance": null,
-      "clinical_significance": "Exceeds 3 log10 threshold; clinically relevant"
+      "clinical_significance": "Exceeds ASM threshold; promising novel PS"
     },
     {
-      "measured": "CFU reduction — Er:YAG (50 mJ) and Nd:YAG (1064 nm, 2 W, 15 Hz, 40 s) on E. faecalis biofilm",
-      "result": "<1 log10 reduction",
-      "statistical_significance": null,
-      "clinical_significance": "Below threshold; no antimicrobial claim"
-    },
-    {
-      "measured": "CFU reduction — CSRB (0.3 mg/ml) + 540 nm fiber (40 J/cm²) on E. faecalis and P. aeruginosa biofilms (7 days)",
+      "measured": "CSRB (0.3 mg/ml) + 540 nm fiber (40 J/cm²) on E. faecalis and P. aeruginosa biofilms (7 days)",
       "result": "E. faecalis: ~5 log10; P. aeruginosa: ~9 log10",
       "statistical_significance": null,
-      "clinical_significance": "Exceeds 3 log10 threshold; superior to unconjugated RB and MB"
-    },
-    {
-      "measured": "CFU reduction — TBO (25 μg/ml) + 625 nm diode laser (100 mW, 214.28 J/cm²) on E. faecalis in root canals (4–8 weeks)",
-      "result": "Complete elimination below CFU detection limit",
-      "statistical_significance": null,
-      "clinical_significance": "Total eradication achieved in ex vivo root canal model"
+      "clinical_significance": "Substantially higher efficacy than unconjugated RB or MB"
     }
   ],
-  "notes": "This narrative review covers in vitro and ex vivo studies only. Clinical translation is limited by biofilm thickness, EPS complexity, and lack of standardized biofilm testing protocols. The paper also reports Er:YAG and Nd:YAG laser data as comparators within one included study (Meire et al., 2012), not as primary aPDT interventions. Fullerenes have not yet been tested against biofilms as of publication date (2014).",
+  "notes": "This narrative review covers in vitro aPDT studies against oral biofilms, structured by photosensitizer class. Only studies using CFU assays were included. The review does not provide standardized clinical protocols. Light sources used across studies include diode lasers, LEDs, HeNe gas lasers, tungsten lamps, and mercury vapor lamps at various wavelengths matching PS absorption peaks. The paper also reports Er:YAG and Nd:YAG laser data from Meire et al. (2012) as a comparator arm, not as primary aPDT data.",
   "population": {
     "n_participants": null,
     "age_range": null,
-    "condition": "Oral biofilms (in vitro/ex vivo): periodontal, endodontic, cariogenic, and mucosal pathogens",
-    "sample_type": "In vitro and ex vivo biofilm models; no human participants"
+    "condition": "Oral biofilms (in vitro): S. mutans, E. faecalis, C. albicans, P. aeruginosa, P. gingivalis, A. naeslundii, and others",
+    "sample_type": "In vitro and ex vivo biofilm models; one in situ study"
   },
   "superiority_claim": null,
   "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
   "funding_source_text": "This work was supported by the German Research Foundation (DFG) within the funding programme Open Access Publishing.",
   "source_citation": "Cieplik, F., Tabenski, L., Buchalla, W., & Maisch, T. (2014). Antimicrobial photodynamic therapy for inactivation of biofilms formed by oral key pathogens. Frontiers in Microbiology, 5, 405. https://doi.org/10.3389/fmicb.2014.00405",
-  "contraindications": [
-    "Thick in vivo biofilms (≥1000 μm) may limit PS penetration and reduce aPDT efficacy",
-    "Phenothiazinium PS (MB, TBO) cause blue staining of oral soft tissues and dentinal tubules, requiring decoloration steps in endodontic applications",
-    "Anionic PS (ERY, RB) may have reduced binding to negatively charged bacterial cell walls, limiting efficacy against some species"
-  ],
+  "contraindications": [],
   "adverse_events": [
-    "Persistent blue staining of dental structures when MB used in endodontics; diffusion into dentinal tubules may require chemical decoloration",
-    "Transient bluish staining of oral soft tissues for hours after periodontal aPDT with phenothiazinium dyes"
+    "Persistent blue staining of oral soft tissues after periodontal aPDT with MB or TBO (may last several hours)",
+    "Persistent blue staining of dental structures (dentinal tubule diffusion) when MB used in endodontics; may require additional decoloration step"
   ],
   "laser_parameters": [
     {
@@ -109,6 +93,62 @@
       "wavelength_nm": 660,
       "fluence_j_cm2": 26.3,
       "power_w": 0.035,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 635,
+      "fluence_j_cm2": null,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 660,
+      "fluence_j_cm2": null,
+      "power_w": 0.075,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 625,
+      "fluence_j_cm2": 214.28,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": 30.0,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 665,
+      "fluence_j_cm2": 30.0,
+      "power_w": 1.0,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
@@ -148,16 +188,16 @@
       "cooling": null
     },
     {
-      "wavelength_nm": 625,
-      "fluence_j_cm2": 214.28,
-      "power_w": 0.1,
+      "wavelength_nm": 532,
+      "fluence_j_cm2": 20.0,
+      "power_w": 0.5,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
       "mode": "continuous",
       "energy_per_pulse_mj": null,
       "irradiance_w_cm2": null,
-      "total_dose_j": 30.0,
+      "total_dose_j": null,
       "contact": false,
       "cooling": null
     }
@@ -165,19 +205,19 @@
   "treatment_protocol": {
     "sessions_count": 1,
     "session_interval_days": null,
-    "application_time_sec": 300.0,
+    "application_time_sec": 150.0,
     "application_technique": "point",
     "anatomical_points": [
       "root canal",
       "periodontal pocket",
-      "biofilm surface"
+      "oral biofilm surface"
     ]
   },
   "clinical_indication": "Antimicrobial photodynamic therapy (aPDT) for inactivation of oral biofilms associated with periodontal, endodontic, and mucosal infections",
-  "target_tissue": "biofilm, dentin, gingiva, root canal",
+  "target_tissue": "biofilm, dentin, periodontal tissue, root canal",
   "brand_model_mentioned": [
     "PAD™ (Dentofex)",
-    "HELBO® Photodynamic Systems (Bredent medical)",
+    "HELBO® (HELBO® Photodynamic Systems, Bredent medical)",
     "HELBO® Theralite Laser",
     "GaAlAs laser"
   ],
@@ -186,11 +226,11 @@
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Irradiation periods for some studies reported as 'n/s' (not specified) in the original tables; exact light doses could not be fully verified for all studies",
-    "Exact pulse duration for Er:YAG and Nd:YAG parameters in Meire et al. 2012 not specified beyond energy/power/frequency",
-    "Light source output power vs. irradiance at sample level not always distinguished; some fluence values may be approximate",
-    "Fullerene data against biofilms not available as of 2014 publication; current status unknown",
-    "Phthalocyanine studies used XTT assay only (not CFU), limiting comparability per ASM standards"
+    "Irradiation periods for some studies reported as 'n/s' (not specified) in the tables; exact light doses could not be extracted for all studies.",
+    "The Er:YAG and Nd:YAG laser data (Meire et al. 2012) are comparator arms in an aPDT study, not primary laser therapy protocols; parameters extracted but clinical context is limited.",
+    "Pulse duration for diode lasers used in aPDT studies not specified; mode assumed continuous wave based on context.",
+    "Some PS concentrations and incubation times vary widely across studies, limiting generalizability of extracted laser parameters.",
+    "Fullerene derivatives mentioned as promising but no biofilm studies available at time of publication; no parameters extractable."
   ],
   "bibliographic_metadata": {
     "title": "Antimicrobial photodynamic therapy for inactivation of biofilms formed by oral key pathogens",
@@ -206,84 +246,83 @@
   },
   "protocols": [
     {
-      "name": "aPDT con fotosensibilizadores fenotiazínicos (Azul de Metileno / Azul de Toluidina) para inactivación de biofilms orales",
+      "name": "aPDT con fotosensibilizadores fenotiazínicos (Azul de Metileno / Azul de Toluidina) para biofilms orales",
       "synonyms_es": [
         "terapia fotodinámica antimicrobiana con azul de metileno",
-        "PDT con azul de toluidina",
+        "PDT con toluidina azul",
         "desinfección fotodinámica periodontal",
         "aPDT endodóntica con MB",
-        "terapia fotodinámica con TBO"
+        "terapia fotodinámica con fenotiazinas"
       ],
       "synonyms_en": [
         "antimicrobial photodynamic therapy with methylene blue",
-        "PDT with toluidine blue",
-        "photodynamic disinfection with phenothiazinium dyes",
-        "aPDT with MB endodontics",
-        "TBO-mediated photodynamic inactivation"
+        "toluidine blue photodynamic therapy",
+        "phenothiazinium aPDT",
+        "MB-PDT oral biofilm",
+        "TBO photodynamic inactivation"
       ],
-      "purpose": "Inactivar biofilms bacterianos y fúngicos orales mediante la activación de fotosensibilizadores fenotiazínicos (MB o TBO) con luz roja visible, generando especies reactivas de oxígeno que dañan estructuras celulares microbianas. Se aplica como coadyuvante en el tratamiento de periodontitis, infecciones endodónticas y periimplantitis.",
+      "purpose": "Inactivar biofilms bacterianos y fúngicos orales mediante la activación de fotosensibilizadores fenotiazínicos (Azul de Metileno o Azul de Toluidina) con luz visible roja, generando especies reactivas de oxígeno que destruyen estructuras celulares microbianas. Aplicable en periodontitis, infecciones endodónticas y periimplantitis.",
       "parameters_table": [
         {
-          "equipment_class": "Fuente de luz para fotosensibilizador (rojo 620–680 nm): láser de diodo o LED",
+          "equipment_class": "Fuente de luz para fotosensibilizador (rojo ~630–670 nm)",
           "representative_models": [
-            "HELBO® Theralite Laser (75 mW, 660 nm)",
-            "Láser diodo 665 nm 1W",
-            "GaAlAs 660 nm 35 mW",
-            "LED 620–660 nm 32–40 mW"
+            "Diodo GaAlAs 660–665 nm",
+            "LED 620–660 nm",
+            "Láser HeNe 632.8 nm",
+            "HELBO® Theralite Laser 660 nm",
+            "PAD™ diodo 635 nm"
           ],
           "equipo": null,
-          "longitud_de_onda": "620–680 nm (óptimo: 660–665 nm para MB; 635–638 nm para TBO)",
-          "potencia": "35 mW – 1 W (varía según estudio)",
+          "longitud_de_onda": "630–670 nm (según PS: MB ~660–665 nm; TBO ~630–638 nm)",
+          "potencia": "32–1000 mW (varía según estudio)",
           "frecuencia": "No especificado (modo continuo)",
           "modo_de_pulso": "Continuo (CW)",
-          "fibra_punta": "Fibra óptica flexible (para endodoncia); aplicador directo (para periodoncia)",
+          "fibra_punta": "Fibra óptica o aplicador directo según equipo",
           "agua_pct": "No aplica",
           "aire_pct": "No aplica",
-          "distancia": "Contacto o proximidad directa al biofilm",
-          "tiempo_ciclos": "2–15 min de irradiación; dosis de luz 20–294 J/cm²; preincubación con PS 2–15 min"
+          "distancia": "Contacto o proximidad al biofilm",
+          "tiempo_ciclos": "5–15 min de irradiación; dosis de luz 20–294 J/cm²"
         }
       ],
       "critical_notes": [
-        "MB y TBO son sustratos potenciales de bombas de eflujo en múltiples especies microbianas; el uso de inhibidores de bombas de eflujo (ej. verapamilo) puede potenciar la eficacia.",
-        "Los biofilms in vivo (≥1000 μm de grosor) muestran reducción <1 log10 con TBO+LED, mientras que biofilms in vitro (100 μm) muestran >5 log10 bajo condiciones idénticas; la eficacia clínica real puede ser significativamente menor que la in vitro.",
-        "El uso de MB en endodoncia puede causar tinción azul persistente de los túbulos dentinarios; puede requerirse un paso de decoloración con compuestos químicos específicos.",
-        "La aplicación periodontal con PS fenotiazínicos puede teñir los tejidos blandos orales de azul durante varias horas.",
-        "El documento presenta resultados muy variables entre estudios; la comparabilidad es limitada por diferencias en edad del biofilm, concentración de PS, fuente de luz y dosis aplicada.",
-        "El documento presenta esta técnica como prometedora pero con resultados clínicos conflictivos; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "La eficacia varía enormemente según la edad del biofilm, la especie bacteriana, la concentración del PS y la dosis de luz; biofilms de 72 h o más son significativamente más resistentes.",
+        "MB y TBO son sustratos potenciales de bombas de eflujo bacterianas; el uso de inhibidores de bombas de eflujo (ej. verapamilo) puede potenciar la eficacia.",
+        "En aplicación periodontal, el tejido blando puede teñirse de azul durante varias horas post-tratamiento.",
+        "En endodoncia, el MB puede difundir hacia los túbulos dentinarios causando tinción persistente; puede requerirse un paso de decoloración adicional.",
+        "Los biofilms in situ (≥1000 μm) muestran reducciones <1 log10 con los mismos parámetros que logran >5 log10 en biofilms in vitro (~100 μm); la penetración del PS a través del EPS es el factor limitante.",
+        "El documento presenta esta técnica como la más estudiada clínicamente, pero los resultados de estudios clínicos son conflictivos; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Preparar la solución de fotosensibilizador: MB 25–300 μM (o 10–25 μg/ml) o TBO 100 mg/l (o 12.7–25 μg/ml) en vehículo acuoso.",
-        "Aplicar el fotosensibilizador sobre el biofilm o en el conducto radicular/bolsa periodontal.",
-        "Dejar incubar en oscuridad durante 2–15 minutos para permitir la unión del PS al biofilm.",
-        "Irradiar con fuente de luz de longitud de onda apropiada (660–665 nm para MB; 620–638 nm para TBO) durante el tiempo calculado para alcanzar la dosis de luz objetivo (20–214 J/cm²).",
-        "Para endodoncia: introducir la fibra óptica en el conducto y aplicar en ciclos (ej. 2 × 2.5 min con pausa de 2.5 min).",
-        "Retirar el fotosensibilizador residual con irrigación.",
-        "En endodoncia: si se usó MB, considerar paso de decoloración para evitar tinción dentinaria persistente."
+        "Preparar la solución de PS: MB (10–300 μM o 10–50 μg/ml) o TBO (12.7–100 mg/l) según protocolo.",
+        "Aplicar el PS sobre el biofilm o en el sitio clínico (bolsa periodontal, conducto radicular) e incubar en oscuridad durante 2–15 min.",
+        "Retirar el exceso de PS con irrigación suave si es necesario.",
+        "Aplicar la fuente de luz de longitud de onda apropiada (MB: ~660–665 nm; TBO: ~630–638 nm) durante 2–15 min a la dosis de luz indicada (mínimo 20 J/cm²; óptimo 30–55 J/cm²).",
+        "Evaluar la respuesta clínica; repetir el ciclo si el protocolo lo indica."
       ],
       "indications": [
-        "Periodontitis crónica como coadyuvante al raspado y alisado radicular",
-        "Infección endodóntica (biofilms en conductos radiculares) como complemento al tratamiento convencional",
-        "Periimplantitis como coadyuvante a la descontaminación mecánica",
-        "Infecciones mucosas por Candida (candidiasis oral)",
+        "Periodontitis crónica como terapia adyuvante al raspado y alisado radicular",
+        "Infecciones endodónticas (biofilm intracanal) como complemento al tratamiento convencional",
+        "Periimplantitis como adyuvante a la descontaminación mecánica",
+        "Infecciones mucosas por Candida spp. (candidiasis oral)",
         "Situaciones donde se busca reducir el uso de antibióticos sistémicos"
       ],
       "contraindications": [
-        "Biofilms muy gruesos (>1000 μm) donde la penetración del PS es insuficiente",
         "Alergia conocida al fotosensibilizador utilizado",
-        "Pacientes con fotosensibilidad sistémica aumentada (precaución)"
+        "Zonas donde la tinción persistente sea inaceptable estéticamente sin posibilidad de decoloración posterior (especialmente MB en endodoncia de dientes anteriores)",
+        "Biofilms muy gruesos (>500 μm) donde la penetración del PS sea insuficiente para lograr eficacia clínica relevante"
       ],
       "postop_care": [
-        "Informar al paciente sobre posible tinción transitoria de tejidos blandos (azul) durante varias horas tras la aplicación periodontal",
-        "En endodoncia, verificar ausencia de tinción dentinaria persistente; aplicar decoloración química si es necesario",
-        "Seguimiento clínico estándar según el procedimiento principal (raspado, tratamiento de conductos)"
+        "Informar al paciente sobre la posible tinción transitoria de tejidos blandos (azul) que puede persistir varias horas.",
+        "En endodoncia con MB, considerar paso de decoloración con compuestos químicos apropiados si hay tinción dentinaria persistente.",
+        "Seguimiento clínico estándar según la indicación tratada (periodontal, endodóntica, etc.)."
       ],
-      "evidence_level": "Bajo — revisión narrativa de estudios in vitro y ex vivo; resultados clínicos conflictivos; ausencia de RCTs de alta calidad con protocolos estandarizados",
+      "evidence_level": "Bajo — revisión narrativa de estudios in vitro e in situ; resultados clínicos conflictivos; ausencia de RCTs de alta calidad con protocolos estandarizados.",
       "keywords_es": [
-        "terapia fotodinámica antimicrobiana",
         "aPDT",
+        "terapia fotodinámica antimicrobiana",
         "azul de metileno",
-        "azul de toluidina",
+        "toluidina azul",
         "fotosensibilizador",
         "biofilm oral",
         "periodontitis",
@@ -292,8 +331,8 @@
         "desinfección fotodinámica",
         "fenotiazina",
         "luz roja",
-        "LED dental",
-        "láser diodo",
+        "HELBO",
+        "PAD",
         "Candida albicans",
         "Enterococcus faecalis",
         "Streptococcus mutans",
@@ -302,8 +341,8 @@
         "oxígeno singlete"
       ],
       "keywords_en": [
-        "antimicrobial photodynamic therapy",
         "aPDT",
+        "antimicrobial photodynamic therapy",
         "methylene blue",
         "toluidine blue",
         "photosensitizer",
@@ -314,8 +353,8 @@
         "photodynamic disinfection",
         "phenothiazinium",
         "red light",
-        "dental LED",
-        "diode laser",
+        "HELBO",
+        "PAD",
         "Candida albicans",
         "Enterococcus faecalis",
         "Streptococcus mutans",
@@ -326,166 +365,161 @@
       "is_virtual_protocol": false
     },
     {
-      "name": "aPDT con SAPYR (perinaphthenone) para inactivación de biofilms orales",
+      "name": "aPDT con SAPYR (perinaphthenone) para biofilms endodónticos y periodontales",
       "synonyms_es": [
         "terapia fotodinámica con perinaphthenona",
-        "aPDT con SAPYR",
-        "fotosensibilizador de oxígeno singlete tipo II",
-        "PDT con fotosensibilizador de color dental"
+        "aPDT con fotosensibilizador tipo II de alta eficiencia",
+        "desinfección fotodinámica con SAPYR",
+        "PDT con dye perinaphthenone"
       ],
       "synonyms_en": [
-        "photodynamic therapy with SAPYR",
-        "perinaphthenone-based aPDT",
-        "type II singlet oxygen photosensitizer PDT",
-        "tooth-colored photosensitizer aPDT"
+        "SAPYR photodynamic therapy",
+        "perinaphthenone aPDT",
+        "type II photosensitizer PDT",
+        "SAPYR biofilm inactivation"
       ],
-      "purpose": "Inactivar biofilms de patógenos orales clave (Enterococcus faecalis, Actinomyces naeslundii) mediante aPDT con SAPYR, un fotosensibilizador catiónico de perinaphthenona con rendimiento cuántico de oxígeno singlete cercano a la unidad (Φ≈0.99), activado con luz azul de unidades de fotopolimerización dental.",
+      "purpose": "Inactivar biofilms de patógenos orales clave (Enterococcus faecalis, Actinomyces naeslundii) mediante aPDT con SAPYR, un fotosensibilizador de perinaphthenona con carga positiva y rendimiento cuántico de oxígeno singlete cercano a 1 (Φ=0.99), activado con luz azul de unidades de fotopolimerización dental.",
       "parameters_table": [
         {
-          "equipment_class": "LED de fotopolimerización dental (460±20 nm, azul)",
+          "equipment_class": "LED de fotopolimerización dental (~460 nm)",
           "representative_models": [
-            "Unidades de fotopolimerización dental estándar (460±20 nm)"
+            "Unidad de fotopolimerización dental LED estándar (460±20 nm)"
           ],
           "equipo": null,
           "longitud_de_onda": "460 ± 20 nm",
-          "potencia": "600 mW/cm² (a nivel de muestra; fuente: 1360 mW/cm²)",
+          "potencia": "600 mW/cm² (a nivel de muestra; unidad emite 1360 mW/cm²)",
           "frecuencia": "No especificado (modo continuo)",
           "modo_de_pulso": "Continuo (CW)",
           "fibra_punta": "Guía de luz estándar de unidad de fotopolimerización",
           "agua_pct": "No aplica",
           "aire_pct": "No aplica",
-          "distancia": "Contacto directo o proximidad al biofilm",
-          "tiempo_ciclos": "120 s de irradiación; energía total absorbida: 12.5 J; preincubación con SAPYR 100 μM por 60 min"
+          "distancia": "Contacto o proximidad directa al biofilm",
+          "tiempo_ciclos": "120 s; energía total absorbida: 12.5 J"
         }
       ],
       "critical_notes": [
-        "SAPYR es ligeramente amarillento (color dental), lo que evita la tinción azul de tejidos asociada a los fotosensibilizadores fenotiazínicos.",
-        "El espectro de emisión de la unidad de fotopolimerización dental solo se superpone parcialmente con el espectro de absorción de SAPYR; a pesar de esto, se obtuvieron reducciones ≥5 log10.",
-        "TMPyP (porfyrina tetracatiónica) no tuvo efecto alguno bajo las mismas condiciones, posiblemente por impedimento estérico y fuertes interacciones electrostáticas con la EPS.",
-        "La energía total absorbida por SAPYR (12.5 J) fue significativamente menor que la de TMPyP (80 J) con la misma fuente de luz, lo que refleja diferencias en las características de absorción.",
-        "Datos disponibles solo para E. faecalis y A. naeslundii en biofilms de 72 h; la eficacia en otras especies y biofilms más gruesos no ha sido evaluada en este estudio."
+        "SAPYR es un fotosensibilizador experimental (no comercialmente disponible en odontología clínica al momento de la publicación); los resultados son prometedores pero requieren validación clínica.",
+        "El espectro de emisión de la unidad LED de fotopolimerización solo se superpone parcialmente con el espectro de absorción de SAPYR; a pesar de esto se lograron reducciones ≥5 log10.",
+        "SAPYR es ligeramente amarillento (no azul intenso), lo que evita la tinción estética de tejidos blandos que ocurre con MB y TBO.",
+        "TMPyP (porfyrina) no tuvo efecto bajo condiciones idénticas, posiblemente por impedimento estérico e interacciones electrostáticas con el EPS.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Preparar solución de SAPYR a 100 μM en vehículo acuoso apropiado.",
-        "Aplicar SAPYR sobre el biofilm objetivo.",
-        "Incubar en oscuridad durante 60 minutos para permitir la unión del PS al biofilm.",
-        "Irradiar con unidad de fotopolimerización dental (460±20 nm, ~600 mW/cm² a nivel de muestra) durante 120 segundos.",
-        "Retirar el fotosensibilizador residual con irrigación."
+        "Preparar solución de SAPYR a 100 μM.",
+        "Aplicar SAPYR sobre el biofilm e incubar en oscuridad durante 60 min.",
+        "Irradiar con unidad LED de fotopolimerización dental (460±20 nm) durante 120 s (energía total absorbida ~12.5 J).",
+        "Evaluar la reducción bacteriana; el efecto cesa inmediatamente al apagar la luz."
       ],
       "indications": [
-        "Biofilms de Enterococcus faecalis en conductos radiculares (infección endodóntica)",
-        "Biofilms de Actinomyces naeslundii",
-        "Situaciones donde se requiere un fotosensibilizador de color dental para evitar tinción de tejidos",
-        "Como alternativa a fotosensibilizadores fenotiazínicos cuando la estética es una preocupación"
+        "Biofilms endodónticos (E. faecalis, biofilms polimicrobianos)",
+        "Biofilms periodontales (A. naeslundii, biofilms mixtos)",
+        "Situaciones donde se requiere un PS con mínima tinción estética de tejidos",
+        "Investigación y desarrollo de nuevos protocolos de aPDT dental"
       ],
       "contraindications": [
-        "Datos clínicos insuficientes para establecer contraindicaciones definitivas; uso actualmente limitado a investigación",
-        "Biofilms muy gruesos donde la penetración del PS puede ser limitada"
+        "Uso clínico rutinario no establecido (PS experimental al momento de la publicación)",
+        "Alergia conocida al compuesto"
       ],
       "postop_care": [
-        "Seguimiento clínico estándar según el procedimiento principal",
-        "No se esperan problemas de tinción de tejidos dado el color dental del PS"
+        "No se reportan instrucciones postoperatorias específicas en el estudio; seguir protocolo estándar según indicación clínica."
       ],
-      "evidence_level": "Bajo — estudio in vitro de un solo grupo de investigación; no hay datos clínicos disponibles a la fecha de publicación (2014)",
+      "evidence_level": "Bajo — estudio in vitro único (Cieplik et al., 2013b); PS experimental sin validación clínica disponible.",
       "keywords_es": [
         "SAPYR",
         "perinaphthenona",
         "fotosensibilizador tipo II",
-        "oxígeno singlete",
         "aPDT",
         "terapia fotodinámica",
+        "oxígeno singlete",
         "biofilm endodóntico",
         "Enterococcus faecalis",
         "Actinomyces naeslundii",
         "luz azul",
-        "fotopolimerización dental",
-        "fotosensibilizador color dental",
+        "LED fotopolimerización",
+        "desinfección dental",
         "resistencia antibiótica",
-        "desinfección fotodinámica",
-        "periimplantitis",
-        "periodontitis"
+        "fotoinactivación",
+        "periimplantitis"
       ],
       "keywords_en": [
         "SAPYR",
         "perinaphthenone",
         "type II photosensitizer",
-        "singlet oxygen",
         "aPDT",
         "photodynamic therapy",
+        "singlet oxygen",
         "endodontic biofilm",
         "Enterococcus faecalis",
         "Actinomyces naeslundii",
         "blue light",
-        "dental curing light",
-        "tooth-colored photosensitizer",
+        "curing light LED",
+        "dental disinfection",
         "antibiotic resistance",
-        "photodynamic disinfection",
-        "peri-implantitis",
-        "periodontitis"
+        "photoinactivation",
+        "peri-implantitis"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "aPDT con curcumina para inactivación de biofilms cariogénicos",
+      "name": "aPDT con curcumina para biofilms cariogénicos",
       "synonyms_es": [
         "terapia fotodinámica con cúrcuma",
         "PDT con curcumina",
-        "fotosensibilización con curcumina",
+        "fotoinactivación con curcumina",
         "aPDT cariogénica con curcumina"
       ],
       "synonyms_en": [
-        "curcumin-mediated photodynamic therapy",
+        "curcumin photodynamic therapy",
         "curcumin aPDT",
-        "photodynamic inactivation with curcumin",
-        "curcumin PDT cariogenic biofilm"
+        "curcumin photoinactivation cariogenic biofilm",
+        "curcumin blue light PDT"
       ],
-      "purpose": "Inactivar biofilms cariogénicos (Streptococcus mutans, Lactobacillus acidophilus) mediante aPDT con curcumina activada con luz azul, aprovechando su absorción en el rango UV/azul (máximo ~430 nm) y su mecanismo tipo I (peróxido de hidrógeno).",
+      "purpose": "Inactivar biofilms cariogénicos polimicrobianos (Streptococcus mutans, Lactobacillus acidophilus) mediante aPDT con curcumina activada por luz azul, aprovechando su mecanismo tipo I (generación de peróxido de hidrógeno) para reducir la carga bacteriana en lesiones de caries dentinaria.",
       "parameters_table": [
         {
-          "equipment_class": "LED azul (longitud de onda central ~450 nm)",
-          "representative_models": [],
+          "equipment_class": "LED azul (~450 nm)",
+          "representative_models": [
+            "LED central wavelength 450 nm (19 mW/cm²)"
+          ],
           "equipo": null,
-          "longitud_de_onda": "450 nm (longitud de onda central)",
+          "longitud_de_onda": "450 nm (central)",
           "potencia": "19 mW/cm²",
           "frecuencia": "No especificado (modo continuo)",
           "modo_de_pulso": "Continuo (CW)",
           "fibra_punta": "No especificado",
           "agua_pct": "No aplica",
           "aire_pct": "No aplica",
-          "distancia": "No especificado",
-          "tiempo_ciclos": "5 min de irradiación; dosis de luz: 5.7 J/cm²; preincubación con curcumina 5 min"
+          "distancia": "Proximidad directa al biofilm",
+          "tiempo_ciclos": "5 min; dosis de luz 5.7 J/cm²"
         }
       ],
       "critical_notes": [
-        "La curcumina actúa casi exclusivamente por mecanismo tipo I (peróxido de hidrógeno), sin generación significativa de oxígeno singlete; esto la diferencia de la mayoría de los PS para aPDT.",
-        "Se requieren concentraciones >3 g/l para lograr ≥3 log10 de reducción en biofilms multiespecie; concentraciones menores son insuficientes.",
-        "La eficacia en lesiones cariosas de dentina fue significativamente menor (69% a 5 g/l) que en biofilms in vitro, posiblemente por menor penetración del PS y de la luz en la dentina desmineralizada.",
-        "La curcumina es un colorante amarillo intenso de origen natural; puede causar tinción de tejidos y estructuras dentales."
+        "La curcumina actúa predominantemente por mecanismo tipo I (peróxido de hidrógeno), no por oxígeno singlete; esto la diferencia de la mayoría de los PS para aPDT.",
+        "Concentraciones >3 g/l son necesarias para lograr ≥3 log10 en biofilms polimicrobianos; en lesiones de caries dentinaria la eficacia se reduce significativamente (69% a 5 g/l) por menor penetración del PS y la luz.",
+        "La curcumina tiene absorción en el rango UV/azul (300–500 nm, máximo ~430 nm); la luz azul de 450 nm es apropiada para su activación.",
+        "El documento presenta esta técnica favorablemente para biofilms en superficie; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Preparar solución de curcumina a concentración ≥3 g/l (composición: 66.7% glucamina, 17.8% curcumina, 15.5% demetoxicurcumina y bisdemetoxicurcumina).",
-        "Aplicar la solución de curcumina sobre el biofilm cariogénico.",
-        "Incubar durante 5 minutos.",
-        "Irradiar con LED azul (longitud de onda central 450 nm, 19 mW/cm²) durante 5 minutos (dosis: 5.7 J/cm²).",
-        "Retirar el fotosensibilizador residual."
+        "Preparar solución de curcumina a concentración ≥3 g/l (solución que puede contener glucamina, curcumina, demetoxicurcumina y bisdemetoxicurcumina).",
+        "Aplicar la solución sobre el biofilm cariogénico e incubar durante 5 min.",
+        "Irradiar con LED azul (central ~450 nm, 19 mW/cm²) durante 5 min (dosis 5.7 J/cm²).",
+        "Evaluar la respuesta; considerar que la eficacia en lesiones dentinarias profundas es limitada."
       ],
       "indications": [
-        "Biofilms cariogénicos de S. mutans y L. acidophilus",
-        "Caries dental activa como coadyuvante al tratamiento convencional",
+        "Biofilms cariogénicos polimicrobianos (S. mutans, L. acidophilus) en superficie",
+        "Caries activa superficial como adyuvante al tratamiento convencional",
         "Situaciones donde se prefiere un PS de origen natural"
       ],
       "contraindications": [
-        "Concentraciones <3 g/l son insuficientes para lograr eficacia antimicrobiana clínicamente relevante",
-        "Lesiones cariosas profundas en dentina donde la penetración del PS y la luz es limitada",
-        "Pacientes con alergia conocida a la curcumina o a la cúrcuma"
+        "Lesiones de caries dentinaria profunda (penetración insuficiente del PS y la luz)",
+        "Alergia conocida a la curcumina o sus excipientes"
       ],
       "postop_care": [
-        "Informar al paciente sobre posible tinción amarilla transitoria de tejidos",
-        "Seguimiento clínico estándar para el tratamiento de caries"
+        "No se reportan instrucciones postoperatorias específicas; seguir protocolo estándar de tratamiento de caries."
       ],
-      "evidence_level": "Bajo — estudios in vitro e in vitro con lesiones de dentina artificial; sin datos clínicos en humanos",
+      "evidence_level": "Bajo — estudios in vitro e in situ únicos; sin validación clínica controlada.",
       "keywords_es": [
         "curcumina",
         "aPDT",
@@ -493,15 +527,15 @@
         "caries dental",
         "Streptococcus mutans",
         "Lactobacillus acidophilus",
-        "biofilm cariogénico",
         "luz azul",
-        "LED azul",
+        "biofilm cariogénico",
         "fotosensibilizador natural",
-        "desinfección fotodinámica",
-        "dentina",
-        "lesión cariosa",
+        "desinfección dental",
+        "LED azul",
         "mecanismo tipo I",
-        "peróxido de hidrógeno"
+        "peróxido de hidrógeno",
+        "lesión dentinaria",
+        "fotoinactivación"
       ],
       "keywords_en": [
         "curcumin",
@@ -510,109 +544,108 @@
         "dental caries",
         "Streptococcus mutans",
         "Lactobacillus acidophilus",
-        "cariogenic biofilm",
         "blue light",
-        "blue LED",
+        "cariogenic biofilm",
         "natural photosensitizer",
-        "photodynamic disinfection",
-        "dentin",
-        "carious lesion",
+        "dental disinfection",
+        "blue LED",
         "type I mechanism",
-        "hydrogen peroxide"
+        "hydrogen peroxide",
+        "dentine lesion",
+        "photoinactivation"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Irradiación con láser Er:YAG para inactivación de biofilms endodónticos (comparador en aPDT)",
+      "name": "Irradiación con láser Er:YAG para inactivación de biofilm endodóntico (comparador)",
       "synonyms_es": [
-        "láser Er:YAG en endodoncia",
-        "desinfección endodóntica con Er:YAG",
-        "irradiación Er:YAG conducto radicular",
-        "láser erbio biofilm endodóntico"
+        "láser erbio endodoncia",
+        "Er:YAG desinfección intracanal",
+        "irradiación Er:YAG biofilm",
+        "láser erbio conducto radicular"
       ],
       "synonyms_en": [
         "Er:YAG laser endodontic disinfection",
-        "Er:YAG irradiation root canal biofilm",
-        "erbium laser endodontic biofilm inactivation",
-        "Er:YAG laser antibacterial endodontics"
+        "erbium laser root canal biofilm",
+        "Er:YAG intracanal irradiation",
+        "erbium YAG biofilm inactivation"
       ],
-      "purpose": "Inactivar biofilms de Enterococcus faecalis en conductos radiculares mediante irradiación directa con láser Er:YAG (2940 nm), evaluado como comparador frente a aPDT y NaOCl en un modelo de biofilm in vitro.",
+      "purpose": "Inactivar biofilms de Enterococcus faecalis en conductos radiculares mediante irradiación directa con láser Er:YAG (2940 nm), evaluado como comparador frente a aPDT y NaOCl en un modelo in vitro.",
       "parameters_table": [
         {
           "equipment_class": "Cualquier Er:YAG 2940 nm",
           "representative_models": [],
           "equipo": null,
           "longitud_de_onda": "2940 nm",
-          "potencia": "No especificado (calculado: ~1.5 W a 100 mJ × 15 Hz)",
+          "potencia": "No especificado",
           "frecuencia": "15 Hz",
           "modo_de_pulso": "Pulsado",
           "fibra_punta": "No especificado",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "No especificado",
-          "tiempo_ciclos": "40 s de irradiación; 100 mJ/pulso → 4 log10 reducción; 50 mJ/pulso → <1 log10 reducción"
+          "distancia": "Intracanal",
+          "tiempo_ciclos": "40 s; energía por pulso: 100 mJ (eficaz) o 50 mJ (sin efecto)"
         }
       ],
       "critical_notes": [
-        "Solo la energía de 100 mJ/pulso fue efectiva (4 log10); 50 mJ/pulso no tuvo efecto (<1 log10); la dosis de energía es crítica para la eficacia.",
-        "NaOCl al 2.5% superó al Er:YAG en este estudio (>6 log10 vs 4 log10), aunque la comparabilidad es limitada porque no se neutralizó el NaOCl tras el período de inmersión.",
-        "El Nd:YAG (1064 nm, 2 W, 15 Hz, 40 s) no tuvo efecto (<1 log10) bajo las condiciones evaluadas.",
-        "Parámetros específicos del protocolo (tipo de punta, distancia, refrigeración) no reportados en el paper original (Meire et al., 2012).",
-        "El documento presenta esta técnica como comparador, no como protocolo primario de aPDT; los resultados deben interpretarse en ese contexto."
+        "Solo la energía de 100 mJ/pulso logró 4 log10 de reducción; 50 mJ no tuvo efecto (<1 log10); la dosis es crítica.",
+        "NaOCl 2.5% superó al Er:YAG con >6 log10 de reducción en todos los tiempos de inmersión evaluados.",
+        "Estos datos provienen de un estudio comparador (Meire et al., 2012) dentro de una revisión de aPDT; no representan un protocolo clínico optimizado de láser Er:YAG para endodoncia.",
+        "Parámetros técnicos específicos del protocolo (tipo de punta, refrigeración, distancia) no reportados en el paper original.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Instrumentar el conducto radicular hasta el tamaño apropiado.",
+        "Instrumentar el conducto radicular hasta el tamaño apical apropiado.",
         "Introducir la fibra/punta del láser Er:YAG en el conducto.",
-        "Irradiar a 2940 nm, 100 mJ/pulso, 15 Hz durante 40 segundos.",
-        "Irrigar el conducto tras la irradiación."
+        "Irradiar a 2940 nm, 100 mJ/pulso, 15 Hz durante 40 s.",
+        "Evaluar la reducción bacteriana post-irradiación."
       ],
       "indications": [
-        "Biofilms de E. faecalis en conductos radiculares como coadyuvante al tratamiento endodóntico convencional",
-        "Casos donde se busca reducción bacteriana adicional tras instrumentación mecánica"
+        "Biofilm endodóntico de E. faecalis en conductos radiculares instrumentados",
+        "Desinfección intracanal como adyuvante al tratamiento endodóntico convencional"
       ],
       "contraindications": [
-        "Energías de pulso <100 mJ (ej. 50 mJ) son insuficientes para lograr reducción bacteriana clínicamente relevante en este modelo",
-        "Precaución en conductos con paredes delgadas por riesgo de perforación con energías altas"
+        "Energías de pulso ≤50 mJ (sin efecto antimicrobiano demostrado en este modelo)",
+        "Conductos no instrumentados o con acceso limitado a la punta láser"
       ],
       "postop_care": [
-        "Seguimiento clínico estándar para tratamiento endodóntico",
-        "Irrigación final con solución apropiada tras la irradiación"
+        "Seguir protocolo estándar de tratamiento endodóntico post-irradiación."
       ],
-      "evidence_level": "Bajo — estudio in vitro único (Meire et al., 2012); biofilm de 24 h; sin datos clínicos en humanos",
+      "evidence_level": "Bajo — datos de un único estudio in vitro (Meire et al., 2012) reportados como comparador en una revisión narrativa; no es un protocolo clínico validado.",
       "keywords_es": [
         "Er:YAG",
         "láser erbio",
         "endodoncia",
         "conducto radicular",
+        "biofilm intracanal",
         "Enterococcus faecalis",
-        "biofilm endodóntico",
         "desinfección láser",
         "2940 nm",
-        "irradiación láser",
-        "tratamiento de conductos",
+        "irradiación intracanal",
+        "tratamiento endodóntico",
         "láser dental",
-        "inactivación bacteriana",
         "NaOCl",
         "hipoclorito sódico",
-        "Nd:YAG"
+        "comparador",
+        "fotoinactivación"
       ],
       "keywords_en": [
         "Er:YAG",
         "erbium laser",
         "endodontics",
         "root canal",
+        "intracanal biofilm",
         "Enterococcus faecalis",
-        "endodontic biofilm",
         "laser disinfection",
         "2940 nm",
-        "laser irradiation",
-        "root canal treatment",
+        "intracanal irradiation",
+        "endodontic treatment",
         "dental laser",
-        "bacterial inactivation",
         "NaOCl",
         "sodium hypochlorite",
-        "Nd:YAG"
+        "comparator",
+        "photoinactivation"
       ],
       "is_virtual_protocol": false
     }
