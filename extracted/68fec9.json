@@ -1,0 +1,243 @@
+{
+  "article_refs": [
+    "pdf_local::oa_104317_jced2e18__50970bd7::5e034c"
+  ],
+  "uuid": "68fec9",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Mucocele is a common oral mucosal lesion resulting from mucin accumulation due to alteration of minor salivary glands, with two histological types: extravasation (95%) and retention (5%).",
+    "Most common location is the lower lip (73.7%), predominantly in young patients (second decade of life), with no gender predilection.",
+    "Diagnosis is principally clinical based on history of trauma, bluish soft cystic swelling, rapid appearance, and size variations; histopathologic confirmation is recommended.",
+    "Treatment options include surgical excision, micro-marsupialization, cryosurgery, intralesional steroid injections, and CO2 laser.",
+    "CO2 laser treatment of mucoceles offers precise cutting, minimal hemorrhage, minimal acute inflammatory reaction, and short operation time (3-5 minutes), making it suitable for children and patients who cannot tolerate long procedures.",
+    "In a study of 82 patients treated with CO2 laser, only 2 lesions recurred and 1 patient had temporary paresthesia; in a comparative study of 68 patients, CO2 laser (n=30) showed 1 recurrence vs. 9 postoperative complications in the scalpel group (n=38).",
+    "Key to avoiding recurrence is elimination of adjacent glandular acini and removal down to the muscle layer.",
+    "Overall surgical recurrence rate reported as 2.8% (2/70 mucoceles)."
+  ],
+  "outcomes": [
+    {
+      "measured": "Recurrence rate after CO2 laser treatment",
+      "result": "2/82 lesions recurred (Huang et al.); 1/30 recurred in comparative study (Yagüe-García et al.)",
+      "statistical_significance": null,
+      "clinical_significance": "CO2 laser shows low recurrence comparable to or better than scalpel excision"
+    },
+    {
+      "measured": "Postoperative complications: CO2 laser vs. scalpel",
+      "result": "CO2 laser: 0 complications in 30 cases; scalpel: 9 complications in 38 cases (temporary anesthesia, hemorrhage, fibrous scar)",
+      "statistical_significance": null,
+      "clinical_significance": "CO2 laser associated with fewer postoperative complications than scalpel in this comparative series"
+    },
+    {
+      "measured": "Recurrence after cryosurgery",
+      "result": "2/36 lesions recurred (5.6%)",
+      "statistical_significance": null,
+      "clinical_significance": "Cryosurgery is an alternative with acceptable recurrence rate"
+    },
+    {
+      "measured": "Success rate of micro-marsupialization in pediatric patients",
+      "result": "85% success in 14 pediatric patients",
+      "statistical_significance": null,
+      "clinical_significance": "Micro-marsupialization is a simple, minimally traumatic option for children"
+    }
+  ],
+  "notes": "This narrative review covers etiopathogeny, clinical characteristics, diagnosis, and treatment of oral mucoceles. CO2 laser is discussed as a surgical treatment option with clinical data from referenced studies. No original data collected by the review authors.",
+  "population": {
+    "n_participants": null,
+    "age_range": "All ages; most common in second decade of life (20-30 years)",
+    "condition": "Oral mucocele",
+    "sample_type": "General population / dental patients"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Ata-Ali, J., Carrillo, C., Bonet, C., Balaguer, J., Peñarrocha, M., & Peñarrocha, M. (2010). Oral mucocele: review of the literature. Journal of Clinical and Experimental Dentistry, 2(1), e18-21. https://doi.org/10.4317/jced.2.e18",
+  "contraindications": [
+    "Simple incision alone is contraindicated as sole treatment (lesion will recur once wound heals)",
+    "No treatment needed for superficial extravasation mucoceles that resolve spontaneously"
+  ],
+  "adverse_events": [
+    "Temporary paresthesia reported in 1 patient after CO2 laser treatment",
+    "Temporary anesthesia near mental nerve in scalpel-treated large mucocele (2.4 cm)",
+    "Postoperative hemorrhage (3 cases with scalpel)",
+    "Fibrous scar tissue after scalpel excision (5 cases)"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 10600,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 180.0,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "lower lip",
+      "oral mucosa overlying mucocele"
+    ]
+  },
+  "clinical_indication": "Oral mucocele (extravasation and retention types)",
+  "target_tissue": "oral mucosa, minor salivary glands",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "corticosteroid (topical/intralesional)",
+      "drug_class": "Corticosteroid",
+      "interaction_type": "caution",
+      "dental_relevance": "Intralesional steroid injections described as alternative treatment for painful/recurrent oral mucoceles",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "CO2 laser excision of mucocele should include removal of adjacent glandular acini down to the muscle layer to prevent recurrence; operation time is typically 3-5 minutes.",
+  "confidence": "high",
+  "uncertainties": [
+    "CO2 laser power settings, pulse parameters, and spot size not specified in the review — only general properties described",
+    "No original clinical data from the review authors; all clinical outcomes are from cited studies",
+    "Specific CO2 laser device models not mentioned"
+  ],
+  "bibliographic_metadata": {
+    "title": "Oral mucocele: review of the literature",
+    "authors": [
+      "J Ata-Ali",
+      "C Carrillo",
+      "C Bonet",
+      "J Balaguer",
+      "M Peñarrocha",
+      "M Peñarrocha"
+    ],
+    "year": 2010,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.2.e18"
+  },
+  "protocols": [
+    {
+      "name": "Tratamiento de Mucocele Oral con Láser CO2",
+      "synonyms_es": [
+        "escisión de mucocele con láser",
+        "cirugía de mucocele con CO2",
+        "vaporización de mucocele labial",
+        "extirpación láser de quiste mucoso",
+        "cirugía láser de glándulas salivales menores"
+      ],
+      "synonyms_en": [
+        "CO2 laser mucocele excision",
+        "carbon dioxide laser mucocele treatment",
+        "laser surgical removal of mucocele",
+        "CO2 laser oral soft tissue surgery for mucocele"
+      ],
+      "purpose": "Eliminación quirúrgica del mucocele oral mediante láser CO2, aprovechando su alta absorción en tejidos blandos con alto contenido de agua, para lograr escisión precisa con mínima hemorragia, mínima reacción inflamatoria aguda y corto tiempo operatorio.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser CO2 (10600 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "10600 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "3-5 minutos (tiempo operatorio total reportado)"
+        }
+      ],
+      "critical_notes": [
+        "Los parámetros técnicos específicos del láser CO2 (potencia, modo de pulso, spot size) no son reportados en esta revisión narrativa; los datos clínicos provienen de estudios citados (Huang et al. 2007, Yagüe-García et al. 2009, Kopp & St-Hilaire 2004).",
+        "La clave para evitar recurrencia es eliminar los acinos glandulares adyacentes y resecar la lesión hasta la capa muscular.",
+        "Se debe tener especial cuidado de no lesionar las glándulas y conductos adyacentes al colocar suturas, ya que esto también puede causar recurrencia.",
+        "El láser CO2 no afecta la capa muscular subyacente, lo que lo hace adecuado para lesiones del labio inferior cerca del nervio mentoniano.",
+        "El documento presenta esta técnica favorablemente; existen alternativas (escisión con bisturí, micromarsupialization, criocirugía, inyecciones de corticosteroides) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar anamnesis completa buscando antecedente de trauma previo y confirmar diagnóstico clínico de mucocele.",
+        "Aplicar anestesia local en la zona de la lesión.",
+        "Utilizar el láser CO2 para realizar la escisión precisa del mucocele incluyendo la mucosa circundante y el tejido glandular.",
+        "Extender la resección hasta la capa muscular para incluir los acinos glandulares adyacentes y reducir el riesgo de recurrencia.",
+        "Verificar hemostasia (el láser CO2 proporciona hemostasia simultánea durante el corte).",
+        "Suturar con cuidado evitando lesionar glándulas y conductos adyacentes.",
+        "Enviar la pieza para estudio histopatológico para confirmar el diagnóstico y verificar la remoción completa del tejido glandular."
+      ],
+      "indications": [
+        "Mucocele oral de labio inferior (tipo extravasación)",
+        "Mucocele oral en cualquier localización de la mucosa oral con glándulas salivales menores",
+        "Pacientes pediátricos o pacientes que no toleran tratamientos prolongados (tiempo operatorio 3-5 min)",
+        "Mucoceles que no resuelven espontáneamente",
+        "Mucoceles recurrentes tras tratamientos conservadores"
+      ],
+      "contraindications": [
+        "Mucoceles superficiales de extravasación que resuelven espontáneamente (no requieren tratamiento)",
+        "Incisión simple sin escisión completa (contraindicada como tratamiento definitivo por alta tasa de recurrencia)"
+      ],
+      "postop_care": [
+        "Vigilar signos de recurrencia (reaparición de la lesión)",
+        "Monitorear posibles complicaciones: parestesia temporal, hemorragia postoperatoria",
+        "Seguimiento clínico para confirmar resolución completa",
+        "Resultado histopatológico debe confirmar remoción completa del tejido glandular"
+      ],
+      "evidence_level": "Bajo — revisión narrativa basada en series de casos y estudios comparativos no aleatorizados (Huang et al. n=82; Yagüe-García et al. n=68). No hay RCTs con protocolos de parámetros estandarizados de láser CO2.",
+      "keywords_es": [
+        "mucocele oral",
+        "láser CO2",
+        "dióxido de carbono láser",
+        "glándulas salivales menores",
+        "quiste mucoso",
+        "mucocele labio inferior",
+        "escisión láser tejidos blandos",
+        "cirugía oral láser",
+        "mucocele tratamiento",
+        "extravasación mucosa",
+        "ranula",
+        "micromarsupialization",
+        "criocirugía mucocele",
+        "recurrencia mucocele",
+        "mucocele pediátrico",
+        "mucocele lengua",
+        "mucocele mucosa bucal",
+        "láser tejidos blandos orales"
+      ],
+      "keywords_en": [
+        "oral mucocele",
+        "CO2 laser",
+        "carbon dioxide laser",
+        "minor salivary glands",
+        "mucous cyst",
+        "lower lip mucocele",
+        "laser soft tissue excision",
+        "oral laser surgery",
+        "mucocele treatment",
+        "mucous extravasation",
+        "ranula",
+        "micro-marsupialization",
+        "cryosurgery mucocele",
+        "mucocele recurrence",
+        "pediatric mucocele",
+        "mucocele tongue",
+        "buccal mucosa mucocele",
+        "soft tissue laser dentistry",
+        "salivary gland cyst",
+        "mucin retention"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
