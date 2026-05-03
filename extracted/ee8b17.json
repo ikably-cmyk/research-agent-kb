@@ -1,0 +1,266 @@
+{
+  "article_refs": [
+    "pdf_local::input_1777824919::830734"
+  ],
+  "uuid": "ee8b17",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "The ablation threshold for Er:YAG (2940 nm) in human dental enamel was determined to be approximately 9–11 J/cm² (10 J/cm² at 80% sensitivity).",
+    "The ablation threshold for Er:YSGG (2790 nm) in human dental enamel was slightly higher at 10–14 J/cm² (13 J/cm² at 80% sensitivity).",
+    "Both lasers were operated in free-running mode with pulse duration τP(FWHM) ≈ 150 µs and 5 Hz repetition rate; no water or air cooling was used.",
+    "Ablation threshold varied by region of the dental crown: cervical enamel (less mineralized) ablated at lower energy densities than occlusal enamel.",
+    "Er:YSGG laser produced microcracks in the prism-free outer enamel layer even below the ablation threshold, which was not observed with Er:YAG.",
+    "The Er:YAG laser showed a sharper (steeper) ablation threshold transition compared to Er:YSGG, which showed a broader transition range.",
+    "Knowledge of the ablation threshold is essential for sub-ablative applications such as caries prevention (acid resistance enhancement) where enamel structural change is desired without ablation.",
+    "Biological variability in enamel mineralization and water content significantly influences ablation threshold values, making exact thresholds difficult to define.",
+    "Results are valid only for Gaussian beam distributions and the specific pulse duration used (τP(FWHM) ≈ 150 µs); different pulse durations will yield different thresholds."
+  ],
+  "outcomes": [
+    {
+      "measured": "Ablation threshold of Er:YAG (2940 nm) in dental enamel",
+      "result": "9–11 J/cm² (range); 10 J/cm² at 80% sensitivity by logistic regression",
+      "statistical_significance": true,
+      "clinical_significance": "Defines the minimum energy density required for enamel ablation; energies below this can be used for sub-ablative applications such as caries prevention."
+    },
+    {
+      "measured": "Ablation threshold of Er:YSGG (2790 nm) in dental enamel",
+      "result": "10–14 J/cm² (range); 13 J/cm² at 80% sensitivity by logistic regression",
+      "statistical_significance": true,
+      "clinical_significance": "Slightly higher threshold than Er:YAG; broader transition range indicates less predictable ablation onset."
+    },
+    {
+      "measured": "Regional variation in ablation threshold across dental crown",
+      "result": "Cervical enamel ablated at lower energy densities than central buccal/occlusal enamel; effect more pronounced with Er:YSGG",
+      "statistical_significance": null,
+      "clinical_significance": "Clinicians must account for regional differences in enamel mineralization when setting laser parameters."
+    },
+    {
+      "measured": "Microcrack formation with Er:YSGG below ablation threshold",
+      "result": "Microcracks observed in prism-free outer enamel layer at sub-ablative energy densities with Er:YSGG",
+      "statistical_significance": null,
+      "clinical_significance": "Potential structural risk with Er:YSGG at sub-ablative energies; clinical implications require further study."
+    }
+  ],
+  "notes": "This is a purely in vitro study using 130 enamel samples from human wisdom teeth. No water or air cooling was applied during irradiation, which differs from standard clinical use. Results are specific to the experimental laser system (Schwartz Electro-Optics Type 1-2-3) with fluoride glass fiber delivery and Gaussian beam profile. Clinical translation requires caution as most clinical erbium lasers use multimode beam profiles via articulated arms or tips.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Human retained wisdom teeth (ex vivo enamel samples)",
+    "sample_type": "130 enamel samples from human wisdom teeth"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": "This study was supported by the Ministry of Education and Research of the Land of North Rhine-Westphalia and the Medical Faculty of University of Aachen in the framework of the START programme.",
+  "source_citation": "Apel, C., Meister, J., Ioana, R. S., Franzen, R., Hering, P., & Gutknecht, N. (2002). The ablation threshold of Er:YAG and Er:YSGG laser radiation in dental enamel. Lasers in Medical Science, 17(4), 246–252.",
+  "contraindications": [],
+  "adverse_events": [
+    "Slight smoke evolution during enamel irradiation with both wavelengths",
+    "Faint white or brownish discoloration within dental enamel (irregular, not energy-density specific)",
+    "Microcracks in prism-free outer enamel layer with Er:YSGG, occurring even below ablation threshold"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": 10.0,
+      "power_w": null,
+      "pulse_duration_ms": 0.15,
+      "frequency_hz": 5,
+      "spot_size_mm": 0.8,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "None (no water or air cooling used in this study)"
+    },
+    {
+      "wavelength_nm": 2790,
+      "fluence_j_cm2": 13.0,
+      "power_w": null,
+      "pulse_duration_ms": 0.15,
+      "frequency_hz": 5,
+      "spot_size_mm": 0.8,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "None (no water or air cooling used in this study)"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "dental enamel (cervical, buccal/oral central, occlusal regions)"
+    ]
+  },
+  "clinical_indication": "Determination of ablation threshold for erbium lasers in dental enamel; relevant for caries prevention (sub-ablative acid resistance enhancement) and hard tissue ablation applications.",
+  "target_tissue": "enamel",
+  "brand_model_mentioned": [
+    "Schwartz Electro-Optics Type 1-2-3 (experimental modular laser system)",
+    "Zeiss Type 475057 stereomicroscope",
+    "LEO DSM 962 scanning electron microscope",
+    "Laserprobe (two-channel energy meter)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Exact energy per pulse (mJ) not reported; only fluence (J/cm²) and spot size provided, so energy_per_pulse_mj could not be calculated without beam area confirmation.",
+    "The fluence values reported (10 J/cm² for Er:YAG, 13 J/cm² for Er:YSGG) represent 80% sensitivity thresholds, not absolute thresholds; the actual transition ranges are 9–11 and 10–14 J/cm² respectively.",
+    "No water or air cooling was used in this study, which differs from standard clinical erbium laser protocols; clinical ablation thresholds with cooling may differ.",
+    "Results are specific to free-running mode with τP(FWHM) ≈ 150 µs and Gaussian beam profile; clinical lasers with different pulse durations or multimode profiles will have different thresholds.",
+    "The experimental laser system (Schwartz Electro-Optics) is not a commercial clinical device; direct translation to clinical equipment parameters requires caution."
+  ],
+  "bibliographic_metadata": {
+    "title": "The Ablation Threshold of Er:YAG and Er:YSGG Laser Radiation in Dental Enamel",
+    "authors": [
+      "C. Apel",
+      "J. Meister",
+      "R.S. Ioana",
+      "R. Franzen",
+      "P. Hering",
+      "N. Gutknecht"
+    ],
+    "year": 2002,
+    "journal": "Lasers in Medical Science",
+    "doi": null
+  },
+  "protocols": [
+    {
+      "name": "Determinación del umbral de ablación de esmalte dental con Er:YAG (2940 nm) y Er:YSGG (2790 nm)",
+      "synonyms_es": [
+        "umbral de ablación láser en esmalte",
+        "fluencia mínima de ablación erbio",
+        "densidad de energía umbral esmalte",
+        "ablación subumbral esmalte láser",
+        "irradiación subablativa esmalte"
+      ],
+      "synonyms_en": [
+        "ablation threshold erbium laser enamel",
+        "minimum fluence for enamel ablation",
+        "sub-ablative erbium irradiation",
+        "enamel ablation onset energy density",
+        "erbium laser enamel threshold"
+      ],
+      "purpose": "Determinar la densidad de energía mínima (umbral de ablación) necesaria para producir ablación en esmalte dental humano con Er:YAG (2940 nm) y Er:YSGG (2790 nm), como base para aplicaciones subablativas (prevención de caries, aumento de resistencia al ácido) y ablativas (preparación cavitaria).",
+      "parameters_table": [
+        {
+          "equipment_class": "Er:YAG 2940 nm (modo libre, pulso ~150 µs FWHM)",
+          "representative_models": [
+            "Schwartz Electro-Optics Type 1-2-3 (experimental)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado (regulada por placas absorbentes)",
+          "frecuencia": "5 Hz",
+          "modo_de_pulso": "~150 µs FWHM (free-running, spiking)",
+          "fibra_punta": "Fibra de vidrio fluorado 535 µm de diámetro, NA=0.14, longitud 1.2 m",
+          "agua_pct": "0% (sin refrigeración en este estudio experimental)",
+          "aire_pct": "0% (sin refrigeración en este estudio experimental)",
+          "distancia": "No contacto; spot ~800 µm en superficie de muestra",
+          "tiempo_ciclos": "Barrido lineal continuo a 0.022 cm/s; solapamiento de ~9 pulsos por radio de spot"
+        },
+        {
+          "equipment_class": "Er:YSGG 2790 nm (modo libre, pulso ~150 µs FWHM)",
+          "representative_models": [
+            "Schwartz Electro-Optics Type 1-2-3 (experimental)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2790 nm",
+          "potencia": "No especificado (regulada por placas absorbentes)",
+          "frecuencia": "5 Hz",
+          "modo_de_pulso": "~150 µs FWHM (free-running, spiking)",
+          "fibra_punta": "Fibra de vidrio fluorado 535 µm de diámetro, NA=0.14, longitud 1.2 m",
+          "agua_pct": "0% (sin refrigeración en este estudio experimental)",
+          "aire_pct": "0% (sin refrigeración en este estudio experimental)",
+          "distancia": "No contacto; spot ~800 µm en superficie de muestra",
+          "tiempo_ciclos": "Barrido lineal continuo a 0.022 cm/s; solapamiento de ~9 pulsos por radio de spot"
+        }
+      ],
+      "critical_notes": [
+        "El umbral de ablación para Er:YAG es 9–11 J/cm² (10 J/cm² con 80% de sensibilidad estadística); para Er:YSGG es 10–14 J/cm² (13 J/cm² con 80% de sensibilidad).",
+        "Estos valores son rangos de transición, NO umbrales exactos; la variabilidad biológica del esmalte (grado de mineralización, contenido de agua) produce resultados individuales por encima y por debajo del rango.",
+        "El esmalte cervical (menor mineralización) se abla a densidades de energía más bajas que el esmalte oclusal; este efecto es más pronunciado con Er:YSGG.",
+        "El Er:YSGG puede producir microfisuras en la capa prismática externa del esmalte incluso por debajo del umbral de ablación; el impacto clínico de estas microfisuras requiere investigación adicional.",
+        "Estos resultados son válidos ÚNICAMENTE para distribución de haz gaussiana y duración de pulso τP(FWHM) ≈ 150 µs. Los láseres clínicos con brazos articulados o puntas generan perfiles multimodales que alteran la densidad de energía real.",
+        "En este estudio NO se utilizó refrigeración con agua ni aire. En la práctica clínica, el uso de spray agua/aire modifica el umbral de ablación efectivo.",
+        "El sistema láser utilizado (Schwartz Electro-Optics Type 1-2-3) es experimental y no comercial; los valores de umbral son de referencia científica, no directamente transferibles a equipos clínicos sin validación.",
+        "Para aplicaciones subablativas (prevención de caries, aumento de resistencia al ácido), se deben usar densidades de energía estrictamente por debajo del umbral determinado para evitar ablación no deseada."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Obtener muestras de esmalte de dientes retenidos (muelas del juicio) almacenadas en solución salina fisiológica al 0.9% para evitar deshidratación.",
+        "Montar las muestras en el microposicionador lineal automatizado.",
+        "Calibrar la densidad de energía del haz láser mediante el método 'knife-edge' para determinar el perfil gaussiano y el diámetro del spot (~800 µm a 1/e²).",
+        "Irradiar las muestras con densidades de energía crecientes (2–20 J/cm² para Er:YAG; 4–40 J/cm² para Er:YSGG) a 5 Hz, sin refrigeración.",
+        "Desplazar las muestras perpendicularmente al haz a 0.022 cm/s para obtener incisiones lineales con solapamiento de ~9 pulsos.",
+        "Evaluar las superficies irradiadas bajo microscopio de luz reflejada y microscopio electrónico de barrido (SEM).",
+        "Registrar signos de ablación, microfisuras, decoloración y evolución de humo.",
+        "Analizar estadísticamente los resultados mediante regresión logística para determinar la probabilidad de ablación en función de la densidad de energía."
+      ],
+      "indications": [
+        "Investigación del umbral de ablación de láseres de erbio en esmalte dental humano.",
+        "Establecimiento de parámetros de referencia para aplicaciones subablativas (prevención de caries, aumento de resistencia al ácido del esmalte).",
+        "Base científica para el diseño de protocolos clínicos de ablación de tejido duro con Er:YAG y Er:YSGG."
+      ],
+      "contraindications": [
+        "No aplicar densidades de energía por encima del umbral cuando el objetivo es una modificación subablativa del esmalte (riesgo de ablación no deseada).",
+        "No extrapolar directamente estos valores a equipos clínicos con perfiles de haz multimodal o duraciones de pulso diferentes a ~150 µs FWHM.",
+        "No usar estos parámetros sin refrigeración en pacientes (el estudio experimental omitió deliberadamente el spray agua/aire)."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con 130 muestras de esmalte ex vivo; sin grupo control clínico; sistema láser experimental no comercial; resultados no directamente transferibles a práctica clínica.",
+      "keywords_es": [
+        "umbral de ablación",
+        "esmalte dental",
+        "Er:YAG",
+        "Er:YSGG",
+        "láser erbio",
+        "densidad de energía",
+        "ablación tejido duro",
+        "prevención de caries láser",
+        "irradiación subablativa",
+        "microfisuras esmalte",
+        "mineralización esmalte",
+        "fluencia láser esmalte",
+        "ablación láser dental",
+        "2940 nm esmalte",
+        "2790 nm esmalte",
+        "resistencia ácida esmalte láser",
+        "umbral ablativo erbio",
+        "in vitro láser dental"
+      ],
+      "keywords_en": [
+        "ablation threshold",
+        "dental enamel",
+        "Er:YAG laser",
+        "Er:YSGG laser",
+        "erbium laser",
+        "energy density",
+        "hard tissue ablation",
+        "caries prevention laser",
+        "sub-ablative irradiation",
+        "enamel microcracks",
+        "enamel mineralization",
+        "laser fluence enamel",
+        "dental laser ablation",
+        "2940 nm enamel",
+        "2790 nm enamel",
+        "acid resistance enamel laser",
+        "ablative threshold erbium",
+        "in vitro dental laser"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
