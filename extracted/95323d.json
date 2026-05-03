@@ -1,0 +1,440 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101590_0103_6440201600726__2d256a90::d4908e"
+  ],
+  "uuid": "95323d",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Ultrasonic activation of NaOCl remains the gold standard for endodontic irrigant activation, to which all other mechanical agitation systems are compared.",
+    "Laser Activated Irrigation (LAI) and PIPS™ (Photon-Initiated Photoacoustic Streaming) use Er:YAG laser energy to create photoacoustic shock waves within the irrigant, generating vapor bubbles that expand and implode with secondary cavitation effects.",
+    "PIPS™ relies on short pulse duration (~50 µs) of Er:YAG laser combined with high peak power to produce a photomechanical phenomenon when activated in a limited volume of liquid (pulp chamber).",
+    "Some studies showed no difference in bacterial reduction between laser-activated NaOCl and NaOCl alone; others found incomplete biofilm removal from the apical third, though laser activation generated more negative bacterial cultures.",
+    "Photo-Activated Disinfection (PAD/LAD) uses a photosensitizer (PS) activated at a specific wavelength to produce reactive oxygen species that destroy microorganisms; PS must be in direct contact with bacteria for the process to occur.",
+    "PAD/LAD is considered a supplement to, not a replacement for, standard root canal disinfection protocols.",
+    "Direct laser irradiation (diode, CO2, Er:YAG, Nd:YAG) for root canal disinfection lacks strong evidence; complete biofilm elimination has not been achieved.",
+    "Sonic activation operates at 1–6 kHz and is generally less effective than ultrasonic systems in removing debris.",
+    "Apical negative-pressure irrigation systems provide effective irrigant delivery to the apical third with lower extrusion risk, with results comparable to ultrasonic activation in most studies.",
+    "CHX should not be used immediately after NaOCl due to formation of potentially mutagenic precipitates; an intermediate wash with saline, alcohol, or distilled water is recommended."
+  ],
+  "outcomes": [
+    {
+      "measured": "Bacterial reduction with PIPS™ vs NaOCl alone",
+      "result": "One study showed no significant difference; another found incomplete biofilm removal from apical third; more recent studies confirmed promising results with higher negative bacterial culture rates.",
+      "statistical_significance": null,
+      "clinical_significance": "PIPS™ may improve disinfection outcomes but evidence is mixed; not yet established as superior to ultrasonic activation."
+    },
+    {
+      "measured": "Debris removal: sonic vs ultrasonic activation",
+      "result": "Sonic activation (1–6 kHz) is generally less effective than ultrasonic systems in removing debris.",
+      "statistical_significance": null,
+      "clinical_significance": "Ultrasonic activation preferred over sonic for debris removal."
+    },
+    {
+      "measured": "Apical negative-pressure irrigation vs ultrasonic activation",
+      "result": "Results in most cases similar to ultrasonic activation techniques for debris removal and irrigant penetration.",
+      "statistical_significance": null,
+      "clinical_significance": "Apical negative-pressure is a valid alternative with lower extrusion risk."
+    }
+  ],
+  "notes": "This is a narrative review covering multiple endodontic irrigation and disinfection technologies. No original clinical data are reported. The review concludes that ultrasonic activation of NaOCl remains the gold standard. Laser-based techniques (LAI, PIPS™, direct laser, PAD) are discussed as adjuncts with variable evidence.",
+  "population": null,
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Plotino, G., Cortese, T., Grande, N. M., Leonardi, D. P., Di Giorgio, G., Testarelli, L., & Gambarini, G. (2016). New technologies to improve root canal disinfection. Brazilian Dental Journal, 27(1), 3–8. https://doi.org/10.1590/0103-6440201600726",
+  "contraindications": [
+    "CHX should not be used together with or immediately after NaOCl (risk of mutagenic precipitate formation and tooth discoloration).",
+    "High-concentration NaOCl (5–6%) carries greater risk of periapical tissue damage if extruded; use with specially designed needles and no-pressure technique.",
+    "EDTA and NaOCl should not be in the canal simultaneously (EDTA reduces antibacterial and solvent activity of NaOCl)."
+  ],
+  "adverse_events": [
+    "Inadvertent extrusion of NaOCl into periapical tissues can cause severe reactions.",
+    "NaOCl + CHX interaction produces potentially mutagenic precipitates and tooth discoloration.",
+    "No adverse effects reported for PAD/LAD in toxicity tests."
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.05,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "pulp chamber",
+      "root canal"
+    ]
+  },
+  "clinical_indication": "Root canal disinfection and irrigant activation during endodontic treatment",
+  "target_tissue": "pulp, dentin, root canal system",
+  "brand_model_mentioned": [],
+  "drugs_mentioned": [
+    {
+      "name": "sodium hypochlorite",
+      "drug_class": "Endodontic irrigant / antimicrobial",
+      "interaction_type": "caution",
+      "dental_relevance": "Main endodontic irrigant; heated (45–60°C) and higher concentrations (5–6%) have greater tissue-dissolving properties but higher risk of periapical damage if extruded. Should not be mixed with CHX or EDTA simultaneously.",
+      "photosensitivity": false,
+      "laser_implication": "NaOCl is effectively absorbed by Er:YAG laser energy, leading to vaporization and photoacoustic cavitation effects used in LAI and PIPS™ techniques."
+    },
+    {
+      "name": "ethylenediaminetetraacetic acid",
+      "drug_class": "Chelating agent / endodontic irrigant",
+      "interaction_type": "caution",
+      "dental_relevance": "Used at 17% to remove inorganic smear layer; reduces antibacterial activity of NaOCl when mixed simultaneously. Should be used after NaOCl at end of preparation.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "chlorhexidine",
+      "drug_class": "Antiseptic / endodontic irrigant",
+      "interaction_type": "contraindication",
+      "dental_relevance": "2% CHX used as final flush for persistent infections; must NOT be used immediately after NaOCl due to formation of potentially mutagenic precipitates and tooth discoloration. Intermediate wash with saline, alcohol, or distilled water required.",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "CHX should not be used immediately after NaOCl; an intermediate wash with saline, absolute alcohol, or distilled water is required to prevent mutagenic precipitate formation.",
+  "confidence": "high",
+  "uncertainties": [
+    "Specific laser parameters for LAI (power, frequency, fiber type, water/air settings) are not reported in this review; only pulse duration (~50 µs) for PIPS™ is mentioned.",
+    "No specific equipment brands or models are cited for laser activation techniques.",
+    "PAD/LAD photosensitizer wavelength and light source specifications are not detailed beyond general description.",
+    "The review does not provide quantitative outcomes with statistical data for most comparisons."
+  ],
+  "bibliographic_metadata": {
+    "title": "New Technologies to Improve Root Canal Disinfection",
+    "authors": [
+      "Gianluca Plotino",
+      "Teresa Cortese",
+      "Nicola M. Grande",
+      "Denise P. Leonardi",
+      "Gianni Di Giorgio",
+      "Luca Testarelli",
+      "Gianluca Gambarini"
+    ],
+    "year": 2016,
+    "journal": "Brazilian Dental Journal",
+    "doi": "10.1590/0103-6440201600726"
+  },
+  "protocols": [
+    {
+      "name": "Activación Láser de Irrigante (LAI) con Er:YAG en Endodoncia",
+      "synonyms_es": [
+        "irrigación activada por láser",
+        "activación fotoacústica del irrigante endodóntico",
+        "LAI endodóntico",
+        "activación de hipoclorito con láser Er:YAG",
+        "streaming fotoacústico intracanal"
+      ],
+      "synonyms_en": [
+        "laser activated irrigation",
+        "LAI endodontics",
+        "Er:YAG irrigant activation",
+        "photoacoustic irrigant activation",
+        "laser-enhanced root canal irrigation"
+      ],
+      "purpose": "Activar el irrigante endodóntico (NaOCl) mediante energía láser Er:YAG para generar burbujas de vapor y efectos de cavitación secundaria que mejoren la desinfección y limpieza del sistema de conductos radiculares.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con duración de pulso ≤50 μs y punta radial stripped",
+          "representative_models": [
+            "Fotona LightWalker AT",
+            "Doctor Smile Wiser",
+            "LightTouch"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "~50 μs (pulsado corto)",
+          "fibra_punta": "No especificado (punta radial stripped recomendada para PIPS™)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Cámara pulpar o intracanal según técnica",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "El mecanismo de acción se basa en la alta absorción del láser Er:YAG por el NaOCl, generando vaporización y cavitación fotoacústica secundaria.",
+        "La técnica PIPS™ (marca registrada de Fotona) posiciona la punta en la cámara pulpar con pulsos de ~50 μs; otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "Algunos estudios no encontraron diferencia significativa en reducción bacteriana respecto a NaOCl solo; la evidencia es mixta.",
+        "No se ha logrado eliminación completa del biofilm del tercio apical con esta técnica según algunos estudios.",
+        "El documento presenta esta técnica como prometedora pero reconoce evidencia limitada; existen alternativas (activación ultrasónica, sónica, presión negativa apical) con mecanismos de acción diferentes.",
+        "Parámetros clínicos específicos (potencia, frecuencia, tipo de fibra, agua/aire) no son reportados en esta revisión narrativa."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Completar la preparación quimio-mecánica del conducto radicular con instrumentación rotatoria.",
+        "Introducir NaOCl en el conducto radicular como irrigante.",
+        "Posicionar la punta del láser Er:YAG en la cámara pulpar (técnica PIPS™) o en el interior del conducto (LAI convencional).",
+        "Activar el láser con pulsos cortos (~50 μs) para generar ondas de choque fotoacústicas dentro del irrigante.",
+        "Las burbujas de vapor generadas se expanden e implonan produciendo efectos de cavitación secundaria que mejoran la limpieza.",
+        "Renovar el irrigante y repetir los ciclos de activación según el protocolo clínico establecido."
+      ],
+      "indications": [
+        "Desinfección del sistema de conductos radiculares durante tratamiento endodóntico.",
+        "Mejora de la limpieza en áreas de difícil acceso (istmos, conductos ovales, ramificaciones apicales).",
+        "Activación del NaOCl para potenciar su efecto antibacteriano y disolvente.",
+        "Casos con biofilm intracanal persistente como complemento a la preparación convencional."
+      ],
+      "contraindications": [
+        "No se recomienda como sustituto de la preparación quimio-mecánica convencional.",
+        "Evidencia insuficiente para reemplazar la activación ultrasónica como estándar de referencia.",
+        "Precaución en conductos con paredes delgadas o riesgo de perforación."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa con estudios ex vivo e in vitro de resultados mixtos; sin RCTs de alta calidad con protocolos estandarizados.",
+      "keywords_es": [
+        "LAI",
+        "activación láser irrigante",
+        "PIPS",
+        "Er:YAG endodoncia",
+        "irrigación endodóntica láser",
+        "hipoclorito sódico activado",
+        "cavitación fotoacústica",
+        "streaming fotoacústico",
+        "desinfección conducto radicular",
+        "biofilm intracanal",
+        "endodoncia láser",
+        "activación fotoacústica",
+        "Fotona LightWalker",
+        "irrigante endodóntico",
+        "limpieza sistema de conductos"
+      ],
+      "keywords_en": [
+        "LAI",
+        "laser activated irrigation",
+        "PIPS",
+        "Er:YAG endodontics",
+        "endodontic laser irrigation",
+        "activated sodium hypochlorite",
+        "photoacoustic cavitation",
+        "photoacoustic streaming",
+        "root canal disinfection",
+        "intracanal biofilm",
+        "laser endodontics",
+        "photoacoustic activation",
+        "Fotona LightWalker",
+        "endodontic irrigant activation",
+        "root canal system cleaning"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Desinfección Fotoactivada (PAD/LAD) en Endodoncia",
+      "synonyms_es": [
+        "desinfección activada por luz",
+        "terapia fotodinámica endodóntica",
+        "PAD endodóntico",
+        "LAD endodóntico",
+        "terapia fotodinámica antimicrobiana intracanal",
+        "aPDT endodóntica"
+      ],
+      "synonyms_en": [
+        "photo-activated disinfection",
+        "light-activated disinfection",
+        "PAD endodontics",
+        "LAD endodontics",
+        "antimicrobial photodynamic therapy root canal",
+        "aPDT endodontics"
+      ],
+      "purpose": "Eliminar microorganismos intracanales mediante la activación de un fotosensibilizador (PS) con una fuente de luz específica, generando oxígeno reactivo que destruye la pared celular bacteriana; se usa como complemento a los protocolos estándar de desinfección endodóntica.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (longitud de onda específica según PS utilizado)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "Específica según fotosensibilizador (no especificada en el documento)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "Punta endodóntica especial para inserción intracanal",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Hasta la profundidad alcanzable en el conducto",
+          "tiempo_ciclos": "30 s por conducto"
+        }
+      ],
+      "critical_notes": [
+        "El fotosensibilizador (PS) debe estar en contacto directo con las bacterias para que el proceso de fotosensibilización ocurra; la penetración máxima del PS es crítica.",
+        "PAD/LAD es efectiva no solo contra bacterias en suspensión sino también contra biofilm.",
+        "Se considera un complemento, no una alternativa, a los protocolos estándar de desinfección del conducto radicular.",
+        "Los PSs tienen baja afinidad por las células del organismo; los estudios de toxicidad no reportaron efectos adversos.",
+        "La longitud de onda exacta de la fuente de luz depende del fotosensibilizador utilizado y no se especifica en esta revisión.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos exactos (wavelength, potencia) dependen del sistema PS+fuente de luz utilizado. Basado en: Plotino et al. 2016."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Completar la preparación quimio-mecánica del conducto radicular.",
+        "Introducir el fotosensibilizador (PS) en el conducto hasta la longitud de trabajo con una aguja endodóntica.",
+        "Dejar el PS in situ durante 60 segundos para permitir su unión a las membranas bacterianas.",
+        "Insertar la punta endodóntica especial en el conducto hasta la profundidad alcanzable.",
+        "Realizar la irradiación lumínica durante 30 segundos por conducto.",
+        "El PS absorbe la energía lumínica y la libera en forma de oxígeno reactivo que destruye los microorganismos."
+      ],
+      "indications": [
+        "Infección endodóntica persistente como complemento a la preparación convencional.",
+        "Casos con biofilm intracanal resistente.",
+        "Infecciones por bacterias, virus, hongos y protozoos intracanales.",
+        "Pacientes en los que se desea minimizar el uso de antibióticos sistémicos."
+      ],
+      "contraindications": [
+        "No debe usarse como sustituto de la preparación quimio-mecánica convencional.",
+        "El proceso no ocurre si el PS no está en contacto directo con las bacterias; acceso limitado en conductos muy estrechos puede reducir la eficacia."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudios de laboratorio e in vivo limitados; considerado complemento, no alternativa, al protocolo estándar según esta revisión narrativa.",
+      "keywords_es": [
+        "PAD",
+        "LAD",
+        "desinfección fotoactivada",
+        "terapia fotodinámica endodoncia",
+        "fotosensibilizador endodóntico",
+        "aPDT",
+        "azul de toluidina endodoncia",
+        "desinfección por luz endodoncia",
+        "biofilm intracanal",
+        "oxígeno reactivo endodoncia",
+        "antimicrobiano fotodinámica",
+        "conducto radicular desinfección",
+        "endodoncia complementaria",
+        "microorganismos intracanales",
+        "terapia fotodinámica antimicrobiana"
+      ],
+      "keywords_en": [
+        "PAD",
+        "LAD",
+        "photo-activated disinfection",
+        "photodynamic therapy endodontics",
+        "endodontic photosensitizer",
+        "aPDT",
+        "toluidine blue endodontics",
+        "light-activated disinfection endodontics",
+        "intracanal biofilm",
+        "reactive oxygen species endodontics",
+        "antimicrobial photodynamic therapy",
+        "root canal disinfection",
+        "adjunct endodontic therapy",
+        "intracanal microorganisms",
+        "photodynamic antimicrobial chemotherapy"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Irradiación Láser Directa para Desinfección de Conductos Radiculares",
+      "synonyms_es": [
+        "láser directo intracanal",
+        "desinfección con láser de diodo endodóntico",
+        "láser Nd:YAG intracanal",
+        "láser CO2 endodóntico",
+        "irradiación láser bactericida intracanal"
+      ],
+      "synonyms_en": [
+        "direct laser irradiation root canal",
+        "intracanal laser disinfection",
+        "diode laser endodontics",
+        "Nd:YAG laser root canal",
+        "CO2 laser endodontics"
+      ],
+      "purpose": "Reducir la carga bacteriana intracanal mediante la acción térmica directa del láser sobre las paredes del conducto, alterando la pared celular bacteriana y produciendo cambios en los gradientes osmóticos hasta la muerte celular; se usa como complemento a los protocolos convencionales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo (810–980 nm), Nd:YAG 1064 nm, CO2, o Er:YAG 2940 nm con fibra óptica para emisión intracanal",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "Variable: diodo 810–980 nm / Nd:YAG 1064 nm / CO2 / Er:YAG 2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "Fibra óptica con emisión lateral o apical; sistemas de emisión lateral para mejorar efecto antimicrobiano",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "A lo largo del conducto desde la punta de la fibra óptica",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "La energía láser emitida desde la punta de la fibra óptica se dirige a lo largo del conducto y no necesariamente de forma lateral hacia las paredes; esto limita su eficacia antimicrobiana.",
+        "Se han desarrollado sistemas de emisión lateral para mejorar el efecto antimicrobiano, pero no se ha logrado eliminación completa del biofilm.",
+        "No existe evidencia sólida que respalde la aplicación de láseres de alta potencia para desinfección directa de conductos radiculares según esta revisión.",
+        "La acción bactericida depende de la longitud de onda y la energía; en muchos casos se debe a efectos térmicos.",
+        "Se considera una posible integración a los protocolos existentes, no una alternativa.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados para irradiación láser directa intracanal. Basado en: Plotino et al. 2016."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Completar la preparación quimio-mecánica del conducto radicular.",
+        "Introducir la fibra óptica del láser en el conducto radicular.",
+        "Activar el láser dirigiendo la energía a lo largo del conducto para producir efecto bactericida térmico.",
+        "Utilizar sistemas de emisión lateral cuando estén disponibles para mejorar el contacto con las paredes del conducto.",
+        "Aplicar como complemento al protocolo de irrigación convencional."
+      ],
+      "indications": [
+        "Desinfección complementaria del conducto radicular durante tratamiento endodóntico.",
+        "Casos con infección persistente o biofilm resistente como adjunto a la preparación convencional."
+      ],
+      "contraindications": [
+        "No debe usarse como sustituto de la preparación quimio-mecánica convencional.",
+        "Evidencia insuficiente para recomendar como técnica estándar de desinfección.",
+        "Riesgo de daño térmico a tejidos periapicales si se aplica con parámetros inadecuados."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudios ex vivo e in vitro con resultados inconsistentes; sin evidencia sólida para aplicación clínica rutinaria según esta revisión narrativa.",
+      "keywords_es": [
+        "láser intracanal",
+        "desinfección láser endodoncia",
+        "láser diodo endodoncia",
+        "Nd:YAG conducto radicular",
+        "CO2 endodoncia",
+        "Er:YAG desinfección intracanal",
+        "fibra óptica endodóntica",
+        "bactericida láser",
+        "biofilm endodóntico láser",
+        "irradiación láser bacteriana",
+        "endodoncia láser alta potencia",
+        "desinfección conducto radicular",
+        "láser emisión lateral",
+        "microorganismos endodónticos",
+        "tratamiento endodóntico complementario"
+      ],
+      "keywords_en": [
+        "intracanal laser",
+        "laser disinfection endodontics",
+        "diode laser endodontics",
+        "Nd:YAG root canal",
+        "CO2 laser endodontics",
+        "Er:YAG intracanal disinfection",
+        "endodontic optical fiber",
+        "laser bactericidal effect",
+        "endodontic biofilm laser",
+        "laser bacterial irradiation",
+        "high-power laser endodontics",
+        "root canal disinfection laser",
+        "lateral emission laser",
+        "endodontic pathogens",
+        "adjunct endodontic treatment"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
