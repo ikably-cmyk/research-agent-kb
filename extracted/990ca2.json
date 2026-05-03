@@ -1,0 +1,311 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_s13005_018_0161_9__4444eeb3::35055e"
+  ],
+  "uuid": "990ca2",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "moderate",
+  "key_points": [
+    "RCT con diseño split-mouth comparando piezocisión vs corticotomía flapless asistida por láser Er:YAG (LAFC) para aceleración de retracción canina en 34 pacientes (17 por grupo en análisis final).",
+    "La tasa de retracción canina fue significativamente mayor en el lado experimental vs control en ambos grupos: ~2 veces más rápida en el primer mes y ~1.5 veces en el segundo mes (p < 0.001).",
+    "La duración total de retracción canina se redujo aproximadamente un 25% en el lado experimental vs control en ambos grupos (p ≤ 0.001).",
+    "No hubo diferencias significativas entre piezocisión y LAFC en ninguna de las variables estudiadas (p > 0.05), sugiriendo eficacia equivalente.",
+    "No se observaron efectos adversos significativos sobre pérdida de anclaje ni rotación canina en ninguno de los grupos.",
+    "El efecto acelerador se atribuye al fenómeno de aceleración regional (RAP), con pico al primer mes y disminución dramática al final del segundo mes.",
+    "Parámetros del láser Er:YAG (Fotona LightWalker ST-E): perforaciones gingivales a 100 mJ, 10 Hz, 2 W; perforaciones corticales a 200 mJ, 12 Hz, 3 W; punta de zafiro cilíndrica 1.3 mm diámetro × 8 mm longitud; modo no contacto con spray agua-aire.",
+    "No se observaron daños con ninguna de las dos técnicas durante el estudio."
+  ],
+  "outcomes": [
+    {
+      "measured": "Tasa de retracción canina (mm/mes) — primer mes",
+      "result": "PG experimental: 1.65 mm/mes vs control: 0.83 mm/mes (diferencia ~2x, p<0.001); LAFCG experimental: 1.57 mm/mes vs control: 0.79 mm/mes (diferencia ~2x, p<0.001)",
+      "statistical_significance": true,
+      "clinical_significance": "Aceleración clínicamente relevante de la retracción canina en el primer mes post-intervención"
+    },
+    {
+      "measured": "Tasa de retracción canina (mm/mes) — segundo mes",
+      "result": "PG experimental: 1.38 mm/mes vs control: 0.88 mm/mes (diferencia ~1.5x, p<0.001); LAFCG experimental: 1.25 mm/mes vs control: 0.85 mm/mes (diferencia ~1.5x, p<0.001)",
+      "statistical_significance": true,
+      "clinical_significance": "El efecto acelerador persiste pero disminuye en el segundo mes"
+    },
+    {
+      "measured": "Tasa de retracción canina — tercer y cuarto mes",
+      "result": "No hubo diferencias significativas entre lado experimental y control en ninguno de los grupos (p > 0.05)",
+      "statistical_significance": false,
+      "clinical_significance": "El efecto RAP es transitorio, limitado principalmente a los primeros 2 meses"
+    },
+    {
+      "measured": "Duración total de retracción canina",
+      "result": "Reducción de ~1.17 meses en PG (p=0.001) y ~1.05 meses en LAFCG (p≤0.001) en lado experimental vs control; equivalente a ~25% de reducción",
+      "statistical_significance": true,
+      "clinical_significance": "Reducción clínicamente significativa del tiempo total de retracción canina"
+    },
+    {
+      "measured": "Pérdida de anclaje molar",
+      "result": "Sin diferencias significativas entre lado experimental y control en ambos grupos durante los 4 tiempos de evaluación (p > 0.05)",
+      "statistical_significance": false,
+      "clinical_significance": "Las técnicas no comprometen el anclaje molar"
+    },
+    {
+      "measured": "Rotación canina",
+      "result": "Mayor en lado experimental pero diferencias no significativas (p > 0.05) en ambos grupos",
+      "statistical_significance": false,
+      "clinical_significance": "Sin efecto clínicamente relevante sobre rotación canina"
+    },
+    {
+      "measured": "Comparación entre piezocisión y LAFC",
+      "result": "Sin diferencias significativas entre los dos grupos experimentales en ninguna variable durante todos los tiempos de evaluación (p > 0.05)",
+      "statistical_significance": false,
+      "clinical_significance": "Ambas técnicas tienen eficacia equivalente para acelerar la retracción canina"
+    }
+  ],
+  "notes": "Primer RCT en la literatura comparando dos técnicas de corticotomía mínimamente invasiva entre sí. Diseño split-mouth dentro de cada brazo paralelo. Seguimiento de 4 meses post-inicio de retracción. Protocolo postquirúrgico incluyó amoxicilina/clavulanato, clorhexidina, analgésicos (acetaminofén); AINEs contraindicados para no interferir con RAP. Fuerza de retracción: 150 g con resortes de NiTi de cierre. Citas cada 2 semanas para maximizar ventaja del RAP.",
+  "population": {
+    "n_participants": 34,
+    "age_range": "15-27 años",
+    "condition": "Clase II división I con necesidad de extracción de primeros premolares superiores y retracción canina",
+    "sample_type": "Pacientes humanos (12 hombres, 22 mujeres en análisis final)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare that they have no competing interests.",
+  "funding_source_text": "This work was supported by the University of Damascus Postgraduate Research Budget (Ref no: 83054206781DEN).",
+  "source_citation": "Alfawal, A. M. H., Hajeer, M. Y., Ajaj, M. A., Hamadah, O., & Brad, B. (2018). Evaluation of piezocision and laser-assisted flapless corticotomy in the acceleration of canine retraction: a randomized controlled trial. Head & Face Medicine, 14(4). https://doi.org/10.1186/s13005-018-0161-9",
+  "contraindications": [
+    "AINEs contraindicados en el período postquirúrgico para no interferir con el fenómeno de aceleración regional (RAP)",
+    "Pacientes con enfermedades sistémicas que afecten el hueso o el movimiento dental",
+    "Pacientes con contraindicaciones médicas o psicológicas para cirugía oral",
+    "Higiene oral deficiente o periodonto no saludable (profundidad de sondaje > 3 mm, evidencia radiográfica de pérdida ósea, índice de placa/gingival > 1)"
+  ],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": 2.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": 10,
+      "spot_size_mm": 1.3,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 100.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Spray agua-aire, velocidad 40-50 mm/s"
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": 3.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": 12,
+      "spot_size_mm": 1.3,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 200.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Spray agua-aire, velocidad 40-50 mm/s"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "point",
+    "anatomical_points": [
+      "Buccal gingiva distal to upper canines",
+      "Alveolar cortical bone between upper canine and 2nd premolar"
+    ]
+  },
+  "clinical_indication": "Aceleración de retracción canina en ortodoncia (Clase II división I con extracción de primeros premolares superiores)",
+  "target_tissue": "alveolar bone, gingiva",
+  "brand_model_mentioned": [
+    "Fotona LightWalker ST-E",
+    "Piezotome Implant Center 2 (Satelec, France)"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "amoxicillin/clavulanate potassium",
+      "drug_class": "Antibiotic (beta-lactam + beta-lactamase inhibitor)",
+      "interaction_type": "caution",
+      "dental_relevance": "Prescrito postquirúrgicamente (Augmentin 625 mg: amoxicilina 500 mg + clavulanato 125 mg), 1 tableta 3 veces al día por 1 semana tras corticotomía flapless",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "chlorhexidine gluconate",
+      "drug_class": "Antiseptic/antimicrobial",
+      "interaction_type": "caution",
+      "dental_relevance": "Enjuague preoperatorio (0.12%, 1 min) y postoperatorio (0.12%, 2 veces al día por 1 semana) tras corticotomía flapless",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "acetaminophen",
+      "drug_class": "Analgesic/antipyretic",
+      "interaction_type": "caution",
+      "dental_relevance": "Analgésico postoperatorio (500 mg) solo si necesario; preferido sobre AINEs para no interferir con RAP",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "NSAIDs (non-steroidal anti-inflammatory drugs)",
+      "drug_class": "Anti-inflammatory/analgesic",
+      "interaction_type": "contraindication",
+      "dental_relevance": "Contraindicados en el período postquirúrgico de corticotomía para no interferir con el fenómeno de aceleración regional (RAP) que depende de la respuesta inflamatoria",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "lidocaine hydrochloride 2% with epinephrine 1:80,000",
+      "drug_class": "Local anesthetic with vasoconstrictor",
+      "interaction_type": "caution",
+      "dental_relevance": "Anestesia local infiltrativa en fondo de vestíbulo distal a caninos superiores para ambas intervenciones quirúrgicas",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "AINEs contraindicados en el postoperatorio de corticotomía flapless (piezocisión o LAFC) para no interferir con el fenómeno de aceleración regional (RAP). Prescribir acetaminofén como analgésico de primera línea. Protocolo postquirúrgico: amoxicilina/clavulanato 625 mg 3 veces/día × 1 semana, clorhexidina 0.12% 2 veces/día × 1 semana, dieta blanda 2 días, hielo primeras 12 h.",
+  "confidence": "high",
+  "uncertainties": [
+    "La duración de pulso exacta (en μs) del láser Er:YAG Fotona LightWalker ST-E no se especifica en el paper; solo se reportan energía (mJ), frecuencia (Hz) y potencia (W).",
+    "Los porcentajes exactos de agua y aire del spray de refrigeración no se especifican; solo se menciona 'water-air spray cooling 40-50 mm/s'.",
+    "El número exacto de perforaciones corticales por lado no se especifica claramente (se mencionan 5 perforaciones gingivales pero no se aclara si el mismo número aplica para las corticales).",
+    "No se reporta el tiempo total de aplicación del láser por sesión.",
+    "El modo de pulso específico (SSP, MSP, etc.) del LightWalker ST-E utilizado no se menciona en el paper."
+  ],
+  "bibliographic_metadata": {
+    "title": "Evaluation of piezocision and laser-assisted flapless corticotomy in the acceleration of canine retraction: a randomized controlled trial",
+    "authors": [
+      "Alaa M. H. Alfawal",
+      "Mohammad Y. Hajeer",
+      "Mowaffak A. Ajaj",
+      "Omar Hamadah",
+      "Bassel Brad"
+    ],
+    "year": 2018,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-018-0161-9"
+  },
+  "protocols": [
+    {
+      "name": "Corticotomía flapless asistida por láser Er:YAG para aceleración de retracción canina (LAFC)",
+      "synonyms_es": [
+        "corticotomía flapless con láser",
+        "corticotomía láser sin colgajo",
+        "perforaciones corticales con Er:YAG",
+        "corticotomía mínimamente invasiva con láser",
+        "LAFC ortodoncia"
+      ],
+      "synonyms_en": [
+        "laser-assisted flapless corticotomy",
+        "LAFC",
+        "flapless laser corticotomy",
+        "Er:YAG flapless corticotomy",
+        "minimally invasive laser corticotomy for orthodontics"
+      ],
+      "purpose": "Realizar perforaciones flapless en la cortical alveolar bucal mediante láser Er:YAG para inducir el fenómeno de aceleración regional (RAP) y acelerar la retracción canina en ortodoncia, reduciendo el tiempo total de tratamiento aproximadamente un 25% sin necesidad de elevar colgajo.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fotona LightWalker ST-E (Er:YAG 2940 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm (Er:YAG)",
+          "potencia": "Fase 1 (gingival): 2 W; Fase 2 (cortical): 3 W",
+          "frecuencia": "Fase 1: 10 Hz; Fase 2: 12 Hz",
+          "modo_de_pulso": "Pulsado (modo específico no reportado); Fase 1: 100 mJ/pulso; Fase 2: 200 mJ/pulso",
+          "fibra_punta": "Punta de zafiro cilíndrica (R14C handpiece), diámetro 1.3 mm, longitud 8 mm",
+          "agua_pct": "No especificado (spray agua-aire activo, velocidad 40-50 mm/s)",
+          "aire_pct": "No especificado (spray agua-aire activo, velocidad 40-50 mm/s)",
+          "distancia": "1-2 mm de la encía/hueso (modo no contacto)",
+          "tiempo_ciclos": "5 perforaciones gingivales (Fase 1) + perforaciones corticales de 3 mm de profundidad (Fase 2); tiempo total no reportado"
+        }
+      ],
+      "critical_notes": [
+        "El procedimiento se realiza en dos fases: primero perforaciones gingivales (100 mJ, 10 Hz, 2 W) y luego perforaciones corticales de 3 mm de profundidad (200 mJ, 12 Hz, 3 W), confirmadas con sonda UNC-15.",
+        "Modo no contacto obligatorio: la punta debe mantenerse a 1-2 mm de la encía y el hueso alveolar durante toda la intervención.",
+        "Refrigeración con spray agua-aire activo durante todo el procedimiento (velocidad 40-50 mm/s) para evitar daño térmico.",
+        "Los AINEs están contraindicados en el postoperatorio para no interferir con el RAP; usar acetaminofén como analgésico de primera línea.",
+        "El efecto acelerador es transitorio (RAP): máximo en el primer mes, disminuye dramáticamente al final del segundo mes; las citas de seguimiento deben ser cada 2 semanas para maximizar el beneficio.",
+        "La duración de pulso exacta (en μs) del modo utilizado no se reporta en el paper original; el modo de pulso específico del LightWalker ST-E no se especifica.",
+        "El documento presenta esta técnica favorablemente comparada con el control; existen alternativas (piezocisión, micro-osteoperforaciones, corticisión) con mecanismos de acción similares que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Enjuague preoperatorio con clorhexidina gluconato 0.12% durante 1 minuto.",
+        "Anestesia local infiltrativa en el fondo de vestíbulo distal a los caninos superiores (lidocaína HCL 2% con epinefrina 1:80,000).",
+        "Con la punta de zafiro cilíndrica (1.3 mm diámetro × 8 mm longitud) y parámetros de Fase 1 (100 mJ, 10 Hz, 2 W), realizar 5 perforaciones en la encía bucal a igual distancia entre el canino superior y el segundo premolar, en modo no contacto (1-2 mm de distancia), con spray agua-aire activo.",
+        "Cambiar parámetros a Fase 2 (200 mJ, 12 Hz, 3 W) y realizar perforaciones corticales alveolares de 3 mm de profundidad en los mismos sitios, en modo no contacto, con spray agua-aire activo.",
+        "Confirmar la profundidad de 3 mm de las perforaciones corticales con sonda UNC-15.",
+        "No realizar suturas; cubrir el lado quirúrgico con gasa de iodoformo.",
+        "Iniciar retracción canina inmediatamente tras la intervención con resortes de NiTi de cierre (150 g de fuerza) sobre arco de acero 0.019 × 0.025 pulgadas.",
+        "Programar citas de seguimiento cada 2 semanas para calibrar la fuerza y mantenerla en 150 g durante toda la fase de retracción."
+      ],
+      "indications": [
+        "Pacientes Clase II división I que requieren extracción de primeros premolares superiores y retracción canina",
+        "Pacientes con maloclusión esquelética Clase II leve a moderada (ANB ≤ 7°)",
+        "Pacientes con sobresalte > 10 mm",
+        "Pacientes con madurez esquelética CS4-CS6 (método de maduración vertebral cervical)",
+        "Pacientes con periodonto sano (profundidad de sondaje ≤ 3 mm, sin pérdida ósea radiográfica, índice de placa/gingival ≤ 1)",
+        "Casos donde se desea reducir el tiempo de retracción canina aproximadamente un 25%"
+      ],
+      "contraindications": [
+        "Enfermedades sistémicas que afecten el hueso o el movimiento dental",
+        "Contraindicaciones médicas o psicológicas para cirugía oral",
+        "Higiene oral deficiente o periodonto no saludable",
+        "Tratamiento previo con AINEs que no puedan suspenderse (interfieren con el RAP)",
+        "Pacientes en crecimiento activo (estadios CS1-CS3)"
+      ],
+      "postop_care": [
+        "Antibiótico: amoxicilina/clavulanato 625 mg (amoxicilina 500 mg + clavulanato 125 mg), 1 tableta 3 veces al día durante 1 semana.",
+        "Enjuagues con clorhexidina gluconato 0.12% dos veces al día durante 1 semana.",
+        "Aplicación de hielo en la zona durante las primeras 12 horas post-cirugía.",
+        "Dieta blanda durante 2 días post-cirugía.",
+        "Analgésico: acetaminofén 500 mg solo si es necesario.",
+        "AINEs contraindicados para no interferir con el fenómeno de aceleración regional (RAP).",
+        "Citas de seguimiento cada 2 semanas para calibrar la fuerza de retracción y mantenerla en 150 g."
+      ],
+      "evidence_level": "Moderado — RCT con diseño split-mouth, n=34 pacientes (17 por grupo), seguimiento de 4 meses, registro en ClinicalTrials.gov (NCT02606331); limitaciones: muestra relativamente pequeña, cegamiento solo del evaluador de resultados, no evaluó resultados reportados por el paciente ni relación costo-beneficio.",
+      "keywords_es": [
+        "corticotomía flapless láser",
+        "LAFC ortodoncia",
+        "retracción canina acelerada",
+        "Er:YAG ortodoncia",
+        "fenómeno de aceleración regional",
+        "RAP ortodoncia",
+        "ortodoncia mínimamente invasiva",
+        "aceleración movimiento dental",
+        "corticotomía sin colgajo",
+        "Fotona LightWalker ortodoncia",
+        "perforaciones corticales láser",
+        "piezocisión",
+        "MISAO",
+        "reducción tiempo ortodoncia",
+        "Clase II extracción premolares"
+      ],
+      "keywords_en": [
+        "laser-assisted flapless corticotomy",
+        "LAFC orthodontics",
+        "accelerated canine retraction",
+        "Er:YAG orthodontics",
+        "regional acceleratory phenomenon",
+        "RAP orthodontics",
+        "minimally invasive orthodontics",
+        "accelerated tooth movement",
+        "flapless corticotomy",
+        "Fotona LightWalker orthodontics",
+        "laser cortical perforations",
+        "piezocision",
+        "MISAO",
+        "reduced orthodontic treatment time",
+        "Class II premolar extraction"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
