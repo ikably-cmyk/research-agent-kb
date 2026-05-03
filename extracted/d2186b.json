@@ -1,0 +1,225 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101007_s10103_016_1914_y__b6024de8::9f8dfe"
+  ],
+  "uuid": "d2186b",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "systematic_review",
+  "evidence_level": "moderate",
+  "key_points": [
+    "73% of reviewed LLLT/PBM articles (74 total, March 2014–March 2015) did not report any method for light measurement and relied solely on manufacturer-stated values.",
+    "Only 5% (4/74) of articles reported a complete set of the assessed light parameters.",
+    "Missing parameters across all 74 articles: radiant energy (74%), pulse frequency (52%), irradiance (43%), beam area (41%), power (41%), radiant exposure/fluence (16%), exposure time (16%), light source type (8%), wavelength (3%).",
+    "Ten key parameters must be reported in all LLLT studies: wavelength, power, irradiation time, beam area (at skin or culture surface), radiant energy, radiant exposure, pulse parameters, number of treatments, interval between treatments, and anatomical location.",
+    "The term 'energy density' is frequently misused; the correct term for energy per unit area is 'radiant exposure' or 'fluence' (J/cm²), while 'energy density' properly refers to volumetric energy deposition (J/cm³).",
+    "Irradiance (W/cm²) and radiant exitance (W/cm²) are distinct: irradiance is light arriving at a surface; exitance is light leaving a surface. The term 'intensity' is ambiguous and should be avoided.",
+    "Manufacturers' irradiance values are typically measured at the aperture or fibre tip and are not valid for studies where the beam is projected to a target at distance.",
+    "Beam area should be reported in cm² (not 'spot size'); lasers may emit elliptical beams, making circular assumptions erroneous. ISO D4σ or 1/e² methods are recommended.",
+    "The biphasic dose response (Arndt-Schulz/hormesis curve) means both too little and too much irradiance/energy can produce nil or inhibitory effects; irradiance and time must each be individually specified.",
+    "Spectrometers (spectroradiometers) are the gold standard for characterising spectral output; power meters/photodiodes are the most common but have significant limitations including no spectral information and beam uniformity assumptions.",
+    "Beam profilometry (CCD cameras) is recommended for accurate spatial characterisation of irradiance distribution; the active beam area may be far smaller than the fibre tip diameter.",
+    "Cytochrome c oxidase (CCO) is the primary photoacceptor in LLLT; spectral overlap between the light source emission and CCO absorption spectrum is critical for therapeutic efficacy.",
+    "Safety: IEC-825 states exposures <200 mW/cm² are safe; protective eyewear is mandatory for both clinician and patient."
+  ],
+  "outcomes": [
+    {
+      "measured": "Proportion of LLLT/PBM articles reporting positive effects",
+      "result": "96% (71/74) reported positive effects; 3 articles reported nil effects; none reported negative effects",
+      "statistical_significance": null,
+      "clinical_significance": "High publication bias toward positive results; reliability questionable given widespread parameter under-reporting"
+    },
+    {
+      "measured": "Proportion of articles reporting light measurement methods",
+      "result": "27% (20/74) reported any light measurement method; only 8% used a method capable of characterising spectral output",
+      "statistical_significance": null,
+      "clinical_significance": "Majority of LLLT literature relies on unverified manufacturer data, undermining reproducibility"
+    },
+    {
+      "measured": "Proportion of articles with complete parameter reporting",
+      "result": "Only 5% (4/74) reported a full set of assessed parameters",
+      "statistical_significance": null,
+      "clinical_significance": "Extreme deficiency in reporting makes cross-study comparison and replication nearly impossible"
+    }
+  ],
+  "notes": "This systematic review does not evaluate clinical efficacy of LLLT but rather the quality of radiometric reporting in the LLLT/PBM literature. It provides foundational guidance on correct terminology, measurement methods, and minimum reporting standards. Dental applications are mentioned as a relevant specialty but are not the exclusive focus. One co-author (James D. Carroll) is affiliated with THOR Photomedicine Ltd, a manufacturer of LLLT devices.",
+  "population": {
+    "n_participants": 74,
+    "age_range": null,
+    "condition": "LLLT/photobiomodulation research articles (March 2014–March 2015)",
+    "sample_type": "Published peer-reviewed articles identified via PubMed"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "James D. Carroll is affiliated with THOR Photomedicine Ltd, Chesham, UK (a manufacturer of LLLT devices). No explicit conflict of interest statement is provided in the paper beyond the affiliation disclosure.",
+  "funding_source_text": "This report is an independent research funded by the National Institute for Health Research (Invention for Innovation (I4I), Product Development Awards, II-LB-0712-20003). The views expressed in this publication are those of the author(s) and not necessarily those of the NHS, the National Institute for Health Research or the Department of Health.",
+  "source_citation": "Hadis, M. A., Zainal, S. A., Holder, M. J., Carroll, J. D., Cooper, P. R., Milward, M. R., & Palin, W. M. (2016). The dark art of light measurement: accurate radiometry for low-level light therapy. Lasers in Medical Science, 31(4), 789–809. https://doi.org/10.1007/s10103-016-1914-y",
+  "contraindications": [],
+  "adverse_events": [
+    "Retinal damage (clinician and patient) — primary safety concern for LLLT",
+    "Skin burn — mainly related to shorter UV wavelengths or excessive irradiance",
+    "Inhibitory/negative biological effects when irradiance is too high or exposure time too long (biphasic dose response)"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": "Low-level light therapy (LLLT) / photobiomodulation across multiple biomedical and dental specialties",
+  "target_tissue": "Multiple tissues (skin, oral mucosa, bone, nerve, muscle, dental pulp, periodontal tissues)",
+  "brand_model_mentioned": [
+    "THOR Photomedicine",
+    "Thorlabs",
+    "Ophir Spiricon",
+    "Ocean Optics USB2000",
+    "Labsphere LMS-200",
+    "Quantum devices",
+    "ILX Lightwave OHM-6810B",
+    "Ophir Nova",
+    "LaserMate (Coherent)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "One co-author (J.D. Carroll) is affiliated with THOR Photomedicine Ltd; potential conflict of interest not explicitly declared in the paper beyond the affiliation listing.",
+    "The paper covers LLLT broadly across biomedical disciplines; dental-specific conclusions are extrapolated from general findings rather than dental-specific subgroup analysis.",
+    "No specific clinical protocols or laser parameters are provided by this paper itself — it is a methodological/reporting standards review, so laser_parameters is empty by design.",
+    "The biphasic dose response window parameters (optimal irradiance ranges per tissue type) are referenced but not quantified in this paper."
+  ],
+  "bibliographic_metadata": {
+    "title": "The dark art of light measurement: accurate radiometry for low-level light therapy",
+    "authors": [
+      "Mohammed A. Hadis",
+      "Siti A. Zainal",
+      "Michelle J. Holder",
+      "James D. Carroll",
+      "Paul R. Cooper",
+      "Michael R. Milward",
+      "William M. Palin"
+    ],
+    "year": 2016,
+    "journal": "Lasers in Medical Science",
+    "doi": "10.1007/s10103-016-1914-y"
+  },
+  "protocols": [
+    {
+      "name": "Estándares de medición y reporte radiométrico para fotobiomodulación (LLLT/PBM)",
+      "synonyms_es": [
+        "buenas prácticas de dosimetría en LLLT",
+        "reporte de parámetros de irradiación en terapia láser de baja intensidad",
+        "medición radiométrica en fotobiomodulación",
+        "dosimetría en terapia de luz de baja potencia",
+        "parámetros mínimos de reporte en PBM"
+      ],
+      "synonyms_en": [
+        "LLLT dosimetry reporting standards",
+        "PBM irradiation parameter reporting",
+        "radiometric measurement best practices for low-level laser therapy",
+        "photobiomodulation dose reporting guidelines",
+        "minimum reporting criteria for LLLT studies"
+      ],
+      "purpose": "Establecer los diez parámetros mínimos que deben reportarse en todo estudio de fotobiomodulación (LLLT/PBM) para garantizar reproducibilidad, comparabilidad y fiabilidad de los resultados clínicos y de laboratorio. Proporcionar orientación sobre terminología radiométrica correcta y métodos de medición adecuados.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm, <500 mW)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "Típicamente 600–1000 nm (rojo/NIR); debe medirse con espectrómetro calibrado",
+          "potencia": "Debe medirse con medidor de potencia calibrado (no solo valor del fabricante); unidades: W o mW",
+          "frecuencia": "CW o pulsado; si pulsado: frecuencia (Hz) + duración de pulso (on/off) deben reportarse",
+          "modo_de_pulso": "CW (onda continua) o pulsado; especificar duración de pulso en ms/μs y ciclo de trabajo",
+          "fibra_punta": "Variable según equipo; el área activa del haz debe medirse (no asumir igual al diámetro de la punta)",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Debe especificarse la distancia desde la punta al tejido diana; la irradiancia varía significativamente con la distancia",
+          "tiempo_ciclos": "Tiempo de exposición (s) debe reportarse; si múltiples sesiones: número de sesiones e intervalo entre sesiones"
+        }
+      ],
+      "critical_notes": [
+        "Los diez parámetros mínimos obligatorios son: longitud de onda, potencia, tiempo de irradiación, área del haz (en la superficie del tejido o cultivo), energía radiante, exposición radiante (fluencia), parámetros de pulso, número de tratamientos, intervalo entre tratamientos y localización anatómica.",
+        "El término 'densidad de energía' (energy density) es incorrecto para describir J/cm²; el término correcto es 'exposición radiante' o 'fluencia' (H, J/cm²). 'Densidad de energía' se reserva para deposición volumétrica (J/cm³).",
+        "El término 'intensidad' es ambiguo: no distingue entre irradiancia (luz que llega a una superficie, W/cm²) y exitancia radiante (luz que sale de una superficie, W/cm²). Usar 'irradiancia' para luz incidente.",
+        "El término 'spot size' es ambiguo; usar 'área del haz' (beam area, cm²). Los láseres pueden emitir haces elípticos, no circulares, lo que afecta significativamente el cálculo del área.",
+        "Los valores del fabricante se miden típicamente en la apertura o punta de la fibra; no son válidos para estudios donde el haz se proyecta a distancia. La irradiancia debe medirse en el sitio diana real.",
+        "La respuesta bifásica de dosis (curva de Arndt-Schulz/hormesis) implica que tanto irradiancia insuficiente como excesiva pueden producir efectos nulos o inhibitorios; irradiancia y tiempo deben especificarse individualmente.",
+        "El citrocromo c oxidasa (CCO) es el fotoaceptor primario en PBM; debe existir solapamiento espectral entre la emisión de la fuente de luz y el espectro de absorción del CCO para eficacia terapéutica.",
+        "⚠️ Este protocolo es de carácter teórico/revisión metodológica. No define parámetros clínicos de tratamiento sino estándares de medición y reporte. Basado en: Hadis et al. (2016).",
+        "El documento presenta esta revisión como guía metodológica; existen otras publicaciones de consenso (Jenkins & Carroll 2011; Enwemeka 2011) con recomendaciones complementarias."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Medir la longitud de onda real de la fuente con un espectrómetro calibrado (no solo usar el valor del fabricante).",
+        "Medir la potencia de salida con un medidor de potencia o termopila calibrado en el sitio diana (no en la apertura del equipo).",
+        "Determinar el área real del haz en la superficie del tejido usando perfilometría de haz (CCD) o método ISO D4σ; no asumir que el área del haz es igual al diámetro de la punta.",
+        "Calcular la irradiancia (W/cm²) = potencia (W) / área del haz (cm²) medida en el sitio diana.",
+        "Registrar el tiempo de exposición (s) para cada punto de tratamiento.",
+        "Calcular la exposición radiante/fluencia (J/cm²) = irradiancia (W/cm²) × tiempo (s).",
+        "Si el modo es pulsado, registrar: frecuencia de pulso (Hz), duración del pulso (on/off en ms/μs) e irradiancia pico.",
+        "Documentar el número de sesiones de tratamiento y el intervalo entre sesiones.",
+        "Registrar la localización anatómica exacta del tratamiento (incluyendo color de piel y profundidad del tejido diana si aplica).",
+        "Reportar todos los diez parámetros en la publicación; no depender exclusivamente de los valores del fabricante."
+      ],
+      "indications": [
+        "Cualquier estudio clínico o de laboratorio que utilice LLLT/PBM y requiera reportar parámetros de irradiación de forma reproducible.",
+        "Aplicaciones dentales de PBM: mucositis oral, hipersensibilidad dentinaria, candidiasis, endodoncia, cirugía maxilofacial, ortodoncia, periodoncia, prostodoncia.",
+        "Aplicaciones médicas generales de LLLT: cicatrización de heridas, reducción de inflamación, analgesia, neuropatía, lesiones musculoesqueléticas."
+      ],
+      "contraindications": [
+        "No aplicable como protocolo de tratamiento; estas son guías de medición y reporte.",
+        "Evitar exposición ocular directa (riesgo de daño retiniano); usar gafas de protección adecuadas para la longitud de onda utilizada.",
+        "Irradiancia >200 mW/cm² puede exceder los límites de seguridad establecidos por IEC-825 para exposición cutánea."
+      ],
+      "postop_care": [],
+      "evidence_level": "Moderado — revisión sistemática de 74 artículos publicados en PubMed (marzo 2014–marzo 2015); evalúa calidad de reporte, no eficacia clínica. Limitada al período de un año y a dos términos de búsqueda.",
+      "keywords_es": [
+        "fotobiomodulación",
+        "LLLT",
+        "terapia láser de baja intensidad",
+        "dosimetría láser",
+        "irradiancia",
+        "fluencia",
+        "exposición radiante",
+        "parámetros de irradiación",
+        "medición radiométrica",
+        "área del haz",
+        "longitud de onda",
+        "potencia láser",
+        "tiempo de exposición",
+        "frecuencia de pulso",
+        "citrocromo c oxidasa",
+        "respuesta bifásica de dosis",
+        "LED terapéutico",
+        "espectrómetro",
+        "perfilometría de haz",
+        "reporte de parámetros PBM",
+        "densidad de energía",
+        "terminología radiométrica"
+      ],
+      "keywords_en": [
+        "photobiomodulation",
+        "LLLT",
+        "low-level laser therapy",
+        "laser dosimetry",
+        "irradiance",
+        "fluence",
+        "radiant exposure",
+        "irradiation parameters",
+        "radiometric measurement",
+        "beam area",
+        "wavelength",
+        "laser power",
+        "exposure time",
+        "pulse frequency",
+        "cytochrome c oxidase",
+        "biphasic dose response",
+        "therapeutic LED",
+        "spectrometer",
+        "beam profilometry",
+        "PBM parameter reporting",
+        "energy density terminology",
+        "radiometric terminology"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
