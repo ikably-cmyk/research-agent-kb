@@ -1,0 +1,258 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_1472_6831_14_132__f0d01fec::470667"
+  ],
+  "uuid": "f6ceaa",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "PDT con azul de toluidina (13–15 mg/mL) y fuente de luz LED a 635 nm (100 mW, 120 s) redujo E. faecalis en un 92.7% en infecciones primarias experimentales.",
+    "La irrigación con NaOCl al 3% fue más efectiva que PDT sola, logrando 99.9% de reducción y 80% de canales cultivo-negativos vs 5% con PDT sola en infecciones primarias.",
+    "La combinación NaOCl + PDT logró el mayor porcentaje de canales cultivo-negativos (90%) en infecciones primarias.",
+    "En retratamientos (infecciones secundarias), PDT sola logró 99.9% de reducción pero 0% de canales cultivo-negativos, mientras NaOCl alcanzó 55% de canales cultivo-negativos.",
+    "PDT fue más efectiva que NaOCl en eliminar E. faecalis del material de obturación residual adherido a las paredes del conducto (CFU ~10 veces menores con PDT vs NaOCl).",
+    "PDT se propone como suplemento, no como alternativa, a la irrigación convencional con NaOCl, especialmente en retratamientos.",
+    "El material de obturación residual puede albergar microorganismos inaccesibles para irrigantes y componentes de PDT (fotosensibilizador, oxígeno, luz).",
+    "El estudio utilizó un modelo monoespecie con aislado clínico de E. faecalis en dientes humanos extraídos (modelo ex vivo).",
+    "El equipo PDT utilizado fue PACT200 (Cumdente, Tübingen, Alemania) con fotosensibilizador PACT-Fluid Endo (azul de toluidina).",
+    "No se declararon conflictos de interés; el sistema PDT fue proporcionado por Cumdente para el estudio."
+  ],
+  "outcomes": [
+    {
+      "measured": "Reducción de E. faecalis en infecciones primarias — PDT sola",
+      "result": "92.7% de reducción; 5% de canales cultivo-negativos",
+      "statistical_significance": true,
+      "clinical_significance": "Significativamente inferior a NaOCl (p<0.0001)"
+    },
+    {
+      "measured": "Reducción de E. faecalis en infecciones primarias — NaOCl 3%",
+      "result": "99.9% de reducción; 80% de canales cultivo-negativos",
+      "statistical_significance": true,
+      "clinical_significance": "Más efectivo que PDT sola"
+    },
+    {
+      "measured": "Reducción de E. faecalis en infecciones primarias — NaOCl + PDT",
+      "result": "99.9% de reducción; 90% de canales cultivo-negativos",
+      "statistical_significance": true,
+      "clinical_significance": "Mayor porcentaje de canales cultivo-negativos de todos los grupos"
+    },
+    {
+      "measured": "Reducción de E. faecalis en infecciones secundarias (retratamiento) — PDT sola",
+      "result": "99.9% de reducción; 0% de canales cultivo-negativos",
+      "statistical_significance": true,
+      "clinical_significance": "A pesar de alta reducción porcentual, ningún canal fue cultivo-negativo"
+    },
+    {
+      "measured": "Reducción de E. faecalis en infecciones secundarias — NaOCl 3%",
+      "result": "99.9% de reducción; 55% de canales cultivo-negativos",
+      "statistical_significance": true,
+      "clinical_significance": "Mayor número de canales cultivo-negativos en retratamientos"
+    },
+    {
+      "measured": "CFU en material de obturación residual tras tratamiento",
+      "result": "CFU ~10 veces menores con PDT y NaOCl+PDT comparado con NaOCl solo",
+      "statistical_significance": null,
+      "clinical_significance": "PDT puede penetrar mejor en áreas con material de obturación adherido que NaOCl"
+    }
+  ],
+  "notes": "Estudio ex vivo con dientes humanos extraídos. Modelo monoespecie (E. faecalis). El PDT fue aplicado después de la preparación completa del conducto, no durante la instrumentación, lo que no replica exactamente la situación clínica. El sistema PDT fue proporcionado por el fabricante (Cumdente) para el estudio.",
+  "population": {
+    "n_participants": 160,
+    "age_range": null,
+    "condition": "Dientes humanos extraídos infectados experimentalmente con E. faecalis (infecciones primarias y secundarias/retratamiento)",
+    "sample_type": "Ex vivo — dientes humanos extraídos (incisivos y premolares uniradiculares)"
+  },
+  "superiority_claim": "El autor afirma: 'PDT was able to eliminate E. faecalis from remaining root canal filling material on the root canal wall more effectively compared to 3% NaOCl.' También: 'irrigation with 3% sodium hypochlorite is more effective in eliminating E. faecalis compared to PDT.'",
+  "conflicts_of_interest": "The authors declare that they have no competing interests.",
+  "funding_source_text": "Dr. Frank Schynowski (Cumdente, Tübingen, Germany) provided the PDT system (PACT200, Cumdente, Tübingen, Germany) for the study.",
+  "source_citation": "Tennert, C., Feldmann, K., Haamann, E., Al-Ahmad, A., Follo, M., Wrbas, K.-T., Hellwig, E., & Altenburger, M. J. (2014). Effect of photodynamic therapy (PDT) on Enterococcus faecalis biofilm in experimental primary and secondary endodontic infections. BMC Oral Health, 14, 132. https://doi.org/10.1186/1472-6831-14-132",
+  "contraindications": [
+    "PDT sola no es suficiente como único agente desinfectante en retratamientos endodónticos (0% de canales cultivo-negativos en infecciones secundarias).",
+    "El material de obturación residual puede bloquear la penetración del fotosensibilizador, oxígeno y luz, limitando la eficacia de PDT."
+  ],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 635,
+      "fluence_j_cm2": null,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": 12.0,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 120.0,
+    "application_technique": "point",
+    "anatomical_points": [
+      "root canal — tip positioned as close to working length as possible"
+    ]
+  },
+  "clinical_indication": "Desinfección de conductos radiculares en infecciones primarias y retratamientos endodónticos (infecciones secundarias) por E. faecalis",
+  "target_tissue": "dentin, root canal wall, residual root canal filling material",
+  "brand_model_mentioned": [
+    "PACT200 (Cumdente, Tübingen, Germany)",
+    "PACT-Fluid Endo (Cumdente)",
+    "PACT Light Guide Endo tip (Cumdente)",
+    "ProTaper (Dentsply)",
+    "Thermafil (Dentsply)",
+    "AH Plus (Dentsply)",
+    "Endo IT Professional (VDW)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "La potencia de 100 mW se especifica para el LED (PACT Light Guide Endo tip); no se reporta irradiancia en J/cm² ni fluencia exacta sobre la pared del conducto.",
+    "El tiempo de activación de luz fue 120 s (total_dose calculada como 0.1 W × 120 s = 12 J, pero sin área de spot definida no se puede calcular fluencia).",
+    "El estudio es ex vivo con modelo monoespecie; la extrapolación clínica directa es limitada.",
+    "No se especifica si el LED opera en modo continuo o pulsado; se asumió continuo por descripción de 'light source at 635 nm, 100 mW'.",
+    "El funding del fabricante (Cumdente proporcionó el equipo) puede introducir sesgo, aunque los autores declaran no tener conflictos de interés."
+  ],
+  "bibliographic_metadata": {
+    "title": "Effect of photodynamic therapy (PDT) on Enterococcus faecalis biofilm in experimental primary and secondary endodontic infections",
+    "authors": [
+      "Christian Tennert",
+      "Katharina Feldmann",
+      "Edwina Haamann",
+      "Ali Al-Ahmad",
+      "Marie Follo",
+      "Karl-Thomas Wrbas",
+      "Elmar Hellwig",
+      "Markus J Altenburger"
+    ],
+    "year": 2014,
+    "journal": "BMC Oral Health",
+    "doi": "10.1186/1472-6831-14-132"
+  },
+  "protocols": [
+    {
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) endodóntica con azul de toluidina y LED 635 nm",
+      "synonyms_es": [
+        "terapia fotodinámica endodóntica",
+        "PDT intracanal",
+        "quimioterapia fotoactivada endodóntica",
+        "PACT endodóntico",
+        "fotosensibilización antimicrobiana en conducto radicular",
+        "desinfección fotodinámica del conducto"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy endodontics",
+        "endodontic PDT",
+        "photoactivated chemotherapy root canal",
+        "PACT endodontic",
+        "photosensitizer-based root canal disinfection",
+        "lethal photosensitization root canal"
+      ],
+      "purpose": "Reducir la carga bacteriana de E. faecalis en conductos radiculares mediante la activación de un fotosensibilizador (azul de toluidina) con luz LED a 635 nm, generando especies reactivas de oxígeno con efecto antimicrobiano. Se utiliza como suplemento a la irrigación convencional con NaOCl, especialmente en retratamientos endodónticos.",
+      "parameters_table": [
+        {
+          "equipment_class": "LED de baja potencia 635 nm (100 mW) con guía de luz endodóntica",
+          "representative_models": [
+            "PACT200 (Cumdente, Tübingen, Germany)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "635 nm",
+          "potencia": "100 mW",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "PACT Light Guide Endo tip (guía de luz endodóntica, posicionada lo más cerca posible de la longitud de trabajo)",
+          "agua_pct": "No aplica (LED, no láser de erbio)",
+          "aire_pct": "No aplica",
+          "distancia": "Punta posicionada lo más cerca posible de la longitud de trabajo dentro del conducto",
+          "tiempo_ciclos": "60 s de incubación del fotosensibilizador + 120 s de activación con luz"
+        }
+      ],
+      "critical_notes": [
+        "El fotosensibilizador utilizado fue PACT-Fluid Endo (azul de toluidina, 13–15 mg/mL), introducido con aguja de calibre 30 e incubado 60 s antes de la activación lumínica.",
+        "PDT sola no es suficiente como único agente desinfectante: en infecciones primarias logró solo 5% de canales cultivo-negativos vs 80% con NaOCl solo.",
+        "En retratamientos, PDT sola no logró ningún canal cultivo-negativo (0%), aunque redujo la carga bacteriana en 99.9%.",
+        "PDT mostró ventaja sobre NaOCl en la eliminación de E. faecalis del material de obturación residual adherido a las paredes del conducto (CFU ~10 veces menores).",
+        "El material de obturación residual puede bloquear la penetración del fotosensibilizador, oxígeno y luz, limitando la eficacia de PDT en retratamientos.",
+        "La disrupción del biofilm previa a PDT y el uso adjunto de NaOCl son considerados obligatorios por los autores.",
+        "Este estudio es ex vivo con modelo monoespecie (E. faecalis); la extrapolación clínica directa es limitada.",
+        "El equipo PDT fue proporcionado por el fabricante (Cumdente) para el estudio; considerar posible sesgo de financiamiento.",
+        "El documento presenta PDT favorablemente como suplemento; existen otras alternativas de desinfección intracanal (activación ultrasónica, activación fotoacústica con láser de erbio, irrigación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar el conducto radicular con instrumentación rotatoria hasta la longitud de trabajo (en este estudio, ProTaper F2).",
+        "Irrigar el conducto con NaOCl 3% (10 mL) si se utiliza el protocolo combinado NaOCl+PDT.",
+        "Remover el exceso de NaOCl irrigando con 2.5 mL de solución de Ringer estéril.",
+        "Introducir el fotosensibilizador PACT-Fluid Endo (azul de toluidina 13–15 mg/mL) en el conducto con aguja de calibre 30.",
+        "Dejar incubar el fotosensibilizador durante 60 segundos.",
+        "Posicionar la guía de luz endodóntica (PACT Light Guide Endo tip) lo más cerca posible de la longitud de trabajo.",
+        "Activar la fuente de luz LED a 635 nm (100 mW) durante 120 segundos.",
+        "Irrigar el conducto con 5 mL de solución de Ringer estéril para remover el fotosensibilizador.",
+        "Tomar muestras con puntas de papel estériles para verificar la reducción bacteriana si se requiere control microbiológico."
+      ],
+      "indications": [
+        "Infecciones endodónticas primarias por E. faecalis como suplemento a la irrigación con NaOCl.",
+        "Retratamientos endodónticos (infecciones secundarias) donde el material de obturación residual dificulta la desinfección convencional.",
+        "Casos con microorganismos resistentes a antibióticos o agentes irrigantes convencionales.",
+        "Desinfección de material de obturación residual adherido a las paredes del conducto en retratamientos."
+      ],
+      "contraindications": [
+        "PDT sola como único agente desinfectante (sin irrigación con NaOCl) en retratamientos endodónticos — eficacia insuficiente (0% canales cultivo-negativos en este estudio).",
+        "No debe utilizarse como sustituto de la irrigación convencional con NaOCl; solo como suplemento.",
+        "Conductos con abundante material de obturación residual sin remoción previa — puede limitar severamente la penetración del fotosensibilizador y la luz."
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio ex vivo con modelo monoespecie (E. faecalis) en dientes humanos extraídos; n=20 por grupo; no replica completamente la situación clínica.",
+      "keywords_es": [
+        "terapia fotodinámica",
+        "PDT endodóntica",
+        "azul de toluidina",
+        "fotosensibilizador endodóntico",
+        "desinfección conducto radicular",
+        "Enterococcus faecalis",
+        "retratamiento endodóntico",
+        "PACT endodóntico",
+        "LED 635 nm",
+        "biofilm intracanal",
+        "infección endodóntica primaria",
+        "infección endodóntica secundaria",
+        "hipoclorito de sodio endodoncia",
+        "quimioterapia fotoactivada",
+        "material obturación residual",
+        "desinfección fotodinámica",
+        "Cumdente PACT200",
+        "fotobiomodulación antimicrobiana"
+      ],
+      "keywords_en": [
+        "photodynamic therapy",
+        "endodontic PDT",
+        "toluidine blue",
+        "endodontic photosensitizer",
+        "root canal disinfection",
+        "Enterococcus faecalis",
+        "endodontic retreatment",
+        "PACT endodontic",
+        "LED 635 nm",
+        "intracanal biofilm",
+        "primary endodontic infection",
+        "secondary endodontic infection",
+        "sodium hypochlorite endodontics",
+        "photoactivated chemotherapy",
+        "residual root filling material",
+        "antimicrobial photodynamic therapy",
+        "Cumdente PACT200",
+        "aPDT root canal"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
