@@ -1,0 +1,251 @@
+{
+  "article_refs": [
+    "pdf_local::input_1777916267::3a481c"
+  ],
+  "uuid": "f87f82",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "moderate",
+  "key_points": [
+    "RCT split-mouth, doble ciego, 27 pacientes con periodontitis crónica evaluó láser diodo de alta potencia (808±5 nm) como coadyuvante al raspado y alisado radicular (RAR).",
+    "El grupo control (solo RAR) mostró mejores resultados en profundidad de sondaje clínico (CPD) y nivel de inserción clínica (CAL) que el grupo experimental (RAR + láser diodo) a las 6 semanas (P=0.014 y P=0.039, respectivamente).",
+    "No se observaron diferencias significativas entre grupos en índice de placa, sangrado al sondaje, ni en parámetros microbiológicos (CFU totales, bacterias pigmentadas, A. actinomycetemcomitans, P. gingivalis, P. intermedia).",
+    "Los parámetros utilizados fueron: 808±5 nm, 1.5 W, modo continuo (CW), 20 s, fibra de 400 µm, introducida 1 mm menos que la profundidad de sondaje, movimientos apico-cervicales, densidad de potencia 1,193.7 W/cm².",
+    "El láser fue aplicado en día 1 y 1 semana después del RAR; el bolsillo fue irrigado con solución salina tras cada sesión.",
+    "Los autores concluyen que el láser diodo de alta potencia como coadyuvante al tratamiento periodontal no quirúrgico no promovió efectos adicionales al tratamiento convencional con los parámetros utilizados.",
+    "La falta de estandarización en la literatura (energía, modo, tiempo) dificulta la comparación entre estudios; los autores señalan que parámetros inadecuados pueden dañar tejidos blandos circundantes."
+  ],
+  "outcomes": [
+    {
+      "measured": "Clinical Probing Depth (CPD) reduction at 6 weeks",
+      "result": "Control group: 2.4 mm reduction (P<0.001); Experimental group: 2.1 mm reduction (P<0.001); significant difference between groups favoring control (P=0.014)",
+      "statistical_significance": true,
+      "clinical_significance": "Conventional SRP alone produced greater CPD reduction than SRP + diode laser"
+    },
+    {
+      "measured": "Clinical Attachment Level (CAL) at 6 weeks",
+      "result": "Control group: 1.9 mm gain (P<0.001); Experimental group: 1.2 mm gain (P<0.001); significant difference between groups favoring control (P=0.039)",
+      "statistical_significance": true,
+      "clinical_significance": "Conventional SRP alone produced greater CAL gain than SRP + diode laser"
+    },
+    {
+      "measured": "Total bacterial CFU at 6 weeks",
+      "result": "Both groups showed significant reduction (P<0.001 and P=0.005); no significant difference between groups (P=0.55)",
+      "statistical_significance": false,
+      "clinical_significance": "Diode laser did not provide additional microbiological benefit"
+    },
+    {
+      "measured": "Dark-pigmented bacteria CFU at 6 weeks",
+      "result": "Both groups reduced significantly; no significant difference between groups (P=0.30)",
+      "statistical_significance": false,
+      "clinical_significance": "No additional bactericidal effect from diode laser on pigmented bacteria"
+    },
+    {
+      "measured": "A. actinomycetemcomitans CFU at 6 weeks",
+      "result": "Reduction in both groups; no significant difference between groups (P=0.10)",
+      "statistical_significance": false,
+      "clinical_significance": "No additional benefit from diode laser on A. actinomycetemcomitans"
+    },
+    {
+      "measured": "Plaque Index (PI) and Bleeding on Probing (BP)",
+      "result": "Significant reduction in both groups (P<0.001); no significant difference between groups",
+      "statistical_significance": false,
+      "clinical_significance": "No additional benefit from diode laser on PI or BP"
+    }
+  ],
+  "notes": "Estudio split-mouth con procedimiento sham en el lado control. La fibra fue cleaved antes de cada sesión para mantener características físicas. Se usó power meter para verificar potencia real (factor de transmisión ~80%). El estudio fue financiado por FAPESP (grant 2005/56965-8). Los autores sugieren que futuros estudios deberían evaluar el uso de refrigeración con agua para la descontaminación de bolsas periodontales.",
+  "population": {
+    "n_participants": 27,
+    "age_range": "media 48.5 años",
+    "condition": "Chronic periodontitis with CPD ≥5 mm",
+    "sample_type": "Patients from Periodontics Clinic, University of São Paulo, Brazil"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": "Fundação de Amparo a Pesquisa no Estado de São Paulo (FAPESP), research grants 2005/56965–8.",
+  "source_citation": "De Micheli, G., Pinto de Andrade, A. K., Euzebio Alves, V. T., Seto, M., Pannuti, C. M., & Cai, S. (2011). Efficacy of high intensity diode laser as an adjunct to non-surgical periodontal treatment: a randomized controlled trial. Lasers in Medical Science, 26(1), 43–48. https://doi.org/10.1007/s10103-009-0753-5",
+  "contraindications": [
+    "Smokers",
+    "Patients with systemic conditions modifying periodontal disease (diabetes, osteoporosis, immunosuppression)",
+    "Patients who received oral antibiotics in the past 6 months",
+    "Teeth undergoing or having received endodontic treatment"
+  ],
+  "adverse_events": [
+    "Potential damage to surrounding soft tissue if power and treatment duration are not adequate (referenced from Kreisler et al.)"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 808,
+      "fluence_j_cm2": null,
+      "power_w": 1.5,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 0.4,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 1193.7,
+      "total_dose_j": 30.0,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 2,
+    "session_interval_days": 7,
+    "application_time_sec": 20.0,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "periodontal pocket — fiber introduced 1 mm short of probing depth, parallel to cement surface, apico-cervical scanning movements"
+    ]
+  },
+  "clinical_indication": "Adjunct to non-surgical periodontal treatment (scaling and root planing) for chronic periodontitis",
+  "target_tissue": "gingiva, periodontal pocket, subgingival biofilm",
+  "brand_model_mentioned": [
+    "Zap Lasers 808±5 nm (CA, USA)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "La irradiancia reportada (1,193.7 W/cm²) fue calculada para la punta de la fibra de 400 µm; no se especifica si hubo pérdida de potencia adicional dentro del bolsillo periodontal más allá del factor de transmisión del 80%.",
+    "No se reporta la energía total por sesión de forma explícita (calculada como 1.5 W × 20 s = 30 J, pero el paper no lo declara directamente).",
+    "El paper no especifica si la fibra fue usada en modo contacto o no-contacto; se infiere no-contacto por la descripción de introducción paralela al cemento."
+  ],
+  "bibliographic_metadata": {
+    "title": "Efficacy of high intensity diode laser as an adjunct to non-surgical periodontal treatment: a randomized controlled trial",
+    "authors": [
+      "Giorgio De Micheli",
+      "Ana Karina Pinto de Andrade",
+      "Vanessa Tubero Euzebio Alves",
+      "Marcio Seto",
+      "Cláudio Mendes Pannuti",
+      "Silvana Cai"
+    ],
+    "year": 2011,
+    "journal": "Lasers in Medical Science",
+    "doi": "10.1007/s10103-009-0753-5"
+  },
+  "protocols": [
+    {
+      "name": "Láser diodo de alta potencia (808 nm) como coadyuvante al raspado y alisado radicular en periodontitis crónica",
+      "synonyms_es": [
+        "láser diodo subgingival en periodoncia",
+        "irradiación con diodo en bolsa periodontal",
+        "descontaminación periodontal con láser diodo",
+        "láser diodo coadyuvante al RAR",
+        "tratamiento periodontal no quirúrgico con láser"
+      ],
+      "synonyms_en": [
+        "high power diode laser adjunct to SRP",
+        "diode laser periodontal decontamination",
+        "subgingival diode laser irradiation",
+        "diode laser non-surgical periodontal treatment",
+        "diode laser pocket irradiation"
+      ],
+      "purpose": "Irradiación con láser diodo de alta potencia (808 nm) dentro de la bolsa periodontal como coadyuvante al raspado y alisado radicular, con el objetivo de reducir la carga bacteriana subgingival y mejorar los parámetros clínicos periodontales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo 808 nm (alta potencia)",
+          "representative_models": [
+            "Zap Lasers 808 nm"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "808 ± 5 nm",
+          "potencia": "1.5 W (medida con power meter antes de cada sesión)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "CW (modo continuo)",
+          "fibra_punta": "Fibra óptica 400 µm, cleaved antes de cada sesión",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Introducida 1 mm menos que la profundidad de sondaje, paralela a la superficie del cemento; stop endodóntico para control de profundidad",
+          "tiempo_ciclos": "20 s por sitio; 2 sesiones (día 1 y 1 semana después del RAR)"
+        }
+      ],
+      "critical_notes": [
+        "El grupo control (solo RAR) mostró mejores resultados en CPD y CAL que el grupo experimental (RAR + láser diodo) a las 6 semanas; el láser no aportó beneficio adicional con estos parámetros.",
+        "La densidad de potencia en la punta de la fibra fue 1,193.7 W/cm²; parámetros inadecuados pueden dañar tejidos blandos circundantes (referencia a Kreisler et al.).",
+        "El bolsillo periodontal fue irrigado con solución salina tras cada sesión de irradiación.",
+        "El documento presenta esta técnica con resultado negativo (no beneficio adicional); existen estudios con resultados favorables usando parámetros distintos (Moritz et al. 1998, Kamma et al. 2009), lo que sugiere que los parámetros óptimos aún no están estandarizados.",
+        "Diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante de titanio (riesgo de carbonización). En este estudio se usó en bolsas periodontales de dientes naturales.",
+        "La fibra fue introducida paralela a la superficie del cemento, NO en contacto directo con la raíz, con movimientos apico-cervicales de barrido.",
+        "Factor de transmisión de la fibra óptica: ~80% (20% de pérdida de energía en la transmisión)."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar raspado y alisado radicular (RAR) con curetas Gracey 5/6 y 7/8 en los sitios experimentales.",
+        "Remover el biofilm supragingival con curetas Gracey en ambos lados (experimental y control) previo a la irradiación.",
+        "Colocar un stop endodóntico en la fibra de 400 µm para controlar la profundidad de irradiación (1 mm menos que la profundidad de sondaje).",
+        "Introducir la fibra paralela a la superficie del cemento dentro de la bolsa periodontal.",
+        "Irradiar con movimientos de barrido apico-cervicales durante 20 s a 1.5 W en modo continuo (CW).",
+        "Irrigar el bolsillo periodontal con solución salina tras cada sesión.",
+        "Repetir la irradiación 1 semana después del RAR (segunda sesión).",
+        "Verificar la potencia real con power meter antes de cada sesión; clivear la fibra antes de cada irradiación para mantener sus características físicas."
+      ],
+      "indications": [
+        "Periodontitis crónica con profundidad de sondaje ≥5 mm en dientes uniradiculares",
+        "Coadyuvante al tratamiento periodontal no quirúrgico cuando se busca reducción bacteriana subgingival adicional"
+      ],
+      "contraindications": [
+        "Fumadores",
+        "Pacientes con condiciones sistémicas modificadoras de la enfermedad periodontal (diabetes, osteoporosis, inmunosupresión)",
+        "Pacientes que recibieron antibióticos orales en los últimos 6 meses",
+        "Dientes con tratamiento endodóntico en curso o previo",
+        "Contacto directo de la fibra con superficie de implante de titanio"
+      ],
+      "postop_care": [
+        "Irrigación del bolsillo periodontal con solución salina tras cada sesión de irradiación",
+        "Refuerzo de instrucciones de higiene oral"
+      ],
+      "evidence_level": "Moderado — RCT split-mouth doble ciego con N=27; resultado negativo (sin beneficio adicional del láser diodo sobre RAR convencional con los parámetros utilizados).",
+      "keywords_es": [
+        "láser diodo 808 nm",
+        "periodontitis crónica",
+        "raspado y alisado radicular",
+        "tratamiento periodontal no quirúrgico",
+        "descontaminación subgingival",
+        "bolsa periodontal",
+        "reducción bacteriana",
+        "nivel de inserción clínica",
+        "profundidad de sondaje",
+        "láser de alta potencia",
+        "Porphyromonas gingivalis",
+        "Prevotella intermedia",
+        "Aggregatibacter actinomycetemcomitans",
+        "bacterias pigmentadas",
+        "fibra óptica 400 µm",
+        "modo continuo CW",
+        "periodoncia láser",
+        "coadyuvante periodontal",
+        "irradiación subgingival",
+        "ensayo clínico aleatorizado"
+      ],
+      "keywords_en": [
+        "diode laser 808 nm",
+        "chronic periodontitis",
+        "scaling and root planing",
+        "non-surgical periodontal treatment",
+        "subgingival decontamination",
+        "periodontal pocket",
+        "bacterial reduction",
+        "clinical attachment level",
+        "probing depth",
+        "high power diode laser",
+        "Porphyromonas gingivalis",
+        "Prevotella intermedia",
+        "Aggregatibacter actinomycetemcomitans",
+        "dark-pigmented bacteria",
+        "400 µm fiber",
+        "continuous wave CW",
+        "periodontal laser",
+        "laser adjunct periodontics",
+        "subgingival irradiation",
+        "randomized controlled trial"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
