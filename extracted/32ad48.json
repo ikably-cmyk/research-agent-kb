@@ -1,0 +1,223 @@
+{
+  "article_refs": [
+    "pdf_local::oa_104317_jced53795__02396a15::826a5e"
+  ],
+  "uuid": "32ad48",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "low",
+  "key_points": [
+    "El láser de diodo es una tecnología mínimamente invasiva para cirugía de tejidos blandos orales, con ventajas sobre el bisturí convencional: menor sangrado intraoperatorio, menor inflamación, mejor coagulación, sin necesidad de sutura y menor dolor postoperatorio.",
+    "La revisión incluyó 10 estudios (2007–2017) que evaluaron el láser de diodo de alta potencia en tejidos blandos orales, comparándolo con bisturí convencional, bisturí eléctrico, CO2, Er:YAG, Er,Cr:YSGG y Nd:YAG.",
+    "El láser de CO2 presenta menor daño térmico colateral en los bordes de la lesión comparado con el diodo, y fue considerado Gold Standard para la extirpación de épulis fisurado por su velocidad y mayor penetración, aunque su costo y tamaño limitan su uso clínico rutinario.",
+    "Los láseres de erbio (Er:YAG y Er,Cr:YSGG) producen menor daño en el área tratada y recuperación más rápida, pero ofrecen menor coagulación/hemostasia intraoperatoria y un corte más irregular que el diodo en modo continuo.",
+    "El Nd:YAG genera daño colateral significativamente mayor en tejidos blandos y no se recomienda para la remoción de lesiones exofíticas; el diodo es una alternativa más segura.",
+    "El láser de diodo a 980 nm mostró resultados estadísticamente significativos en reducción de dolor postoperatorio a las 24 horas comparado con el bisturí eléctrico en el tratamiento de hiperpigmentación gingival.",
+    "Se reportaron recurrencias en el tratamiento de leucoplasia oral con láser; se requieren más estudios comparativos a largo plazo.",
+    "Las indicaciones del láser de alta potencia incluyen: vestibuloplastia, frenectomías, pigmentación gingival, lesiones sospechosas de malignidad, tumores, cirugía de retención dental, tracción quirúrgico-ortodóncica, cirugía periapical y tratamiento complementario en implantología."
+  ],
+  "outcomes": [
+    {
+      "measured": "Sangrado intraoperatorio",
+      "result": "Menor con láser de diodo comparado con bisturí convencional",
+      "statistical_significance": null,
+      "clinical_significance": "Ventaja clínica relevante en cirugía de tejidos blandos"
+    },
+    {
+      "measured": "Necesidad de sutura",
+      "result": "No requerida con láser de diodo en lesiones exofíticas pequeñas",
+      "statistical_significance": null,
+      "clinical_significance": "Simplifica el procedimiento quirúrgico"
+    },
+    {
+      "measured": "Dolor postoperatorio (hiperpigmentación gingival, 980 nm diodo vs bisturí eléctrico)",
+      "result": "Menor dolor en las primeras 24 horas con láser de diodo",
+      "statistical_significance": true,
+      "clinical_significance": "Beneficio postoperatorio significativo para el paciente"
+    },
+    {
+      "measured": "Daño térmico colateral",
+      "result": "Mayor con diodo comparado con CO2 y erbio; menor con CO2 en bordes de lesión",
+      "statistical_significance": null,
+      "clinical_significance": "Relevante para histopatología de márgenes en biopsias excisionales"
+    },
+    {
+      "measured": "Coagulación/hemostasia intraoperatoria",
+      "result": "Superior con diodo comparado con erbio (Er:YAG, Er,Cr:YSGG)",
+      "statistical_significance": null,
+      "clinical_significance": "El diodo es preferible cuando se requiere hemostasia adecuada"
+    }
+  ],
+  "notes": "Revisión narrativa con 10 estudios incluidos (2007–2017). No se realizó meta-análisis. Los autores reconocen la necesidad de más estudios comparativos a largo plazo. No se especifican parámetros técnicos exactos (potencia, frecuencia, modo de pulso) para los procedimientos descritos.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Lesiones de tejidos blandos orales (fibromas, épulis fisurado, frenillos, hiperpigmentación gingival, leucoplasia, granuloma piogénico)",
+    "sample_type": "Humanos y animales (estudios incluidos en la revisión)"
+  },
+  "superiority_claim": "Los autores afirman: 'The superiority of the diode laser in relation to the conventional scalpel offers no doubts' y concluyen que el diodo es 'clearly superior to the conventional scalpel and with numerous advantages over other types of lasers.'",
+  "conflicts_of_interest": "The authors have declared that no conflict of interest exist.",
+  "funding_source_text": null,
+  "source_citation": "Ortega-Concepción, D., Cano-Durán, J. A., Peña-Cardelles, J. F., Paredes-Rodríguez, V. M., González-Serrano, J., & López-Quiles, J. (2017). The application of diode laser in the treatment of oral soft tissues lesions. A literature review. Journal of Clinical and Experimental Dentistry, 9(7), e925–e928. https://doi.org/10.4317/jced.53795",
+  "contraindications": [],
+  "adverse_events": [
+    "Mayor daño tisular con diodo comparado con bisturí convencional y Er,Cr:YSGG (Jin et al., 2010)",
+    "Recurrencias reportadas en el tratamiento de leucoplasia oral con láser"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 980,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": null,
+  "clinical_indication": "Cirugía de tejidos blandos orales: extirpación de lesiones exofíticas benignas (fibromas, épulis fisurado, frenillos, hiperpigmentación gingival, leucoplasia, granuloma piogénico)",
+  "target_tissue": "oral soft tissue (mucosa, gingiva)",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "medium",
+  "uncertainties": [
+    "No se reportan parámetros técnicos específicos (potencia en W, frecuencia en Hz, modo de pulso, duración de pulso, tamaño de spot) para ninguno de los procedimientos descritos.",
+    "La longitud de onda 980 nm se menciona solo en el contexto del estudio de hiperpigmentación gingival; no se especifica para otros procedimientos.",
+    "No se especifica si el láser de diodo se usó en modo continuo o pulsado en los estudios incluidos.",
+    "El número de participantes total de los estudios incluidos no se reporta de forma agregada.",
+    "No se especifican marcas o modelos comerciales de equipos de diodo utilizados en los estudios."
+  ],
+  "bibliographic_metadata": {
+    "title": "The application of diode laser in the treatment of oral soft tissues lesions. A literature review",
+    "authors": [
+      "Daniel Ortega-Concepción",
+      "Jorge A. Cano-Durán",
+      "Juan Francisco Peña-Cardelles",
+      "Víctor Manuel Paredes-Rodríguez",
+      "José González-Serrano",
+      "Juan López-Quiles"
+    ],
+    "year": 2017,
+    "journal": "Journal of Clinical and Experimental Dentistry",
+    "doi": "10.4317/jced.53795"
+  },
+  "protocols": [
+    {
+      "name": "Cirugía de tejidos blandos orales con láser de diodo — Extirpación de lesiones exofíticas benignas",
+      "synonyms_es": [
+        "escisión con láser de diodo",
+        "vaporización de lesiones orales con diodo",
+        "cirugía láser de mucosa oral",
+        "extirpación láser de fibroma oral",
+        "frenectomía con láser de diodo",
+        "gingivectomía con láser de diodo"
+      ],
+      "synonyms_en": [
+        "diode laser soft tissue surgery",
+        "diode laser excision oral lesions",
+        "diode laser frenectomy",
+        "diode laser fibroma removal",
+        "diode laser oral mucosa vaporization",
+        "high-power diode laser oral surgery"
+      ],
+      "purpose": "Extirpación o vaporización de lesiones exofíticas benignas de tejidos blandos orales (fibromas, épulis fisurado, frenillos, hiperpigmentación gingival, granuloma piogénico, leucoplasia) mediante el efecto fototérmico del láser de diodo de alta potencia, con ventajas de coagulación simultánea, mínimo sangrado y sin necesidad de sutura.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo de alta potencia (810–980 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "810–980 nm (980 nm mencionado explícitamente para hiperpigmentación gingival)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado (modo continuo inferido por referencias a corte continuo vs erbio pulsado)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado (contacto inferido para escisión)",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión narrativa. No se reportan parámetros clínicos estandarizados (potencia, frecuencia, modo de pulso, duración de pulso). Basado en: Ortega-Concepción et al., 2017.",
+        "El documento presenta el láser de diodo favorablemente frente al bisturí convencional; existen alternativas (CO2, Er:YAG, Er,Cr:YSGG) con menor daño térmico colateral que pueden ser más apropiadas en biopsias excisionales donde la calidad histológica del margen es crítica.",
+        "El CO2 produce menor daño térmico colateral en los bordes de la lesión comparado con el diodo, lo que puede ser relevante para el análisis histopatológico de márgenes.",
+        "Los láseres de erbio ofrecen recuperación más rápida pero menor hemostasia intraoperatoria que el diodo.",
+        "Se han reportado recurrencias en el tratamiento de leucoplasia oral con láser; el seguimiento a largo plazo es necesario.",
+        "El Nd:YAG no se recomienda para lesiones exofíticas de tejidos blandos por su mayor daño colateral en profundidad."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Fibromas orales (irritación, traumáticos)",
+        "Épulis fisurado",
+        "Frenectomía/frenulectomía",
+        "Hiperpigmentación/melanosis gingival",
+        "Granuloma piogénico",
+        "Leucoplasia oral (con seguimiento por riesgo de recurrencia)",
+        "Lesiones sospechosas de malignidad (biopsia excisional)",
+        "Vestibuloplastia",
+        "Lesiones exofíticas benignas pequeñas de mucosa oral",
+        "Tratamiento complementario en implantología"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa de 10 estudios (2007–2017), sin meta-análisis. Heterogeneidad metodológica entre los estudios incluidos.",
+      "keywords_es": [
+        "láser de diodo",
+        "tejidos blandos orales",
+        "cirugía oral láser",
+        "fibroma oral",
+        "épulis fisurado",
+        "frenectomía láser",
+        "hiperpigmentación gingival",
+        "melanosis gingival",
+        "leucoplasia oral",
+        "granuloma piogénico",
+        "escisión láser",
+        "vaporización láser",
+        "coagulación láser",
+        "cirugía mínimamente invasiva oral",
+        "diodo 980 nm",
+        "diodo 810 nm",
+        "lesiones exofíticas benignas",
+        "mucosa oral",
+        "hemostasia láser",
+        "bisturí láser"
+      ],
+      "keywords_en": [
+        "diode laser",
+        "oral soft tissue",
+        "oral soft tissue surgery",
+        "fibroma removal laser",
+        "epulis fissuratum",
+        "frenectomy laser",
+        "gingival hyperpigmentation laser",
+        "gingival melanosis",
+        "oral leukoplakia laser",
+        "pyogenic granuloma laser",
+        "laser excision",
+        "laser vaporization",
+        "laser coagulation",
+        "minimally invasive oral surgery",
+        "980 nm diode",
+        "810 nm diode",
+        "benign exophytic lesions",
+        "oral mucosa",
+        "laser hemostasis",
+        "high power diode laser dentistry"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
