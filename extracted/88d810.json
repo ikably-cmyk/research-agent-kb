@@ -1,0 +1,262 @@
+{
+  "article_refs": [
+    "pdf_local::oa_105021_ad2015275485__13088031::67a21c"
+  ],
+  "uuid": "88d810",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "moderate",
+  "key_points": [
+    "RCT con 120 pacientes con liquen plano oral (LPO) atrófico-erosivo biopsiado, distribuidos en 4 grupos de 30: LLLT (808 nm diodo), ozono, corticoide tópico (control positivo) y placebo (control negativo).",
+    "El grupo de ozono y el grupo de corticosteroides mostraron mejoría estadísticamente significativa en los scores de signos clínicos; el grupo LLLT no alcanzó significancia estadística en la mejoría de signos.",
+    "La mejoría sintomática (dolor) fue significativa en los grupos de ozono, corticoide y LLLT (p<0.05).",
+    "Los índices de eficacia fueron significativamente más altos en los grupos de ozono y corticoide que en el grupo LLLT.",
+    "El 40% de los pacientes del grupo LLLT no mostró ninguna mejoría, frente al 10% en el grupo de ozono y 0% en el grupo de corticosteroides.",
+    "Ni la terapia láser ni la de ozono produjeron efectos adversos como sobrecrecimiento de Candida, a diferencia del corticoide tópico (32% de candidiasis reportado en literatura).",
+    "Parámetros LLLT utilizados: diodo GaAlAs 808 nm, 0.1 W, onda continua, fluencia 1.5 J/cm² por sesión, irradiancia 10 mW/cm², spot 1 cm², distancia 0.5–1 cm, 2 sesiones/semana, máximo 10 sesiones.",
+    "Los autores concluyen que la terapia con ozono podría considerarse un reemplazo suficiente al tratamiento con esteroides, y que se necesitan más RCTs."
+  ],
+  "outcomes": [
+    {
+      "measured": "Sign score improvement (RAE score)",
+      "result": "Mejoría estadísticamente significativa en grupos de ozono y corticoide; no significativa en LLLT (p<0.05 Wilcoxon)",
+      "statistical_significance": true,
+      "clinical_significance": "El grupo LLLT redujo scores pero sin alcanzar significancia estadística; ozono y corticoide mostraron reducción clínicamente relevante"
+    },
+    {
+      "measured": "Efficacy Index (EI)",
+      "result": "EI significativamente mayor en ozono y corticoide vs LLLT (Mann-Whitney p<0.05). Curación: ozono 10%, corticoide 20%, LLLT 0%. Sin mejoría: ozono 10%, corticoide 0%, LLLT 40%.",
+      "statistical_significance": true,
+      "clinical_significance": "El 40% de pacientes LLLT no respondió vs 10% en ozono y 0% en corticoide"
+    },
+    {
+      "measured": "Pain score (VAS)",
+      "result": "Mejoría significativa del dolor en grupos de ozono, corticoide y LLLT (p<0.05)",
+      "statistical_significance": true,
+      "clinical_significance": "Todos los tratamientos activos redujeron el dolor, incluyendo LLLT"
+    },
+    {
+      "measured": "Recurrence rate",
+      "result": "Corticoide: 50% recidiva en 4–17 semanas (media 5 sem); Ozono: 40% recidiva en 3.5–16 semanas (media 4.3 sem)",
+      "statistical_significance": null,
+      "clinical_significance": "Alta tasa de recidiva en ambos grupos activos tras cese del tratamiento"
+    }
+  ],
+  "notes": "El paper reporta una fluencia de 1.5 J/cm² por sesión en el abstract pero menciona 4 J/cm² en la sección de discusión (comparando con Jajarm et al.). La irradiancia reportada es 10 mW/cm² con 0.1 W de potencia y spot de 1 cm², lo que es consistente con 10 mW/cm². La fluencia de 120 J/cm² mencionada en métodos parece ser un error tipográfico (debería ser 1.5 J/cm² × 10 sesiones = 15 J/cm² total, o bien la dosis por sesión es 1.5 J/cm²). Se registra la inconsistencia en uncertainties.",
+  "population": {
+    "n_participants": 120,
+    "age_range": "28–55 años (media 42.6±8.3)",
+    "condition": "Oral lichen planus atrófico-erosivo biopsiado (≤3 cm, lengua o mucosa yugal)",
+    "sample_type": "Pacientes adultos, 56 hombres y 64 mujeres"
+  },
+  "superiority_claim": "Los autores afirman: 'Ozone and corticosteroid therapies were more effective than 808-nm LLLT in the treatment of OLP.'",
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Kazancioglu, H. O., & Erisen, M. (2015). Comparison of low-level laser therapy versus ozone therapy in the treatment of oral lichen planus. Annals of Dermatology, 27(5), 485–491. https://doi.org/10.5021/ad.2015.27.5.485",
+  "contraindications": [
+    "Presencia de enfermedades sistémicas que puedan causar LPO (ej. hepatitis C)",
+    "Edad <20 años",
+    "Embarazo o lactancia",
+    "Uso de fármacos inductores de reacción liquenoide (antihipertensivos, diuréticos, AINEs, anticonvulsivantes, fármacos antituberculosos)",
+    "Signos histológicos de displasia en la biopsia",
+    "Tratamiento previo de LPO en el mes anterior al estudio",
+    "Lesiones adyacentes a restauraciones de amalgama",
+    "Uso de corticosteroides sistémicos"
+  ],
+  "adverse_events": [
+    "No se observaron complicaciones intra ni postoperatorias graves en ningún grupo",
+    "No se observaron efectos adversos como sobrecrecimiento de Candida en los grupos de láser y ozono",
+    "El corticoide tópico se asocia en la literatura con candidiasis en 32% de pacientes (Gorsky et al.)"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 808,
+      "fluence_j_cm2": 1.5,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 10.0,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.01,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 10,
+    "session_interval_days": 3,
+    "application_time_sec": 150.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "lesión de LPO en mucosa yugal",
+      "lesión de LPO en lengua",
+      "0.5 cm de tejido perilesional"
+    ]
+  },
+  "clinical_indication": "Tratamiento del liquen plano oral atrófico-erosivo (fotobiomodulación/LLLT)",
+  "target_tissue": "oral mucosa",
+  "brand_model_mentioned": [
+    "Fotona XD-2 (diodo 808 nm)",
+    "Ozonytron (Biozonix GmbH)"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "dexamethasone",
+      "drug_class": "Corticosteroid (topical)",
+      "interaction_type": "caution",
+      "dental_relevance": "Enjuague bucal con dexametasona usado como control positivo en tratamiento de LPO; uso prolongado asociado a candidiasis oral y adelgazamiento de mucosa",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "nystatin",
+      "drug_class": "Antifungal (topical)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Administrado como profilaxis antifúngica junto con corticoide tópico en pacientes con LPO; 30 gotas de solución oral 100,000 unidades, 4 veces/día",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "Los pacientes con LPO que reciben corticosteroides tópicos deben recibir profilaxis antifúngica (nistatina) para prevenir candidiasis. Los fármacos inductores de reacción liquenoide (antihipertensivos, diuréticos, AINEs, anticonvulsivantes) deben ser identificados y, si es posible, suspendidos antes del tratamiento.",
+  "confidence": "medium",
+  "uncertainties": [
+    "Inconsistencia en la fluencia reportada: el abstract indica 1.5 J/cm² por sesión, la sección de métodos menciona '120 J/cm² para 2.5 min' (posible error tipográfico), y la discusión menciona '4 J/cm²' al comparar con Jajarm et al. Se registra la fluencia del abstract (1.5 J/cm²) como dato primario.",
+    "El spot_size se infiere de '1 cm²' de área de iluminación (equivalente a ~11.3 mm de diámetro), no se reporta directamente en mm.",
+    "No se declaran conflictos de interés ni fuentes de financiamiento en el paper.",
+    "El total_dose_j no puede calcularse con certeza dado la inconsistencia en fluencia y número de sesiones.",
+    "La irradiancia de 10 mW/cm² con potencia de 0.1 W y spot de 1 cm² es matemáticamente consistente (0.1 W / 1 cm² = 0.1 W/cm² = 100 mW/cm²), pero el paper reporta 10 mW/cm², lo que sugiere posible error en la potencia o en la irradiancia reportada."
+  ],
+  "bibliographic_metadata": {
+    "title": "Comparison of Low-Level Laser Therapy versus Ozone Therapy in the Treatment of Oral Lichen Planus",
+    "authors": [
+      "Hakki Oguz Kazancioglu",
+      "Merve Erisen"
+    ],
+    "year": 2015,
+    "journal": "Annals of Dermatology",
+    "doi": "10.5021/ad.2015.27.5.485"
+  },
+  "protocols": [
+    {
+      "name": "LLLT con diodo 808 nm para liquen plano oral atrófico-erosivo",
+      "synonyms_es": [
+        "fotobiomodulación para liquen plano oral",
+        "terapia láser de baja intensidad en LPO",
+        "láser diodo 808 nm mucosa oral",
+        "LLLT mucosa yugal liquen plano",
+        "terapia fotobiomoduladora LPO"
+      ],
+      "synonyms_en": [
+        "low-level laser therapy for oral lichen planus",
+        "LLLT OLP",
+        "808 nm diode laser oral mucosa",
+        "photobiomodulation oral lichen planus",
+        "GaAlAs laser OLP treatment"
+      ],
+      "purpose": "Aplicación de fotobiomodulación con láser diodo 808 nm sobre lesiones de liquen plano oral atrófico-erosivo para reducir la inflamación, aliviar el dolor y promover la cicatrización de la mucosa oral, sin efectos adversos farmacológicos.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo GaAlAs 808 nm (modo continuo)",
+          "representative_models": [
+            "Fotona XD-2"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "808 nm",
+          "potencia": "0.1 W",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "No especificado; handpiece defocused",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "0.5–1 cm (sin contacto)",
+          "tiempo_ciclos": "2.5 min por sesión; 2 sesiones/semana; máximo 10 sesiones"
+        }
+      ],
+      "critical_notes": [
+        "La fluencia reportada en el abstract es 1.5 J/cm² por sesión con irradiancia de 10 mW/cm²; existe inconsistencia interna en el paper (se menciona también 120 J/cm² y 4 J/cm² en distintas secciones). Usar con precaución estos parámetros como referencia clínica.",
+        "La aplicación es sin contacto, a 0.5–1 cm de distancia; lesiones grandes se iluminan con múltiples spots de 1 cm².",
+        "En este RCT, el LLLT con 808 nm no alcanzó significancia estadística en la mejoría de los signos clínicos del LPO, aunque sí redujo el dolor significativamente. El documento presenta resultados desfavorables para LLLT vs ozono y corticoide; existen otros estudios (Jajarm et al. 2011) con parámetros similares que reportan eficacia comparable al corticoide tópico.",
+        "El tejido perilesional (0.5 cm alrededor de la lesión) también debe ser irradiado."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Confirmar diagnóstico clínico e histopatológico de LPO atrófico-erosivo.",
+        "Delimitar la lesión y marcar 0.5 cm de tejido perilesional a incluir en la irradiación.",
+        "Colocar protección ocular al paciente y al operador.",
+        "Posicionar el handpiece del láser diodo 808 nm a 0.5–1 cm de distancia de la lesión, sin contacto.",
+        "Irradiar la lesión con spot de 1 cm² en modo continuo (0.1 W, 10 mW/cm²) durante 2.5 minutos por punto.",
+        "Para lesiones grandes (>1 cm²), iluminar con múltiples spots adyacentes cubriendo toda la lesión y el tejido perilesional.",
+        "Repetir la sesión dos veces por semana (cada tercer día), hasta un máximo de 10 sesiones.",
+        "Evaluar la respuesta clínica (score RAE, VAS dolor) al mes, 3 meses y 6 meses post-tratamiento."
+      ],
+      "indications": [
+        "Liquen plano oral atrófico-erosivo biopsiado (≤3 cm) en mucosa yugal o lengua",
+        "Pacientes que no toleran o no responden a corticosteroides tópicos",
+        "Pacientes en quienes se desea evitar efectos adversos de corticosteroides (candidiasis, adelgazamiento mucoso)",
+        "Lesiones sintomáticas (dolor) asociadas a LPO"
+      ],
+      "contraindications": [
+        "Presencia de displasia histológica en la biopsia de la lesión",
+        "Enfermedades sistémicas causantes de LPO activas (ej. hepatitis C no controlada)",
+        "Embarazo o lactancia",
+        "Uso de fármacos inductores de reacción liquenoide (antihipertensivos, diuréticos, AINEs, anticonvulsivantes, antituberculosos) sin posibilidad de sustitución",
+        "Lesiones adyacentes a restauraciones de amalgama (posible reacción liquenoide de contacto)",
+        "Edad <20 años"
+      ],
+      "postop_care": [
+        "Seguimiento clínico semanal durante el tratamiento para evaluar respuesta y efectos adversos.",
+        "Evaluación de recidiva a 1, 3 y 6 meses tras finalizar el tratamiento.",
+        "Informar al paciente que el tratamiento puede reducir síntomas pero no cura definitivamente el LPO; la recidiva es posible.",
+        "No se requieren cuidados postoperatorios especiales tras cada sesión de LLLT."
+      ],
+      "evidence_level": "Moderado — basado en RCT con N=120 (30 por grupo), seguimiento a 6 meses, con limitaciones: inconsistencia en parámetros reportados y muestra relativamente pequeña por grupo.",
+      "keywords_es": [
+        "liquen plano oral",
+        "LPO",
+        "fotobiomodulación",
+        "LLLT",
+        "láser de baja intensidad",
+        "láser diodo 808 nm",
+        "mucosa oral",
+        "lesión erosiva oral",
+        "lesión atrófica oral",
+        "terapia láser mucosa",
+        "GaAlAs",
+        "diodo infrarrojo",
+        "tratamiento no farmacológico LPO",
+        "biofotomodulación",
+        "láser terapéutico odontología",
+        "dolor mucosa oral",
+        "cicatrización mucosa",
+        "inflamación oral"
+      ],
+      "keywords_en": [
+        "oral lichen planus",
+        "OLP",
+        "low-level laser therapy",
+        "LLLT",
+        "photobiomodulation",
+        "PBM",
+        "808 nm diode laser",
+        "GaAlAs laser",
+        "oral mucosa laser",
+        "erosive OLP",
+        "atrophic OLP",
+        "non-pharmacological OLP treatment",
+        "dental laser therapy",
+        "mucosal healing laser",
+        "oral inflammation laser",
+        "pain relief oral mucosa",
+        "diode laser dentistry",
+        "laser biostimulation oral"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
