@@ -9,49 +9,48 @@
   "study_type": "meta_analysis",
   "evidence_level": "moderate",
   "key_points": [
-    "Meta-análisis de 7 RCTs (n=303 sujetos en 6 estudios analizados cuantitativamente) sobre LLLT para dolor de ATM, período 2005–2010.",
-    "El effect size (ES) agrupado fue –0.6 (IC 95%: –0.73 a –0.47, p<0.05), indicando un efecto analgésico moderado estadísticamente significativo.",
-    "Las longitudes de onda de 780 nm y 830 nm mostraron efectos analgésicos de moderados a superiores (|ES| 0.18–1.72), mientras que 632.8 nm no mostró efecto significativo (|ES| 0.03).",
-    "Los parámetros utilizados en los estudios incluidos: 632.8 nm (30 mW, 1.5 J/cm², 20 sesiones), 780 nm (30–70 mW, 6.3–105 J/cm², 6–8 sesiones), 830 nm (400–500 mW, 7–100 J/cm², 4–10 sesiones).",
-    "Los sitios de aplicación fueron la articulación TMJ y los puntos de dolor de los músculos masticatorios.",
-    "Los parámetros óptimos de LLLT para el dolor de ATM no han sido confirmados; se requieren más RCTs.",
-    "El mecanismo analgésico propuesto incluye inhibición de COX-2, reducción de prostaglandinas, aumento de beta-endorfinas y estimulación de microcirculación periférica.",
-    "Todos los artículos incluidos tuvieron puntuaciones PEDro entre 8 y 11, indicando alta calidad metodológica."
+    "Meta-análisis de 7 RCTs (n=223 sujetos en 6 artículos analizables) sobre LLLT para dolor de ATM, período 2005–2010.",
+    "El effect size (ES) agrupado fue –0.6 (IC 95%: –0.73 a –0.47, p<0.05), indicando un efecto moderado de alivio del dolor.",
+    "Las longitudes de onda de 780 nm y 830 nm mostraron efectos analgésicos moderados a superiores (|ES| 0.18–1.72), mientras que 632.8 nm mostró efecto mínimo (|ES| 0.03).",
+    "Los parámetros óptimos de LLLT para dolor de ATM no han sido confirmados; se requieren más RCTs.",
+    "La aplicación sobre músculo masticatorio o cápsula articular de la ATM produjo efecto analgésico moderado.",
+    "El mecanismo propuesto incluye inhibición de COX-2, reducción de prostaglandinas, aumento de beta-endorfinas y estimulación de microcirculación periférica.",
+    "Potencias utilizadas: 30–500 mW; dosis terapéuticas: 1.5–105 J/cm²; sesiones: 4–20."
   ],
   "outcomes": [
     {
-      "measured": "Efecto analgésico agrupado (VAS) — pooled effect size",
-      "result": "ES = –0.6 (IC 95%: –0.73 a –0.47), efecto moderado",
+      "measured": "Pooled effect size (ES) de alivio del dolor (VAS)",
+      "result": "ES agrupado = –0.6 (IC 95%: –0.73 a –0.47, p<0.05)",
       "statistical_significance": true,
-      "clinical_significance": "Efecto analgésico moderado clínicamente relevante en dolor de ATM"
+      "clinical_significance": "Efecto moderado de alivio del dolor (0.5 < |ES| < 0.8)"
     },
     {
-      "measured": "Efecto analgésico a 632.8 nm",
-      "result": "|ES| = 0.03, sin efecto significativo",
+      "measured": "ES individual por longitud de onda 830 nm",
+      "result": "|ES| 0.48–1.72 (moderado a superior)",
+      "statistical_significance": true,
+      "clinical_significance": "Longitud de onda 830 nm asociada a mayor efecto analgésico"
+    },
+    {
+      "measured": "ES individual por longitud de onda 780 nm",
+      "result": "|ES| 0.18–1.52 (inferior a superior)",
+      "statistical_significance": null,
+      "clinical_significance": "Longitud de onda 780 nm también efectiva en varios estudios"
+    },
+    {
+      "measured": "ES individual por longitud de onda 632.8 nm",
+      "result": "|ES| 0.03 (sin efecto significativo)",
       "statistical_significance": false,
-      "clinical_significance": "Sin efecto clínico relevante a esta longitud de onda en los parámetros estudiados"
-    },
-    {
-      "measured": "Efecto analgésico a 780 nm",
-      "result": "|ES| = 0.18–1.52, efecto moderado a superior",
-      "statistical_significance": null,
-      "clinical_significance": "Efecto analgésico de moderado a superior"
-    },
-    {
-      "measured": "Efecto analgésico a 830 nm",
-      "result": "|ES| = 0.48–1.72, efecto moderado a superior",
-      "statistical_significance": null,
-      "clinical_significance": "Efecto analgésico de moderado a superior"
+      "clinical_significance": "Longitud de onda 632.8 nm no mostró efecto analgésico relevante en este meta-análisis"
     }
   ],
-  "notes": "Limitaciones: búsqueda restringida a 2005–2010; heterogeneidad en parámetros de tratamiento entre estudios; un estudio (Fikácková 2007) no pudo incluirse en el meta-análisis cuantitativo por reportar datos categóricos. Los parámetros óptimos no han sido establecidos.",
+  "notes": "El meta-análisis incluye solo artículos de 2005–2010; los datos de Fikácková et al. (2007) no pudieron incluirse en el cálculo de ES por reportar solo tasas de éxito/fracaso. La heterogeneidad de parámetros entre estudios limita la generalización de conclusiones.",
   "population": {
     "n_participants": 303,
     "age_range": null,
-    "condition": "Temporomandibular joint pain / temporomandibular disorder",
+    "condition": "Temporomandibular joint (TMJ) pain / temporomandibular disorder",
     "sample_type": "Pacientes con diagnóstico de dolor de ATM o dolor en músculos masticatorios"
   },
-  "superiority_claim": null,
+  "superiority_claim": "Los autores afirman que 'the dosages and treatments with wavelengths of 780 and 830 nm can cause moderate and large pain relief effects' y que 632.8 nm 'did not generate the desired analgesic effects'.",
   "conflicts_of_interest": null,
   "funding_source_text": "Financial support from China Medical University under contract Nos. CMU102-SR-27 and DMR-103-138.",
   "source_citation": "Chang, W.-D., Lee, C.-L., Lin, H.-Y., Hsu, Y.-C., Wang, C.-J., & Lai, P.-T. (2014). A meta-analysis of clinical effects of low-level laser therapy on temporomandibular joint pain. Journal of Physical Therapy Science, 26(8), 1297–1300.",
@@ -59,9 +58,9 @@
   "adverse_events": [],
   "laser_parameters": [
     {
-      "wavelength_nm": 633,
-      "fluence_j_cm2": 1.5,
-      "power_w": 0.03,
+      "wavelength_nm": 830,
+      "fluence_j_cm2": null,
+      "power_w": 0.5,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
@@ -75,7 +74,7 @@
     {
       "wavelength_nm": 780,
       "fluence_j_cm2": null,
-      "power_w": 0.05,
+      "power_w": 0.07,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
@@ -87,9 +86,9 @@
       "cooling": null
     },
     {
-      "wavelength_nm": 830,
-      "fluence_j_cm2": null,
-      "power_w": 0.45,
+      "wavelength_nm": 633,
+      "fluence_j_cm2": 1.5,
+      "power_w": 0.03,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
@@ -107,11 +106,11 @@
     "application_time_sec": null,
     "application_technique": "point",
     "anatomical_points": [
-      "articulación temporomandibular",
-      "puntos de dolor muscular masticatorio (tender points)"
+      "articulación temporomandibular (cápsula articular)",
+      "punto gatillo / punto de dolor en músculo masticatorio"
     ]
   },
-  "clinical_indication": "Dolor de articulación temporomandibular (ATM) y dolor en músculos masticatorios",
+  "clinical_indication": "Dolor de articulación temporomandibular (ATM) / trastorno temporomandibular",
   "target_tissue": "temporomandibular joint capsule, masticatory muscle",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
@@ -119,13 +118,11 @@
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Los parámetros de potencia para 780 nm varían entre 30–70 mW según el estudio; se reportó valor promedio aproximado en laser_parameters.",
-    "Los parámetros de potencia para 830 nm varían entre 400–500 mW; se reportó valor promedio aproximado.",
-    "No se especifica modo de pulso (continuo vs pulsado) en ninguno de los estudios incluidos.",
-    "No se especifica tamaño del spot en ninguno de los estudios incluidos.",
-    "El rango de dosis para 780 nm es muy amplio (6.3–105 J/cm²), lo que refleja heterogeneidad real entre estudios.",
-    "Un estudio (Fikácková 2007) no pudo incluirse en el meta-análisis cuantitativo, lo que puede afectar el pooled ES.",
-    "La búsqueda bibliográfica se limitó a 2005–2010, por lo que los resultados pueden no reflejar la evidencia más reciente."
+    "Los parámetros exactos de modo de pulso (continuo vs pulsado) no se reportan en la mayoría de los estudios incluidos en el meta-análisis.",
+    "El rango de dosis terapéuticas es muy amplio (1.5–105 J/cm²), lo que impide definir un protocolo óptimo único.",
+    "No se reportan datos de edad de los participantes en el abstract/full text disponible.",
+    "El número total de participantes (303) incluye los 80 del estudio de Fikácková que no pudo incluirse en el cálculo de ES.",
+    "La heterogeneidad metodológica entre estudios (diferentes sitios de aplicación, dosis, sesiones) limita la validez del ES agrupado."
   ],
   "bibliographic_metadata": {
     "title": "A Meta-analysis of Clinical Effects of Low-level Laser Therapy on Temporomandibular Joint Pain",
@@ -143,23 +140,37 @@
   },
   "protocols": [
     {
-      "name": "LLLT para dolor de articulación temporomandibular (ATM) — fotobiomodulación con 780–830 nm",
+      "name": "LLLT para dolor de articulación temporomandibular (ATM)",
       "synonyms_es": [
-        "terapia láser de baja intensidad para ATM",
-        "fotobiomodulación articulación temporomandibular",
-        "láser frío para dolor de mandíbula",
-        "LLLT trastorno temporomandibular",
-        "láser terapéutico para TTM"
+        "láser de baja intensidad para ATM",
+        "fotobiomodulación para trastorno temporomandibular",
+        "terapia láser fría para dolor de mandíbula",
+        "láser terapéutico para disfunción temporomandibular",
+        "LLLT para DTM"
       ],
       "synonyms_en": [
         "low-level laser therapy for TMJ pain",
-        "LLLT temporomandibular disorder",
-        "photobiomodulation TMJ",
-        "cold laser TMJ treatment",
-        "soft laser temporomandibular joint"
+        "LLLT for temporomandibular disorder",
+        "photobiomodulation for TMJ",
+        "cold laser for TMJ",
+        "soft laser for temporomandibular joint"
       ],
-      "purpose": "Reducción del dolor en la articulación temporomandibular y en los músculos masticatorios mediante fotobiomodulación con láser de baja intensidad, aplicado sobre la cápsula articular o los puntos de dolor muscular.",
+      "purpose": "Reducir el dolor en la articulación temporomandibular y en los músculos masticatorios mediante fotobiomodulación con láser de baja intensidad, aplicado sobre la cápsula articular o puntos de dolor muscular.",
       "parameters_table": [
+        {
+          "equipment_class": "Láser de baja intensidad (LLLT) 830 nm (GaAlAs)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "830 nm",
+          "potencia": "400–500 mW",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "4–10 sesiones; dosis 7–100 J/cm²"
+        },
         {
           "equipment_class": "Láser de baja intensidad (LLLT) 780 nm",
           "representative_models": [],
@@ -169,24 +180,10 @@
           "frecuencia": "No especificado",
           "modo_de_pulso": "No especificado",
           "fibra_punta": "No especificado",
-          "agua_pct": "No aplica",
-          "aire_pct": "No aplica",
-          "distancia": "Contacto o proximidad sobre ATM / puntos de dolor muscular",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
           "tiempo_ciclos": "6–8 sesiones; dosis 6.3–105 J/cm²"
-        },
-        {
-          "equipment_class": "Láser de baja intensidad (LLLT) 830 nm",
-          "representative_models": [],
-          "equipo": null,
-          "longitud_de_onda": "830 nm",
-          "potencia": "400–500 mW",
-          "frecuencia": "No especificado",
-          "modo_de_pulso": "No especificado",
-          "fibra_punta": "No especificado",
-          "agua_pct": "No aplica",
-          "aire_pct": "No aplica",
-          "distancia": "Contacto o proximidad sobre ATM / puntos de dolor muscular",
-          "tiempo_ciclos": "4–10 sesiones; dosis 7–100 J/cm²"
         },
         {
           "equipment_class": "Láser de baja intensidad (LLLT) 632.8 nm (HeNe)",
@@ -197,78 +194,82 @@
           "frecuencia": "No especificado",
           "modo_de_pulso": "No especificado",
           "fibra_punta": "No especificado",
-          "agua_pct": "No aplica",
-          "aire_pct": "No aplica",
-          "distancia": "Contacto o proximidad sobre ATM",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
           "tiempo_ciclos": "20 sesiones; dosis 1.5 J/cm²"
         }
       ],
       "critical_notes": [
-        "Los parámetros óptimos de LLLT para el dolor de ATM no han sido confirmados; existe heterogeneidad importante entre los estudios incluidos en este meta-análisis.",
-        "Las longitudes de onda de 780 nm y 830 nm mostraron efectos analgésicos de moderados a superiores; 632.8 nm no mostró efecto significativo en los parámetros estudiados.",
-        "El rango de dosis para 780 nm es muy amplio (6.3–105 J/cm²), lo que refleja la falta de estandarización en los protocolos clínicos.",
-        "El mecanismo analgésico propuesto incluye inhibición de COX-2, reducción de prostaglandinas (PGE2), aumento de beta-endorfinas y estimulación de microcirculación periférica, aunque no está completamente confirmado.",
-        "Este meta-análisis cubre literatura de 2005–2010; pueden existir estudios más recientes con parámetros más refinados.",
-        "El documento presenta estos resultados como referencia clínica; existen otras modalidades de tratamiento conservador para TTM (férulas, fisioterapia, medicación) que pueden ser apropiadas según el caso."
+        "Los parámetros óptimos de LLLT para dolor de ATM no han sido confirmados; los estudios incluidos muestran gran heterogeneidad en dosis, potencia y número de sesiones.",
+        "Las longitudes de onda 780 nm y 830 nm mostraron efectos analgésicos moderados a superiores; 632.8 nm no mostró efecto significativo en este meta-análisis.",
+        "La dosis terapéutica debe ser adecuada al tejido diana: dosis insuficientes o excesivas pueden no producir fotobiomodulación (regla de Arndt-Schultz).",
+        "El documento presenta estos resultados como referencia clínica; los parámetros específicos de modo de pulso y tipo de punta no fueron reportados en los estudios originales incluidos.",
+        "Parámetros técnicos específicos (modo de pulso, tipo de fibra/punta) no reportados en los estudios originales del meta-análisis."
       ],
       "pbm_complement": null,
       "technique_steps": [
         "Diagnosticar al paciente con dolor de ATM o dolor en músculos masticatorios mediante exploración física.",
-        "Seleccionar la longitud de onda apropiada (780 nm o 830 nm según disponibilidad del equipo).",
-        "Identificar el sitio de aplicación: cápsula articular de la ATM o puntos de dolor muscular masticatorio (tender points).",
-        "Aplicar el láser en contacto o proximidad sobre el sitio seleccionado con la dosis terapéutica indicada (7–105 J/cm² según wavelength y protocolo).",
-        "Completar el número de sesiones indicado (4–10 sesiones para 830 nm; 6–8 sesiones para 780 nm).",
-        "Evaluar la respuesta al tratamiento mediante escala VAS antes y después de cada sesión."
+        "Seleccionar la longitud de onda apropiada (780 nm o 830 nm recomendadas según los resultados del meta-análisis).",
+        "Identificar el sitio de aplicación: cápsula articular de la ATM o punto de dolor/tensión del músculo masticatorio.",
+        "Aplicar el láser en modo puntual sobre el sitio identificado con la dosis terapéutica seleccionada (7–105 J/cm² según protocolo).",
+        "Completar el número de sesiones planificadas (4–10 sesiones para 830 nm; 6–8 sesiones para 780 nm).",
+        "Evaluar el nivel de dolor mediante escala VAS antes y después de cada sesión para monitorizar la respuesta al tratamiento."
       ],
       "indications": [
-        "Dolor en la articulación temporomandibular (artralgia de ATM)",
-        "Dolor en músculos masticatorios (mialgia masticatoria)",
-        "Trastorno temporomandibular con limitación de apertura bucal",
-        "Tratamiento conservador de trastornos temporomandibulares como alternativa o complemento a otras terapias"
+        "Dolor de articulación temporomandibular (ATM)",
+        "Trastorno temporomandibular con dolor en cápsula articular",
+        "Dolor en puntos de tensión de músculos masticatorios",
+        "Limitación de apertura bucal asociada a dolor de ATM",
+        "Artralgia de ATM como alternativa o complemento a tratamiento conservador"
       ],
       "contraindications": [
         "Neoplasias en la zona de aplicación",
         "Embarazo (precaución general con LLLT)",
         "Aplicación directa sobre ojos sin protección adecuada",
-        "Fotosensibilidad conocida o uso de fármacos fotosensibilizantes en la zona"
+        "Fotosensibilidad conocida a la longitud de onda utilizada"
       ],
       "postop_care": [
-        "Monitorizar la respuesta analgésica mediante VAS en cada sesión.",
-        "Evaluar la actividad funcional de la ATM (apertura bucal, ruidos articulares) durante el seguimiento.",
-        "Considerar tratamiento complementario (dieta blanda, fisioterapia, férulas oclusales) según evolución clínica."
+        "Monitorizar el nivel de dolor con VAS en cada sesión.",
+        "Informar al paciente que el efecto analgésico puede ser gradual y acumulativo a lo largo de las sesiones.",
+        "Complementar con otras terapias conservadoras según indicación clínica (dieta blanda, medicación, fisioterapia)."
       ],
-      "evidence_level": "Moderado — meta-análisis de 7 RCTs (n=303), ES agrupado –0.6 (IC 95%: –0.73 a –0.47, p<0.05); limitado por heterogeneidad en parámetros y búsqueda restringida a 2005–2010.",
+      "evidence_level": "Moderado — meta-análisis de 7 RCTs (n=223 analizables) con PEDro scores 8–11/11; limitado por heterogeneidad de parámetros entre estudios y período de búsqueda restringido (2005–2010).",
       "keywords_es": [
         "LLLT ATM",
-        "terapia láser baja intensidad",
-        "fotobiomodulación ATM",
-        "dolor articulación temporomandibular",
-        "trastorno temporomandibular",
-        "TTM láser",
-        "láser 780 nm ATM",
+        "láser baja intensidad articulación temporomandibular",
+        "fotobiomodulación dolor mandibular",
+        "trastorno temporomandibular láser",
+        "dolor ATM tratamiento láser",
         "láser 830 nm ATM",
-        "analgesia láser mandíbula",
-        "dolor muscular masticatorio",
-        "láser frío articulación",
-        "PBM dolor orofacial",
-        "meta-análisis LLLT",
-        "fisioterapia ATM láser"
+        "láser 780 nm ATM",
+        "terapia láser fría mandíbula",
+        "PBM trastorno temporomandibular",
+        "analgesia láser ATM",
+        "disfunción temporomandibular fisioterapia láser",
+        "músculo masticatorio láser",
+        "cápsula articular ATM láser",
+        "meta-análisis LLLT dolor orofacial",
+        "láser terapéutico dolor facial"
       ],
       "keywords_en": [
         "LLLT TMJ",
-        "low-level laser therapy temporomandibular",
+        "low-level laser therapy temporomandibular joint",
         "photobiomodulation TMJ pain",
         "temporomandibular disorder laser",
-        "TMD laser treatment",
-        "780 nm laser TMJ",
+        "TMJ pain laser treatment",
         "830 nm laser TMJ",
-        "laser analgesia jaw",
-        "masticatory muscle pain laser",
-        "cold laser temporomandibular",
-        "PBM orofacial pain",
-        "meta-analysis LLLT TMJ",
-        "soft laser TMJ",
-        "laser physiotherapy TMJ"
+        "780 nm laser TMJ",
+        "cold laser mandible",
+        "PBM temporomandibular disorder",
+        "laser analgesia TMJ",
+        "temporomandibular dysfunction physiotherapy laser",
+        "masticatory muscle laser",
+        "joint capsule TMJ laser",
+        "meta-analysis LLLT orofacial pain",
+        "soft laser facial pain",
+        "GaAlAs laser TMJ",
+        "HeNe laser TMJ"
       ],
       "is_virtual_protocol": false
     }
