@@ -1,0 +1,359 @@
+{
+  "article_refs": [
+    "pdf_local::input_1778348732::7ddcbc"
+  ],
+  "uuid": "3c1f39",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Revisión encargada por la AAP (American Academy of Periodontology) que analiza 278 artículos sobre láseres en periodoncia publicados entre 1990 y 2005.",
+    "No existe evidencia suficiente para afirmar que ninguna longitud de onda láser específica sea superior a las modalidades tradicionales de terapia periodontal.",
+    "El uso de Nd:YAG o Er:YAG para el tratamiento de periodontitis crónica puede ser equivalente al raspado y alisado radicular (RAR/SRP) en cuanto a reducción de profundidad de sondaje y poblaciones bacterianas subgingivales.",
+    "Si la ganancia en nivel de inserción clínica (CAL) se considera el estándar de oro, la evidencia que apoya el tratamiento periodontal mediado por láser sobre la terapia tradicional es mínima.",
+    "Existe evidencia limitada de que los láseres usados de forma adyuvante al SRP pueden proporcionar algún beneficio adicional.",
+    "La comparación entre estudios clínicos es difícil o imposible debido a: diferentes longitudes de onda, amplia variación en parámetros, reporte insuficiente de parámetros, diferencias en diseño experimental, falta de controles adecuados y medición de distintos endpoints clínicos.",
+    "Solo 3 de 278 artículos (1.1%) correspondían a ensayos clínicos aleatorizados, cegados, controlados y longitudinales; la mayoría eran estudios in vitro (21.2%) o revisiones de literatura (31.7%).",
+    "El láser Er:YAG mostró resultados más consistentes en los ensayos clínicos de periodontitis crónica, con todos los estudios provenientes del mismo grupo de investigadores.",
+    "El láser de diodo (810 nm) dentro de bolsas periodontales puede elevar la temperatura ósea superficial 10-11°C a 800 mW-1.2 W; solo a 600 mW se mantuvo por debajo del umbral de daño celular (47°C).",
+    "La exposición ósea a temperaturas ≥47°C induce daño celular y resorción ósea; ≥60°C resulta en necrosis tisular.",
+    "El Er:YAG y Er,Cr:YSGG son las únicas longitudes de onda con potencial de uso seguro en tejido óseo entre los láseres dentales disponibles.",
+    "El CO2 y Nd:YAG producen daño óseo severo y cicatrización retardada en estudios de osteotomía en ratas a todas las densidades de energía probadas.",
+    "La ablación bacteriana requiere impacto directo del haz de energía; existe una interfaz bien definida entre bacterias irradiadas y no dañadas, lo que explica la persistencia de bacterias viables tras irradiación subgingival in vivo.",
+    "Se requieren ensayos clínicos aleatorizados, cegados, controlados y longitudinales (posiblemente multicéntricos) para establecer una base de evidencia sólida para el uso de láseres en periodontitis crónica."
+  ],
+  "outcomes": [
+    {
+      "measured": "Ganancia en CAL (nivel de inserción clínica) — promedio de 11 estudios láser vs controles",
+      "result": "1.62 mm (láser) vs 1.26 mm (controles); diferencia mínima",
+      "statistical_significance": null,
+      "clinical_significance": "Beneficio mínimo del tratamiento láser subgingival sobre terapia convencional cuando se usa CAL como gold standard"
+    },
+    {
+      "measured": "Reducción de profundidad de sondaje (PD) con Er:YAG vs SRP",
+      "result": "Diferencias entre grupos de 0 a 0.4 mm a 6 meses y 0.3 mm a 1-2 años, consistentemente favoreciendo el láser pero con diferencias pequeñas",
+      "statistical_significance": null,
+      "clinical_significance": "Reducción de PD consistentemente favorece Er:YAG pero con diferencias clínicamente modestas"
+    },
+    {
+      "measured": "Temperatura ósea superficial con diodo 810 nm a 800 mW-1.2 W durante 9 segundos",
+      "result": "Incrementos de 10-11°C; solo a 600 mW se mantuvo por debajo del umbral de daño celular",
+      "statistical_significance": null,
+      "clinical_significance": "Riesgo de daño óseo irreversible con diodo a potencias >600 mW durante >3 segundos en tejidos delgados sobre hueso"
+    },
+    {
+      "measured": "Remoción de cálculo subgingival: Er:YAG vs SRP (estudio in situ, Eberhard et al.)",
+      "result": "68.4% de superficie libre de cálculo con láser vs 94% con SRP; con doble tiempo de exposición láser: 83.3%",
+      "statistical_significance": null,
+      "clinical_significance": "El Er:YAG es menos eficiente que el SRP para remoción de cálculo subgingival en tiempo equivalente"
+    },
+    {
+      "measured": "Umbral de ablación bacteriana in vitro para Porphyromonas gingivalis: diodo 810 nm vs Nd:YAG",
+      "result": "48 J/cm² (diodo 810 nm) vs 96 J/cm² (Nd:YAG)",
+      "statistical_significance": null,
+      "clinical_significance": "El diodo 810 nm requiere menor densidad de energía para ablación bacteriana de P. gingivalis que el Nd:YAG"
+    }
+  ],
+  "notes": "Revisión encargada por la AAP. El autor es el único responsable del contenido; no representa política de la Academia. Solo 3 de 278 artículos eran RCTs. La revisión cubre publicaciones hasta 2005. Los estudios de Er:YAG en periodontitis crónica provienen todos del mismo grupo de investigadores (Schwarz, Sculean et al.), lo que limita la generalización.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Chronic periodontitis; oral soft tissue conditions; periodontal disease",
+    "sample_type": "Revisión de 278 artículos (laboratorio, in vivo animal, estudios clínicos, revisiones)"
+  },
+  "superiority_claim": "El autor afirma: 'there is insufficient evidence to suggest that any specific wavelength of laser is superior to the traditional modalities of therapy.' Adicionalmente, respecto al Er:YAG: 'the Er:YAG laser would appear to be the instrument of choice for effective removal of calculus, for root etching, and for creation of a biocompatible surface for cell or tissue reattachment' — citando a Aoki et al. como soporte de esta afirmación, no como conclusión propia del autor.",
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Cobb, C. M. (2006). Lasers in periodontics: A review of the literature. Journal of Periodontology, 77(4), 545–564. https://doi.org/10.1902/jop.2006.050417",
+  "contraindications": [
+    "Uso de CO2 o Nd:YAG directamente sobre hueso a densidades de energía estándar (riesgo de carbonización, necrosis y cicatrización retardada)",
+    "Diodo (810 nm) a potencias >600 mW durante >3 segundos en tejidos delgados sobre hueso (riesgo de daño óseo irreversible)",
+    "Uso de CO2 en terapia subgingival periodontal (restricción por diámetro del tip de entrega ≥1 mm)",
+    "Uso de Er:YAG sin refrigeración con spray de agua en superficies radiculares (riesgo de daño térmico y daño pulpar)"
+  ],
+  "adverse_events": [
+    "Carbonización y fusión de superficie radicular con CO2 y Nd:YAG a densidades de energía elevadas",
+    "Cracking térmico de superficie radicular con CO2 (especialmente ≥4 W en modo continuo)",
+    "Separación de cemento de dentina tras irradiación Nd:YAG + SRP (in vitro)",
+    "Disminución de viabilidad celular y síntesis de colágeno en fibroblastos del ligamento periodontal tras irradiación Nd:YAG (50 mJ, 10 Hz, 60-240 s)",
+    "Cicatrización retardada de heridas óseas con CO2 y Nd:YAG (estudios en ratas, todos los intervalos de tiempo)",
+    "Recolonización bacteriana de superficies radiculares irradiadas con Nd:YAG a los 7 días post-tratamiento",
+    "Presencia de cianamida y cianato (residuos citotóxicos) en superficies carbonizadas por CO2 (análisis FTIR)",
+    "Alteraciones subsuperficiales en dentina tras ablación de cemento con Er:YAG (cambios térmicos de 255-611 μm desde la superficie)"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 1064,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.15,
+      "frequency_hz": null,
+      "spot_size_mm": 0.3,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 100.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": 0.25,
+      "frequency_hz": 10,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 100.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": "water spray"
+    },
+    {
+      "wavelength_nm": 810,
+      "fluence_j_cm2": null,
+      "power_w": 0.8,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 0.3,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "periodontal pocket",
+      "subgingival root surface",
+      "gingival soft tissue"
+    ]
+  },
+  "clinical_indication": "Chronic periodontitis; subgingival curettage; root surface detoxification; oral soft tissue surgery",
+  "target_tissue": "gingiva, periodontal ligament, cementum, dentin, bone",
+  "brand_model_mentioned": [
+    "Nd:YAG",
+    "Er:YAG",
+    "Er,Cr:YSGG",
+    "CO2",
+    "Ho:YAG",
+    "Nd:YAP",
+    "GaAs diode",
+    "GaAlAs diode",
+    "InGaAsP diode",
+    "Argon"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Los parámetros láser reportados en la tabla de estudios clínicos son heterogéneos y pertenecen a múltiples estudios citados; no representan un protocolo único estandarizado.",
+    "No se reportan conflictos de interés ni fuente de financiamiento en el artículo original.",
+    "Algunos parámetros de estudios individuales citados en las tablas no incluyen todos los campos necesarios (e.g., spot size, fluencia calculada).",
+    "La revisión cubre literatura hasta 2005; la evidencia posterior puede modificar las conclusiones.",
+    "El campo laser_parameters refleja parámetros representativos de estudios citados, no un protocolo único del autor de la revisión."
+  ],
+  "bibliographic_metadata": {
+    "title": "Lasers in Periodontics: A Review of the Literature",
+    "authors": [
+      "Charles M. Cobb"
+    ],
+    "year": 2006,
+    "journal": "Journal of Periodontology",
+    "doi": "10.1902/jop.2006.050417"
+  },
+  "protocols": [
+    {
+      "name": "Láseres en Periodoncia — Revisión de Aplicaciones Clínicas (Soft Tissue, Raíz, Periodontitis Crónica)",
+      "synonyms_es": [
+        "láser periodontal",
+        "terapia láser periodontal",
+        "curetaje subgingival con láser",
+        "descontaminación de superficie radicular con láser",
+        "cirugía de tejidos blandos con láser",
+        "tratamiento de periodontitis crónica con láser",
+        "raspado y alisado radicular asistido por láser",
+        "terapia láser no quirúrgica periodontal"
+      ],
+      "synonyms_en": [
+        "periodontal laser therapy",
+        "laser subgingival curettage",
+        "laser root surface detoxification",
+        "laser soft tissue surgery",
+        "laser-assisted periodontal treatment",
+        "laser scaling and root planing",
+        "non-surgical laser periodontal therapy",
+        "laser pocket therapy"
+      ],
+      "purpose": "Aplicación de diversas longitudes de onda láser (CO2, Nd:YAG, Er:YAG, Er,Cr:YSGG, diodo, argón) para el tratamiento de tejidos blandos orales, descontaminación y modificación de superficie radicular, y tratamiento de periodontitis crónica como alternativa o adyuvante al raspado y alisado radicular convencional.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser CO2 (10,600 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "10,600 nm",
+          "potencia": "≤4 W (modo defocused/pulsado para mínimo daño); >4 W en modo continuo produce carbonización",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Gated o continuo",
+          "fibra_punta": "Guía de onda hueca; diámetro ≥1 mm (limita uso subgingival)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "1-2 mm del tejido objetivo (defocused)",
+          "tiempo_ciclos": "No especificado"
+        },
+        {
+          "equipment_class": "Láser Nd:YAG (1,064 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "1,064 nm",
+          "potencia": "0.8–1.5 W (uso clínico periodontal); >1.75 W puede retrasar cicatrización",
+          "frecuencia": "10–25 Hz (según estudios citados)",
+          "modo_de_pulso": "Pulsado; 100–150 μs duración de pulso (según estudios)",
+          "fibra_punta": "Fibra óptica flexible, diámetros 0.3–0.4 mm; contacto con superficie requerido",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto directo",
+          "tiempo_ciclos": "Variable: 2 min/bolsa; 5-40 s según profundidad de bolsa"
+        },
+        {
+          "equipment_class": "Láser Er:YAG (2,940 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2,940 nm",
+          "potencia": "Variable según aplicación; baja densidad de energía (≤10.6 J/cm²) para remoción de cálculo sin daño",
+          "frecuencia": "10–30 Hz (según estudios)",
+          "modo_de_pulso": "Free-running pulsed; 60–250 μs duración de pulso",
+          "fibra_punta": "Fibra óptica flexible o guía de onda hueca; contacto requerido para la mayoría de procedimientos",
+          "agua_pct": "Spray de agua requerido (supresión de daño térmico)",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto o no-contacto (defocused para mínima remoción de cemento)",
+          "tiempo_ciclos": "Variable; 160 mJ/pulso a 10 Hz en estudios clínicos de periodontitis"
+        },
+        {
+          "equipment_class": "Láser Er,Cr:YSGG (2,780 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2,780 nm",
+          "potencia": "5 W (estudios en hueso); parámetros clínicos periodontales no estandarizados",
+          "frecuencia": "8 Hz (estudio en hueso canino)",
+          "modo_de_pulso": "Free-running pulsed",
+          "fibra_punta": "Insertos de cristal de zafiro de diámetros variables; contacto requerido",
+          "agua_pct": "Spray aire/agua concomitante requerido",
+          "aire_pct": "Spray aire/agua concomitante requerido",
+          "distancia": "Contacto directo",
+          "tiempo_ciclos": "10-30 s (estudios en hueso)"
+        },
+        {
+          "equipment_class": "Láser de diodo (635–950 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "635–950 nm (GaAs, GaAlAs, InGaAsP, InGaAlP)",
+          "potencia": "≤1 W para mínimo daño en superficie radicular; 800 mW–1.2 W en bolsas periodontales (riesgo de daño óseo)",
+          "frecuencia": "50 Hz (estudio Moritz et al.); variable",
+          "modo_de_pulso": "Gated o continuo; 10 μs duración de pulso (Moritz et al.)",
+          "fibra_punta": "Fibra óptica flexible; contacto requerido",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto directo",
+          "tiempo_ciclos": "9 s máximo a potencias >600 mW para evitar daño óseo; variable según aplicación"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados para ninguna longitud de onda en el tratamiento de periodontitis crónica. Basado en: Cobb 2006.",
+        "El diodo (810 nm) a potencias >600 mW durante >3 segundos en tejidos delgados sobre hueso puede elevar la temperatura ósea superficial por encima del umbral de daño celular (47°C); usar a ≤600 mW o limitar exposición a ≤3 s.",
+        "El CO2 tiene aplicación subgingival muy limitada por el diámetro del tip de entrega (≥1 mm); no recomendado para terapia periodontal subgingival de rutina.",
+        "El Er:YAG requiere refrigeración con spray de agua para suprimir daño térmico en superficie radicular y proteger la pulpa; la refrigeración adecuada en bolsas profundas es inconsistente.",
+        "El Nd:YAG y CO2 producen daño óseo severo y cicatrización retardada en estudios de osteotomía; solo Er:YAG y Er,Cr:YSGG tienen potencial de uso seguro en hueso.",
+        "La ablación bacteriana requiere impacto directo del haz; existe una interfaz bien definida entre bacterias irradiadas y no dañadas, lo que explica la persistencia de bacterias viables in vivo tras irradiación subgingival.",
+        "La ganancia en CAL (nivel de inserción clínica) es el gold standard para terapia periodontal no quirúrgica; el promedio de ganancia con láser (1.62 mm) vs controles (1.26 mm) indica beneficio mínimo.",
+        "El documento presenta múltiples longitudes de onda con resultados conflictivos; no existe evidencia para recomendar ninguna longitud de onda específica sobre la terapia convencional.",
+        "El Er:YAG en modo defocused (no contacto) remueve cálculo con mínima remoción de cemento; el modo contacto aumenta la remoción de estructura radicular con la densidad de energía.",
+        "Alteraciones subsuperficiales en dentina tras ablación de cemento con Er:YAG se extienden 255-611 μm desde la superficie, independientemente de la energía de irradiación."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Cirugía de tejidos blandos orales: frenectomía, gingivectomía, gingivoplastia, deepitelización de colgajos, remoción de tejido de granulación, exposición de implantes, ablación de lesiones, biopsias, irradiación de úlceras aftosas, coagulación de sitios donantes de injerto gingival, depigmentación gingival",
+        "Curetaje subgingival y eliminación bacteriana en bolsas periodontales",
+        "Modificación de superficie radicular: remoción de smear layer, cálculo dental, cemento y endotoxina unida al cemento",
+        "Tratamiento de periodontitis crónica como alternativa o adyuvante al SRP",
+        "Osteoplastia y ostectomía (Er:YAG y Er,Cr:YSGG)",
+        "Alargamiento de corona clínica (Er,Cr:YSGG y Er:YAG, principalmente en casos de sobrecrecimiento gingival)"
+      ],
+      "contraindications": [
+        "Uso de CO2 o Nd:YAG directamente sobre hueso a densidades de energía estándar (riesgo de carbonización, necrosis y cicatrización retardada severa)",
+        "Diodo a potencias >600 mW durante >3 segundos en tejidos delgados sobre hueso alveolar (riesgo de daño óseo irreversible)",
+        "Uso de CO2 en terapia subgingival periodontal de rutina (restricción por diámetro del tip ≥1 mm)",
+        "Er:YAG sin refrigeración con spray de agua en superficies radiculares (riesgo de daño térmico y daño pulpar)",
+        "Alargamiento de corona clínica con técnica de colgajo cerrado cuando se requiere remoción ósea sin visualización directa (riesgo de violación del ancho biológico y daño radicular no detectado)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa encargada por la AAP basada en 278 artículos (1990-2005); solo 3 RCTs identificados; resultados conflictivos entre estudios; no hay protocolos clínicos estandarizados.",
+      "keywords_es": [
+        "láser periodontal",
+        "periodontitis crónica",
+        "raspado y alisado radicular",
+        "Er:YAG periodoncia",
+        "Nd:YAG periodoncia",
+        "CO2 periodoncia",
+        "láser de diodo periodoncia",
+        "curetaje subgingival láser",
+        "descontaminación superficie radicular",
+        "modificación superficie radicular láser",
+        "cálculo subgingival láser",
+        "bacterias subgingivales láser",
+        "nivel de inserción clínica",
+        "profundidad de sondaje",
+        "terapia no quirúrgica periodontal",
+        "Er,Cr:YSGG periodoncia",
+        "osteotomía láser",
+        "gingivectomía láser",
+        "frenectomía láser",
+        "LLLT periodoncia",
+        "fotobiomodulación periodontal",
+        "temperatura ósea láser",
+        "smear layer láser",
+        "biofilm periodontal láser"
+      ],
+      "keywords_en": [
+        "periodontal laser therapy",
+        "chronic periodontitis laser",
+        "scaling root planing laser",
+        "Er:YAG periodontics",
+        "Nd:YAG periodontics",
+        "CO2 periodontics",
+        "diode laser periodontics",
+        "subgingival curettage laser",
+        "root surface detoxification laser",
+        "root surface modification laser",
+        "subgingival calculus laser",
+        "subgingival bacteria laser",
+        "clinical attachment level",
+        "probing depth reduction",
+        "non-surgical periodontal therapy",
+        "Er,Cr:YSGG periodontics",
+        "laser osteotomy",
+        "laser gingivectomy",
+        "laser frenectomy",
+        "LLLT periodontics",
+        "photobiomodulation periodontal",
+        "bone temperature laser",
+        "smear layer laser",
+        "periodontal biofilm laser",
+        "LANAP"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
