@@ -1,0 +1,422 @@
+{
+  "article_refs": [
+    "pdf_local::input_1778302734::ec8fb5"
+  ],
+  "uuid": "3a0952",
+  "target_apps": [
+    "laserrx",
+    "ikmeds"
+  ],
+  "study_type": "case_series",
+  "evidence_level": "low",
+  "key_points": [
+    "Se realizaron 589 extracciones dentales en 217 pacientes bajo terapia con bisfosfonatos (BPT), con una incidencia de exposición ósea mínima del 0.85% (5 casos).",
+    "El protocolo combinó antibioticoterapia sistémica (amoxicilina 2 g/día, 3 días antes y 14 días después) con LLLT mediante Nd:YAG 1064 nm (1.25 W, 15 Hz, fibra 320 μm, 1 minuto × 5 aplicaciones intraoperatorias, luego semanal por 6 semanas).",
+    "Los 5 casos con exposición ósea mínima fueron manejados con curetaje y vaporización con Er:YAG (2940 nm, 250 mJ, 20 Hz, VSP, fluencia 50 J/cm²) y cicatrizaron en 2 meses.",
+    "La discontinuación de BPT no afectó los resultados a largo plazo de los procedimientos quirúrgicos orales en esta serie.",
+    "La cicatrización postextracción fue independiente de la presencia de BRONJ previa, del sitio anatómico, de las condiciones médicas y de la modalidad de administración de BPT.",
+    "Todos los casos de exposición ósea ocurrieron en pacientes oncológicos bajo ácido zoledrónico con múltiples comorbilidades (diabetes, corticosteroides, tabaquismo).",
+    "El seguimiento medio fue de 15 meses (rango 4-31 meses).",
+    "La LLLT con Nd:YAG en modo no enfocado a 2 mm de distancia generó una densidad de potencia de 1562.5 W/cm² y fluencia total de 7 J/cm²."
+  ],
+  "outcomes": [
+    {
+      "measured": "Incidencia de exposición ósea post-extracción (BRONJ)",
+      "result": "5 de 589 extracciones (0.85%) presentaron exposición ósea mínima, todas en pacientes oncológicos con ácido zoledrónico",
+      "statistical_significance": null,
+      "clinical_significance": "Incidencia muy baja comparada con tasas reportadas en literatura para pacientes de alto riesgo bajo BPT IV"
+    },
+    {
+      "measured": "Cicatrización de los 5 casos con exposición ósea",
+      "result": "Todos cicatrizaron dentro de 2 meses con curetaje + vaporización Er:YAG + antibióticos + LLLT",
+      "statistical_significance": null,
+      "clinical_significance": "Resolución completa sin progresión a BRONJ establecido"
+    },
+    {
+      "measured": "Cicatrización retardada pero completa",
+      "result": "15 pacientes presentaron cicatrización retardada pero completa en máximo 8 semanas",
+      "statistical_significance": null,
+      "clinical_significance": "Cicatrización completa en todos los casos sin BRONJ establecido"
+    }
+  ],
+  "notes": "Estudio de serie de casos sin grupo control. El equipo utilizado fue Fotona Fidelis Plus para ambos procedimientos (LLLT Nd:YAG y vaporización Er:YAG). La LLLT se administró en modo no enfocado (no contacto), a 2 mm de distancia. Los parámetros de LLLT Nd:YAG reportados (1562.5 W/cm² de densidad de potencia) son inusualmente altos para lo que convencionalmente se denomina LLLT; los autores lo clasifican como biostimulación de baja intensidad en modo no enfocado.",
+  "population": {
+    "n_participants": 217,
+    "age_range": "30-83 años (media 68.72 ± 11.26)",
+    "condition": "Pacientes bajo terapia con bisfosfonatos (oncológicos y no oncológicos) requiriendo extracciones dentales",
+    "sample_type": "Pacientes clínicos, 38 hombres / 179 mujeres"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "No declarado explícitamente en el artículo.",
+  "funding_source_text": "No declarado explícitamente en el artículo.",
+  "source_citation": "Vescovi, P., Meleti, M., Merigo, E., Manfredi, M., Fornaini, C., Guidotti, R., & Nammour, S. (2013). Case series of 589 tooth extractions in patients under bisphosphonates therapy. Proposal of a clinical protocol supported by Nd:YAG low-level laser therapy. Medicina Oral, Patología Oral y Cirugía Bucal, 18(4), e680-e685. https://doi.org/10.4317/medoral.18812",
+  "contraindications": [
+    "Extracciones dentales en pacientes bajo BPT IV de alto riesgo sin cobertura antibiótica y LLLT adecuadas",
+    "Discontinuación de BPT sin consulta con oncólogo (riesgo de hipercalcemia maligna, eventos esqueléticos relacionados y progresión de osteoporosis)"
+  ],
+  "adverse_events": [
+    "Exposición ósea mínima post-extracción en 5/589 casos (0.85%), todos en pacientes oncológicos con ácido zoledrónico",
+    "Cicatrización retardada (hasta 8 semanas) en 15/217 pacientes"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 1064,
+      "fluence_j_cm2": 7.0,
+      "power_w": 1.25,
+      "pulse_duration_ms": null,
+      "frequency_hz": 15,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 1562.5,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "No especificado"
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": 50.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": 20,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 250.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": "No especificado"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 6,
+    "session_interval_days": 7,
+    "application_time_sec": 60.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "alveolo post-extracción mandibular",
+      "alveolo post-extracción maxilar"
+    ]
+  },
+  "clinical_indication": "Prevención de osteonecrosis de los maxilares relacionada con bisfosfonatos (BRONJ) tras extracciones dentales en pacientes bajo BPT",
+  "target_tissue": "bone, mucosa, alveolar socket",
+  "brand_model_mentioned": [
+    "Fotona Fidelis Plus"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "zoledronic acid",
+      "drug_class": "Bisphosphonate (nitrogen-containing, IV)",
+      "interaction_type": "contraindication",
+      "dental_relevance": "Asociado al mayor riesgo de BRONJ (0.8-12%); todos los casos de exposición ósea en esta serie ocurrieron en pacientes bajo ácido zoledrónico. Requiere protocolo especial para extracciones.",
+      "photosensitivity": false,
+      "laser_implication": "No hay implicación directa de fotosensibilidad; la LLLT Nd:YAG se usa como adyuvante para mejorar la cicatrización ósea y mucosa en estos pacientes."
+    },
+    {
+      "name": "alendronate",
+      "drug_class": "Bisphosphonate (nitrogen-containing, oral)",
+      "interaction_type": "caution",
+      "dental_relevance": "Riesgo de BRONJ menor que BPs IV (0.01-0.04%); requiere protocolo preventivo para extracciones. Usado principalmente en osteoporosis.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "pamidronate",
+      "drug_class": "Bisphosphonate (nitrogen-containing, IV)",
+      "interaction_type": "contraindication",
+      "dental_relevance": "Asociado a BRONJ; riesgo similar al ácido zoledrónico en pacientes oncológicos.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "risedronate",
+      "drug_class": "Bisphosphonate (nitrogen-containing, oral)",
+      "interaction_type": "caution",
+      "dental_relevance": "Riesgo de BRONJ menor que BPs IV; requiere protocolo preventivo para extracciones.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "clodronate",
+      "drug_class": "Bisphosphonate (non-nitrogen-containing)",
+      "interaction_type": "caution",
+      "dental_relevance": "Menor potencia antirresortiva; riesgo de BRONJ generalmente menor. Requiere evaluación individual.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "amoxicillin",
+      "drug_class": "Beta-lactam antibiotic (aminopenicillin)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Antibiótico de elección en el protocolo: 2 g/día, iniciando 3 días antes de la extracción y continuando 14 días postoperatorio. Alternativa de amplio espectro para alérgicos a penicilina.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "metronidazole",
+      "drug_class": "Nitroimidazole antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Usado como antibiótico adyuvante (500 mg/día) en los 5 casos con exposición ósea post-extracción, combinado con amoxicilina.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "chlorhexidine",
+      "drug_class": "Antiseptic/disinfectant",
+      "interaction_type": "monitor",
+      "dental_relevance": "Enjuagues 3 veces al día hasta cicatrización mucosa completa como parte del protocolo postoperatorio.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "povidone-iodine",
+      "drug_class": "Antiseptic (iodophor)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Irrigación intraoperatoria del alveolo post-extracción como parte del protocolo.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "corticosteroids",
+      "drug_class": "Glucocorticoid (systemic)",
+      "interaction_type": "caution",
+      "dental_relevance": "Factor de riesgo adicional para BRONJ; todos los 5 pacientes con exposición ósea estaban bajo corticosteroides sistémicos. Aumenta el riesgo de complicaciones cicatriciales.",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "En pacientes bajo BPT: (1) Higiene oral profesional 1 semana antes; (2) Amoxicilina 2 g/día iniciando 3 días antes de la extracción; (3) Irrigación alveolar con povidona yodada + LLLT Nd:YAG intraoperatoria; (4) Amoxicilina 2 g/día por 14 días postoperatorio + enjuagues con clorhexidina 3×/día; (5) LLLT semanal por 6 semanas y hasta cicatrización completa; (6) La discontinuación de BPT (2 meses antes y después) se consideró solo en 49/217 pacientes según criterio médico; los autores concluyen que la discontinuación no afecta los resultados a largo plazo.",
+  "confidence": "high",
+  "uncertainties": [
+    "Los parámetros de LLLT Nd:YAG reportados (densidad de potencia 1562.5 W/cm²) son inusualmente altos para LLLT convencional; el diámetro del spot no se especifica explícitamente (se infiere de la fibra de 320 μm), lo que podría afectar el cálculo de irradiancia.",
+    "El modo de pulso del Nd:YAG para LLLT no se especifica (pulsado libre, Q-switched, etc.); se asume pulsado dado que se reporta frecuencia de 15 Hz.",
+    "No se especifica el diámetro del spot del Er:YAG para vaporización (solo se menciona fibra/punta implícitamente).",
+    "No hay grupo control, por lo que no es posible atribuir causalidad a la LLLT en la prevención de BRONJ.",
+    "El modo VSP del Er:YAG Fotona Fidelis Plus no tiene duración de pulso numérica explícita en el artículo."
+  ],
+  "bibliographic_metadata": {
+    "title": "Case series of 589 tooth extractions in patients under bisphosphonates therapy. Proposal of a clinical protocol supported by Nd:YAG low-level laser therapy",
+    "authors": [
+      "Paolo Vescovi",
+      "Marco Meleti",
+      "Elisabetta Merigo",
+      "Maddalena Manfredi",
+      "Carlo Fornaini",
+      "Rebecca Guidotti",
+      "Samir Nammour"
+    ],
+    "year": 2013,
+    "journal": "Medicina Oral, Patología Oral y Cirugía Bucal",
+    "doi": "10.4317/medoral.18812"
+  },
+  "protocols": [
+    {
+      "name": "LLLT con Nd:YAG 1064 nm para prevención de BRONJ en extracciones dentales bajo bisfosfonatos",
+      "synonyms_es": [
+        "biostimulación láser Nd:YAG en pacientes con bisfosfonatos",
+        "terapia láser de baja intensidad post-extracción en BPT",
+        "fotobiomodulación Nd:YAG para prevención de osteonecrosis",
+        "LLLT Nd:YAG en cirugía oral con bisfosfonatos",
+        "láser biostimulador en extracciones con riesgo de BRONJ"
+      ],
+      "synonyms_en": [
+        "Nd:YAG LLLT for BRONJ prevention after tooth extraction",
+        "low-level laser therapy bisphosphonate patients dental extraction",
+        "Nd:YAG biostimulation post-extractive socket BPT",
+        "photobiomodulation osteonecrosis jaw prevention",
+        "laser biostimulation bisphosphonate-related osteonecrosis"
+      ],
+      "purpose": "Aplicar fotobiomodulación con Nd:YAG 1064 nm en modo no enfocado sobre el alveolo post-extracción en pacientes bajo terapia con bisfosfonatos, con el objetivo de mejorar la cicatrización ósea y mucosa y reducir el riesgo de osteonecrosis de los maxilares relacionada con bisfosfonatos (BRONJ).",
+      "parameters_table": [
+        {
+          "equipment_class": "Fotona Fidelis Plus (Nd:YAG 1064 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "1064 nm",
+          "potencia": "1.25 W",
+          "frecuencia": "15 Hz",
+          "modo_de_pulso": "Pulsado (modo no especificado; frecuencia 15 Hz)",
+          "fibra_punta": "Fibra de 320 μm de diámetro",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "2 mm de la superficie tisular (modo no enfocado)",
+          "tiempo_ciclos": "1 minuto × 5 aplicaciones intraoperatorias; luego 1 aplicación semanal por 6 semanas postoperatorias (y adicionales hasta cicatrización completa)"
+        }
+      ],
+      "critical_notes": [
+        "La densidad de potencia reportada (1562.5 W/cm²) y la fluencia total (7 J/cm²) son inusualmente altas para lo que convencionalmente se denomina LLLT; los autores lo clasifican como biostimulación en modo no enfocado a 2 mm de distancia.",
+        "El protocolo se aplica en combinación con antibioticoterapia sistémica (amoxicilina 2 g/día) e irrigación con povidona yodada; no se evaluó la LLLT de forma aislada.",
+        "El modo de pulso exacto del Nd:YAG no se especifica en el artículo; se reporta frecuencia de 15 Hz.",
+        "Este protocolo no tiene grupo control; la efectividad de la LLLT no puede separarse del efecto de la antibioticoterapia.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "En pacientes oncológicos bajo ácido zoledrónico con múltiples comorbilidades (diabetes, corticosteroides, tabaquismo), el riesgo de BRONJ persiste a pesar del protocolo."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Una semana antes de la extracción, realizar higiene oral profesional.",
+        "Iniciar amoxicilina 2 g/día tres días antes de la extracción dental.",
+        "Realizar la extracción dental bajo anestesia local con mínima manipulación ósea y de tejidos blandos, según guías AAOMS/ADA.",
+        "Irrigar el alveolo post-extracción con solución de povidona yodada intraoperatoriamente.",
+        "Aplicar LLLT con Nd:YAG 1064 nm (1.25 W, 15 Hz, fibra 320 μm) en modo no enfocado a 2 mm de distancia del tejido, durante 1 minuto, repitiendo 5 veces en la misma sesión intraoperatoria.",
+        "Continuar amoxicilina 2 g/día por 14 días postoperatorios hasta la remoción de suturas.",
+        "Prescribir enjuagues con clorhexidina 3 veces al día hasta cicatrización mucosa completa.",
+        "Aplicar LLLT semanalmente durante las primeras 6 semanas postoperatorias y continuar hasta cicatrización mucosa completa.",
+        "Evaluar al paciente a los 3 días y semanalmente durante 2 meses post-extracción.",
+        "Continuar seguimiento mensual los primeros 2 meses, luego cada 3 y 6 meses; ortopantomografía a los 6 y 12 meses."
+      ],
+      "indications": [
+        "Extracciones dentales en pacientes bajo terapia con bisfosfonatos orales o intravenosos cuando no existe tratamiento dental conservador viable",
+        "Dientes con infecciones periodontales y/o endodónticas difusas y sintomáticas en pacientes bajo BPT",
+        "Caries destructivas o fracturas dentales complicadas en pacientes bajo BPT",
+        "Prevención de BRONJ post-extracción en pacientes de riesgo (oncológicos y no oncológicos bajo BPT)"
+      ],
+      "contraindications": [
+        "Existencia de alternativas de tratamiento dental conservador viable (la extracción debe evitarse si es posible)",
+        "Pacientes sin evaluación y acuerdo previo con oncólogo o médico tratante",
+        "Alergia a amoxicilina sin antibiótico alternativo de amplio espectro disponible"
+      ],
+      "postop_care": [
+        "Amoxicilina 2 g/día por 14 días hasta remoción de suturas (alternativa de amplio espectro para alérgicos a penicilina)",
+        "Enjuagues con clorhexidina 3 veces al día hasta cicatrización mucosa completa",
+        "LLLT Nd:YAG semanal por 6 semanas y adicional hasta cicatrización completa",
+        "Evaluación clínica a los 3 días y semanalmente por 2 meses",
+        "Seguimiento mensual los primeros 2 meses, luego cada 3 y 6 meses",
+        "Ortopantomografía a los 6 y 12 meses post-extracción"
+      ],
+      "evidence_level": "Bajo — serie de casos sin grupo control, n=217 pacientes/589 extracciones, sin aleatorización ni comparador.",
+      "keywords_es": [
+        "LLLT Nd:YAG",
+        "bisfosfonatos extracciones dentales",
+        "BRONJ prevención",
+        "osteonecrosis maxilares bisfosfonatos",
+        "fotobiomodulación cirugía oral",
+        "biostimulación láser alveolo",
+        "ácido zoledrónico extracción",
+        "osteoporosis extracción dental láser",
+        "cicatrización ósea láser",
+        "protocolo extracción bisfosfonatos",
+        "Fotona Fidelis Plus",
+        "terapia láser baja intensidad odontología",
+        "mieloma múltiple extracción dental",
+        "metástasis ósea cirugía oral",
+        "amoxicilina profilaxis extracción"
+      ],
+      "keywords_en": [
+        "LLLT Nd:YAG tooth extraction",
+        "bisphosphonate-related osteonecrosis jaw",
+        "BRONJ prevention",
+        "low-level laser therapy oral surgery",
+        "bisphosphonate therapy dental extraction",
+        "zoledronic acid dental surgery",
+        "photobiomodulation bone healing",
+        "osteoporosis tooth extraction laser",
+        "Fotona Fidelis Plus",
+        "alveolar socket healing laser",
+        "bisphosphonate protocol extraction",
+        "multiple myeloma dental extraction",
+        "bone metastasis oral surgery",
+        "osteonecrosis jaw laser treatment",
+        "antibiotic prophylaxis bisphosphonate extraction"
+      ],
+      "is_virtual_protocol": false
+    },
+    {
+      "name": "Vaporización con Er:YAG 2940 nm para manejo de exposición ósea mínima post-extracción en pacientes bajo bisfosfonatos",
+      "synonyms_es": [
+        "vaporización Er:YAG en exposición ósea BRONJ incipiente",
+        "curetaje y vaporización láser erbio en osteonecrosis mínima",
+        "Er:YAG para fragmentos óseos post-extracción en BPT",
+        "ablación láser erbio en alveolo con exposición ósea",
+        "tratamiento láser Er:YAG BRONJ estadio I"
+      ],
+      "synonyms_en": [
+        "Er:YAG vaporization minimal bone exposure post-extraction BPT",
+        "erbium laser curettage BRONJ stage I",
+        "Er:YAG ablation bone fragments bisphosphonate patients",
+        "erbium laser bone exposure management osteonecrosis",
+        "Er:YAG 2940nm BRONJ treatment"
+      ],
+      "purpose": "Eliminar pequeños fragmentos óseos expuestos (< 3 mm) en alveolos post-extracción de pacientes bajo bisfosfonatos mediante curetaje y vaporización con Er:YAG 2940 nm, para lograr el cierre de la herida y prevenir la progresión a BRONJ establecido.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fotona Fidelis Plus (Er:YAG 2940 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado (calculado: 250 mJ × 20 Hz = 5 W)",
+          "frecuencia": "20 Hz",
+          "modo_de_pulso": "VSP (Very Short Pulse; duración numérica no especificada en el artículo)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "Intervención única de curetaje y vaporización; fluencia 50 J/cm²"
+        }
+      ],
+      "critical_notes": [
+        "El modo VSP (Very Short Pulse) del Fotona Fidelis Plus no tiene duración numérica explícita en el artículo; se recomienda verificar con las especificaciones del fabricante.",
+        "Los parámetros de agua y aire no se especifican en el artículo para este procedimiento; para Er:YAG 2940 nm en vaporización de tejido óseo se recomienda consultar el protocolo del fabricante.",
+        "Este procedimiento se realizó como intervención única en combinación con antibioticoterapia adyuvante (amoxicilina + metronidazol) y LLLT continuada.",
+        "Solo se aplicó en casos con fragmentos óseos pequeños (< 3 mm) parcialmente cubiertos por mucosa no inflamada, sin dolor ni supuración; no es aplicable a BRONJ establecido con infección activa.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": "Continuar LLLT con Nd:YAG 1064 nm (1.25 W, 15 Hz, fibra 320 μm, 1 min, modo no enfocado a 2 mm) semanalmente hasta cicatrización completa, como parte del protocolo combinado.",
+      "technique_steps": [
+        "Identificar la exposición ósea mínima (fragmentos < 3 mm, mucosa no inflamada, sin dolor ni supuración).",
+        "Iniciar antibioticoterapia adyuvante: amoxicilina 2 g/día + metronidazol 500 mg/día.",
+        "Realizar curetaje del alveolo para eliminar tejido necrótico o desvitalizado.",
+        "Vaporizar los fragmentos óseos residuales con Er:YAG 2940 nm (250 mJ, 20 Hz, VSP, fluencia 50 J/cm²) hasta obtener superficie ósea limpia.",
+        "Continuar LLLT Nd:YAG semanal hasta cicatrización mucosa completa.",
+        "Evaluar cicatrización clínicamente; el cierre de la herida se espera dentro de 2 meses."
+      ],
+      "indications": [
+        "Exposición ósea mínima post-extracción (fragmentos < 3 mm) en pacientes bajo BPT",
+        "BRONJ estadio I incipiente: hueso expuesto asintomático sin infección de tejidos blandos activa",
+        "Fragmentos óseos parcialmente cubiertos por mucosa no inflamada sin dolor ni supuración"
+      ],
+      "contraindications": [
+        "BRONJ establecido con infección activa, dolor intenso o supuración (requiere manejo más agresivo)",
+        "Fragmentos óseos > 3 mm o exposición ósea extensa",
+        "BRONJ estadio II o III (hueso expuesto con dolor, infección, fractura patológica)"
+      ],
+      "postop_care": [
+        "Amoxicilina 2 g/día + metronidazol 500 mg/día (duración según evolución clínica)",
+        "Continuar LLLT Nd:YAG semanal hasta cicatrización completa",
+        "Enjuagues antisépticos con clorhexidina",
+        "Seguimiento clínico semanal hasta cierre de la herida"
+      ],
+      "evidence_level": "Bajo — serie de casos, solo 5 pacientes tratados con este procedimiento, sin grupo control.",
+      "keywords_es": [
+        "Er:YAG vaporización exposición ósea",
+        "BRONJ estadio I tratamiento láser",
+        "erbio osteonecrosis maxilares",
+        "curetaje láser alveolo bisfosfonatos",
+        "Fotona Fidelis Plus Er:YAG",
+        "fragmentos óseos post-extracción láser",
+        "osteonecrosis bisfosfonatos cirugía láser",
+        "ablación ósea Er:YAG 2940 nm",
+        "VSP modo pulso erbio",
+        "bisfosfonatos complicaciones cirugía oral",
+        "ácido zoledrónico osteonecrosis tratamiento",
+        "cicatrización ósea láser erbio"
+      ],
+      "keywords_en": [
+        "Er:YAG vaporization bone exposure",
+        "BRONJ stage I laser treatment",
+        "erbium laser osteonecrosis jaw",
+        "Er:YAG curettage alveolar socket bisphosphonate",
+        "Fotona Fidelis Plus Er:YAG",
+        "bone fragment post-extraction laser",
+        "bisphosphonate osteonecrosis laser surgery",
+        "Er:YAG 2940nm bone ablation",
+        "VSP pulse mode erbium",
+        "bisphosphonate oral surgery complications",
+        "zoledronic acid osteonecrosis treatment",
+        "bone healing erbium laser"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
