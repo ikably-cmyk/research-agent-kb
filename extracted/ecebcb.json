@@ -1,0 +1,459 @@
+{
+  "article_refs": [
+    "pdf_local::oa_103389_fmicb201801299__169e9ca0::6bddb8"
+  ],
+  "uuid": "ecebcb",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "low",
+  "key_points": [
+    "aPDT (antimicrobial photodynamic therapy) uses non-toxic photosensitizers (PS) excited by visible light to generate reactive oxygen species (ROS) that attack biofilm matrix, cell surfaces, and intracellular targets.",
+    "Biofilms account for up to 80% of all bacterial and fungal infections in humans and are 10–1000× more resistant to antibiotics than planktonic cells.",
+    "aPDT has demonstrated broad-spectrum activity against clinically relevant biofilms including dental plaque, periodontal pathogens, Candida, MRSA, P. aeruginosa, and polymicrobial biofilms in vitro and in vivo.",
+    "The anti-biofilm mechanism of aPDT involves three sequential targets: (1) biofilm matrix destruction (polysaccharides, proteins, DNA), (2) cell surface damage (lipid peroxidation, membrane permeability), and (3) intracellular damage (DNA strand breaks, protein oxidation).",
+    "Cationic PS are more effective against Gram-negative bacteria than neutral or anionic PS due to the outer membrane LPS barrier; strategies include positively charged PS, coupling to polyethylenimine, or pre-treatment with Tris-EDTA.",
+    "Clinical trials have demonstrated aPDT efficacy for wound/ulcer infections (up to 3 log10 CFU reduction), periodontal disease (adjunct to SRP), nasal MRSA decolonization (5.1–5.9 log10 reduction), and H. pylori eradication (>91%).",
+    "Dental applications include endodontic disinfection (E. faecalis), periodontal treatment (adjunct to scaling and root planing), and oral candidiasis.",
+    "Major side effect of systemic PS administration is residual skin photosensitivity; topical/local administration minimizes systemic absorption and host tissue damage.",
+    "Sub-lethal aPDT doses may increase biofilm-forming ability and antibiotic resistance in S. aureus, representing a potential concern for clinical protocols.",
+    "Nanotechnology-based PS delivery (chitosan nanoparticles, gold nanoparticles, graphene oxide) enhances PS penetration into biofilm and improves antibiofilm efficacy.",
+    "Multiple PS structures are employed: porphyrins, chlorins, phthalocyanines, phenothiazinium dyes (methylene blue, toluidine blue O), rose bengal, erythrosine, curcumin, and BODIPY derivatives.",
+    "Light sources used in aPDT span a wide range: 405 nm (violet), 455 nm (blue), 532 nm (green), 630–670 nm (red), and 689–690 nm (near-red), selected to match PS absorption peaks."
+  ],
+  "outcomes": [
+    {
+      "measured": "Bacterial/fungal biofilm reduction in vitro",
+      "result": "Up to 7 log10 reduction for P. aeruginosa (Tetra-Py+-Me), 6.3 log10 for S. aureus, ~6 log10 for E. faecalis",
+      "statistical_significance": true,
+      "clinical_significance": "Substantial biofilm eradication across Gram-positive, Gram-negative, and fungal species"
+    },
+    {
+      "measured": "Clinical wound/ulcer infection reduction (RLP068 trial, n=62)",
+      "result": "3.00 ± 1.82 log10 CFU reduction immediately post-illumination; dose-dependent effect",
+      "statistical_significance": true,
+      "clinical_significance": "Randomized double-blind placebo-controlled Phase IIa trial; no safety issues reported"
+    },
+    {
+      "measured": "Nasal MRSA decolonization (clinical trial, MB-aPDT + chlorhexidine)",
+      "result": "5.1 log10 reduction immediately; 5.9 log10 reduction at 24h",
+      "statistical_significance": true,
+      "clinical_significance": "Complete MRSA eradication from nose in humans in <10 min treatment"
+    },
+    {
+      "measured": "H. pylori eradication with 405 nm light (no exogenous PS)",
+      "result": "91% reduction (Ganz et al.); >97% in antrum, >95% body, >86% fundus (Lembo et al.)",
+      "statistical_significance": true,
+      "clinical_significance": "Feasible approach for antibiotic-resistant H. pylori; exploits endogenous porphyrins"
+    },
+    {
+      "measured": "Periodontal pathogen reduction (F. nucleatum, adjunct aPDT after SRP)",
+      "result": "Significant reduction of F. nucleatum DNA from 700–780 pg/ml to 50–180 pg/ml after 12 weeks",
+      "statistical_significance": true,
+      "clinical_significance": "Improved clinical attachment, reduced probing depth and bleeding on probing"
+    }
+  ],
+  "notes": "This is a comprehensive narrative review covering aPDT mechanisms, photosensitizer structures, in vitro biofilm studies, preclinical animal models, and clinical trials. The dental relevance is high: oral biofilms, endodontic infections, periodontal disease, and oral candidiasis are explicitly covered. The paper does not report original experimental data but synthesizes a large body of literature. Light sources used in aPDT studies include diode lasers (660–670 nm, 664 nm), LED sources (455 nm, 630 nm), and broad-spectrum sources. No specific dental laser equipment brands are evaluated as primary subjects.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Various biofilm infections (dental, wound, nasal, gastric, pulmonary, bone)",
+    "sample_type": "Review of in vitro, animal, and human clinical studies"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+  "funding_source_text": "XH was funded by grants from National Key R&D Program of China (2017YFC1600102), China National Natural Science Foundation (31201290), and national first-class discipline program of Light Industry Technology and Engineering (LITE2018-10). MH was supported by US NIH grants R01AI050875 and R21AI121700.",
+  "source_citation": "Hu, X., Huang, Y.-Y., Wang, Y., Wang, X., & Hamblin, M. R. (2018). Antimicrobial photodynamic therapy to control clinically relevant biofilm infections. Frontiers in Microbiology, 9, 1299. https://doi.org/10.3389/fmicb.2018.01299",
+  "contraindications": [
+    "Systemic PS administration contraindicated in patients with known photosensitivity disorders or porphyria",
+    "Exposure to bright light or direct sunlight must be strictly avoided during the period of residual skin photosensitivity following systemic PS administration",
+    "High-fluence blue light (hundreds of J/cm2) can be toxic to host tissues; careful dosimetry required",
+    "Sub-lethal aPDT doses may increase biofilm-forming ability and antibiotic resistance — incomplete treatment protocols should be avoided"
+  ],
+  "adverse_events": [
+    "Residual skin photosensitivity after systemic PS administration (burns, redness, swelling upon daylight exposure)",
+    "Temporary coughing, trouble swallowing, stomach pain, or pain at treated area",
+    "Allergic reaction (infrequent)",
+    "Change in liver function parameters (infrequent)",
+    "Potential increase in biofilm-forming ability and antibiotic resistance after sub-lethal aPDT doses"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 664,
+      "fluence_j_cm2": 100.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.1,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 670,
+      "fluence_j_cm2": 96.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 405,
+      "fluence_j_cm2": 40.0,
+      "power_w": 0.2,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.2,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 689,
+      "fluence_j_cm2": 60.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "topical PS application followed by light irradiation",
+    "anatomical_points": [
+      "oral cavity",
+      "root canal",
+      "periodontal pocket",
+      "wound surface",
+      "nasal cavity",
+      "gastric mucosa",
+      "bone"
+    ]
+  },
+  "clinical_indication": "Antimicrobial photodynamic therapy (aPDT) for clinically relevant biofilm infections including dental biofilms, periodontal disease, endodontic infections, oral candidiasis, wound infections, nasal MRSA, and H. pylori",
+  "target_tissue": "biofilm on various tissues: dental plaque, periodontal tissue, root canal, wound, nasal mucosa, gastric mucosa, bone",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "methylene blue",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used as PS in aPDT for endodontic disinfection, oral candidiasis, nasal MRSA decolonization, and periodontal treatment; substrate of bacterial multidrug resistance efflux pumps which may reduce efficacy",
+      "photosensitivity": true,
+      "laser_implication": "Activated by 660–670 nm red light; used with diode lasers in dental aPDT protocols"
+    },
+    {
+      "name": "toluidine blue O",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used as PS in aPDT for endodontic and periodontal biofilm disinfection; substrate of bacterial efflux pumps",
+      "photosensitivity": true,
+      "laser_implication": "Activated by red light (~630–660 nm); compatible with diode lasers used in dentistry"
+    },
+    {
+      "name": "chlorin e6 (Ce6)",
+      "drug_class": "Chlorin photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used as PS in aPDT for periodontal pathogens and endodontic disinfection; PEI-ce6 conjugate improves efficacy against Gram-negative bacteria",
+      "photosensitivity": true,
+      "laser_implication": "Activated by 660–664 nm red light; used with diode lasers"
+    },
+    {
+      "name": "5-aminolevulinic acid (5-ALA)",
+      "drug_class": "Porphyrin precursor / prodrug photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Precursor of protoporphyrin IX; used in aPDT for wound infections and osteomyelitis; H. pylori accumulates endogenous porphyrins enabling PS-free photoinactivation",
+      "photosensitivity": true,
+      "laser_implication": "Activated at 410 nm (Soret band) or 635 nm (Q-band); requires appropriate light source selection"
+    },
+    {
+      "name": "curcumin",
+      "drug_class": "Natural polyphenol photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used as PS in aPDT for dental biofilms including S. mutans and mixed-species oral biofilms; activated by blue light (~450–470 nm)",
+      "photosensitivity": true,
+      "laser_implication": "Activated by blue light (~450–470 nm); compatible with blue LED or blue diode laser sources used in dentistry"
+    },
+    {
+      "name": "rose bengal",
+      "drug_class": "Xanthene photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used in aPDT for E. faecalis and P. aeruginosa biofilms; chitosan-conjugated rose bengal (CSRB) shows enhanced antibiofilm efficacy",
+      "photosensitivity": true,
+      "laser_implication": "Activated by green light (~532 nm); requires green laser or LED source"
+    },
+    {
+      "name": "erythrosine",
+      "drug_class": "Xanthene photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used in aPDT for oral Candida biofilms and dental plaque; activated by green light",
+      "photosensitivity": true,
+      "laser_implication": "Activated by green light (~532 nm); compatible with green laser sources"
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Topical/local PS administration in dental aPDT minimizes systemic absorption and photosensitivity risk. Short drug-light interval (minutes) is sufficient for localized infections. Patients receiving systemic PS must avoid bright light and direct sunlight until drug is eliminated. Efflux pump inhibitors (e.g., verapamil) may enhance aPDT efficacy when combined with phenothiazinium PS.",
+  "confidence": "high",
+  "uncertainties": [
+    "Specific dental laser equipment brands/models are not evaluated in this review; laser parameters reported are from referenced studies with varying equipment",
+    "Optimal PS concentration, light dose, and drug-light interval for specific dental indications are not standardized across studies reviewed",
+    "Long-term clinical efficacy data for dental aPDT applications are limited; most dental studies are short-term or in vitro",
+    "The review does not distinguish between laser and LED light sources in many cited studies, making equipment-specific recommendations difficult",
+    "Potential for sub-lethal aPDT to increase virulence/resistance is noted but not systematically studied in dental contexts"
+  ],
+  "bibliographic_metadata": {
+    "title": "Antimicrobial Photodynamic Therapy to Control Clinically Relevant Biofilm Infections",
+    "authors": [
+      "Xiaoqing Hu",
+      "Ying-Ying Huang",
+      "Yuguang Wang",
+      "Xiaoyuan Wang",
+      "Michael R. Hamblin"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2018.01299"
+  },
+  "protocols": [
+    {
+      "name": "aPDT para biofilm dental oral (placa, caries, periodontitis)",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana dental",
+        "fototerapia antimicrobiana oral",
+        "PDT periodontal",
+        "desinfección fotodinámica de placa bacteriana",
+        "terapia fotodinámica para periodontitis"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy dental biofilm",
+        "oral aPDT",
+        "periodontal PDT",
+        "photodynamic disinfection dental plaque",
+        "aPDT adjunct to scaling and root planing"
+      ],
+      "purpose": "Reducción o erradicación de biofilm bacteriano y fúngico en cavidad oral (placa dental, surco periodontal, superficie radicular) mediante activación de fotosensibilizadores con luz visible, generando ROS que destruyen la matriz del biofilm y las células microbianas.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (diodo rojo 660–670 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "660–670 nm",
+          "potencia": "60–400 mW (variable según estudio)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra difusora o punta de fibra óptica intraoral",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Contacto o proximidad al tejido diana",
+          "tiempo_ciclos": "120–687 s según protocolo; fluencia 15–275 J/cm²"
+        },
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (LED azul ~455 nm o LED verde ~532 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "455 nm (azul) o 532 nm (verde)",
+          "potencia": "Variable (90 mW reportado para erythrosine)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Punta de fibra óptica o LED intraoral",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Contacto o proximidad al tejido diana",
+          "tiempo_ciclos": "3–20 min según protocolo; fluencia 14–305 J/cm²"
+        }
+      ],
+      "critical_notes": [
+        "El fotosensibilizador debe seleccionarse según su longitud de onda de absorción máxima y la fuente de luz disponible: methylene blue/toluidine blue O → rojo 660–670 nm; curcumin → azul 450–470 nm; erythrosine/rose bengal → verde 532 nm.",
+        "Los fotosensibilizadores fenotiazínicos (methylene blue, toluidine blue O) son sustratos de bombas de eflujo bacterianas; la combinación con inhibidores de bombas de eflujo (ej. verapamil) puede mejorar la eficacia.",
+        "La concentración del PS debe optimizarse: concentraciones excesivas actúan como 'escudo óptico' impidiendo la penetración de la luz en el biofilm.",
+        "El documento presenta esta técnica favorablemente como adyuvante a tratamientos convencionales; existen alternativas con mecanismos de acción diferentes (ultrasonidos, irrigación química, láseres ablativos) que pueden ser apropiadas según el caso clínico.",
+        "La mayoría de estudios dentales son in vitro o de corto plazo; la evidencia clínica a largo plazo es limitada.",
+        "Sub-dosis de aPDT pueden aumentar la capacidad de formación de biofilm en S. aureus; los protocolos deben asegurar dosis letales completas."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar desbridamiento mecánico previo (raspado y alisado radicular en periodontitis, o preparación biomecánica en endodoncia) para reducir la carga bacteriana inicial.",
+        "Aplicar el fotosensibilizador tópicamente en el área infectada (surco periodontal, superficie dental, cavidad oral) y dejar actuar el tiempo de incubación recomendado (generalmente 1–5 min para aplicaciones tópicas locales).",
+        "Irradiar con la fuente de luz de longitud de onda apropiada para el PS seleccionado, aplicando la fluencia y tiempo de irradiación indicados.",
+        "Irrigar o aspirar el PS residual tras la irradiación.",
+        "Repetir el ciclo si el protocolo lo indica (algunos estudios emplean múltiples aplicaciones).",
+        "Evaluar la respuesta clínica y microbiológica en visitas de seguimiento."
+      ],
+      "indications": [
+        "Periodontitis crónica como adyuvante al raspado y alisado radicular (SRP)",
+        "Infecciones endodónticas por E. faecalis y microflora resistente a antibióticos",
+        "Candidiasis oral (C. albicans, C. parapsilosis)",
+        "Placa dental y gingivitis",
+        "Biofilms polimicrobianos orales resistentes a tratamiento convencional"
+      ],
+      "contraindications": [
+        "Alergia conocida al fotosensibilizador específico",
+        "Pacientes con porfiria o trastornos de fotosensibilidad sistémica (para PS sistémicos; no aplica a aplicación tópica local)",
+        "Exposición a luz solar intensa inmediatamente tras aplicación sistémica de PS"
+      ],
+      "postop_care": [
+        "Evitar exposición a luz solar intensa si se utilizó PS de administración sistémica.",
+        "Mantener higiene oral adecuada para prevenir recolonización del biofilm.",
+        "Seguimiento microbiológico y clínico para evaluar respuesta al tratamiento.",
+        "Considerar sesiones adicionales de aPDT si persiste infección, evitando sub-dosis que puedan inducir resistencia."
+      ],
+      "evidence_level": "Bajo — revisión narrativa que sintetiza estudios in vitro, modelos animales y ensayos clínicos de pequeño tamaño; la mayoría de estudios dentales son in vitro o de corto plazo sin estandarización de protocolos.",
+      "keywords_es": [
+        "terapia fotodinámica antimicrobiana",
+        "aPDT dental",
+        "fotosensibilizador",
+        "biofilm oral",
+        "placa bacteriana",
+        "periodontitis",
+        "endodoncia fotodinámica",
+        "Enterococcus faecalis",
+        "Candida albicans oral",
+        "methylene blue dental",
+        "toluidine blue O",
+        "curcumina fotodinámica",
+        "desinfección endodóntica",
+        "ROS antimicrobiano",
+        "luz visible antimicrobiana",
+        "biofilm periodontal",
+        "raspado y alisado radicular adyuvante",
+        "fotoinactivación microbiana"
+      ],
+      "keywords_en": [
+        "antimicrobial photodynamic therapy",
+        "aPDT dental",
+        "photosensitizer",
+        "oral biofilm",
+        "dental plaque",
+        "periodontitis",
+        "endodontic photodynamic therapy",
+        "Enterococcus faecalis",
+        "oral Candida",
+        "methylene blue dental",
+        "toluidine blue O",
+        "curcumin photodynamic",
+        "endodontic disinfection",
+        "reactive oxygen species antimicrobial",
+        "visible light antimicrobial",
+        "periodontal biofilm",
+        "scaling root planing adjunct",
+        "photoinactivation microbial"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "aPDT para descontaminación de heridas crónicas e infecciones de tejidos blandos",
+      "synonyms_es": [
+        "terapia fotodinámica para heridas infectadas",
+        "PDT antimicrobiana en úlceras crónicas",
+        "fototerapia antimicrobiana en heridas",
+        "desinfección fotodinámica de úlceras diabéticas"
+      ],
+      "synonyms_en": [
+        "aPDT chronic wound infection",
+        "photodynamic therapy wound biofilm",
+        "antimicrobial PDT ulcer",
+        "photodynamic disinfection diabetic foot ulcer"
+      ],
+      "purpose": "Reducción de carga bacteriana y erradicación de biofilm en heridas crónicas, úlceras venosas y úlceras diabéticas mediante aPDT tópica, como alternativa o complemento a antibióticos sistémicos.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (rojo 570–690 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "570–690 nm (según PS: RLP068 → 689 nm; PPA904 → 570–670 nm)",
+          "potencia": "Variable",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fuente de luz externa o fibra difusora sobre la herida",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Aplicación sobre superficie de la herida",
+          "tiempo_ciclos": "500 s (RLP068, 60 J/cm²); 15 min (PPA904, 50 J/cm²)"
+        }
+      ],
+      "critical_notes": [
+        "Los ensayos clínicos de fase IIa (RLP068, n=62; PPA904, n=32) demostraron reducciones de 2.5–3 log10 CFU sin problemas de seguridad.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (desbridamiento quirúrgico, antibióticos tópicos, terapia de presión negativa) que pueden ser apropiadas según el caso clínico.",
+        "La recurrencia microbiana tras el cese de la irradiación es un problema documentado en modelos animales; puede requerir sesiones repetidas."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Aplicar el fotosensibilizador tópicamente sobre la herida o úlcera infectada.",
+        "Dejar actuar el tiempo de incubación recomendado (generalmente 15–60 min según el PS).",
+        "Irradiar con la fuente de luz de longitud de onda apropiada aplicando la fluencia indicada (50–60 J/cm²).",
+        "Evaluar respuesta clínica y microbiológica; repetir sesiones según evolución."
+      ],
+      "indications": [
+        "Úlceras venosas crónicas con colonización bacteriana",
+        "Úlceras diabéticas infectadas",
+        "Heridas con biofilm de MRSA, P. aeruginosa, o microflora polimicrobiana resistente a antibióticos",
+        "Quemaduras infectadas"
+      ],
+      "contraindications": [
+        "Alergia conocida al fotosensibilizador",
+        "Heridas con tejido necrótico extenso que impida la penetración del PS y la luz (requiere desbridamiento previo)"
+      ],
+      "postop_care": [
+        "Proteger la zona tratada de la luz solar durante el período de fotosensibilidad residual.",
+        "Monitorizar la evolución de la herida y la carga microbiana.",
+        "Combinar con cuidados estándar de heridas (desbridamiento, apósitos apropiados)."
+      ],
+      "evidence_level": "Moderado — basado en ensayos clínicos fase IIa randomizados doble ciego (RLP068, n=62; PPA904, n=32) con resultados estadísticamente significativos.",
+      "keywords_es": [
+        "terapia fotodinámica heridas",
+        "aPDT úlceras crónicas",
+        "úlcera diabética infección",
+        "MRSA herida",
+        "biofilm herida crónica",
+        "RLP068",
+        "PPA904",
+        "fotosensibilizador tópico",
+        "desinfección fotodinámica",
+        "Pseudomonas aeruginosa herida",
+        "Staphylococcus aureus herida",
+        "ROS antimicrobiano herida",
+        "luz roja antimicrobiana",
+        "cicatrización herida fotodinámica"
+      ],
+      "keywords_en": [
+        "photodynamic therapy wound",
+        "aPDT chronic ulcer",
+        "diabetic foot ulcer infection",
+        "MRSA wound",
+        "chronic wound biofilm",
+        "RLP068",
+        "PPA904",
+        "topical photosensitizer",
+        "photodynamic disinfection",
+        "Pseudomonas aeruginosa wound",
+        "Staphylococcus aureus wound",
+        "ROS antimicrobial wound",
+        "red light antimicrobial",
+        "wound healing photodynamic"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
