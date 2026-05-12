@@ -1,0 +1,239 @@
+{
+  "article_refs": [
+    "pdf_local::input_1778590232::da3263"
+  ],
+  "uuid": "5b1a3a",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "Er,Cr:YSGG LAI (Biolase WaterLase iPlus, 2780 nm) showed a statistically significantly lower median percentage of remaining filling material compared to sonic-activated irrigation (EndoActivator) in mesial canals of mandibular molars during nonsurgical retreatment (73.9% vs. 93.8%, P=0.0165).",
+    "Neither LAI nor sonic-activated irrigation completely eliminated residual gutta-percha and bioceramic sealer from the root canal system.",
+    "The LAI protocol used radial firing tips (RFT2-17 mm, 0.25 mm diameter) placed in the middle third of the canal, activated while withdrawing at 2 mm/s, with settings: 1.25 W, 25 mJ, 50 Hz, Mode H, air: 0, water: 0.",
+    "The sonic group used EndoActivator at 10,000 cycles/min with a 15/02 tip, in 3 cycles of 30 seconds each (NaOCl, EDTA, NaOCl).",
+    "Both groups used the same irrigant sequence: 1 mL 2.5% NaOCl, 1 mL 17% EDTA, 1 mL 2.5% NaOCl, with 90 seconds total activation per canal.",
+    "Gutta-percha's pliable, rubber-like nature may reduce cavitation efficacy; it absorbs energy rather than fracturing, and adheres tightly to canal walls and irregularities.",
+    "This is the first study to evaluate Er,Cr:YSGG LAI specifically for residual obturation material removal during endodontic retreatment.",
+    "The study used micro-CT (μCT 35, Scanco Medical) at 15 μm voxel size for volumetric analysis before and after adjunctive irrigation.",
+    "Canals were obturated with EndoSequence BC Sealer HiFlow (bioceramic) and gutta-percha using single-cone technique, then retreated with Vortex Blue 25/04 and chloroform.",
+    "The authors note the statistical significance may not translate to clinical significance, and further investigation is needed."
+  ],
+  "outcomes": [
+    {
+      "measured": "Median percentage of remaining filling material — LAI group",
+      "result": "73.9% (IQR: 18.7%)",
+      "statistical_significance": true,
+      "clinical_significance": "Statistically significant reduction vs. sonic group; authors caution clinical significance is uncertain"
+    },
+    {
+      "measured": "Median percentage of remaining filling material — Sonic group",
+      "result": "93.8% (IQR: 31.7%)",
+      "statistical_significance": true,
+      "clinical_significance": "Higher residual material compared to LAI group (P=0.0165)"
+    },
+    {
+      "measured": "Complete elimination of residual obturation material",
+      "result": "Neither group achieved complete removal",
+      "statistical_significance": null,
+      "clinical_significance": "Both methods leave residual gutta-percha and bioceramic sealer; mechanical instrumentation and chemical softening remain essential"
+    }
+  ],
+  "notes": "Article in press (J Endod 2026). This is an in vitro ex vivo study using extracted human mandibular molars. The LAI protocol used air:0 and water:0 settings — see critical notes in protocol for the domain-specific caveat regarding Er,Cr:YSGG standard photoacoustic sequences. The study intentionally used conservative retreatment preparation (25/04) to preserve residual material for comparison, which may not reflect typical clinical retreatment protocols.",
+  "population": {
+    "n_participants": 40,
+    "age_range": null,
+    "condition": "Extracted mandibular first and second molars with mesial roots Weine type II/III, obturated with gutta-percha and bioceramic sealer (EndoSequence BC Sealer HiFlow)",
+    "sample_type": "Extracted human teeth (in vitro/ex vivo)"
+  },
+  "superiority_claim": "El autor afirma: 'The results of this study indicated superior efficacy of laser irrigation in removing gutta-percha from the canal system compared to sonic activation' (Discussion). Sin embargo, los propios autores concluyen que 'this improvement may not be clinically significant'.",
+  "conflicts_of_interest": "The authors deny any conflicts of interest related to this study.",
+  "funding_source_text": null,
+  "source_citation": "Lin, Y., Teixeira, F., He, J., Yamaguchi, M., Huynh, A., & Jalali, P. (2026). Laser-activated versus sonic-activated irrigation for removing residual filling materials in mandibular molars: A micro–computed tomography study. Journal of Endodontics. https://doi.org/10.1016/j.joen.2026.01.011",
+  "contraindications": [],
+  "adverse_events": [
+    "Two specimens in the laser group developed cracks due to desiccation during micro-CT imaging and were excluded from analysis."
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2780,
+      "fluence_j_cm2": null,
+      "power_w": 1.25,
+      "pulse_duration_ms": 0.06,
+      "frequency_hz": 50,
+      "spot_size_mm": 0.25,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 25.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Air: 0%, Water: 0% (no spray cooling during activation)"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 90.0,
+    "application_technique": "scanning",
+    "anatomical_points": [
+      "middle third of root canal",
+      "mesial canals of mandibular molars"
+    ]
+  },
+  "clinical_indication": "Nonsurgical endodontic retreatment — removal of residual gutta-percha and bioceramic sealer from mesial canals of mandibular molars with isthmuses",
+  "target_tissue": "root canal dentin, gutta-percha, bioceramic sealer",
+  "brand_model_mentioned": [
+    "Biolase WaterLase iPlus",
+    "Dentsply Sirona EndoActivator",
+    "Scanco Medical μCT 35",
+    "SS White DCTaper",
+    "Brasseler EndoSequence BC Sealer HiFlow",
+    "Dentsply Sirona Vortex Blue",
+    "Ultradent NaviTip",
+    "Materialise Mimics Innovation Suite v26"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Pulse duration for 'Mode H' of Biolase WaterLase iPlus is reported in the domain as ~60 μs; the paper does not state the numeric duration explicitly — recorded as 0.06 ms (60 μs) based on domain knowledge.",
+    "The paper uses air:0 and water:0 for Er,Cr:YSGG LAI, which deviates from the standard photoacoustic activation sequence (90%→0% water / 30%→0% air). This is the protocol as reported in the paper and is captured with a critical note.",
+    "Year of publication volume/issue number not yet assigned (article in press); DOI confirmed as 10.1016/j.joen.2026.01.011.",
+    "Total dose in joules not calculable from reported parameters without knowing exact number of pulses per cycle.",
+    "The study does not differentiate between residual gutta-percha and residual sealer in volumetric measurements — both are reported together as 'obturation material'."
+  ],
+  "bibliographic_metadata": {
+    "title": "Laser-activated Versus Sonic-activated Irrigation for Removing Residual Filling Materials in Mandibular Molars: A Micro–Computed Tomography Study",
+    "authors": [
+      "Yuhong Lin",
+      "Fabricio Teixeira",
+      "Jianing He",
+      "Megan Yamaguchi",
+      "Alexander Huynh",
+      "Poorya Jalali"
+    ],
+    "year": 2026,
+    "journal": "Journal of Endodontics",
+    "doi": "10.1016/j.joen.2026.01.011"
+  },
+  "protocols": [
+    {
+      "name": "LAI con Er,Cr:YSGG 2780 nm para retratamiento endodóntico — remoción de material obturador residual",
+      "synonyms_es": [
+        "irrigación activada por láser en retratamiento",
+        "activación láser de irrigante en retratamiento de conductos",
+        "LAI Er,Cr:YSGG para remoción de gutapercha residual",
+        "irrigación fotoacústica en retratamiento endodóntico",
+        "activación láser de NaOCl y EDTA en retratamiento"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation for endodontic retreatment",
+        "LAI for residual gutta-percha removal",
+        "Er,Cr:YSGG laser irrigation retreatment",
+        "photoacoustic irrigation retreatment",
+        "laser-assisted irrigant activation retreatment"
+      ],
+      "purpose": "Activar fotoacústicamente los irrigantes endodónticos (NaOCl y EDTA) mediante láser Er,Cr:YSGG 2780 nm durante el retratamiento no quirúrgico, con el objetivo de mejorar la remoción de material obturador residual (gutapercha y sellador biocerámico) en conductos mesiales de molares mandibulares con istmos.",
+      "parameters_table": [
+        {
+          "equipment_class": "Biolase WaterLase iPlus (Er,Cr:YSGG 2780 nm, modo H ~60 μs)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2780 nm",
+          "potencia": "1.25 W",
+          "frecuencia": "50 Hz",
+          "modo_de_pulso": "60 μs (modo H)",
+          "fibra_punta": "Punta radial firing RFT2-17 mm, diámetro 0.25 mm",
+          "agua_pct": "0%",
+          "aire_pct": "0%",
+          "distancia": "Punta colocada en tercio medio del conducto; retirada a 2 mm/s",
+          "tiempo_ciclos": "3 ciclos de 30 s c/u (NaOCl 2.5% → EDTA 17% → NaOCl 2.5%); total 90 s por conducto"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo usa agua:0% y aire:0% tal como fue reportado en el estudio original. La secuencia estándar de activación fotoacústica con Er,Cr:YSGG 2780 nm es 90%→0% agua / 30%→0% aire, NO 0%/0% desde el inicio. El protocolo del paper difiere de la secuencia estándar; usar con criterio clínico.",
+        "La punta radial firing (RFT2-17 mm) se colocó en el tercio medio del conducto, no limitada a la cámara pulpar como en estudios previos, lo que puede potenciar los efectos hidrodinámicos en conductos curvos.",
+        "Ninguno de los métodos (LAI ni activación sónica) logró la eliminación completa del material obturador residual; la instrumentación mecánica y el ablandamiento químico (cloroformo) siguen siendo esenciales en el retratamiento.",
+        "El estudio fue realizado in vitro con dientes extraídos; los resultados pueden no extrapolarse directamente a la práctica clínica.",
+        "El sellador biocerámico (EndoSequence BC Sealer HiFlow) fue particularmente difícil de remover; estudios previos confirman la dificultad de retreatabilidad de selladores biocerámicos.",
+        "El documento presenta este protocolo favorablemente frente a la activación sónica; existen alternativas (PUI, PIPS™, XP-Endo Finisher, GentleWave) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "La preparación utilizada en el estudio (25/04) fue conservadora e intencionalmente menor a la práctica clínica habitual de retratamiento, para preservar material residual medible; esto puede subestimar la eficacia clínica real de ambos métodos."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar retratamiento mecánico con limas rotatorias (Vortex Blue 25/04) hasta la longitud de trabajo, usando pequeñas cantidades de cloroformo para ablandar la gutapercha.",
+        "Confirmar permeabilidad apical con lima K #10 e irrigar con 5 mL de NaOCl 2.5% durante la instrumentación.",
+        "Tomar micro-CT de referencia para registrar el volumen basal de material obturador residual antes de la irrigación adjunta.",
+        "Preparar el equipo WaterLase iPlus con punta radial firing RFT2-17 mm (0.25 mm de diámetro) y configurar: 1.25 W, 25 mJ, 50 Hz, modo H, aire: 0, agua: 0.",
+        "Introducir 1 mL de NaOCl 2.5% en el conducto; colocar la punta en el tercio medio del conducto.",
+        "Activar el láser mientras se retira la punta a una velocidad de 2 mm/s; repetir el movimiento hasta completar 30 segundos de activación por conducto.",
+        "Introducir 1 mL de EDTA 17%; activar con el mismo protocolo láser durante 30 segundos por conducto.",
+        "Introducir 1 mL de NaOCl 2.5% final; activar con el mismo protocolo láser durante 30 segundos por conducto.",
+        "Secar los conductos con puntas de papel.",
+        "Tomar micro-CT post-irrigación para cuantificar el volumen de material obturador residual remanente."
+      ],
+      "indications": [
+        "Retratamiento endodóntico no quirúrgico en conductos obturados con gutapercha y sellador biocerámico",
+        "Conductos mesiales de molares mandibulares con istmos de difícil acceso mecánico",
+        "Casos donde la instrumentación rotatoria no logra remover completamente el material obturador residual",
+        "Conductos con anatomía compleja (Weine tipo II y III) donde la activación sónica puede verse comprometida por la curvatura"
+      ],
+      "contraindications": [
+        "Conductos con calcificaciones severas que impidan el acceso de la punta radial",
+        "Ápices abiertos o reabsorción radicular interna/externa (criterios de exclusión del estudio)",
+        "Pacientes con marcapasos u otros dispositivos electrónicos implantables (precaución general con equipos láser)",
+        "Ausencia de entrenamiento certificado en el uso del sistema láser Er,Cr:YSGG"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con dientes extraídos (n=40 conductos), sin seguimiento clínico. Primera evaluación de Er,Cr:YSGG LAI específicamente para remoción de material obturador en retratamiento.",
+      "keywords_es": [
+        "irrigación activada por láser",
+        "retratamiento endodóntico",
+        "Er,Cr:YSGG",
+        "WaterLase iPlus",
+        "gutapercha residual",
+        "sellador biocerámico",
+        "EndoSequence BC Sealer",
+        "micro-CT endodoncia",
+        "istmo radicular",
+        "molares mandibulares",
+        "activación fotoacústica",
+        "remoción de material obturador",
+        "NaOCl activado láser",
+        "EDTA activado láser",
+        "retratamiento no quirúrgico",
+        "conductos mesiales",
+        "cavitación láser endodoncia",
+        "punta radial firing",
+        "LAI endodoncia",
+        "activación de irrigante"
+      ],
+      "keywords_en": [
+        "laser-activated irrigation",
+        "endodontic retreatment",
+        "Er,Cr:YSGG",
+        "WaterLase iPlus",
+        "residual gutta-percha",
+        "bioceramic sealer",
+        "EndoSequence BC Sealer",
+        "micro-CT endodontics",
+        "root canal isthmus",
+        "mandibular molars",
+        "photoacoustic activation",
+        "obturation material removal",
+        "NaOCl laser activation",
+        "EDTA laser activation",
+        "nonsurgical retreatment",
+        "mesial canals",
+        "laser cavitation endodontics",
+        "radial firing tip",
+        "LAI endodontics",
+        "irrigant activation"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
