@@ -1,9 +1,9 @@
 # LaserRx KB — Antimicrobial Photodynamic Therapy to Control Clinically Relevant Biofilm Infections
 
 *Fuente: Xiaoqing Hu, Ying-Ying Huang, Yuguang Wang, Xiaoyuan Wang, Michael R. Hamblin. Antimicrobial Photodynamic Therapy to Control Clinically Relevant Biofilm Infections. Frontiers in Microbiology 2018; doi:10.3389/fmicb.2018.01299.*
-*Extraído: 2026-05-11*
+*Extraído: 2026-05-12*
 
-## aPDT para biofilm dental oral (placa, caries, periodontitis) — Evidencia 2018
+## aPDT para desinfección de conductos radiculares (endodoncia) — Evidencia 2018
 
 *[Protocolo virtual — extraído de fuente teórica sin parámetros directos]*
 
@@ -17,14 +17,15 @@
 
 | Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
 |---|---|---|---|---|---|---|---|---|---|
-| Fuente de luz para fotosensibilizador (diodo rojo 660–670 nm) | 660–670 nm | 60–400 mW (variable según estudio) | No especificado (modo continuo) | Continuo (CW) | Fibra difusora o punta de fibra óptica intraoral | No aplica | No aplica | Contacto o proximidad al tejido diana | 120–687 s según protocolo; fluencia 15–275 J/cm² |
-| Fuente de luz para fotosensibilizador (LED azul ~455 nm o LED verde ~532 nm) | 455 nm (azul) o 532 nm (verde) | Variable (90 mW reportado para erythrosine) | No especificado (modo continuo) | Continuo (CW) | Punta de fibra óptica o LED intraoral | No aplica | No aplica | Contacto o proximidad al tejido diana | 3–20 min según protocolo; fluencia 14–305 J/cm² |
+| Fuente de luz para fotosensibilizador (láser diodo o LED rojo ~660-670 nm) | 660–670 nm | No especificado (varía por estudio) | No especificado | Continuo | Fibra óptica difusora intracanal o fibra endfire | No aplica | No aplica | Intracanal (fibra introducida en conducto) | Variable según estudio; típicamente minutos por conducto |
 
-**Resultado principal:** Reducción o erradicación de biofilm bacteriano y fúngico en cavidad oral (placa dental, surco periodontal, superficie radicular) mediante activación de fotosensibilizadores con luz visible, generando ROS que destruyen la matriz del biofilm y las células microbianas.
+**Resultado principal:** Desinfección del sistema de conductos radiculares mediante aPDT como adyuvante al desbridamiento mecánico convencional, dirigida principalmente contra E. faecalis y biofilms polimicrobianos resistentes a antibióticos.
 
-**Nivel de evidencia:** Bajo — revisión narrativa que sintetiza estudios in vitro, modelos animales y ensayos clínicos de pequeño tamaño; la mayoría de estudios dentales son in vitro o de corto plazo sin estandarización de protocolos.
+**Nivel de evidencia:** Bajo — revisión narrativa que resume múltiples estudios in vitro y algunos estudios clínicos; falta de RCTs de alta calidad con protocolos estandarizados.
 
-## aPDT para descontaminación de heridas crónicas e infecciones de tejidos blandos — Evidencia 2018
+## aPDT como adyuvante en el tratamiento periodontal — Evidencia 2018
+
+*[Protocolo virtual — extraído de fuente teórica sin parámetros directos]*
 
 **Referencia:** Xiaoqing Hu, Ying-Ying Huang, Yuguang Wang, Xiaoyuan Wang, Michael R. Hamblin. Antimicrobial Photodynamic Therapy to Control Clinically Relevant Biofilm Infections. Frontiers in Microbiology 2018; doi:10.3389/fmicb.2018.01299.
 
@@ -36,21 +37,43 @@
 
 | Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
 |---|---|---|---|---|---|---|---|---|---|
-| Fuente de luz para fotosensibilizador (rojo 570–690 nm) | 570–690 nm (según PS: RLP068 → 689 nm; PPA904 → 570–670 nm) | Variable | No especificado (modo continuo) | Continuo (CW) | Fuente de luz externa o fibra difusora sobre la herida | No aplica | No aplica | Aplicación sobre superficie de la herida | 500 s (RLP068, 60 J/cm²); 15 min (PPA904, 50 J/cm²) |
+| Fuente de luz para fotosensibilizador (láser diodo o LED rojo ~660-670 nm) | 660–670 nm | 60 mW/cm² (referencia clínica) | No especificado | Continuo | Fibra óptica flexible para bolsa periodontal | No aplica | No aplica | Intrasurcal (fibra introducida en bolsa periodontal) | Variable; estudio clínico de referencia: irradiación continua por bolsa |
 
-**Resultado principal:** Reducción de carga bacteriana y erradicación de biofilm en heridas crónicas, úlceras venosas y úlceras diabéticas mediante aPDT tópica, como alternativa o complemento a antibióticos sistémicos.
+**Resultado principal:** Reducción de patógenos periodontales en bolsas periodontales como adyuvante al raspado y alisado radicular (RAR/SRP), dirigida contra biofilms subgingivales de F. nucleatum, P. gingivalis, A. actinomycetemcomitans y otros patógenos periodontales.
 
-**Nivel de evidencia:** Moderado — basado en ensayos clínicos fase IIa randomizados doble ciego (RLP068, n=62; PPA904, n=32) con resultados estadísticamente significativos.
+**Nivel de evidencia:** Bajo — basado en revisión narrativa con algunos estudios clínicos; evidencia clínica limitada por heterogeneidad de protocolos.
+
+## aPDT para candidiasis oral y biofilms fúngicos orales — Evidencia 2018
+
+*[Protocolo virtual — extraído de fuente teórica sin parámetros directos]*
+
+**Referencia:** Xiaoqing Hu, Ying-Ying Huang, Yuguang Wang, Xiaoyuan Wang, Michael R. Hamblin. Antimicrobial Photodynamic Therapy to Control Clinically Relevant Biofilm Infections. Frontiers in Microbiology 2018; doi:10.3389/fmicb.2018.01299.
+
+**Diseño del estudio:** narrative_review
+
+**N:** No especificado
+
+**Parámetros estudiados:**
+
+| Equipo | Longitud de onda | Potencia | Frecuencia | Modo de pulso | Fibra/Punta | Agua % | Aire % | Distancia | Tiempo/Ciclos |
+|---|---|---|---|---|---|---|---|---|---|
+| Fuente de luz para fotosensibilizador (LED azul ~455 nm o LED rojo ~630 nm según PS) | 455 nm (azul) o 630 nm (rojo) según fotosensibilizador | Variable (estudios animales: 305 J/cm²) | No especificado | Continuo | Fibra difusora o aplicación directa con LED | No aplica | No aplica | Contacto o muy próximo a mucosa oral | 20 min por sesión (referencia animal); variable en clínica |
+
+**Resultado principal:** Eliminación de biofilms de Candida spp. en mucosa oral mediante aPDT, como alternativa o adyuvante a antifúngicos convencionales, especialmente en casos resistentes o en pacientes inmunocomprometidos.
+
+**Nivel de evidencia:** Bajo — basado en modelos animales y estudios in vitro; evidencia clínica en humanos muy limitada.
 
 ## Outcomes reportados
 
 _Los outcomes siguientes provienen del paper como conjunto. Consultar el documento original para asociar cada outcome al protocolo o intervención específica._
 
-- **Bacterial/fungal biofilm reduction in vitro**: Up to 7 log10 reduction for P. aeruginosa (Tetra-Py+-Me), 6.3 log10 for S. aureus, ~6 log10 for E. faecalis _(statistically significant; clinical: Substantial biofilm eradication across Gram-positive, Gram-negative, and fungal species)_
-- **Clinical wound/ulcer infection reduction (RLP068 trial, n=62)**: 3.00 ± 1.82 log10 CFU reduction immediately post-illumination; dose-dependent effect _(statistically significant; clinical: Randomized double-blind placebo-controlled Phase IIa trial; no safety issues reported)_
-- **Nasal MRSA decolonization (clinical trial, MB-aPDT + chlorhexidine)**: 5.1 log10 reduction immediately; 5.9 log10 reduction at 24h _(statistically significant; clinical: Complete MRSA eradication from nose in humans in <10 min treatment)_
-- **H. pylori eradication with 405 nm light (no exogenous PS)**: 91% reduction (Ganz et al.); >97% in antrum, >95% body, >86% fundus (Lembo et al.) _(statistically significant; clinical: Feasible approach for antibiotic-resistant H. pylori; exploits endogenous porphyrins)_
-- **Periodontal pathogen reduction (F. nucleatum, adjunct aPDT after SRP)**: Significant reduction of F. nucleatum DNA from 700–780 pg/ml to 50–180 pg/ml after 12 weeks _(statistically significant; clinical: Improved clinical attachment, reduced probing depth and bleeding on probing)_
+- **Bacterial killing efficiency in G- biofilms (P. aeruginosa)**: Up to 7 log10 reduction with cationic BODIPY PS _(statistically significant; clinical: Clinically significant eradication of drug-resistant P. aeruginosa biofilms)_
+- **Bacterial killing efficiency in G+ biofilms (S. aureus, E. faecalis)**: Up to 6.3 log10 reduction _(statistically significant; clinical: Effective against MRSA and E. faecalis biofilms relevant to endodontic and wound infections)_
+- **Polysaccharide reduction in P. aeruginosa biofilm matrix after aPDT**: Up to 80% reduction in polysaccharide content with Tetra-Py+-Me PS + light _(statistically significant; clinical: Biofilm matrix destruction facilitates bacterial killing)_
+- **Clinical reduction of F. nucleatum DNA in periodontitis patients (adjunct aPDT after SRP)**: Reduction from 700–780 pg/ml (control) to 50–180 pg/ml (aPDT group) after 12 weeks _(statistically significant; clinical: Significant reduction in periodontal pathogen load with clinical attachment improvement)_
+- **Microbial load reduction in chronic leg ulcers (RLP068 clinical trial, n=62)**: 3.00 ± 1.82 log10 reduction immediately post-illumination _(statistically significant; clinical: Dose-dependent reduction with no safety issues in phase IIa RCT)_
+- **H. pylori eradication with 405 nm violet light (clinical trial, n=18)**: Above 97% eradication in antrum, above 95% in body, above 86% in fundus _(statistically significant; clinical: Feasible approach for H. pylori eradication especially in antibiotic-resistant cases)_
+- **MRSA nasal decolonization with MB-aPDT (670 nm) combined with chlorhexidine**: 5.1 log10 reduction immediately and 5.9 log10 reduction after 24h _(statistically significant; clinical: Complete MRSA eradication from nose in humans in <10 min treatment)_
 
 ## REFERENCIA BIBLIOGRÁFICA
 
@@ -66,4 +89,4 @@ Xiaoqing Hu, Ying-Ying Huang, Yuguang Wang, Xiaoyuan Wang, Michael R. Hamblin. A
 
 ---
 
-*KB doc auto-generado por research-agent. Última actualización: 2026-05-11.*
+*KB doc auto-generado por research-agent. Última actualización: 2026-05-12.*
