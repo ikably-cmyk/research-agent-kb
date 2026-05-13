@@ -1,0 +1,472 @@
+{
+  "article_refs": [
+    "pdf_local::oa_105978_islsm27_18_ra_01__dbb1d41f::0b080c"
+  ],
+  "uuid": "491c99",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "APDT (Antibacterial Photodynamic Therapy) utiliza un fotosensibilizador (PS), luz visible o UV y oxígeno para generar especies reactivas de oxígeno (ROS) y radicales libres que dañan macromoléculas bacterianas (proteínas, lípidos, ácidos nucleicos).",
+    "Los PS se clasifican en cuatro grupos: tintes sintéticos (fenotiazinas como azul de metileno y azul de toluidina), estructuras tetrapirrólicas (porfirinas y ftalocianinas), PS naturales (curcumina, hipericina) y nanoestructuras.",
+    "Los PS catiónicos son más efectivos contra bacterias gram-positivas y gram-negativas que los aniónicos, debido a su mayor afinidad por la carga negativa de la superficie bacteriana.",
+    "El azul de metileno (MB) activado con láser de diodo a 665 nm inactivó el 63% de bacterias en suspensión pero solo el 32% en biofilm, evidenciando la menor penetración del PS en estructuras de biofilm.",
+    "La curcumina (PS natural, absorción 405-435 nm) tiene propiedades antiinflamatorias, antimicrobianas y de cicatrización; es 300 veces más efectiva contra S. aureus gram-positivo que contra E. coli gram-negativo.",
+    "La hipericina (absorción ~600 nm) es efectiva contra bacterias gram-positivas incluyendo MRSA, pero no contra E. coli gram-negativo, debido a diferencias en la estructura de la pared celular.",
+    "Las nanoestructuras (liposomas, micelas, nanopartículas de oro, puntos cuánticos, fulerenos) mejoran la entrega y eficacia de los PS en APDT al aumentar la penetración en biofilm y concentrar localmente las ROS.",
+    "Las bombas de eflujo bacterianas reducen la concentración intracelular de PS fenotiazínicos; los inhibidores de bombas de eflujo (ej. NorA, MexAB) potencian la fotoinactivación.",
+    "Algunas bacterias orales (Porphyromonas gingivalis, Prevotella spp., Aggregatibacter actinomycetemcomitans) poseen PS endógenos (porfirinas) y pueden ser eliminadas solo con irradiación de luz azul sin PS exógeno.",
+    "La APDT no induce resistencia bacteriana tras múltiples sesiones, a diferencia de los antibióticos, lo que la posiciona como alternativa ante bacterias multirresistentes.",
+    "La principal limitación de la APDT es la entrega de luz y PS al sitio de infección; es más eficaz en infecciones localizadas (cavidades orales, piel) que en infecciones sistémicas.",
+    "El TiO2 como nanoestructura fotocatalítica actúa con luz UV-A; su uso clínico está limitado por la necesidad de desplazar su espectro de absorción hacia la luz visible mediante dopaje con otros elementos."
+  ],
+  "outcomes": [
+    {
+      "measured": "Inactivación bacteriana en biofilm dental (placa de pacientes con periodontitis crónica) con MB + láser diodo 665 nm",
+      "result": "63% de inactivación en suspensión; 32% en biofilm",
+      "statistical_significance": null,
+      "clinical_significance": "La estructura de biofilm reduce significativamente la eficacia de la APDT con MB por baja penetración del PS"
+    },
+    {
+      "measured": "Eficacia de curcumina (5 mg/ml) + LED (120 J/cm²) vs CHX 2% contra A. actinomycetemcomitans",
+      "result": "Curcumina con PDT fue efectiva en inhibir el crecimiento de A. actinomycetemcomitans; efecto reforzado con PDT simultánea",
+      "statistical_significance": null,
+      "clinical_significance": "Curcumina como alternativa a CHX en enfermedades periodontales"
+    },
+    {
+      "measured": "Fotoinactivación de S. aureus con PVP-curcumina (50 µM, 15-25 min incubación)",
+      "result": "Erradicación completa de S. aureus",
+      "statistical_significance": null,
+      "clinical_significance": "Formulación soluble en agua de curcumina supera limitaciones de solubilidad del PS natural"
+    },
+    {
+      "measured": "Eficacia de TB-Tiopronin-nanopartículas de oro vs TB libre contra S. aureus",
+      "result": "Nanopartículas TB-Tiopronin-Au fueron 4 veces más eficaces que TB libre",
+      "statistical_significance": null,
+      "clinical_significance": "Las nanopartículas de oro potencian significativamente la fotoinactivación del azul de toluidina"
+    }
+  ],
+  "notes": "Revisión narrativa sobre fotosensibilizadores en APDT con relevancia directa para odontología (periodontitis, biofilm oral, bacterias orales con PS endógenos). Incluye datos de parámetros de luz usados en estudios referenciados (ej. 665 nm diodo, 120 J/cm², 632 nm láser CW). No reporta protocolos clínicos propios con parámetros estandarizados.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Infecciones bacterianas (periodontitis, biofilm oral, MRSA, bacterias multirresistentes)",
+    "sample_type": "In vitro / ex vivo / revisión de literatura"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Ghorbani, J., Rahban, D., Aghamiri, S., Teymouri, A., & Bahador, A. (2018). Photosensitizers in antibacterial photodynamic therapy: an overview. Laser Therapy, 27(4), 293-302.",
+  "contraindications": [
+    "APDT es ineficaz en infecciones sistémicas (sepsis, bacteremia) por limitaciones en la entrega de luz al sitio de infección",
+    "PS aniónicos y neutros tienen menor eficacia contra bacterias gram-negativas por baja afinidad de unión",
+    "TiO2 no es aplicable en entorno clínico médico por absorción en rango UV; requiere modificación para uso con luz visible"
+  ],
+  "adverse_events": [
+    "Fulerenos catiónicos con carga neutra exhiben toxicidad oscura (dark toxicity)",
+    "Curcumina es fotolábil y se degrada rápidamente durante la acción fotodinámica",
+    "Las bombas de eflujo bacterianas pueden reducir la concentración intracelular de PS fenotiazínicos, disminuyendo la eficacia"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 665,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 632,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": null
+  },
+  "clinical_indication": "Infecciones bacterianas orales y periodontales; biofilm dental; bacterias multirresistentes a antibióticos",
+  "target_tissue": "biofilm, gingiva, dental plaque, oral mucosa",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "methylene blue",
+      "drug_class": "Phenothiazinium dye / photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "PS cationico más utilizado en APDT dental; activado con láser diodo 665 nm; eficaz contra biofilm periodontal aunque con menor penetración que en suspensión planctónica",
+      "photosensitivity": true,
+      "laser_implication": "Requiere activación con luz roja ~632-665 nm; potenciado por inhibidores de bombas de eflujo; encapsulación en liposomas mejora eficacia"
+    },
+    {
+      "name": "toluidine blue",
+      "drug_class": "Phenothiazinium dye / photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "PS cationico ampliamente usado en APDT oral; excitación máxima ~410 nm; eficaz contra S. mutans y otras bacterias orales",
+      "photosensitivity": true,
+      "laser_implication": "Activado con luz azul ~410 nm; conjugado con nanopartículas de oro aumenta 4 veces su eficacia fotobactericida"
+    },
+    {
+      "name": "curcumin",
+      "drug_class": "Natural polyphenol / photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "PS natural con propiedades antiinflamatorias; útil en periodontitis; absorción 405-435 nm; comparable a CHX contra A. actinomycetemcomitans con PDT",
+      "photosensitivity": true,
+      "laser_implication": "Activado con luz azul/violeta 405-435 nm (LED o láser); fotolábil y se degrada durante la irradiación; formulación PVP mejora estabilidad y solubilidad"
+    },
+    {
+      "name": "hypericin",
+      "drug_class": "Natural anthraquinone derivative / photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "PS natural extraído de Hypericum perforatum; eficaz contra bacterias gram-positivas incluyendo MRSA; absorción óptima ~600 nm",
+      "photosensitivity": true,
+      "laser_implication": "Activado con luz naranja ~600 nm; ineficaz contra gram-negativos por diferencias en pared celular; desarrollo de derivados catiónicos podría ampliar espectro"
+    },
+    {
+      "name": "chlorhexidine digluconate",
+      "drug_class": "Antiseptic / bisbiguanide",
+      "interaction_type": "monitor",
+      "dental_relevance": "Estándar de referencia (gold standard) en enjuagues bucales para comparación con curcumina-PDT contra A. actinomycetemcomitans",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "verapamil hydrochloride",
+      "drug_class": "Calcium channel blocker / efflux pump inhibitor",
+      "interaction_type": "monitor",
+      "dental_relevance": "Inhibidor de bombas de eflujo microbiano; potencia la destrucción de biofilm de E. faecalis cuando se combina con APDT con MB",
+      "photosensitivity": false,
+      "laser_implication": "Su uso combinado con MB-APDT mejora la fotoinactivación al aumentar la concentración intracelular del PS"
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Los fotosensibilizadores utilizados en APDT (azul de metileno, azul de toluidina, curcumina, hipericina) requieren protección de la luz ambiental durante su manipulación y aplicación. La incubación del PS con el tejido diana debe realizarse antes de la irradiación (típicamente 5 min para fenotiazinas). El uso de inhibidores de bombas de eflujo puede potenciar la eficacia pero requiere consideración de sus efectos sistémicos.",
+  "confidence": "high",
+  "uncertainties": [
+    "Los parámetros exactos de irradiación (potencia, fluencia, tiempo) para la mayoría de los estudios citados no están reportados directamente en el texto de la revisión, solo en las referencias originales",
+    "No se especifica el tipo exacto de fuente de luz (láser vs LED) para todos los PS mencionados; solo MB con láser diodo 665 nm y curcumina con LED 120 J/cm² están explícitamente descritos",
+    "La revisión no incluye protocolos clínicos estandarizados propios; los datos son síntesis de estudios in vitro y ex vivo de terceros",
+    "No se declaran conflictos de interés ni fuentes de financiamiento en el texto disponible"
+  ],
+  "bibliographic_metadata": {
+    "title": "Photosensitizers in antibacterial photodynamic therapy: an overview",
+    "authors": [
+      "Jaber Ghorbani",
+      "Dariush Rahban",
+      "Shahin Aghamiri",
+      "Alireza Teymouri",
+      "Abbas Bahador"
+    ],
+    "year": 2018,
+    "journal": "Laser Therapy",
+    "doi": null
+  },
+  "protocols": [
+    {
+      "name": "APDT con azul de metileno (MB) para biofilm periodontal",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana con azul de metileno",
+        "fotoinactivación con MB en periodontitis",
+        "PDT con fenotiazina en placa dental",
+        "desinfección fotodinámica periodontal con MB"
+      ],
+      "synonyms_en": [
+        "antibacterial photodynamic therapy with methylene blue",
+        "MB-APDT for periodontal biofilm",
+        "photoinactivation with methylene blue",
+        "phenothiazinium PDT for dental plaque"
+      ],
+      "purpose": "Inactivar bacterias en biofilm periodontal mediante la activación fotodinámica del azul de metileno con láser de diodo (~665 nm), generando ROS que dañan macromoléculas bacterianas. Indicado como complemento al tratamiento periodontal convencional.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo (~665 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "665 nm",
+          "potencia": "21-30 mW (referencia histórica Macmillan 1966 con 632 nm CW; parámetros exactos del estudio de Fontana et al. no reportados en esta revisión)",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado (incubación MB 5 min antes de irradiación)"
+        }
+      ],
+      "critical_notes": [
+        "Las bacterias en biofilm tienen menor susceptibilidad que las planctónicas (32% vs 63% de inactivación) debido a la baja penetración del PS en la estructura de biofilm.",
+        "Las bombas de eflujo bacterianas reducen la concentración intracelular de MB; el uso de inhibidores de bombas de eflujo (ej. verapamil) puede potenciar la eficacia.",
+        "La funcionalización de MB con grupos metilo o amonio terciario aumenta la producción de oxígeno singlete y la fotoinactivación.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (curcumina, hipericina, porfirinas) que pueden ser apropiadas según el caso clínico.",
+        "Parámetros técnicos específicos del protocolo clínico no están completamente reportados en esta revisión narrativa; consultar estudios primarios (Fontana et al. 2009)."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Aplicar azul de metileno (25-50 µg/ml) sobre el biofilm periodontal o placa dental.",
+        "Incubar el PS con el tejido diana durante 5 minutos para permitir la unión del PS a las bacterias.",
+        "Irradiar con láser de diodo a 665 nm en modo continuo.",
+        "Evaluar la reducción bacteriana clínica post-tratamiento."
+      ],
+      "indications": [
+        "Periodontitis crónica con biofilm polimicrobiano",
+        "Infecciones por bacterias gram-positivas y gram-negativas en cavidad oral",
+        "Complemento al raspado y alisado radicular en periodontitis",
+        "Bacterias con resistencia a antibióticos en contexto periodontal"
+      ],
+      "contraindications": [
+        "Infecciones sistémicas (sepsis, bacteremia) — la APDT es ineficaz por limitaciones en la entrega de luz",
+        "Alergia conocida a fenotiazinas"
+      ],
+      "postop_care": [
+        "Evitar exposición del área tratada a luz intensa inmediatamente después del procedimiento.",
+        "Seguimiento clínico periodontal estándar post-APDT."
+      ],
+      "evidence_level": "Bajo — basado en estudios in vitro y ex vivo citados en revisión narrativa; ausencia de RCTs con protocolos estandarizados reportados directamente en este documento.",
+      "keywords_es": [
+        "azul de metileno",
+        "terapia fotodinámica antimicrobiana",
+        "APDT",
+        "periodontitis",
+        "biofilm periodontal",
+        "fotosensibilizador",
+        "láser diodo 665 nm",
+        "fenotiazina",
+        "fotoinactivación bacteriana",
+        "placa dental",
+        "ROS",
+        "especies reactivas de oxígeno",
+        "desinfección periodontal",
+        "bacterias multirresistentes",
+        "inhibidor bomba de eflujo"
+      ],
+      "keywords_en": [
+        "methylene blue",
+        "antibacterial photodynamic therapy",
+        "APDT",
+        "periodontitis",
+        "periodontal biofilm",
+        "photosensitizer",
+        "diode laser 665 nm",
+        "phenothiazinium",
+        "bacterial photoinactivation",
+        "dental plaque",
+        "reactive oxygen species",
+        "ROS",
+        "periodontal disinfection",
+        "multidrug-resistant bacteria",
+        "efflux pump inhibitor"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "APDT con curcumina para enfermedades periodontales",
+      "synonyms_es": [
+        "terapia fotodinámica con cúrcuma",
+        "fotoinactivación con curcumina en periodontitis",
+        "PDT natural con curcumina",
+        "terapia fotodinámica antimicrobiana con curcumina"
+      ],
+      "synonyms_en": [
+        "curcumin-based photodynamic therapy",
+        "curcumin APDT for periodontal disease",
+        "natural photosensitizer PDT curcumin",
+        "curcumin photoinactivation"
+      ],
+      "purpose": "Inactivar bacterias periodontales (especialmente A. actinomycetemcomitans y S. mutans) mediante activación fotodinámica de curcumina con luz azul/violeta (405-435 nm), aprovechando además sus propiedades antiinflamatorias para el tratamiento de enfermedades periodontales.",
+      "parameters_table": [
+        {
+          "equipment_class": "LED o fuente de luz azul/violeta (~405-450 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "405-435 nm (absorción óptima curcumina)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "Fluencia reportada: 120 J/cm² (estudio Najafi et al. con LED); incubación PS previa a irradiación"
+        }
+      ],
+      "critical_notes": [
+        "La curcumina es fotolábil y se degrada rápidamente durante la acción fotodinámica; las formulaciones con PVP (polivinilpirrolidona) mejoran la estabilidad y solubilidad acuosa.",
+        "La curcumina es 300 veces más efectiva contra bacterias gram-positivas (S. aureus) que gram-negativas (E. coli, Salmonella); su eficacia contra gram-negativos es limitada.",
+        "La curcumina posee actividad antibacteriana intrínseca (sin irradiación) por inhibición de proteínas FtsZ e inhibición del gen mecA, potenciando antibióticos betalactámicos.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados completos. Basado en: Ghorbani et al. 2018 (revisión narrativa).",
+        "El documento presenta esta técnica favorablemente; existen alternativas (MB, azul de toluidina, hipericina) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar solución de curcumina (0.75-5 g/l o 5 mg/ml según protocolo) o formulación PVP-curcumina para mejorar solubilidad.",
+        "Aplicar el PS sobre el tejido periodontal diana e incubar para permitir la unión a bacterias.",
+        "Irradiar con LED o fuente de luz azul/violeta (405-435 nm) a fluencia de ~120 J/cm².",
+        "Evaluar respuesta clínica periodontal post-tratamiento."
+      ],
+      "indications": [
+        "Periodontitis (especialmente por A. actinomycetemcomitans)",
+        "Infecciones por S. mutans (caries, biofilm oral)",
+        "Bacterias gram-positivas resistentes a antibióticos (MRSA) en contexto oral",
+        "Pacientes que buscan alternativas naturales a antisépticos convencionales como CHX"
+      ],
+      "contraindications": [
+        "Infecciones por bacterias gram-negativas como objetivo primario — eficacia significativamente reducida",
+        "Alergia conocida a curcumina o cúrcuma"
+      ],
+      "postop_care": [
+        "Proteger el área tratada de la luz intensa inmediatamente post-procedimiento.",
+        "Seguimiento clínico periodontal estándar."
+      ],
+      "evidence_level": "Bajo — basado en estudios in vitro y comparativos citados en revisión narrativa; un estudio comparativo con CHX (Najafi et al. 2016) reportado sin datos de significancia estadística completos.",
+      "keywords_es": [
+        "curcumina",
+        "terapia fotodinámica",
+        "APDT",
+        "periodontitis",
+        "Aggregatibacter actinomycetemcomitans",
+        "fotosensibilizador natural",
+        "LED azul",
+        "luz violeta 405 nm",
+        "fotoinactivación bacteriana",
+        "cúrcuma",
+        "S. mutans",
+        "biofilm oral",
+        "antiinflamatorio natural",
+        "PVP-curcumina",
+        "alternativa clorhexidina"
+      ],
+      "keywords_en": [
+        "curcumin",
+        "photodynamic therapy",
+        "APDT",
+        "periodontitis",
+        "Aggregatibacter actinomycetemcomitans",
+        "natural photosensitizer",
+        "blue LED",
+        "violet light 405 nm",
+        "bacterial photoinactivation",
+        "turmeric",
+        "S. mutans",
+        "oral biofilm",
+        "anti-inflammatory",
+        "PVP-curcumin",
+        "chlorhexidine alternative"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "APDT con fotosensibilizadores endógenos en bacterias orales pigmentadas",
+      "synonyms_es": [
+        "fotoinactivación con luz azul sin PS exógeno",
+        "PDT endógena en bacterias orales",
+        "eliminación de bacterias pigmentadas con luz azul",
+        "terapia fotodinámica con porfirinas endógenas"
+      ],
+      "synonyms_en": [
+        "endogenous photosensitizer PDT",
+        "blue light inactivation of pigmented oral bacteria",
+        "exogenous PS-free APDT",
+        "endogenous porphyrin photodynamic therapy"
+      ],
+      "purpose": "Inactivar bacterias orales que acumulan porfirinas endógenas (Porphyromonas gingivalis, Prevotella spp., Aggregatibacter actinomycetemcomitans) mediante irradiación con luz azul (~405-450 nm) sin necesidad de administrar un fotosensibilizador exógeno.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz azul (~400-450 nm) o láser de vapor de mercurio",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "400-450 nm (absorción de porfirinas endógenas ~405-446 nm)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "10 min de irradiación reportado en estudio con láser de vapor de mercurio (Collins et al.)"
+        }
+      ],
+      "critical_notes": [
+        "Solo aplicable a bacterias que producen porfirinas endógenas (bacterias anaerobias pigmentadas de negro): Porphyromonas gingivalis, Prevotella spp., Aggregatibacter actinomycetemcomitans, Propionibacterium acnes.",
+        "No requiere administración de PS exógeno, simplificando el protocolo clínico.",
+        "La eficacia puede variar según la cantidad de porfirinas acumuladas por la bacteria y las condiciones de crecimiento.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados completos. Basado en: Ghorbani et al. 2018 (revisión narrativa).",
+        "El documento presenta esta técnica favorablemente; existen alternativas con PS exógenos (MB, curcumina) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Identificar la presencia de bacterias orales pigmentadas (P. gingivalis, Prevotella, A. actinomycetemcomitans) en el sitio de infección.",
+        "Irradiar directamente el sitio de infección con fuente de luz azul (~405-450 nm) sin aplicación previa de PS exógeno.",
+        "Mantener la irradiación durante el tiempo necesario para lograr la fotoinactivación bacteriana (referencia: 10 min en estudios in vitro)."
+      ],
+      "indications": [
+        "Periodontitis asociada a P. gingivalis, Prevotella spp. o A. actinomycetemcomitans",
+        "Acné vulgaris causado por Propionibacterium acnes (contexto dermatológico)",
+        "Infecciones por bacterias anaerobias pigmentadas de negro en cavidad oral"
+      ],
+      "contraindications": [
+        "Bacterias sin porfirinas endógenas — la técnica no es efectiva sin PS endógeno o exógeno",
+        "Infecciones mixtas donde predominan bacterias no pigmentadas"
+      ],
+      "postop_care": [
+        "Seguimiento clínico periodontal estándar post-tratamiento."
+      ],
+      "evidence_level": "Bajo — basado en estudios in vitro y microbiológicos citados en revisión narrativa; sin RCTs clínicos reportados en este documento.",
+      "keywords_es": [
+        "porfirinas endógenas",
+        "bacterias pigmentadas orales",
+        "luz azul sin fotosensibilizador",
+        "Porphyromonas gingivalis",
+        "Prevotella",
+        "Aggregatibacter actinomycetemcomitans",
+        "APDT endógena",
+        "fotoinactivación bacteriana",
+        "periodontitis",
+        "luz azul 405 nm",
+        "terapia fotodinámica sin PS",
+        "bacterias anaerobias",
+        "pigmento negro bacteriano",
+        "fotosensibilizador endógeno",
+        "desinfección periodontal"
+      ],
+      "keywords_en": [
+        "endogenous porphyrins",
+        "pigmented oral bacteria",
+        "blue light without photosensitizer",
+        "Porphyromonas gingivalis",
+        "Prevotella",
+        "Aggregatibacter actinomycetemcomitans",
+        "endogenous APDT",
+        "bacterial photoinactivation",
+        "periodontitis",
+        "blue light 405 nm",
+        "PS-free photodynamic therapy",
+        "anaerobic bacteria",
+        "black pigment bacteria",
+        "endogenous photosensitizer",
+        "periodontal disinfection"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
