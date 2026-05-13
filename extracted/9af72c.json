@@ -1,0 +1,412 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_s10194_015_0586_5__d180a6cf::b57d5b"
+  ],
+  "uuid": "9af72c",
+  "target_apps": [
+    "laserrx",
+    "ikmeds"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Conservative treatment (counselling, exercises, occlusal splint therapy, massage, manual therapy) should be the first-line approach for TMD pain due to low risk of side effects.",
+    "Occlusal splints (Michigan-type, repositioning, reflex appliances) are among the most commonly reported conservative treatments for TMD.",
+    "Massage therapy is effective in myofascial TMD pain; at least 8 sessions of 30 min twice weekly are recommended.",
+    "Laser therapy at 904 nm and 700 Hz frequency is mentioned as a method for treating inflammatory processes in TMD at 30 mm tissue depth.",
+    "Pharmacotherapy (NSAIDs, myorelaxants, analgesics, tricyclic antidepressants, benzodiazepines, corticosteroids) is considered complementary rather than primary treatment for TMD.",
+    "Botulinum toxin type A (BTX-A) is supported by clinical investigations for disc displacement and bruxism-related myofascial pain.",
+    "Arthrocentesis reduces pain and functional impairment more rapidly than conservative treatment, but long-term outcomes are comparable.",
+    "Acupuncture shows long-term effectiveness (18–20 years follow-up) for TMD pain management.",
+    "In rheumatoid/systemic disorders with TMJ involvement, pharmacotherapy (methotrexate, TNF inhibitors, corticosteroids) plays a primary role.",
+    "TENS cannot yet be considered a standard treatment for TMD due to insufficient randomized trial evidence.",
+    "Doxycycline (tetracycline) may help prevent condylar resorption by inhibiting matrix metalloproteinases (MMPs).",
+    "Surgical TMJ replacement is indicated for severe arthritis, ankylosis, trauma damage, and failed prior joint replacement."
+  ],
+  "outcomes": [
+    {
+      "measured": "Effectiveness of muscular therapy in TMD",
+      "result": "Effective in 70% of suffering patients",
+      "statistical_significance": null,
+      "clinical_significance": "Moderate effectiveness; less effective when mouth opening is limited due to muscular or joint pain"
+    },
+    {
+      "measured": "Arthrocentesis vs conservative treatment for TMJ pain",
+      "result": "Arthrocentesis reduces pain and functional impairment more rapidly; long-term outcomes comparable",
+      "statistical_significance": true,
+      "clinical_significance": "Arthrocentesis may be preferred for faster relief but conservative treatment achieves similar long-term results"
+    },
+    {
+      "measured": "Occlusal splint therapy (SVED appliance) for TMD",
+      "result": "Decreases head and spine pain and disc displacements within 3 weeks; further improvement at 3 months",
+      "statistical_significance": null,
+      "clinical_significance": "Clinically meaningful reduction in symptoms and disc displacement"
+    },
+    {
+      "measured": "Acupuncture for TMD pain",
+      "result": "Successful in long-term follow-ups (18–20 years)",
+      "statistical_significance": null,
+      "clinical_significance": "Long-term pain relief, especially combined with dietary changes"
+    }
+  ],
+  "notes": "This narrative review covers the full spectrum of TMD treatment modalities from conservative to surgical. Laser therapy is mentioned briefly as a method for inflammatory processes (904 nm, 700 Hz, 30 mm depth) without detailed clinical protocol. Multiple drug classes are discussed with specific dosing recommendations. The paper includes a treatment algorithm (Fig. 1) distinguishing reversible vs irreversible TMD.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Temporomandibular disorders (TMD)",
+    "sample_type": "Narrative review of 66 papers from PubMed, SCOPUS, CINAHL (1994–2014)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare that they have no competing interests.",
+  "funding_source_text": null,
+  "source_citation": "Wieckiewicz, M., Boening, K., Wiland, P., Shiau, Y.-Y., & Paradowska-Stolarz, A. (2015). Reported concepts for the treatment modalities and pain management of temporomandibular disorders. The Journal of Headache and Pain, 16, 106. https://doi.org/10.1186/s10194-015-0586-5",
+  "contraindications": [
+    "Cryotherapy: high risk of frostbite; cold compresses should not exceed 10–15 min",
+    "Partial coverage occlusal splints may alter maxillary-mandibular arch relationship",
+    "NSAIDs: risk of hypertension exacerbation and gastrointestinal ulcerations",
+    "Massage performed too intensely may increase muscular tonus rather than relieve it",
+    "Pharmacotherapy alone (without addressing underlying systemic disease) is insufficient for TMD associated with systemic disorders"
+  ],
+  "adverse_events": [
+    "NSAIDs: gastrointestinal upset, ulcerations, hypertension exacerbation",
+    "Cryotherapy: frostbite risk",
+    "Overly intense massage: increased muscular tonus",
+    "Corticosteroids: systemic adverse effects when used long-term"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 904,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": 700,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "TMJ region",
+      "30 mm depth into skin"
+    ]
+  },
+  "clinical_indication": "Temporomandibular disorders (TMD) — inflammatory processes, pain management",
+  "target_tissue": "TMJ, masticatory muscles, periarticular soft tissue",
+  "brand_model_mentioned": [
+    "Michigan-type bite splint",
+    "SVED (Sagittal Vertical Extrusion Device)",
+    "NTI-tss",
+    "Christensen system",
+    "TMJ Concepts system",
+    "Lorenz (BMF) system"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "acetaminophen",
+      "drug_class": "Analgesic",
+      "interaction_type": "caution",
+      "dental_relevance": "First medication of choice for moderate TMD pain relief; average daily dose 325–1000 mg",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "ibuprofen",
+      "drug_class": "NSAID",
+      "interaction_type": "caution",
+      "dental_relevance": "High efficiency for TMD pain relief; average daily dose 400–800 mg; risk of GI upset and hypertension",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "meloxicam",
+      "drug_class": "COX-2-selective NSAID",
+      "interaction_type": "caution",
+      "dental_relevance": "Used for TMD pain; average daily dose 7.5–15 mg; fewer GI side effects than non-selective NSAIDs",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "diclofenac",
+      "drug_class": "NSAID",
+      "interaction_type": "caution",
+      "dental_relevance": "For arthritis-related TMD; maximum dose 50 mg orally 3 times daily; improves pain in >50% of patients",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "naproxen sodium",
+      "drug_class": "NSAID",
+      "interaction_type": "caution",
+      "dental_relevance": "For arthritis-related TMD; 500 mg twice daily",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "celecoxib",
+      "drug_class": "COX-2-selective NSAID",
+      "interaction_type": "caution",
+      "dental_relevance": "COX-2-selective NSAID with fewer GI side effects; not found superior to non-selective NSAIDs for TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "baclofen",
+      "drug_class": "Muscle relaxant",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "tizanidine",
+      "drug_class": "Muscle relaxant",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "cyclobenzaprine",
+      "drug_class": "Muscle relaxant",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "metaxolone",
+      "drug_class": "Muscle relaxant",
+      "interaction_type": "caution",
+      "dental_relevance": "Recommended for myorelaxation with low CNS impact; average daily dose 800 mg",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "gabapentin",
+      "drug_class": "Anticonvulsant",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "amitriptyline",
+      "drug_class": "Tricyclic antidepressant (TCA)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used for chronic TMD pain and neuropathic pain; manages headaches and improves sleep quality; no evidence for efficacy in TMD per this review",
+      "photosensitivity": true,
+      "laser_implication": "Tricyclic antidepressants may cause photosensitivity; consider when planning laser/light therapy in TMD patients on amitriptyline"
+    },
+    {
+      "name": "lidocaine",
+      "drug_class": "Local anesthetic",
+      "interaction_type": "caution",
+      "dental_relevance": "1 ml of 2% lidocaine without vasoconstrictor for analgesic blockage in acute muscle spasms; allows therapeutic stretching",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "dipyrone",
+      "drug_class": "Analgesic/antipyretic",
+      "interaction_type": "caution",
+      "dental_relevance": "500 mg 3 times daily for 2 days as complementary therapy in acute TMD spasms; may be combined with myorelaxant",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "orphenadrine",
+      "drug_class": "Muscle relaxant/anticholinergic",
+      "interaction_type": "caution",
+      "dental_relevance": "Used in combination with dipyrone for acute TMD muscle spasms if necessary",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "botulinum toxin type A",
+      "drug_class": "Neuromuscular blocking agent",
+      "interaction_type": "caution",
+      "dental_relevance": "Injected into lateral pterygoid muscles for disc displacement; reduces myofascial pain in bruxers; used for bruxism, oromandibular dystonia, trismus, masseter hypertrophy, headaches",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "hyaluronic acid",
+      "drug_class": "Viscosupplement",
+      "interaction_type": "caution",
+      "dental_relevance": "Intra-articular injection for TMJ inflammatory disorders",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "doxycycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "caution",
+      "dental_relevance": "Prevents condylar resorption by inhibiting MMPs; medication of choice in patients undergoing orthognathic surgery",
+      "photosensitivity": true,
+      "laser_implication": "Doxycycline is a known photosensitizer; patients on doxycycline undergoing laser therapy in the orofacial region should be monitored for photosensitivity reactions"
+    },
+    {
+      "name": "diazepam",
+      "drug_class": "Benzodiazepine",
+      "interaction_type": "caution",
+      "dental_relevance": "5 mg for 5–10 days for anxiety and stress relief in TMD; short-term use recommended",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "lorazepam",
+      "drug_class": "Benzodiazepine",
+      "interaction_type": "caution",
+      "dental_relevance": "1 mg for 5–10 days for anxiety and stress relief in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "alprazolam",
+      "drug_class": "Benzodiazepine",
+      "interaction_type": "caution",
+      "dental_relevance": "0.5 mg for 5–10 days for anxiety and stress relief in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "methotrexate",
+      "drug_class": "Disease-modifying antirheumatic drug (DMARD)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used systemically in JIA/RA with TMJ involvement; primary pharmacotherapy for rheumatoid TMD",
+      "photosensitivity": true,
+      "laser_implication": "Methotrexate is a known photosensitizer; patients on methotrexate receiving laser/light therapy in the orofacial region should be monitored for photosensitivity reactions"
+    },
+    {
+      "name": "morphine",
+      "drug_class": "Opioid analgesic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "ketamine",
+      "drug_class": "NMDA receptor antagonist/dissociative anesthetic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used clinically for TMJ management; no evidence for efficacy in TMD",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Multiple drug classes used in TMD management have perioperative relevance: NSAIDs increase bleeding risk and should be managed perioperatively; benzodiazepines cause sedation and interact with anesthetics; doxycycline and methotrexate cause photosensitivity relevant to laser therapy; botulinum toxin injections require careful timing relative to dental procedures; corticosteroids may require stress-dose supplementation for major procedures.",
+  "confidence": "high",
+  "uncertainties": [
+    "Laser therapy parameters (904 nm, 700 Hz) are mentioned very briefly without specifying power, fluence, application time, or clinical protocol details — insufficient for a full clinical protocol extraction.",
+    "The paper does not specify which laser device/brand is used for the 904 nm treatment.",
+    "Pulse duration for the 904 nm laser is not reported.",
+    "The review includes 66 papers but does not provide a PRISMA flow diagram or formal quality assessment of included studies, limiting methodological rigor assessment.",
+    "Dosing recommendations for some drugs (e.g., orphenadrine) are not fully specified in the paper."
+  ],
+  "bibliographic_metadata": {
+    "title": "Reported concepts for the treatment modalities and pain management of temporomandibular disorders",
+    "authors": [
+      "Mieszko Wieckiewicz",
+      "Klaus Boening",
+      "Piotr Wiland",
+      "Yuh-Yuan Shiau",
+      "Anna Paradowska-Stolarz"
+    ],
+    "year": 2015,
+    "journal": "The Journal of Headache and Pain",
+    "doi": "10.1186/s10194-015-0586-5"
+  },
+  "protocols": [
+    {
+      "name": "Terapia con láser de baja intensidad para procesos inflamatorios en ATM (904 nm)",
+      "synonyms_es": [
+        "láser terapéutico ATM",
+        "fotobiomodulación articulación temporomandibular",
+        "LLLT trastornos temporomandibulares",
+        "láser de baja potencia ATM",
+        "terapia láser infrarrojo ATM"
+      ],
+      "synonyms_en": [
+        "low-level laser therapy TMJ",
+        "LLLT temporomandibular disorders",
+        "photobiomodulation TMJ",
+        "therapeutic laser TMD",
+        "infrared laser TMJ treatment"
+      ],
+      "purpose": "Tratamiento de procesos inflamatorios en la articulación temporomandibular mediante láser de baja intensidad a 904 nm, con penetración de hasta 30 mm en tejido, para alivio del dolor y reducción de la inflamación articular.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de baja intensidad (LLLT) 904 nm",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "904 nm",
+          "potencia": "No especificado",
+          "frecuencia": "700 Hz",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "30 mm de profundidad en tejido",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos completos (potencia, fluencia, tiempo de aplicación, número de sesiones) no están especificados en el paper original. Basado en: Wieckiewicz et al. (2015).",
+        "El paper menciona únicamente longitud de onda (904 nm) y frecuencia (700 Hz) como referencia a un método que 'ha ganado popularidad'; no constituye un protocolo clínico completo.",
+        "El documento presenta esta técnica como una opción entre múltiples modalidades fisioterapéuticas para TMD; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "La profundidad de penetración de 30 mm mencionada corresponde a características del láser de 904 nm (semiconductor/diodo pulsado), no a una instrucción de aplicación clínica."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Procesos inflamatorios en articulación temporomandibular",
+        "Artropatías subagudas",
+        "Enfermedades reumáticas inflamatorias con afectación de ATM",
+        "Dolor miofascial en trastornos temporomandibulares"
+      ],
+      "contraindications": [],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa. El paper menciona el método brevemente sin parámetros clínicos completos ni estudios propios. No hay RCTs con protocolos estandarizados reportados en este documento.",
+      "keywords_es": [
+        "láser ATM",
+        "LLLT articulación temporomandibular",
+        "fotobiomodulación TMD",
+        "trastornos temporomandibulares láser",
+        "904 nm terapéutico",
+        "láser infrarrojo dolor facial",
+        "terapia láser dolor mandibular",
+        "fisioterapia ATM láser",
+        "inflamación ATM tratamiento",
+        "dolor orofacial láser",
+        "láser baja intensidad odontología",
+        "PBM dolor masticatorio"
+      ],
+      "keywords_en": [
+        "laser TMJ",
+        "LLLT temporomandibular joint",
+        "photobiomodulation TMD",
+        "temporomandibular disorders laser",
+        "904 nm therapeutic laser",
+        "infrared laser facial pain",
+        "laser therapy jaw pain",
+        "TMJ physiotherapy laser",
+        "TMJ inflammation treatment",
+        "orofacial pain laser",
+        "low level laser dentistry",
+        "PBM masticatory pain"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
