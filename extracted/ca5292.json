@@ -11,23 +11,23 @@
   "key_points": [
     "LLLT (Low Level Laser Therapy) / Photobiomodulation (PBM) uses low-intensity red to near-infrared light (660–905 nm) at power ranges of 10–500 mW to reduce inflammation, induce analgesia, and promote tissue healing.",
     "The primary photoacceptor for red-NIR wavelengths in mammalian cells is proposed to be cytochrome c oxidase (COX) in mitochondria; LLLT photo-dissociates nitric oxide (NO) from COX, reversing mitochondrial inhibition of respiration.",
-    "LLLT exhibits a biphasic dose-response curve: lower doses stimulate cellular activity while higher doses can inhibit mitochondrial metabolism and induce nerve blockade.",
-    "LLLT applied at sufficient intensity causes approximately 30% neural blockade within 10–20 minutes, reversible within ~24 hours, providing fast-acting pain relief.",
-    "Clinical targets for LLLT include: site of injury, lymph nodes (edema/inflammation), peripheral nerves (analgesia), and trigger points (muscle relaxation).",
-    "Treatment times per point range from 30 seconds to 1 minute; 1–15 points may be treated per session depending on complexity.",
-    "Optimal penetrating wavelengths are in the 760–850 nm range; at 810 nm, light density of 5 mW/cm² can be achieved at 5 cm depth with 1 W beam power and 5 W/cm² surface density.",
-    "Dental conditions amenable to LLLT include orthodontic pain, dentine hypersensitivity, and third molar surgery pain.",
-    "Key contraindications per NAALT 2010 consensus: direct ocular exposure, active carcinoma/metastasis sites (except palliative or mucositis during chemotherapy), directly over developing fetus, and low-frequency pulsed visible light (<30 Hz) in photosensitive epileptic patients.",
-    "LLLT is FDA-approved for temporary relief of muscle and joint pain but classified as experimental/investigational by some insurance companies (BCBSKS 2013); no long-term (>2 year) human clinical studies exist.",
-    "Long-term effects of LLLT (weeks to months) result from activation of transcription factors (NF-kB, AP-1, Jun/Fos) via ATP, cyclic-AMP, NO, and ROS signaling from mitochondrial stimulation.",
+    "LLLT exhibits a biphasic dose-response curve: lower doses stimulate cellular activity while higher doses can inhibit it; this has direct implications for clinical dosing.",
+    "LLLT can treat nociceptive and neuropathic pain but central pain has not yet been proven responsive to LLLT.",
+    "Four clinical targets for LLLT: (1) site of injury, (2) lymph nodes, (3) nerves for analgesia, (4) trigger points.",
+    "Treatment times per point are 30 seconds to 1 minute; 1–15 points may be treated per session depending on complexity.",
+    "Best penetrating wavelengths are in the 760–850 nm range; optimum wavelength estimated at approximately 810 nm.",
+    "Dental applications include orthodontic pain, dentine hypersensitivity, and third molar surgery pain.",
+    "Key contraindications per NAALT 2010 consensus: direct ocular exposure, active carcinoma sites (except palliative/mucositis), directly over developing fetus, and caution with photosensitive epileptics (<30 Hz pulsed visible light).",
+    "LLLT is classified as experimental/investigational by US insurance companies (BCBSKS 2013); FDA approval exists for temporary relief of muscle and joint pain.",
+    "Adverse effects of LLLT have been reported to be no different from placebo in clinical trials.",
     "LLLT should be used as adjuvant therapy only for neuropathic pain with neurologic deficits; it does not correct structural deficits or instabilities."
   ],
   "outcomes": [
     {
-      "measured": "Pain relief in musculoskeletal conditions",
+      "measured": "Pain reduction in musculoskeletal conditions",
       "result": "Majority of >4000 laboratory and clinical studies demonstrate positive effect on acute and chronic musculoskeletal pain",
       "statistical_significance": null,
-      "clinical_significance": "Broad clinical applicability across sprains, tendinitis, osteoarthritis, neck/back pain, neuropathic pain, and dental pain conditions"
+      "clinical_significance": "Broad evidence base across sprains, tendinitis, osteoarthritis, neck/back pain, neuropathic pain, and dental pain conditions"
     },
     {
       "measured": "Neural blockade onset",
@@ -36,18 +36,18 @@
       "clinical_significance": "Fast-acting pain relief mechanism via peripheral nerve inhibition"
     },
     {
-      "measured": "Inflammation reduction",
-      "result": "Reduction of inflammatory cell numbers and pro-inflammatory cytokines demonstrated in animal models and clinical trials",
+      "measured": "Anti-inflammatory effect",
+      "result": "Reduction of inflammatory cells, pro-inflammatory cytokines, and edema demonstrated in animal models and clinical trials",
       "statistical_significance": null,
-      "clinical_significance": "Medium-term anti-inflammatory effect within hours to days"
+      "clinical_significance": "Medium-term effect (hours to days); relevant for acute and chronic inflammatory conditions"
     }
   ],
-  "notes": "This is a mini review article covering LLLT/PBM mechanisms, parameters, and clinical applications for musculoskeletal pain, with specific mention of dental applications. No original clinical data is presented; the paper synthesizes existing literature. Over 400 Phase III RCTs and 4000 laboratory studies are cited as the evidence base.",
+  "notes": "This is a mini review article covering mechanisms, parameters, indications, contraindications, and clinical applications of LLLT/PBM for musculoskeletal pain, with a section on dental applications. No original clinical data are presented; conclusions are based on cited literature.",
   "population": {
     "n_participants": null,
     "age_range": null,
-    "condition": "Musculoskeletal pain (acute and chronic), including dental pain conditions",
-    "sample_type": "Review of existing literature; no primary patient population"
+    "condition": "Musculoskeletal pain (acute and chronic), neuropathic pain, dental pain",
+    "sample_type": "Review of published literature; no primary patient population"
   },
   "superiority_claim": null,
   "conflicts_of_interest": null,
@@ -57,12 +57,13 @@
     "Do not aim laser beams directly into the eyes; appropriate safety spectacles required for all present",
     "Do not treat over the site of any known primary carcinoma or secondary metastasis (exception: palliative use in terminal cancer patients or mucositis reduction during chemotherapy)",
     "Do not treat directly over the developing fetus during pregnancy",
-    "Low-frequency pulsed visible light (<30 Hz) may trigger seizures in photosensitive epileptic patients",
+    "Caution in photosensitive epileptic patients: low frequency pulsed visible light (<30 Hz) may trigger seizures",
     "LLLT should only be used as adjuvant therapy for neuropathic pain with neurologic deficits, not as primary treatment",
     "LLLT does not correct structural deficits or instabilities in bone or soft tissue"
   ],
   "adverse_events": [
-    "Adverse effects of LLLT reported to be no different from those reported by patients exposed to placebo devices in trials"
+    "Adverse effects reported to be no different from placebo in clinical trials",
+    "Potential ocular hazard if beam directed at eyes (primary safety concern)"
   ],
   "laser_parameters": [
     {
@@ -92,19 +93,20 @@
       "Trigger points"
     ]
   },
-  "clinical_indication": "Musculoskeletal pain (acute and chronic): sprains, strains, tendinitis, osteoarthritis, neck/back pain, radiculopathy, fibromyalgia, neuropathic pain; dental pain: orthodontic pain, dentine hypersensitivity, third molar surgery pain",
-  "target_tissue": "Muscle, nerve, tendon, cartilage, bone, skin, lymph nodes, dental pulp/dentin",
+  "clinical_indication": "Musculoskeletal pain (acute and chronic): sprains, strains, tendinitis, osteoarthritis, neck/back pain, radiculopathy, epicondylitis, carpal tunnel syndrome, fibromyalgia, plantar fasciitis; neuropathic pain; dental pain (orthodontic, dentine hypersensitivity, third molar surgery)",
+  "target_tissue": "Peripheral nerves, muscle, tendon, cartilage, bone, skin, lymph nodes, oral mucosa",
   "brand_model_mentioned": null,
   "drugs_mentioned": null,
   "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Specific laser parameters (wavelength, power, fluence, pulse duration) for individual dental applications (orthodontic pain, dentine hypersensitivity, third molar surgery) are not provided in this review — only general ranges are given.",
-    "The paper states irradiance is 'usually between 5 W/cm²' but this appears to be a maximum surface density value, not a typical treatment irradiance; the exact clinical irradiance range is ambiguous.",
-    "Treatment frequency (sessions per week) is mentioned as 'a few times a week for several weeks' without precise specification.",
-    "No specific wavelength recommendations for dental applications are provided; the 660–905 nm range is given for general LLLT.",
-    "The paper mentions >400 Phase III RCTs but does not cite specific meta-analyses for dental applications, making evidence level for dental use uncertain."
+    "Specific wavelength values for individual clinical protocols not provided (only general range 660–905 nm stated); no protocol-specific dosimetry tables",
+    "Power range given as 10–500 mW but no specific power per indication",
+    "Application time stated as 30–60 seconds per point but no per-indication breakdown",
+    "Number of sessions and session interval not specified in the paper",
+    "Irradiance value of 5 W/cm2 mentioned as surface density example but not as a universal protocol parameter; converted to 5.0 W/cm2 in laser_parameters but this is a reference example, not a prescribed dose",
+    "No specific laser brands or models mentioned in the paper"
   ],
   "bibliographic_metadata": {
     "title": "The use of Low Level Laser Therapy (LLLT) for musculoskeletal pain",
@@ -119,106 +121,112 @@
   },
   "protocols": [
     {
-      "name": "Fotobiomodulación (PBM/LLLT) para dolor musculoesquelético y dolor orofacial",
+      "name": "Fotobiomodulación (PBM/LLLT) para dolor musculoesquelético",
       "synonyms_es": [
-        "terapia láser de baja intensidad",
-        "terapia de luz de bajo nivel",
-        "fotobiomodulación para dolor",
+        "terapia láser de baja intensidad para dolor musculoesquelético",
+        "fototerapia de baja potencia para dolor",
+        "terapia de luz roja e infrarroja para dolor musculoesquelético",
         "LLLT musculoesquelético",
-        "terapia fotónica analgésica",
-        "bioestimulación láser",
-        "terapia LED de baja intensidad"
+        "fotobiomodulación para dolor crónico y agudo"
       ],
       "synonyms_en": [
-        "low level laser therapy",
-        "low level light therapy",
-        "photobiomodulation for pain",
-        "LLLT musculoskeletal",
-        "PBM analgesia",
-        "laser biostimulation",
-        "LED phototherapy for pain"
+        "low level laser therapy for musculoskeletal pain",
+        "photobiomodulation for musculoskeletal pain",
+        "LLLT pain management",
+        "low level light therapy musculoskeletal",
+        "PBM pain relief"
       ],
-      "purpose": "Reducir inflamación, inducir analgesia y promover la reparación tisular en condiciones musculoesqueléticas agudas y crónicas, incluyendo dolor dental (dolor ortodóntico, hipersensibilidad dentinaria, dolor postquirúrgico de terceros molares), mediante la aplicación de luz roja o infrarroja cercana de baja intensidad sobre tejidos diana.",
+      "purpose": "Reducir el dolor agudo y crónico musculoesquelético, disminuir la inflamación y el edema, e inducir analgesia mediante la aplicación de luz roja o infrarroja cercana de baja intensidad sobre el sitio de lesión, nodos linfáticos, nervios periféricos y puntos gatillo.",
       "parameters_table": [
         {
-          "equipment_class": "Láser o LED de baja intensidad (660–905 nm, rojo a infrarrojo cercano)",
+          "equipment_class": "Láser o LED de baja intensidad (660–905 nm, clase 3R/3B)",
           "representative_models": [],
           "equipo": null,
-          "longitud_de_onda": "660–905 nm (rango rojo a NIR; óptimo ~810 nm para penetración tisular)",
-          "potencia": "10–500 mW (rango típico)",
+          "longitud_de_onda": "660–905 nm (rango rojo a infrarrojo cercano; penetración óptima 760–850 nm, wavelength óptima ~810 nm)",
+          "potencia": "10–500 mW (típico)",
           "frecuencia": "No especificado (pulsado o continuo según equipo)",
-          "modo_de_pulso": "Continuo o pulsado (frecuencias <30 Hz evitar en epilépticos fotosensibles)",
-          "fibra_punta": "Haz divergente (no colimado) en la mayoría de equipos",
+          "modo_de_pulso": "Continuo o pulsado (frecuencias <30 Hz en modo pulsado visible requieren precaución en epilépticos fotosensibles)",
+          "fibra_punta": "Haz divergente (no colimado); punta de contacto o sin contacto según equipo",
           "agua_pct": "No aplica",
           "aire_pct": "No aplica",
-          "distancia": "Contacto o proximidad al tejido diana (haz divergente reduce riesgo ocular con la distancia)",
-          "tiempo_ciclos": "30–60 segundos por punto; 1–15 puntos por sesión; varias sesiones por semana durante varias semanas"
+          "distancia": "Contacto o proximidad al tejido diana; haz divergente reduce riesgo ocular con la distancia",
+          "tiempo_ciclos": "30–60 segundos por punto; 1–15 puntos por sesión según complejidad; varias sesiones por semana durante varias semanas"
         }
       ],
       "critical_notes": [
-        "La densidad de potencia (irradiancia) superficial es típicamente hasta 5 W/cm²; a 5 cm de profundidad con 1 W de potencia se puede alcanzar ~5 mW/cm².",
-        "LLLT exhibe curva de respuesta bifásica: dosis bajas estimulan actividad celular, dosis muy altas pueden inhibir el metabolismo mitocondrial — no aumentar la dosis indiscriminadamente.",
-        "Cuatro dianas clínicas: (1) sitio de lesión, (2) ganglios linfáticos, (3) nervios periféricos, (4) puntos gatillo.",
-        "Para dolor dental (ortodóntico, hipersensibilidad dentinaria, cirugía de terceros molares): el paper confirma respuesta favorable a LLLT pero no especifica parámetros concretos para estas indicaciones.",
-        "El documento presenta esta técnica favorablemente; existen alternativas farmacológicas y físicas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
-        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos exactos para aplicaciones dentales específicas no están estandarizados en este paper. Basado en: Cotler, Chow & Hamblin (2015).",
-        "Clasificado como experimental/investigacional por algunas aseguradoras (BCBSKS 2013); aprobado por FDA para alivio temporal de dolor muscular y articular.",
-        "No existen estudios clínicos humanos a largo plazo (>2 años) que hayan evaluado LLLT."
+        "La curva de respuesta a la dosis es bifásica: dosis bajas estimulan la actividad celular mientras que dosis muy altas pueden inhibirla. Es fundamental no sobredosificar.",
+        "La irradiancia superficial de referencia es ~5 W/cm² con potencia de 1 W; a 5 cm de profundidad puede lograrse ~5 mW/cm².",
+        "No dirigir el haz directamente a los ojos; todos los presentes deben usar gafas de protección adecuadas.",
+        "No tratar sobre sitios de carcinoma primario conocido o metástasis secundaria (excepción: uso paliativo en pacientes terminales o reducción de mucositis durante quimioterapia).",
+        "No tratar directamente sobre el feto en desarrollo durante el embarazo.",
+        "Precaución en pacientes epilépticos fotosensibles: luz visible pulsada a baja frecuencia (<30 Hz) puede desencadenar convulsiones.",
+        "LLLT solo debe usarse como terapia adyuvante en dolor neuropático con déficits neurológicos; no corrige déficits estructurales óseos ni de tejidos blandos.",
+        "El documento presenta esta terapia favorablemente; existen alternativas farmacológicas y físicas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados por indicación específica en este paper. Basado en: Cotler, Chow & Hamblin (2015)."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Identificar las dianas clínicas: sitio de lesión/dolor, ganglios linfáticos regionales, nervios periféricos implicados y/o puntos gatillo musculares.",
-        "Seleccionar longitud de onda en rango rojo a NIR (660–905 nm); para mayor penetración tisular preferir ~810 nm.",
-        "Ajustar potencia en rango 10–500 mW y densidad de potencia superficial hasta 5 W/cm².",
-        "Aplicar el haz sobre cada punto diana durante 30–60 segundos.",
-        "Tratar entre 1 punto (casos simples) y 10–15 puntos (disfunciones complejas como radiculopatía cervical o lumbar).",
-        "Repetir el tratamiento varias veces por semana durante varias semanas según respuesta clínica.",
-        "Asegurar que todos los presentes usen gafas de protección ocular apropiadas durante la aplicación."
+        "Identificar los objetivos clínicos: sitio de lesión, nodos linfáticos regionales, nervios periféricos relevantes y/o puntos gatillo.",
+        "Seleccionar la longitud de onda apropiada en el rango rojo a infrarrojo cercano (660–905 nm), preferentemente 760–850 nm para mayor penetración.",
+        "Ajustar la potencia dentro del rango terapéutico (10–500 mW) y la densidad de energía según el tejido diana.",
+        "Aplicar el haz sobre cada punto durante 30–60 segundos.",
+        "Tratar entre 1 y 15 puntos por sesión según la complejidad del cuadro clínico.",
+        "Repetir las sesiones varias veces por semana durante varias semanas según la respuesta clínica.",
+        "Asegurar que todos los presentes usen gafas de protección ocular adecuadas durante toda la sesión."
       ],
       "indications": [
-        "Dolor musculoesquelético agudo: esguinces, distensiones, dolor postquirúrgico, latigazo cervical, dolor lumbar muscular",
-        "Dolor musculoesquelético crónico: osteoartritis, artritis reumatoide, hombro congelado, epicondilitis, síndrome del túnel carpiano, tendinopatía, fibromialgia, fascitis plantar",
+        "Esguinces y distensiones musculares agudas",
+        "Dolor postquirúrgico",
+        "Latigazo cervical (whiplash)",
+        "Dolor lumbar y cervical muscular",
         "Radiculopatía cervical o lumbar",
-        "Dolor neuropático: neuralgia postherpética, neuralgia del trigémino, neuropatía diabética",
-        "Dolor dental: dolor por procedimientos ortodónticos, hipersensibilidad dentinaria, dolor postquirúrgico de terceros molares",
+        "Tendinitis y tendinopatía",
+        "Osteoartritis",
+        "Artritis reumatoide",
+        "Hombro congelado (capsulitis adhesiva)",
+        "Epicondilitis (codo de tenista y golfista)",
+        "Síndrome del túnel carpiano",
+        "Fibromialgia",
+        "Fascitis plantar",
         "Síndrome de dolor regional crónico",
-        "Mucositis oral en pacientes bajo quimioterapia (uso paliativo)"
+        "Dolor neuropático: neuralgia postherpética, neuralgia del trigémino, neuropatía diabética",
+        "Dolor dental: procedimientos ortodónticos, hipersensibilidad dentinaria, cirugía de tercer molar"
       ],
       "contraindications": [
-        "Exposición directa ocular — riesgo de daño retiniano; usar gafas de protección",
-        "Aplicación directa sobre sitio de carcinoma primario conocido o metástasis secundaria (excepción: uso paliativo en pacientes terminales o reducción de mucositis durante quimioterapia)",
-        "Aplicación directa sobre el feto en desarrollo durante el embarazo",
-        "Luz visible pulsada de baja frecuencia (<30 Hz) en pacientes epilépticos fotosensibles — riesgo de desencadenar convulsiones",
-        "No usar como terapia única en dolor neuropático con déficits neurológicos — solo como adyuvante",
-        "No indicado para corregir déficits estructurales o inestabilidades óseas o de tejidos blandos"
+        "Exposición ocular directa al haz láser",
+        "Tratamiento sobre sitio de carcinoma primario conocido o metástasis secundaria (salvo uso paliativo o mucositis en quimioterapia)",
+        "Tratamiento directo sobre el feto en desarrollo (embarazo)",
+        "Pacientes epilépticos fotosensibles con luz visible pulsada a <30 Hz",
+        "Uso como terapia única (no adyuvante) en dolor neuropático con déficits neurológicos",
+        "Condiciones con déficits estructurales óseos o de tejidos blandos que requieran corrección mecánica"
       ],
       "postop_care": [
-        "Monitorizar respuesta clínica al dolor y ajustar número de sesiones según evolución.",
-        "Informar al paciente que el alivio del dolor puede ocurrir en minutos (bloqueo neural) pero los efectos antiinflamatorios y de reparación tisular se desarrollan en horas a días.",
-        "Los efectos a largo plazo (semanas a meses) dependen de la mejora en la reparación tisular."
+        "Monitorizar la respuesta al dolor en las primeras 24 horas post-sesión (el bloqueo neural es reversible en ~24 horas).",
+        "Ajustar la dosis y frecuencia de sesiones según la respuesta clínica individual.",
+        "Informar al paciente que los efectos a largo plazo (semanas a meses) dependen de la mejora en la cicatrización tisular."
       ],
-      "evidence_level": "Bajo — revisión narrativa que sintetiza >400 RCTs y >4000 estudios de laboratorio, pero sin meta-análisis propio ni datos primarios. Heterogeneidad metodológica importante entre estudios. No hay estudios clínicos humanos a largo plazo (>2 años).",
+      "evidence_level": "Bajo — revisión narrativa sin datos primarios propios; se basa en >400 RCTs y >4000 estudios de laboratorio citados, pero no se realiza meta-análisis ni síntesis sistemática en este paper.",
       "keywords_es": [
         "LLLT",
         "fotobiomodulación",
         "terapia láser de baja intensidad",
         "PBM",
         "dolor musculoesquelético",
-        "analgesia láser",
+        "láser terapéutico",
         "infrarrojo cercano",
+        "analgesia láser",
+        "antiinflamatorio láser",
         "citocromooxidasa",
         "óxido nítrico",
         "ATP mitocondrial",
-        "dolor dental láser",
+        "tendinitis láser",
+        "osteoartritis láser",
+        "dolor neuropático láser",
         "hipersensibilidad dentinaria láser",
         "dolor ortodóntico láser",
-        "neuralgia trigémino láser",
-        "osteoartritis láser",
-        "tendinitis láser",
-        "LED terapéutico",
-        "bioestimulación",
         "curva bifásica dosis-respuesta",
-        "bloqueo neural láser"
+        "puntos gatillo láser",
+        "LED terapéutico"
       ],
       "keywords_en": [
         "LLLT",
@@ -226,21 +234,21 @@
         "low level laser therapy",
         "PBM",
         "musculoskeletal pain",
-        "laser analgesia",
+        "therapeutic laser",
         "near infrared",
+        "laser analgesia",
+        "anti-inflammatory laser",
         "cytochrome c oxidase",
         "nitric oxide",
         "mitochondrial ATP",
-        "dental laser pain",
+        "tendinitis laser",
+        "osteoarthritis laser",
+        "neuropathic pain laser",
         "dentine hypersensitivity laser",
         "orthodontic pain laser",
-        "trigeminal neuralgia laser",
-        "osteoarthritis laser",
-        "tendinitis laser",
-        "therapeutic LED",
-        "biostimulation",
         "biphasic dose response",
-        "neural blockade laser"
+        "trigger point laser",
+        "LED therapy"
       ],
       "is_virtual_protocol": true
     }
