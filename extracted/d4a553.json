@@ -1,0 +1,295 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_2196_1042_14_42__f222f679::05ebb4"
+  ],
+  "uuid": "d4a553",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "low",
+  "key_points": [
+    "La terapia láser de baja intensidad (LLLT/fotobiomodulación) es uno de los enfoques más prometedores para acelerar el movimiento dental ortodóntico, actuando mediante estimulación de osteoclastos, osteoblastos y fibroblastos vía producción de ATP y activación del citocromo C.",
+    "Los parámetros de LLLT reportados en estudios clínicos incluyen longitudes de onda de 800–860 nm (diodos Ga-Al-As), modo continuo, potencias de 0.25–100 mW, con resultados variables y contradictorios entre estudios.",
+    "Un estudio clínico (Doshi-Mehta, 2012) con 800 nm, 0.25 mW, modo continuo, 10 s de exposición reportó aceleración del movimiento dental 1.3 veces mayor que el control.",
+    "Un estudio con LED de 850 nm, 60 mW (Kau, 2013) en 90 sujetos reportó 1.12 mm/semana de cambio en el grupo test vs 0.49 mm en controles.",
+    "Limpanichkul (2006) con 860 nm, 100 mW no encontró aceleración significativa en humanos, evidenciando la inconsistencia de resultados en LLLT ortodóntico.",
+    "Los enfoques biológicos (citocinas, PTH, vitamina D, RANKL/OPG) muestran resultados prometedores principalmente en animales; la relaxina no acelera el movimiento dental en humanos.",
+    "El enfoque quirúrgico (corticotomía, piezocisión) tiene los resultados más predecibles pero es invasivo; la técnica de piezocisión es la menos invasiva con buena respuesta periodontal.",
+    "Se requieren más investigaciones para determinar la energía óptima, longitud de onda y duración de exposición para LLLT en ortodoncia."
+  ],
+  "outcomes": [
+    {
+      "measured": "Aceleración del movimiento dental con LLLT 800 nm, 0.25 mW, CW, 10 s",
+      "result": "1.3 veces mayor que el control en ensayo clínico (Doshi-Mehta 2012)",
+      "statistical_significance": true,
+      "clinical_significance": "Reducción del tiempo de tratamiento ortodóntico"
+    },
+    {
+      "measured": "Aceleración del movimiento dental con LED 850 nm, 60 mW (Kau 2013)",
+      "result": "1.12 mm/semana en grupo test vs 0.49 mm en controles (n=90)",
+      "statistical_significance": true,
+      "clinical_significance": "Más del doble de velocidad de movimiento dental"
+    },
+    {
+      "measured": "Aceleración del movimiento dental con LLLT 860 nm, 100 mW (Limpanichkul 2006)",
+      "result": "Sin aceleración significativa en humanos",
+      "statistical_significance": false,
+      "clinical_significance": "Resultados contradictorios con otros estudios de LLLT"
+    },
+    {
+      "measured": "Aceleración del movimiento dental con LLLT 810 nm, 100 mW (Fujita 2008)",
+      "result": "Aceleración en ratas vía expresión de RANK y RANKL",
+      "statistical_significance": true,
+      "clinical_significance": "Evidencia mecanística en animales"
+    },
+    {
+      "measured": "Aceleración del movimiento dental con LLLT 830 nm, 100 mW (Kawasaki 2000)",
+      "result": "Aceleración en ratas, 1.5 veces mayor",
+      "statistical_significance": true,
+      "clinical_significance": "Estimulación del metabolismo óseo en animales"
+    }
+  ],
+  "notes": "Revisión narrativa que cubre enfoques biológicos, físicos (incluyendo LLLT) y quirúrgicos para acelerar el movimiento dental ortodóntico. 74 artículos revisados de 1959 a 2013. El componente de LLLT es el más relevante para LaserRx.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Pacientes ortodónticos (adultos principalmente)",
+    "sample_type": "Revisión de literatura (animales y humanos)"
+  },
+  "superiority_claim": "Los autores afirman que 'Low-level laser therapy is the most promising method' entre los enfoques físicos para acelerar el movimiento dental, y que la técnica de piezocisión 'is considered one of the best surgical approaches'.",
+  "conflicts_of_interest": "The authors declare that they have no competing interests.",
+  "funding_source_text": null,
+  "source_citation": "Nimeri, G., Kau, C. H., Abou-Kheir, N. S., & Corona, R. (2013). Acceleration of tooth movement during orthodontic treatment - a frontier in Orthodontics. Progress in Orthodontics, 14, 42. https://doi.org/10.1186/2196-1042-14-42",
+  "contraindications": [],
+  "adverse_events": [
+    "Root resorption asociada a altas concentraciones y múltiples inyecciones de PGE2",
+    "Incertidumbre sobre vitalidad pulpar en técnicas de distracción canina rápida",
+    "Invasividad y costo de los enfoques quirúrgicos"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 810,
+      "fluence_j_cm2": null,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 830,
+      "fluence_j_cm2": null,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 860,
+      "fluence_j_cm2": null,
+      "power_w": 0.1,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 850,
+      "fluence_j_cm2": null,
+      "power_w": 0.06,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 800,
+      "fluence_j_cm2": null,
+      "power_w": 0.00025,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": 10.0,
+    "application_technique": "point",
+    "anatomical_points": [
+      "periodontal ligament",
+      "alveolar bone"
+    ]
+  },
+  "clinical_indication": "Aceleración del movimiento dental ortodóntico",
+  "target_tissue": "bone, periodontal ligament",
+  "brand_model_mentioned": [
+    "Ga-Al-As diode laser",
+    "LED (Light-Emitting Diode)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "medium",
+  "uncertainties": [
+    "Los parámetros de fluencia (J/cm²) no se reportan de forma consistente en los estudios citados, solo potencia y longitud de onda",
+    "El tiempo de exposición exacto no se especifica para la mayoría de los estudios de LLLT revisados (excepto Doshi-Mehta: 10 s)",
+    "El número de sesiones y el protocolo de aplicación completo no se detallan en la revisión para la mayoría de los estudios",
+    "La referencia Kau [41] aparece como 'in press' en el momento de publicación, sin DOI ni año definitivo",
+    "No se especifica si el contacto con tejido es directo o no para los protocolos de LLLT descritos"
+  ],
+  "bibliographic_metadata": {
+    "title": "Acceleration of tooth movement during orthodontic treatment - a frontier in Orthodontics",
+    "authors": [
+      "Ghada Nimeri",
+      "Chung H Kau",
+      "Nadia S Abou-Kheir",
+      "Rachel Corona"
+    ],
+    "year": 2013,
+    "journal": "Progress in Orthodontics",
+    "doi": "10.1186/2196-1042-14-42"
+  },
+  "protocols": [
+    {
+      "name": "Fotobiomodulación (LLLT) para aceleración del movimiento dental ortodóntico",
+      "synonyms_es": [
+        "terapia láser de baja intensidad en ortodoncia",
+        "fotobiomodulación ortodóntica",
+        "láser de baja potencia para movimiento dental",
+        "LLLT ortodóntico",
+        "bioestimulación láser en ortodoncia"
+      ],
+      "synonyms_en": [
+        "low-level laser therapy orthodontics",
+        "LLLT tooth movement",
+        "photobiomodulation orthodontic acceleration",
+        "low-power laser orthodontics",
+        "biostimulation laser orthodontics"
+      ],
+      "purpose": "Acelerar el movimiento dental ortodóntico mediante la estimulación de la remodelación ósea y del ligamento periodontal a través de la irradiación con láser de baja intensidad, reduciendo el tiempo total de tratamiento.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo Ga-Al-As (~800–860 nm, modo continuo, baja potencia)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "800–860 nm",
+          "potencia": "0.25 mW – 100 mW (variable según estudio)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "10 s por punto (Doshi-Mehta 2012); duración variable en otros estudios"
+        },
+        {
+          "equipment_class": "LED de baja intensidad (~850 nm, modo continuo)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "850 nm",
+          "potencia": "60 mW",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "Los resultados de LLLT en ortodoncia son contradictorios entre estudios: Limpanichkul (2006) con 860 nm/100 mW no encontró aceleración en humanos, mientras Doshi-Mehta (2012) con 800 nm/0.25 mW sí la encontró, lo que sugiere que la potencia óptima no está establecida.",
+        "No existe consenso sobre la energía óptima, longitud de onda, duración de exposición ni número de sesiones para LLLT en ortodoncia; se requieren más ensayos clínicos controlados.",
+        "El mecanismo propuesto incluye producción de ATP, activación del citocromo C, y modulación de la expresión de RANK/RANKL y M-CSF.",
+        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos no están estandarizados. Basado en: Nimeri et al. 2013 (revisión narrativa de 74 artículos).",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (enfoques biológicos, quirúrgicos, vibración) que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Seleccionar el equipo láser de diodo Ga-Al-As con longitud de onda en rango 800–860 nm en modo continuo.",
+        "Aplicar la irradiación sobre la zona del ligamento periodontal y hueso alveolar adyacente al diente en movimiento.",
+        "Mantener la exposición por el tiempo determinado según el protocolo (referencia: 10 s por punto en Doshi-Mehta 2012).",
+        "Repetir las aplicaciones en intervalos regulares durante el tratamiento ortodóntico activo."
+      ],
+      "indications": [
+        "Pacientes ortodónticos que requieren reducción del tiempo de tratamiento.",
+        "Adultos con mayor resistencia al movimiento dental.",
+        "Casos donde se desea acelerar el movimiento dental sin procedimientos invasivos."
+      ],
+      "contraindications": [
+        "Tejidos con neoplasias activas en la zona de irradiación.",
+        "Pacientes con fotosensibilidad conocida.",
+        "Aplicación directa sobre ojos sin protección adecuada."
+      ],
+      "postop_care": [
+        "No se especifican cuidados postoperatorios específicos en la revisión."
+      ],
+      "evidence_level": "Bajo — revisión narrativa de estudios con resultados contradictorios; mayoría de estudios en animales; ensayos clínicos en humanos con n pequeño y diseños heterogéneos.",
+      "keywords_es": [
+        "LLLT ortodoncia",
+        "fotobiomodulación movimiento dental",
+        "láser baja intensidad ortodoncia",
+        "aceleración movimiento dental",
+        "láser diodo ortodoncia",
+        "remodelación ósea láser",
+        "ligamento periodontal láser",
+        "biostimulación láser",
+        "terapia fotónica ortodoncia",
+        "RANK RANKL láser",
+        "osteoclasto osteoblasto láser",
+        "reducción tiempo tratamiento ortodóntico",
+        "láser 800 nm ortodoncia",
+        "LED ortodoncia",
+        "fotobiomodulación periodontal"
+      ],
+      "keywords_en": [
+        "LLLT orthodontics",
+        "photobiomodulation tooth movement",
+        "low-level laser orthodontics",
+        "accelerated tooth movement",
+        "diode laser orthodontics",
+        "bone remodeling laser",
+        "periodontal ligament laser",
+        "laser biostimulation",
+        "photonic therapy orthodontics",
+        "RANK RANKL laser",
+        "osteoclast osteoblast laser",
+        "orthodontic treatment time reduction",
+        "800 nm laser orthodontics",
+        "LED orthodontics",
+        "photobiomodulation periodontal"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
