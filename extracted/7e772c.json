@@ -1,0 +1,495 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101055_s_0040_1715779__dfd4ff6f::9ccc84"
+  ],
+  "uuid": "7e772c",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "Peri-implantitis is the most common complication in implant dentistry, with a subject-based prevalence of approximately 19.83%.",
+    "Risk indicators include plaque, smoking, history of periodontitis, surface roughness, residual cement, emergence angle >30 degrees, radiation therapy, keratinized tissue width, function time, sex, and diabetes.",
+    "Peri-implantitis treatment is divided into nonsurgical (mechanical, antiseptic, antibiotics), surface decontamination (chemical and laser), and surgical (air powder abrasive, resective, regenerative) approaches.",
+    "Mechanical debridement alone fails to eliminate causative bacteria and must be combined with antiseptics and/or surgical treatment.",
+    "Er:YAG laser settings reported for peri-implantitis treatment: 100 mJ/pulse, 1 W, 10 Hz, 12.74 J/cm² for 60 seconds; care must be taken to avoid adverse thermal effects on the implant surface.",
+    "Laser therapy as adjunct to nonsurgical treatment may result in more BOP reduction over the short-term, but provides minimal benefit in PD reduction, clinical attachment level gain, and plaque index reduction compared to conventional therapy.",
+    "Antimicrobial photodynamic therapy (aPDT) using 200 µg/mL methylene blue under red laser irradiation is a promising adjunct for bacterial elimination in peri-implantitis.",
+    "Low-intensity diode laser increases soft-tissue regeneration and has positive effects on osseointegration when used as adjunct therapy.",
+    "CO2 lasers can be used for peri-implantitis but clinical outcomes are unstable and further trials are needed.",
+    "Regenerative approaches to treat peri-implant defects remain unpredictable; partial regeneration is possible but total reosseointegration is difficult.",
+    "Implantoplasty (fixture modification) smoothens the implant surface to decrease plaque adherence but should be done with caution on narrow implants (<3.75 mm diameter).",
+    "Systemic antibiotic benefits are not sustained beyond 3 years; local antibiotics (minocycline, doxycycline) combined with mechanical treatment are effective for incipient to moderate lesions."
+  ],
+  "outcomes": [
+    {
+      "measured": "Probing depth reduction with Er:YAG laser + bone grafting",
+      "result": "Mean PD reduced by approximately 3.5 mm at 12 months, remaining stable (mean 3.2 mm at 24 months)",
+      "statistical_significance": null,
+      "clinical_significance": "Clinically meaningful PD reduction sustained over 2 years in deep defects (≥6 mm)"
+    },
+    {
+      "measured": "Treatment success rate with adjunctive systemic antibiotics + CHX",
+      "result": "Successful in 45% of all implants; 79% in unmodified surface implants vs 34% in modified surface implants",
+      "statistical_significance": true,
+      "clinical_significance": "Surface characteristics significantly influence treatment success with adjunctive antibiotics"
+    },
+    {
+      "measured": "Re-osseointegration with air-powder abrasive + surgical treatment",
+      "result": "Considerable re-osseointegration (39–46%) achieved with improved clinical parameters",
+      "statistical_significance": null,
+      "clinical_significance": "Moderate re-osseointegration possible but in vivo data insufficient for definitive conclusions"
+    },
+    {
+      "measured": "Radiographic bone gain with regenerative treatment (systematic review)",
+      "result": "1.97 mm radiographic bone gain, 2.78 mm PD reduction, 55% decrease in BOP",
+      "statistical_significance": null,
+      "clinical_significance": "Partial regeneration achievable but unpredictable; membranes did not improve clinical parameters"
+    }
+  ],
+  "notes": "This is a narrative review covering literature from August 2010 to April 2020 in MEDLINE/PubMed, Scopus, and ScienceDirect. The paper provides a comprehensive overview of peri-implantitis risk indicators, diagnosis, and treatment modalities. Laser parameters are cited from secondary sources (Smeo et al 2018, Clem & Gunsolley 2019) rather than being primary study data.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Peri-implantitis and peri-implant mucositis",
+    "sample_type": "Narrative review of published literature (2010–2020)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "None declared.",
+  "funding_source_text": null,
+  "source_citation": "Rokaya, D., Srimaneepong, V., Wisitrasameewon, W., Humagain, M., & Thunyakitpisal, P. (2020). Peri-implantitis Update: Risk Indicators, Diagnosis, and Treatment. European Journal of Dentistry, 14(4), 672–682. https://doi.org/10.1055/s-0040-1715779",
+  "contraindications": [
+    "Implantoplasty on narrow implants (<3.75 mm diameter) due to risk of reducing bending strength",
+    "Surgical treatment when bone loss exceeds half the implant length (success unlikely)",
+    "High-concentration citric acid (40%, pH 1) for >30–60 seconds due to potential toxicity to peri-implant tissues",
+    "Clinically used 2% chlorhexidine permanently halts cell migration and reduces fibroblast, myoblast, and osteoblast survival in vitro"
+  ],
+  "adverse_events": [
+    "Metal debris from implantoplasty is cytotoxic and genotoxic; may remain in peri-implant tissues",
+    "Adverse thermal effects on implant surface with Er:YAG 2940 nm if used improperly",
+    "Hydrogen peroxide at high concentrations may harm oral tissues with prolonged exposure",
+    "Sodium bicarbonate air-powder abrasive significantly increases implant surface roughness",
+    "EDTA agent residue causes cytotoxic effects on peri-implant tissues",
+    "Increased gingival recession with apically positioned flap + osteoplasty + implantoplasty may limit use in esthetic areas"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": 12.74,
+      "power_w": 1.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": 10,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 100.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": 60.0,
+    "application_technique": null,
+    "anatomical_points": [
+      "peri-implant sulcus",
+      "implant surface",
+      "surrounding peri-implant tissue"
+    ]
+  },
+  "clinical_indication": "Peri-implantitis — surface decontamination and adjunct treatment",
+  "target_tissue": "implant surface, peri-implant mucosa, bone",
+  "brand_model_mentioned": null,
+  "drugs_mentioned": [
+    {
+      "name": "chlorhexidine gluconate",
+      "drug_class": "Antiseptic / antimicrobial",
+      "interaction_type": "caution",
+      "dental_relevance": "0.12% CHX effectively reduces peri-implantitis; 2% CHX permanently halts cell migration and reduces fibroblast, myoblast, and osteoblast survival in vitro. Local CHX had no overall effect on surgical treatment outcomes in peri-implantitis.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "minocycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Local MNO combined with surgical treatment provides increased clinical parameters and radiographic bone fill in peri-implantitis. MNO shows better results than CHX for local antibiotic therapy.",
+      "photosensitivity": true,
+      "laser_implication": "Minocycline is a photosensitizing agent; laser use in patients on systemic minocycline should be approached with caution regarding potential photosensitivity reactions."
+    },
+    {
+      "name": "doxycycline",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Local application following debridement and antiseptic irrigation is useful for moderately deep peri-implantitis lesions. Shows better results than CHX.",
+      "photosensitivity": true,
+      "laser_implication": "Doxycycline is a known photosensitizer; caution with laser/light-based treatments in patients on systemic doxycycline."
+    },
+    {
+      "name": "amoxicillin",
+      "drug_class": "Beta-lactam antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Postoperative amoxicillin after surgical debridement prevents advancement of peri-implantitis but increases resistant anaerobes and decreases sensitive facultative bacteria.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "metronidazole",
+      "drug_class": "Nitroimidazole antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used in combination with amoxicillin postoperatively after surgical debridement of peri-implantitis.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "methylene blue",
+      "drug_class": "Photosensitizer / phenothiazine dye",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used at 200 µg/mL as photosensitizer in aPDT for peri-implantitis; activated by red laser irradiation to decontaminate implant surface and surrounding tissue.",
+      "photosensitivity": true,
+      "laser_implication": "Methylene blue is the photosensitizer for aPDT; requires red laser irradiation (approximately 630–670 nm) for activation. Selective bactericidal effect via reactive oxygen species generation."
+    },
+    {
+      "name": "gentamicin",
+      "drug_class": "Aminoglycoside antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Used locally and systemically in peri-implantitis treatment; combination of systemic (ceftriaxone or gentamicin) and local (tobramycin or gentamicin) antibiotics demonstrates better treatment results.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "hydrogen peroxide",
+      "drug_class": "Antiseptic / oxidizing agent",
+      "interaction_type": "caution",
+      "dental_relevance": "3% HP rubbing for 1 minute significantly decreases E. coli LPS from implant surfaces; 10% HP removes 99.9% of bacteria. Extremely reactive — may harm oral tissues if exposed to high-strength HP for prolonged duration.",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Patients on tetracycline antibiotics (minocycline, doxycycline) may have photosensitivity; caution with laser procedures. Methylene blue aPDT requires red laser activation (~630–670 nm). Systemic antibiotic prophylaxis (amoxicillin + metronidazole) is commonly used perioperatively for surgical peri-implantitis treatment. Benefits of systemic antibiotics are not sustained beyond 3 years.",
+  "confidence": "high",
+  "uncertainties": [
+    "Er:YAG laser pulse duration (ms) not specified in the paper; only energy per pulse (100 mJ), power (1 W), frequency (10 Hz), and fluence (12.74 J/cm²) are reported.",
+    "Specific diode laser wavelength and parameters for soft-tissue regeneration not reported; only described as 'low-intensity diode laser'.",
+    "aPDT red laser wavelength not explicitly specified (only described as 'red laser irradiation'); assumed ~630–670 nm based on methylene blue absorption spectrum.",
+    "CO2 laser parameters for peri-implantitis not specified in the paper.",
+    "Contact mode (contact vs. non-contact) for Er:YAG laser application not specified.",
+    "Water/air cooling settings for Er:YAG laser not reported.",
+    "Number of laser treatment sessions and session intervals not specified."
+  ],
+  "bibliographic_metadata": {
+    "title": "Peri-implantitis Update: Risk Indicators, Diagnosis, and Treatment",
+    "authors": [
+      "Dinesh Rokaya",
+      "Viritpon Srimaneepong",
+      "Wichaya Wisitrasameewon",
+      "Manoj Humagain",
+      "Pasutha Thunyakitpisal"
+    ],
+    "year": 2020,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.1055/s-0040-1715779"
+  },
+  "protocols": [
+    {
+      "name": "Tratamiento con láser Er:YAG para descontaminación de superficie de implante en peri-implantitis",
+      "synonyms_es": [
+        "descontaminación de implante con Er:YAG",
+        "láser de erbio en peri-implantitis",
+        "terapia láser Er:YAG peri-implantaria",
+        "desbridamiento láser de implante",
+        "detoxificación de superficie de implante con Er:YAG"
+      ],
+      "synonyms_en": [
+        "Er:YAG laser implant surface decontamination",
+        "erbium laser peri-implantitis treatment",
+        "Er:YAG laser debridement peri-implant",
+        "laser detoxification implant surface",
+        "Er:YAG laser peri-implant therapy"
+      ],
+      "purpose": "Descontaminación de la superficie del implante y eliminación de tejido granulomatoso en defectos peri-implantarios, como parte del tratamiento no quirúrgico o quirúrgico de la peri-implantitis, con el objetivo de reducir la profundidad de sondaje y promover la regeneración ósea.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm",
+          "representative_models": [
+            "Fotona LightWalker",
+            "Doctor Smile Wiser",
+            "Biolase Waterlase"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "1 W",
+          "frecuencia": "10 Hz",
+          "modo_de_pulso": "Pulsado (duración no especificada en el paper)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "60 segundos"
+        }
+      ],
+      "critical_notes": [
+        "Los parámetros reportados (100 mJ/pulso, 1 W, 10 Hz, 12.74 J/cm²) provienen de una revisión de literatura secundaria (Smeo et al 2018), no de un RCT primario con protocolo estandarizado.",
+        "Se debe tener especial cuidado al usar Er:YAG 2940 nm para evitar efectos térmicos adversos sobre la superficie del implante de titanio.",
+        "El diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante (riesgo de carbonización del titanio). Mantener distancia de ≥1 mm o usar punta no iniciada.",
+        "Contacto directo de diodo con punta iniciada sobre superficie de implante de titanio está contraindicado.",
+        "La terapia láser como adyuvante al tratamiento no quirúrgico puede resultar en mayor reducción de BOP a corto plazo, pero proporciona beneficio mínimo en reducción de PD, ganancia de nivel de inserción clínica y reducción del índice de placa comparado con el desbridamiento mecánico convencional.",
+        "El documento presenta esta técnica como adyuvante; existen alternativas (desbridamiento mecánico, aPDT, polvo abrasivo de aire) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "Parámetros de agua y aire no reportados en el paper original; deben consultarse las instrucciones del fabricante del equipo específico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar desbridamiento mecánico inicial con curetas plásticas o de titanio para eliminar el biofilm supragingival.",
+        "Aplicar irrigación antiséptica (CHX 0.12% o solución salina estéril) en el surco peri-implantario.",
+        "Posicionar la punta del láser Er:YAG en el área peri-implantaria manteniendo distancia segura de la superficie del implante.",
+        "Aplicar el láser Er:YAG a 100 mJ/pulso, 1 W, 10 Hz durante 60 segundos para descontaminación de la superficie del implante y tejidos circundantes.",
+        "Eliminar el tejido granulomatoso del defecto con el láser si se realiza en contexto quirúrgico.",
+        "Combinar con injerto óseo si existe defecto óseo significativo que requiera regeneración.",
+        "Realizar seguimiento clínico y radiográfico a los 12 meses para evaluar reducción de PD y relleno óseo."
+      ],
+      "indications": [
+        "Peri-implantitis con defectos profundos (≥6 mm) que requieren descontaminación de superficie de implante",
+        "Tratamiento adyuvante al desbridamiento mecánico no quirúrgico en peri-implantitis",
+        "Tratamiento quirúrgico de peri-implantitis con eliminación de tejido granulomatoso y grafting óseo",
+        "Casos donde se busca reducción de BOP a corto plazo como complemento al tratamiento convencional"
+      ],
+      "contraindications": [
+        "Contacto directo del láser Er:YAG sobre superficie de implante de titanio sin control de distancia (riesgo de daño térmico)",
+        "Uso como monoterapia sin combinación con desbridamiento mecánico",
+        "Peri-implantitis con pérdida ósea superior al 50% de la longitud del implante (pronóstico quirúrgico desfavorable)"
+      ],
+      "postop_care": [
+        "Instrucciones de higiene oral reforzadas para control de placa en sitios peri-implantarios",
+        "Terapia de mantenimiento peri-implantario (SPT) a largo plazo para prevenir recurrencia",
+        "Evaluación clínica y radiográfica periódica con registro de BOP, PD e índice de placa",
+        "Considerar antibióticos sistémicos adyuvantes según evaluación clínica individual"
+      ],
+      "evidence_level": "Bajo — basado en revisión narrativa de literatura secundaria; los parámetros específicos provienen de estudios citados (series de casos, revisiones) sin RCT primario con protocolo estandarizado de Er:YAG para peri-implantitis.",
+      "keywords_es": [
+        "Er:YAG peri-implantitis",
+        "láser erbio implante",
+        "descontaminación superficie implante",
+        "terapia láser peri-implantaria",
+        "desbridamiento láser implante",
+        "detoxificación implante láser",
+        "peri-implantitis tratamiento láser",
+        "2940 nm implante",
+        "láser dental implante",
+        "reducción profundidad sondaje implante",
+        "regeneración ósea peri-implantaria",
+        "biofilm implante láser",
+        "mucositis peri-implantaria",
+        "pérdida ósea implante"
+      ],
+      "keywords_en": [
+        "Er:YAG peri-implantitis",
+        "erbium laser implant",
+        "implant surface decontamination laser",
+        "peri-implant laser therapy",
+        "laser debridement implant",
+        "implant detoxification laser",
+        "peri-implantitis laser treatment",
+        "2940 nm implant",
+        "dental laser implant",
+        "probing depth reduction implant",
+        "peri-implant bone regeneration",
+        "implant biofilm laser",
+        "peri-implant mucositis",
+        "implant bone loss treatment"
+      ],
+      "is_virtual_protocol": false
+    },
+    {
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) con azul de metileno y láser rojo en peri-implantitis",
+      "synonyms_es": [
+        "PDT antimicrobiana peri-implantaria",
+        "fotodinámica con azul de metileno implante",
+        "terapia fotodinámica peri-implantitis",
+        "aPDT descontaminación implante",
+        "terapia fotosensibilizadora peri-implantaria"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy peri-implantitis",
+        "aPDT methylene blue implant",
+        "photodynamic therapy peri-implant",
+        "aPDT implant surface decontamination",
+        "photosensitizer laser peri-implantitis"
+      ],
+      "purpose": "Eliminación bacteriana y remodelación ósea crestal en peri-implantitis mediante la activación de un fotosensibilizador (azul de metileno) con irradiación láser rojo, como alternativa o complemento al desbridamiento mecánico convencional.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz roja (~630–670 nm) para activación de azul de metileno",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "~630–670 nm (rojo, compatible con azul de metileno)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos del láser rojo no están especificados en el paper. Basado en: Rokaya et al. (2020), citando Garcia de Carvalho et al. (2020).",
+        "El fotosensibilizador utilizado es azul de metileno a 200 µg/mL; la longitud de onda del láser rojo no se especifica explícitamente pero corresponde al espectro de absorción del azul de metileno (~630–670 nm).",
+        "La técnica se realiza tras desbridamiento mecánico directo, seguido de aplicación del fotosensibilizador e irradiación láser.",
+        "El documento presenta esta técnica como 'prometedora alternativa'; la evidencia clínica disponible es limitada (reporte de caso citado).",
+        "El diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante de titanio."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar desbridamiento mecánico directo de la superficie del implante y tejidos peri-implantarios.",
+        "Aplicar azul de metileno a 200 µg/mL en el surco peri-implantario y sobre la superficie del implante.",
+        "Irradiar con láser rojo (~630–670 nm) para activar el fotosensibilizador y generar especies reactivas de oxígeno con efecto bactericida.",
+        "Evaluar la descontaminación de la superficie del implante y tejidos circundantes.",
+        "Considerar combinación con regeneración ósea guiada si existe defecto óseo significativo."
+      ],
+      "indications": [
+        "Peri-implantitis como alternativa o complemento al desbridamiento mecánico convencional",
+        "Casos donde se busca eliminación bacteriana adicional sin recurrir a antibióticos sistémicos",
+        "Peri-implantitis con necesidad de remodelación ósea crestal adyuvante"
+      ],
+      "contraindications": [
+        "Alergia conocida al azul de metileno o fenotiazinas",
+        "Pacientes en tratamiento con inhibidores de la MAO (riesgo de síndrome serotoninérgico con azul de metileno sistémico — relevante si se absorbe)",
+        "Contacto directo de diodo con punta iniciada sobre superficie de implante de titanio"
+      ],
+      "postop_care": [
+        "Instrucciones de higiene oral reforzadas",
+        "Terapia de mantenimiento peri-implantario a largo plazo",
+        "Evaluación clínica y radiográfica periódica"
+      ],
+      "evidence_level": "Bajo — basado en revisión narrativa con referencia a un reporte de caso (Garcia de Carvalho et al. 2020); no hay RCTs con parámetros estandarizados de aPDT para peri-implantitis en este paper.",
+      "keywords_es": [
+        "aPDT peri-implantitis",
+        "terapia fotodinámica antimicrobiana implante",
+        "azul de metileno implante",
+        "fotosensibilizador peri-implantario",
+        "láser rojo descontaminación implante",
+        "PDT bactericida implante",
+        "fotodinámica dental implante",
+        "especies reactivas oxígeno implante",
+        "desbridamiento fotodinámica peri-implantitis",
+        "terapia luz implante dental",
+        "biofilm implante fotodinámica",
+        "mucositis peri-implantaria PDT"
+      ],
+      "keywords_en": [
+        "aPDT peri-implantitis",
+        "antimicrobial photodynamic therapy implant",
+        "methylene blue implant",
+        "photosensitizer peri-implant",
+        "red laser implant decontamination",
+        "PDT bactericidal implant",
+        "photodynamic dental implant",
+        "reactive oxygen species implant",
+        "photodynamic debridement peri-implantitis",
+        "light therapy dental implant",
+        "implant biofilm photodynamic",
+        "peri-implant mucositis PDT"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Terapia con láser de diodo de baja intensidad como adyuvante en peri-implantitis",
+      "synonyms_es": [
+        "láser diodo baja intensidad peri-implantitis",
+        "LLLT peri-implantaria",
+        "fotobiomodulación peri-implantitis",
+        "láser blando implante dental",
+        "terapia láser de baja potencia peri-implantaria"
+      ],
+      "synonyms_en": [
+        "low-intensity diode laser peri-implantitis",
+        "LLLT peri-implant",
+        "photobiomodulation peri-implantitis",
+        "soft laser dental implant",
+        "low-level laser therapy peri-implant"
+      ],
+      "purpose": "Estimulación de la regeneración de tejidos blandos peri-implantarios y apoyo a la oseointegración mediante la aplicación de láser de diodo de baja intensidad como adyuvante al tratamiento convencional de la peri-implantitis.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo de baja intensidad (810–980 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "No especificado (diodo de baja intensidad)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados en este paper. Basado en: Rokaya et al. (2020), citando Pai et al. (2014).",
+        "El mecanismo de acción descrito incluye activación de fotorreceptores celulares (citocromo C oxidasa), aumento de ATP mitocondrial, estimulación de macrófagos, fibroblastos, células endoteliales y factores de crecimiento, resultando en síntesis de colágeno y regeneración tisular.",
+        "Una revisión sistemática citada en el paper mostró que el uso de láser resultó en reducción de PD similar al desbridamiento mecánico convencional a corto plazo.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "El diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante de titanio (riesgo de carbonización). Mantener distancia de ≥1 mm o usar punta no iniciada."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar desbridamiento mecánico convencional del sitio peri-implantario.",
+        "Aplicar el láser de diodo de baja intensidad en el área peri-implantaria para estimular la regeneración de tejidos blandos.",
+        "Combinar con otros tratamientos adyuvantes (antisépticos, antibióticos locales) según la severidad del caso.",
+        "Realizar seguimiento clínico para evaluar la respuesta tisular y la oseointegración."
+      ],
+      "indications": [
+        "Peri-implantitis como adyuvante al tratamiento mecánico convencional",
+        "Estimulación de regeneración de tejidos blandos peri-implantarios",
+        "Apoyo a la oseointegración del implante dental",
+        "Fase I de terapia en peri-implantitis (según Kotsakis et al. citado en el paper)"
+      ],
+      "contraindications": [
+        "Contacto directo de diodo con punta iniciada sobre superficie de implante de titanio",
+        "Uso como monoterapia sin desbridamiento mecánico adyuvante"
+      ],
+      "postop_care": [
+        "Instrucciones de higiene oral reforzadas",
+        "Terapia de mantenimiento peri-implantario a largo plazo",
+        "Evaluación clínica periódica de BOP, PD e índice de placa"
+      ],
+      "evidence_level": "Bajo — basado en revisión narrativa con referencia a serie de casos (Pai et al. 2014) y revisión sistemática (Mailoa et al. 2014); evidencia limitada para parámetros específicos.",
+      "keywords_es": [
+        "láser diodo peri-implantitis",
+        "LLLT implante dental",
+        "fotobiomodulación implante",
+        "láser baja intensidad implante",
+        "regeneración tejido blando implante",
+        "oseointegración láser",
+        "terapia láser baja potencia dental",
+        "diodo 810 nm implante",
+        "diodo 980 nm implante",
+        "peri-implantitis tratamiento adyuvante",
+        "mucositis peri-implantaria láser",
+        "biofilm implante diodo"
+      ],
+      "keywords_en": [
+        "diode laser peri-implantitis",
+        "LLLT dental implant",
+        "photobiomodulation implant",
+        "low-level laser implant",
+        "soft tissue regeneration implant",
+        "osseointegration laser",
+        "low-power laser therapy dental",
+        "diode 810 nm implant",
+        "diode 980 nm implant",
+        "peri-implantitis adjunct treatment",
+        "peri-implant mucositis laser",
+        "implant biofilm diode laser"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
