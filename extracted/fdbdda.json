@@ -1,0 +1,234 @@
+{
+  "article_refs": [
+    "pdf_local::input_1778942396::e99988"
+  ],
+  "uuid": "fdbdda",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "PDT con azul de metileno (MB) a 25 μg/ml y luz roja a 665 nm (30 J/cm²) produjo aproximadamente 63% de eliminación bacteriana en fase planctónica de placa dental humana.",
+    "En biofilms derivados de la misma placa dental, el efecto de PDT fue significativamente menor, con una eliminación máxima del 32% (supervivencia del 69% vs 37% en planctónico).",
+    "El aumento de la concentración de MB de 25 a 50 μg/ml en biofilms mejoró modestamente la eliminación bacteriana (32.1% de eliminación con 50 μg/ml vs 8.4% con 25 μg/ml en el segundo grupo de sujetos).",
+    "La diferencia de eficacia de PDT entre biofilm y planctónico fue de solo 2 veces, mientras que los antibióticos han sido reportados como aproximadamente 250 veces menos efectivos en biofilms bajo condiciones similares.",
+    "La reducida susceptibilidad de los biofilms a PDT se atribuye a: penetración limitada del fotosensibilizador, fenotipos protegidos de las bacterias en biofilm, inactivación del MB por proteínas del medio, y bombas de resistencia a múltiples fármacos.",
+    "El modelo de microcosmos de biofilm utilizado (placa dental humana completa en agar) mostró composición microbiana similar a la placa dental natural, con profundidad de biofilm de 180-200 μm.",
+    "La fotodestucción ocurrió predominantemente en las capas externas del biofilm, con penetración limitada del fotosensibilizador hacia el interior de los cúmulos celulares.",
+    "Un estudio in vivo citado mostró que el raspado y alisado radicular combinado con PDT usando MB produjo mejoras clínicas significativas sobre el raspado y alisado radicular solo."
+  ],
+  "outcomes": [
+    {
+      "measured": "Fracción de supervivencia bacteriana en fase planctónica (PDT con MB 25 μg/ml + luz 665 nm, 30 J/cm²)",
+      "result": "Supervivencia media del 37.2% (eliminación ~63%)",
+      "statistical_significance": true,
+      "clinical_significance": "Reducción significativa de bacterias en suspensión, pero no eliminación completa"
+    },
+    {
+      "measured": "Fracción de supervivencia bacteriana en biofilm (PDT con MB 25 μg/ml + luz 665 nm, 30 J/cm²)",
+      "result": "Supervivencia media del 69% (eliminación ~31%)",
+      "statistical_significance": true,
+      "clinical_significance": "Reducción significativamente menor en biofilm que en planctónico; PDT 2 veces menos efectivo en biofilm"
+    },
+    {
+      "measured": "Fracción de supervivencia bacteriana en biofilm con MB 50 μg/ml + luz 665 nm, 30 J/cm²",
+      "result": "Supervivencia media del 67.9% (eliminación ~32.1%)",
+      "statistical_significance": true,
+      "clinical_significance": "Mayor concentración de MB mejora modestamente la eliminación en biofilm; significativamente menor que todos los otros grupos"
+    }
+  ],
+  "notes": "Estudio in vitro con placa dental humana de 10 sujetos con periodontitis crónica. El modelo de microcosmos de biofilm fue desarrollado durante 7 días en condiciones anaeróbicas. La fuente de luz fue un láser de diodo a 665 nm (BWTEK Inc.) con densidad de potencia de 100 mW/cm² y fluencia de 30 J/cm². El fotosensibilizador fue azul de metileno (MB) a 25 y 50 μg/ml. Financiado por NIDCR grants RO1-DE-14360 y RO1-DE-16922.",
+  "population": {
+    "n_participants": 10,
+    "age_range": null,
+    "condition": "Chronic periodontitis (probing depths > 5 mm)",
+    "sample_type": "Human dental plaque (supra- and subgingival) from premolars/molars"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": null,
+  "funding_source_text": "Supported by NIDCR grants RO1-DE-14360 and RO1-DE-16922. Carla R. Fontana was a fellow of CAPES Foundation, Brazilian government (process BEX 0547/05-0).",
+  "source_citation": "Fontana, C. R., Abernethy, A. D., Som, S., Ruggiero, K., Doucette, S., Marcantonio, R. C., Boussios, C. I., Kent, R., Goodson, J. M., Tanner, A. C. R., & Soukos, N. S. (2009). The antibacterial effect of photodynamic therapy in dental plaque-derived biofilms. Journal of Periodontal Research, 44(6), 751–759. https://doi.org/10.1111/j.1600-0765.2008.01187.x",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 665,
+      "fluence_j_cm2": 30.0,
+      "power_w": 1.0,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 20.0,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.1,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 300.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "subgingival plaque biofilm",
+      "planktonic dental plaque suspension"
+    ]
+  },
+  "clinical_indication": "Antibacterial photodynamic therapy (aPDT) for periodontal biofilm disinfection / periodontitis treatment",
+  "target_tissue": "dental plaque biofilm, subgingival bacteria",
+  "brand_model_mentioned": [
+    "BWTEK Inc. diode laser 665 nm",
+    "Leica SP2 confocal scanning fluorescence microscope"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "methylene blue",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Fotosensibilizador utilizado en PDT periodontal; su eficacia se reduce en presencia de proteínas salivales y del fluido crevicular gingival. Es sustrato de bombas de resistencia a múltiples fármacos en bacterias.",
+      "photosensitivity": true,
+      "laser_implication": "Requiere activación con luz roja a 665 nm (máximo de absorción). La eficacia en biofilms es limitada por penetración reducida del fotosensibilizador. Concentraciones de 25-50 μg/ml con fluencia de 30 J/cm² producen eliminación parcial (32-63%) dependiendo del estado planctónico vs biofilm."
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "El azul de metileno como fotosensibilizador para PDT periodontal debe aplicarse durante 5 minutos antes de la irradiación con luz roja a 665 nm. Las proteínas salivales y del fluido crevicular gingival reducen la eficacia del MB in vivo. La PDT es más efectiva en bacterias planctónicas que en biofilms establecidos; se recomienda combinar con raspado y alisado radicular para mayor eficacia clínica.",
+  "confidence": "high",
+  "uncertainties": [
+    "El tiempo exacto de irradiación no se especifica directamente en el abstract pero se calcula como ~5 minutos (300 s) a partir de 100 mW/cm² para alcanzar 30 J/cm².",
+    "No se reportan datos de temperatura tisular ni efectos sobre tejido periodontal del hospedador.",
+    "El estudio es in vitro; la extrapolación directa a condiciones clínicas in vivo requiere cautela dado que las proteínas salivales y del fluido crevicular reducirían adicionalmente la eficacia.",
+    "No se especifica el modo de pulso del láser de diodo (continuo vs pulsado); se asume continuo dado que se reporta densidad de potencia constante."
+  ],
+  "bibliographic_metadata": {
+    "title": "The antibacterial effect of photodynamic therapy in dental plaque-derived biofilms",
+    "authors": [
+      "C. R. Fontana",
+      "A. D. Abernethy",
+      "S. Som",
+      "K. Ruggiero",
+      "S. Doucette",
+      "R. C. Marcantonio",
+      "C. I. Boussios",
+      "R. Kent",
+      "J. M. Goodson",
+      "A. C. R. Tanner",
+      "N. S. Soukos"
+    ],
+    "year": 2009,
+    "journal": "Journal of Periodontal Research",
+    "doi": "10.1111/j.1600-0765.2008.01187.x"
+  },
+  "protocols": [
+    {
+      "name": "aPDT con azul de metileno y luz roja 665 nm para biofilm periodontal (placa dental subgingival)",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana periodontal",
+        "fotosensibilización con azul de metileno en placa dental",
+        "PDT con MB para periodontitis",
+        "fotodesinfección subgingival con azul de metileno",
+        "terapia fotodinámica para biofilm de placa dental"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy periodontal",
+        "methylene blue PDT dental plaque",
+        "photosensitization with MB for periodontitis",
+        "subgingival photodisinfection methylene blue",
+        "aPDT dental biofilm red light"
+      ],
+      "purpose": "Reducir la carga bacteriana en biofilms de placa dental subgingival mediante la activación de azul de metileno (fotosensibilizador) con luz roja a 665 nm, generando especies reactivas de oxígeno citotóxicas para las bacterias periodontales.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo 665 nm (fuente de luz para fotosensibilizador MB)",
+          "representative_models": [
+            "BWTEK Inc. diode laser 665 nm"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "665 nm",
+          "potencia": "1 W (densidad de potencia: 100 mW/cm²)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra óptica 1 mm acoplada a lente formadora de spot circular de 2 cm de diámetro",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Distancia ajustada para crear spot de 2 cm de diámetro con 100 mW/cm²",
+          "tiempo_ciclos": "5 minutos (300 s) para alcanzar fluencia de 30 J/cm²; fotosensibilizador MB 25-50 μg/ml aplicado 5 min antes en oscuridad"
+        }
+      ],
+      "critical_notes": [
+        "La eficacia de PDT con MB es significativamente menor en biofilms (~32% eliminación) que en bacterias planctónicas (~63% eliminación); la diferencia es de 2 veces, mucho menor que la resistencia a antibióticos (~250 veces).",
+        "Las proteínas salivales y del fluido crevicular gingival reducen la eficacia del MB in vivo; el estudio utilizó MB disuelto en caldo BHI para simular este efecto.",
+        "El MB es sustrato de bombas de resistencia a múltiples fármacos en bacterias (fenotiazinium), lo que puede contribuir a la resistencia de los biofilms.",
+        "La penetración del fotosensibilizador en biofilms es limitada; la fotodestucción ocurre predominantemente en las capas externas del biofilm.",
+        "Aumentar la concentración de MB de 25 a 50 μg/ml mejora modestamente la eliminación en biofilms pero no produce eradicación completa.",
+        "Se recomienda combinar PDT con raspado y alisado radicular para mayor eficacia clínica, según evidencia in vivo citada en el paper.",
+        "⚠️ Este es un estudio in vitro con modelo de microcosmos de biofilm; los parámetros no han sido validados en ensayos clínicos controlados con estos parámetros exactos."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Obtener muestras de placa dental supra- e subgingival con curetas Gracey estériles.",
+        "Dispersar las muestras en solución de Ringer anaeróbicamente esterilizada mediante sonicación.",
+        "Preparar la solución de azul de metileno (MB) a 25 μg/ml (o 50 μg/ml para mayor eficacia en biofilm) en medio de cultivo.",
+        "Incubar las bacterias o biofilms con la solución de MB durante 5 minutos en oscuridad a temperatura ambiente.",
+        "Irradiar con luz roja a 665 nm a una densidad de potencia de 100 mW/cm² durante 5 minutos (fluencia total: 30 J/cm²).",
+        "Mantener las placas cubiertas con tapa durante la irradiación para evitar perturbaciones.",
+        "Tras la irradiación, procesar las muestras para recuento de unidades formadoras de colonias (UFC) en agar sangre en condiciones anaeróbicas."
+      ],
+      "indications": [
+        "Periodontitis crónica con biofilms subgingivales establecidos",
+        "Desinfección de placa dental como complemento al raspado y alisado radicular",
+        "Reducción de carga bacteriana en bolsas periodontales",
+        "Tratamiento antimicrobiano alternativo o complementario a antibióticos en periodontitis"
+      ],
+      "contraindications": [
+        "Alergia conocida al azul de metileno",
+        "Deficiencia de glucosa-6-fosfato deshidrogenasa (G6PD) — el MB intravenoso está contraindicado; relevancia para uso tópico oral no establecida",
+        "Expectativa de eradicación completa del biofilm como único tratamiento — PDT no elimina completamente los biofilms periodontales establecidos"
+      ],
+      "postop_care": [
+        "Monitorizar la respuesta clínica periodontal (profundidad de sondaje, sangrado al sondaje) en visitas de seguimiento.",
+        "Considerar sesiones repetidas de PDT combinadas con mantenimiento periodontal para control a largo plazo del biofilm.",
+        "Instruir al paciente en higiene oral adecuada para prevenir la rápida recolonización del biofilm."
+      ],
+      "evidence_level": "Bajo — estudio in vitro con modelo de microcosmos de biofilm de placa dental humana (n=10 sujetos). Los parámetros clínicos exactos no han sido validados en RCTs con estos parámetros específicos.",
+      "keywords_es": [
+        "terapia fotodinámica antimicrobiana",
+        "aPDT periodontal",
+        "azul de metileno fotosensibilizador",
+        "PDT placa dental",
+        "biofilm periodontal",
+        "periodontitis crónica tratamiento",
+        "fotodesinfección subgingival",
+        "luz roja 665 nm bacterias",
+        "fotosensibilización bacteriana oral",
+        "resistencia biofilm PDT",
+        "placa dental subgingival",
+        "eliminación bacteriana fotodinámica",
+        "láser diodo periodontal",
+        "especies reactivas oxígeno bacterias",
+        "fenotiazinium fotosensibilizador"
+      ],
+      "keywords_en": [
+        "antimicrobial photodynamic therapy",
+        "aPDT periodontal",
+        "methylene blue photosensitizer",
+        "PDT dental plaque",
+        "periodontal biofilm",
+        "chronic periodontitis treatment",
+        "subgingival photodisinfection",
+        "red light 665 nm bacteria",
+        "oral bacterial photosensitization",
+        "biofilm resistance PDT",
+        "subgingival dental plaque",
+        "photodynamic bacterial killing",
+        "diode laser periodontal",
+        "reactive oxygen species bacteria",
+        "phenothiazinium photosensitizer"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
