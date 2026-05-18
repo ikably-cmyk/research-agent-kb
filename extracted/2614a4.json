@@ -1,0 +1,295 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101017_s0022215100125496__409e8f26::96fd3f"
+  ],
+  "uuid": "2614a4",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "case_series",
+  "evidence_level": "low",
+  "key_points": [
+    "PDT with Photofrin (2 mg/kg IV, 48h prior) and red laser light at 630 nm (50–100 J/cm²) was used to treat 11 patients with 'field cancerization' of the oral cavity (Stage I squamous cell carcinomas with associated leukoplakia/erythroplakia).",
+    "10 of 11 patients showed complete response at 6–8 weeks post-PDT; one had incomplete response with residual leukoplakia on the tongue dorsum.",
+    "No patient developed recurrent invasive carcinoma in treated areas during follow-up (range 3–19 months, mean 11 months).",
+    "Two patients developed metachronous primary carcinomas at sites away from treated areas, reflecting the field change nature of the disease rather than PDT failure.",
+    "Power densities were kept below 150 mW/cm² to avoid thermal injury; no thermal sensation was reported by patients.",
+    "Treated areas healed in 3–5 weeks with regeneration of clinically and histologically normal mucosa in most cases.",
+    "The main limitations of Photofrin-based PDT are limited light penetration (few mm) and prolonged cutaneous photosensitization requiring 6 weeks of sunlight avoidance.",
+    "PDT is considered appropriate only for superficial lesions; bulky or deeply invasive tumours are not suitable candidates.",
+    "Next-generation photosensitizers such as aminolevulinic acid (ALA) were proposed as potentially superior due to faster skin clearance.",
+    "PDT can be repeated without loss of normal tissue, unlike surgery or radiotherapy, making it particularly attractive for multifocal field cancerization."
+  ],
+  "outcomes": [
+    {
+      "measured": "Complete response rate at 6–8 weeks",
+      "result": "10/11 patients (91%) showed complete response (no evidence of abnormal mucosa clinically or histologically)",
+      "statistical_significance": null,
+      "clinical_significance": "High clinical relevance for management of multifocal oral field cancerization without mutilating surgery"
+    },
+    {
+      "measured": "Recurrence of invasive carcinoma in treated areas",
+      "result": "No patient developed recurrent invasive carcinoma in treated areas during follow-up (3–19 months)",
+      "statistical_significance": null,
+      "clinical_significance": "Promising short-term local control, though longer follow-up needed"
+    },
+    {
+      "measured": "Metachronous primary carcinoma development",
+      "result": "2/11 patients developed metachronous primaries at sites away from treated areas",
+      "statistical_significance": null,
+      "clinical_significance": "Reflects field change disease biology, not PDT failure"
+    },
+    {
+      "measured": "Healing time of treated areas",
+      "result": "3–5 weeks depending on area size",
+      "statistical_significance": null,
+      "clinical_significance": "Acceptable healing time for outpatient procedure"
+    }
+  ],
+  "notes": "This is a 1993 case series using first-generation photosensitizer (Photofrin). The copper vapour pumped dye laser at 630 nm is the light source. PDT here is not low-level/PBM but rather photodynamic ablation of malignant/premalignant tissue. The paper discusses Photofrin as a photosensitizing drug with significant photosensitivity implications (6 weeks sunlight avoidance). Relevant to both laser use in dentistry/oral medicine and drug photosensitivity considerations.",
+  "population": {
+    "n_participants": 11,
+    "age_range": null,
+    "condition": "Field cancerization of oral cavity: Stage I squamous cell carcinoma with associated leukoplakia/erythroplakia",
+    "sample_type": "Clinical patients, outpatient setting"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "Lederle Laboratories provided the Photofrin. William Grant supported by Association for International Cancer Research; Stephen Bown supported by Imperial Cancer Research Fund.",
+  "funding_source_text": "William Grant is supported by the Association for International Cancer Research, and Stephen Bown by the Imperial Cancer Research Fund. Lederle Laboratories provided the Photofrin.",
+  "source_citation": "Grant, W. E., Hopper, C., Speight, P. M., Macrobert, A. J., & Bown, S. G. (1993). Photodynamic therapy of malignant and premalignant lesions in patients with 'field cancerization' of the oral cavity. The Journal of Laryngology & Otology, 107(12), 1140–1145. https://doi.org/10.1017/S0022215100125496",
+  "contraindications": [
+    "Bulky or deeply invasive tumours (PDT light penetration limited to a few mm from surface)",
+    "Patients unable to comply with 6-week sunlight avoidance protocol (cutaneous photosensitization with Photofrin)",
+    "Advanced-stage oral cancers (T2+ with deep muscle or bone invasion)"
+  ],
+  "adverse_events": [
+    "Post-treatment pain lasting approximately one week (managed with oral analgesia)",
+    "Surface necrosis and superficial slough in treated areas 3–4 days post-PDT",
+    "Local oedema in treated areas",
+    "Prolonged cutaneous photosensitization requiring 6 weeks of sunlight avoidance (Photofrin-specific)",
+    "One patient: persistent non-healing ulcer associated with dental trauma (excised at 3 months, showed simple inflammatory ulceration)",
+    "One patient with oral submucous fibrosis: healed with scarring similar to adjacent untreated mucosa"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 630,
+      "fluence_j_cm2": 75.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "surface illumination with optical fibre and microlens for homogeneous spot; multijointed articulated arm for positioning",
+    "anatomical_points": [
+      "buccal mucosa",
+      "tongue",
+      "alveolar ridge",
+      "palate",
+      "lip",
+      "bucco-gingival sulcus",
+      "floor of mouth"
+    ]
+  },
+  "clinical_indication": "Photodynamic therapy (PDT) for field cancerization of the oral cavity: Stage I squamous cell carcinoma with associated leukoplakia, erythroplakia, or erythroleukoplakia",
+  "target_tissue": "oral mucosa (squamous cell carcinoma and premalignant epithelium)",
+  "brand_model_mentioned": [
+    "Photofrin (Lederle Laboratories)",
+    "copper vapour pumped dye laser"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "porfimer sodium (Photofrin)",
+      "drug_class": "Photosensitizer (hematoporphyrin derivative)",
+      "interaction_type": "caution",
+      "dental_relevance": "Administered IV at 2 mg/kg 48h before photoirradiation. Causes prolonged cutaneous photosensitization requiring 6 weeks of sunlight avoidance. Relevant for any dental/oral procedure involving light exposure post-administration.",
+      "photosensitivity": true,
+      "laser_implication": "Photofrin is activated by 630 nm red laser light. Patients must avoid direct sunlight for 6 weeks post-administration. Any laser or intense light exposure to skin during this period risks phototoxic reactions. Dental procedures using bright operatory lights or lasers should be scheduled with awareness of photosensitization window."
+    },
+    {
+      "name": "aminolevulinic acid (ALA)",
+      "drug_class": "Photosensitizer precursor (second-generation)",
+      "interaction_type": "caution",
+      "dental_relevance": "Mentioned as next-generation photosensitizer with faster skin clearance than Photofrin, potentially reducing duration of cutaneous photosensitization. Not used in this study but discussed as future alternative.",
+      "photosensitivity": true,
+      "laser_implication": "ALA-based PDT would also require light activation (typically 630–635 nm or broadband red light). Shorter photosensitization window compared to Photofrin may reduce scheduling conflicts with dental procedures."
+    },
+    {
+      "name": "benzydamine",
+      "drug_class": "NSAID / local analgesic-anti-inflammatory (topical spray)",
+      "interaction_type": "monitor",
+      "dental_relevance": "Prescribed post-PDT as local analgesic/anti-inflammatory spray for oral mucosal pain management. Commonly used in oral medicine.",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Patients receiving Photofrin (porfimer sodium) 2 mg/kg IV must avoid direct sunlight for 6 weeks post-administration due to prolonged cutaneous photosensitization. Dental procedures involving bright lights or lasers should be scheduled accordingly. Post-PDT pain management with oral analgesics and benzydamine spray is required for approximately one week.",
+  "confidence": "high",
+  "uncertainties": [
+    "Exact power density values used per patient not individually reported (range stated as <150 mW/cm²)",
+    "Exact fluence per session not individually reported (range 50–100 J/cm²); mean of 75 J/cm² used as representative value in laser_parameters",
+    "Patient ages not reported",
+    "Number of treatment spots per patient not individually specified (stated >1 spot for 10/11 patients)",
+    "Long-term follow-up beyond 19 months not available in this 1993 paper",
+    "Copper vapour pumped dye laser model/brand not specified"
+  ],
+  "bibliographic_metadata": {
+    "title": "Photodynamic therapy of malignant and premalignant lesions in patients with 'field cancerization' of the oral cavity",
+    "authors": [
+      "W. E. Grant",
+      "C. Hopper",
+      "P. M. Speight",
+      "A. J. Macrobert",
+      "S. G. Bown"
+    ],
+    "year": 1993,
+    "journal": "The Journal of Laryngology & Otology",
+    "doi": "10.1017/S0022215100125496"
+  },
+  "protocols": [
+    {
+      "name": "PDT con Photofrin para carcinoma oral superficial y lesiones premalignas (campo de cancerización)",
+      "synonyms_es": [
+        "terapia fotodinámica oral con Photofrin",
+        "PDT para leucoplasia oral",
+        "fotoirradiación de carcinoma oral superficial",
+        "terapia fotodinámica para campo de cancerización oral",
+        "ablación fotodinámica de mucosa oral premaligna"
+      ],
+      "synonyms_en": [
+        "oral PDT with Photofrin",
+        "photodynamic therapy for oral field cancerization",
+        "surface photoirradiation for oral squamous cell carcinoma",
+        "PDT for oral leukoplakia",
+        "photodynamic ablation of premalignant oral mucosa"
+      ],
+      "purpose": "Ablación fotodinámica no mutilante de carcinomas escamosos superficiales (estadio I) y lesiones premalignas asociadas (leucoplasia, eritroplasia) en pacientes con campo de cancerización oral, preservando la función y permitiendo repetición del tratamiento sin pérdida de tejido normal.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de colorante bombeado por vapor de cobre (630 nm) para activación de Photofrin",
+          "representative_models": [
+            "Copper vapour pumped dye laser"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "630 nm",
+          "potencia": "No especificado individualmente (densidad de potencia <150 mW/cm²)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra óptica con microlente para homogeneidad del spot; brazo articulado multiarticulado para posicionamiento",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Iluminación superficial (no contacto)",
+          "tiempo_ciclos": "Dosis de luz 50–100 J/cm² por área; múltiples spots según extensión de la lesión"
+        }
+      ],
+      "critical_notes": [
+        "Photofrin (porfimer sódico) se administra IV a 2 mg/kg exactamente 48 horas antes de la fotoirradiación.",
+        "La densidad de potencia debe mantenerse por debajo de 150 mW/cm² para evitar lesión térmica; ningún paciente reportó sensación de calor.",
+        "Los pacientes deben evitar la luz solar directa durante 6 semanas tras la administración de Photofrin por fotosensibilización cutánea prolongada.",
+        "PDT con Photofrin solo es apropiada para lesiones superficiales; la penetración de luz es de pocos milímetros, por lo que tumores voluminosos o con extensión profunda a músculo o hueso no son candidatos.",
+        "Las áreas tratadas tardan 3–5 semanas en cicatrizar completamente según el tamaño; se recomienda dieta blanda durante la primera semana.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (cirugía, radioterapia, retinoides, ALA-PDT) que pueden ser apropiadas según el caso clínico.",
+        "Fotosensibilizadores de segunda generación como el ácido aminolevulínico (ALA) se mencionan como alternativa con menor duración de fotosensibilización cutánea.",
+        "⚠️ Este protocolo es de carácter histórico (1993, primera generación de fotosensibilizadores). Los protocolos actuales de PDT oral pueden diferir significativamente en fotosensibilizador, longitud de onda y parámetros de luz."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Confirmar diagnóstico histológico de carcinoma escamoso invasivo superficial (estadio I, T1N0M0) y/o lesiones premalignas (leucoplasia, eritroplasia) mediante biopsia.",
+        "Administrar Photofrin (porfimer sódico) 2 mg/kg por infusión intravenosa exactamente 48 horas antes de la fotoirradiación.",
+        "Fotografiar y registrar diagramáticamente todas las áreas de tratamiento en la historia clínica.",
+        "Aconsejar al paciente evitar la luz solar directa durante 6 semanas tras la administración del fotosensibilizador; proporcionar hoja informativa escrita.",
+        "Realizar la fotoirradiación en régimen ambulatorio sin anestesia local ni sedación.",
+        "Posicionar la fibra óptica con microlente mediante brazo articulado multiarticulado para iluminación superficial homogénea de cada área diana.",
+        "Aplicar luz roja monocromática a 630 nm con densidad de potencia <150 mW/cm² hasta alcanzar una dosis de luz de 50–100 J/cm² por área.",
+        "Tratar todas las áreas clínicamente aparentes de leucoplasia, eritroplasia y tumor con spots múltiples según sea necesario.",
+        "Prescribir analgésicos orales y spray de benzidamina para el manejo del dolor postoperatorio.",
+        "Revisar y fotografiar al paciente dos veces en la semana siguiente al PDT, luego semanalmente hasta la cicatrización, y posteriormente cada 2–4 semanas.",
+        "Evaluar la respuesta inicial a las 6–8 semanas post-PDT (respuesta completa vs. incompleta).",
+        "Biopsiar áreas de mucosa regenerada clínicamente normal a los 3+ meses para confirmación histológica cuando esté indicado.",
+        "Realizar seguimiento a largo plazo para detectar recurrencia de displasia, leucoplasia o carcinoma invasivo."
+      ],
+      "indications": [
+        "Carcinoma escamoso oral superficial estadio I (T1N0M0) sin extensión profunda a músculo o hueso",
+        "Campo de cancerización oral: múltiples focos sincrónicos o metacrónicos de carcinoma in situ y/o lesiones premalignas (leucoplasia, eritroplasia)",
+        "Pacientes con múltiples resecciones quirúrgicas previas en quienes nueva cirugía implicaría mutilación inaceptable",
+        "Leucoplasia con displasia histológicamente confirmada, especialmente multifocal",
+        "Pacientes que rechazan o no son candidatos a cirugía convencional o radioterapia",
+        "Tratamiento adyuvante a resección quirúrgica local del foco primario cuando existe campo de cancerización extenso"
+      ],
+      "contraindications": [
+        "Tumores voluminosos o con extensión profunda a músculo o hueso (la penetración de luz es de pocos mm)",
+        "Carcinoma oral avanzado (T2 o superior con invasión profunda)",
+        "Incapacidad del paciente para cumplir con 6 semanas de evitación de luz solar directa (fotosensibilización cutánea por Photofrin)",
+        "Alergia conocida a porfimer sódico o derivados de hematoporfirina",
+        "Radioterapia previa en el campo (relativa; evaluar individualmente)"
+      ],
+      "postop_care": [
+        "Evitar luz solar directa durante 6 semanas tras la administración de Photofrin.",
+        "Dieta blanda durante la primera semana para minimizar el dolor al comer.",
+        "Analgésicos orales según prescripción para el manejo del dolor (generalmente dura aproximadamente una semana).",
+        "Spray de benzidamina tópico como analgésico/antiinflamatorio local.",
+        "Revisiones fotográficas dos veces en la primera semana, luego semanalmente hasta cicatrización completa (3–5 semanas).",
+        "Seguimiento cada 2–4 semanas tras la cicatrización para detección precoz de recurrencia.",
+        "Biopsia de áreas regeneradas clínicamente normales a los 3+ meses cuando esté indicado clínicamente."
+      ],
+      "evidence_level": "Bajo — serie de casos prospectiva con n=11, sin grupo control, seguimiento máximo 19 meses (media 11 meses). Estudio de 1993 con fotosensibilizador de primera generación.",
+      "keywords_es": [
+        "terapia fotodinámica oral",
+        "PDT cavidad oral",
+        "Photofrin",
+        "campo de cancerización",
+        "leucoplasia oral",
+        "eritroplasia oral",
+        "carcinoma escamoso oral superficial",
+        "fotosensibilizador",
+        "porfimer sódico",
+        "láser 630 nm",
+        "fotoirradiación",
+        "lesiones premalignas orales",
+        "ablación fotodinámica",
+        "mucosa oral",
+        "carcinoma in situ oral",
+        "fotosensibilización cutánea",
+        "ácido aminolevulínico",
+        "oncología oral",
+        "cabeza y cuello",
+        "carcinoma multicéntrico"
+      ],
+      "keywords_en": [
+        "oral photodynamic therapy",
+        "PDT oral cavity",
+        "Photofrin",
+        "field cancerization",
+        "oral leukoplakia",
+        "oral erythroplakia",
+        "superficial oral squamous cell carcinoma",
+        "photosensitizer",
+        "porfimer sodium",
+        "630 nm laser",
+        "photoirradiation",
+        "oral premalignant lesions",
+        "photodynamic ablation",
+        "oral mucosa",
+        "oral carcinoma in situ",
+        "cutaneous photosensitization",
+        "aminolevulinic acid",
+        "oral oncology",
+        "head and neck cancer",
+        "multicentric carcinoma"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
