@@ -1,0 +1,246 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101177_154405910508401210__b91f1904::16515f"
+  ],
+  "uuid": "e0f9ad",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "moderate",
+  "key_points": [
+    "RCT con 200 molares primarios en 107 niños comparando 4 técnicas de pulpotomía: formocresol diluido (control), Er:YAG láser, hidróxido de calcio y sulfato férrico.",
+    "A los 24 meses, las tasas de éxito total fueron: formocresol 85%, láser Er:YAG 78%, hidróxido de calcio 53%, sulfato férrico 86%.",
+    "Solo el hidróxido de calcio mostró diferencia estadísticamente significativa respecto al formocresol (p=0.001, OR=5.6, IC95% 2.0-15.5).",
+    "El láser Er:YAG mostró OR de 1.7 vs. formocresol (IC95% 0.6-5.2), diferencia no significativa; el estudio tuvo poder estadístico insuficiente (15%) para este grupo.",
+    "Parámetros del láser Er:YAG utilizados: 2940 nm, 2 Hz, 180 mJ/pulso, sin refrigeración de agua, media de 31.5 ± 5.9 pulsos por diente.",
+    "El equipo utilizado fue KaVo KEY Laser 1242 con pieza de mano 2051.",
+    "3 dientes del grupo láser fueron excluidos por sangrado incontrolable durante la irradiación, indicando pulpa radicular hiperémicainflamada como contraindicación.",
+    "No se registraron eventos adversos ni efectos secundarios durante el estudio.",
+    "El estudio fue financiado completamente con fondos departamentales, sin conflictos de interés declarados.",
+    "Los autores concluyen que se requiere un estudio multicéntrico con mayor tamaño muestral para determinar si el láser Er:YAG es equivalente al formocresol."
+  ],
+  "outcomes": [
+    {
+      "measured": "Tasa de éxito total a 24 meses — Er:YAG láser",
+      "result": "78%",
+      "statistical_significance": false,
+      "clinical_significance": "OR 1.7 vs. formocresol (IC95% 0.6-5.2); no significativo, pero poder estadístico solo 15%"
+    },
+    {
+      "measured": "Tasa de éxito clínico a 24 meses — Er:YAG láser",
+      "result": "93%",
+      "statistical_significance": false,
+      "clinical_significance": "Comparable con formocresol (96%) clínicamente"
+    },
+    {
+      "measured": "Tasa de éxito total a 24 meses — formocresol (control)",
+      "result": "85%",
+      "statistical_significance": null,
+      "clinical_significance": "Referencia del estudio; comparable con estudios previos (84%)"
+    },
+    {
+      "measured": "Tasa de éxito total a 24 meses — hidróxido de calcio",
+      "result": "53%",
+      "statistical_significance": true,
+      "clinical_significance": "Significativamente peor que formocresol (p=0.001, OR=5.6)"
+    },
+    {
+      "measured": "Tasa de éxito total a 24 meses — sulfato férrico",
+      "result": "86%",
+      "statistical_significance": false,
+      "clinical_significance": "Comparable con formocresol (OR=1.0, IC95% 0.3-3.0)"
+    }
+  ],
+  "notes": "El estudio es el primer RCT controlado que evalúa el Er:YAG láser para pulpotomías en molares primarios. La limitación principal es el tamaño muestral insuficiente para el grupo láser (poder 15%), lo que impide conclusiones definitivas sobre equivalencia con formocresol. Los autores recomiendan un estudio multicéntrico de mayor escala.",
+  "population": {
+    "n_participants": 107,
+    "age_range": "2-8 años (media 4.8 ± 1.6 años)",
+    "condition": "Molares primarios con pulpa vital expuesta por caries, sin síntomas",
+    "sample_type": "Pacientes pediátricos, Sección de Pedodoncia, Universidad de Munich"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "No declarados. El estudio fue completamente financiado con fondos departamentales.",
+  "funding_source_text": "The study was completely financed by Departmental funding.",
+  "source_citation": "Huth, K.C., Paschos, E., Hajek-Al-Khatar, N., Hollweck, R., Crispin, A., Hickel, R., & Folwaczny, M. (2005). Effectiveness of 4 pulpotomy techniques—randomized controlled trial. Journal of Dental Research, 84(12), 1144-1148.",
+  "contraindications": [
+    "Pulpa radicular hiperémicainflamada (sangrado incontrolable): contraindicación para pulpotomía vital con cualquier técnica, incluyendo láser Er:YAG",
+    "Dolor espontáneo, tumefacción, sensibilidad a la percusión, movilidad patológica",
+    "Patología radiográfica preoperatoria: resorción, radiolucencia periapical o en furca, espacio periodontal ensanchado, resorción radicular fisiológica mayor a un tercio"
+  ],
+  "adverse_events": [
+    "No se registraron eventos adversos ni efectos secundarios durante el estudio en ninguno de los grupos"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": 2,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": 180.0,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": "Sin refrigeración de agua (no water cooling)"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": "point",
+    "anatomical_points": [
+      "Orificios de los conductos radiculares (canal orifices)",
+      "Muñones pulpares radiculares"
+    ]
+  },
+  "clinical_indication": "Pulpotomía en molares primarios con pulpa vital expuesta por caries, sin síntomas",
+  "target_tissue": "pulp",
+  "brand_model_mentioned": [
+    "KaVo KEY Laser 1242",
+    "KaVo handpiece 2051"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "La duración de pulso del láser Er:YAG no se especifica en el paper (solo se reportan frecuencia 2 Hz y energía 180 mJ/pulso).",
+    "El tamaño del spot y la distancia de aplicación no se reportan explícitamente.",
+    "El poder estadístico del grupo láser fue solo 15%, lo que impide conclusiones definitivas sobre equivalencia o diferencia con formocresol.",
+    "No se especifica el número exacto de pulsos por muñón pulpar individual (solo el promedio total por diente: 31.5 ± 5.9)."
+  ],
+  "bibliographic_metadata": {
+    "title": "Effectiveness of 4 Pulpotomy Techniques—Randomized Controlled Trial",
+    "authors": [
+      "K.C. Huth",
+      "E. Paschos",
+      "N. Hajek-Al-Khatar",
+      "R. Hollweck",
+      "A. Crispin",
+      "R. Hickel",
+      "M. Folwaczny"
+    ],
+    "year": 2005,
+    "journal": "Journal of Dental Research",
+    "doi": null
+  },
+  "protocols": [
+    {
+      "name": "Pulpotomía con láser Er:YAG en molares primarios",
+      "synonyms_es": [
+        "pulpotomía láser dientes temporales",
+        "pulpotomía con erbio en molares deciduos",
+        "pulpotomía láser Er:YAG pediatría",
+        "pulpotomía láser odontopediatría",
+        "tratamiento pulpar vital con láser Er:YAG"
+      ],
+      "synonyms_en": [
+        "Er:YAG laser pulpotomy primary molars",
+        "laser pulpotomy deciduous teeth",
+        "erbium laser vital pulp therapy primary teeth",
+        "pediatric laser pulpotomy",
+        "Er:YAG pulp treatment primary molars"
+      ],
+      "purpose": "Realizar pulpotomía en molares primarios con pulpa vital expuesta por caries mediante irradiación con láser Er:YAG sobre los muñones pulpares radiculares, aprovechando sus propiedades hemostáticas, antimicrobianas y estimulantes celulares, como alternativa al formocresol.",
+      "parameters_table": [
+        {
+          "equipment_class": "KaVo KEY Laser 1242 (Er:YAG 2940 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificada (180 mJ/pulso a 2 Hz = ~0.36 W promedio)",
+          "frecuencia": "2 Hz",
+          "modo_de_pulso": "Pulsado (duración de pulso no especificada)",
+          "fibra_punta": "Pieza de mano especial KaVo 2051; tipo de punta no especificado",
+          "agua_pct": "0% (sin refrigeración de agua)",
+          "aire_pct": "No especificado",
+          "distancia": "Aplicado sobre orificios de conductos radiculares; distancia exacta no especificada",
+          "tiempo_ciclos": "Media de 31.5 ± 5.9 pulsos por diente, distribuidos equitativamente entre los muñones pulpares"
+        }
+      ],
+      "critical_notes": [
+        "La hemostasia completa previa es requisito indispensable antes de aplicar el láser; si el sangrado reinicia durante la irradiación, el diente debe excluirse del procedimiento.",
+        "La pulpa radicular hiperémicainflamada es una contraindicación absoluta para este procedimiento (3 dientes fueron excluidos por sangrado incontrolable en este estudio).",
+        "El estudio utilizó el láser sin refrigeración de agua; la irradiación con Er:YAG sin agua puede generar calor residual, aunque Keller y Hibst (1991) reportaron solo una disminución reversible del flujo sanguíneo pulpar de 3-6 minutos sin reacción hiperémicapor calor.",
+        "El tamaño muestral del grupo láser fue insuficiente (poder estadístico 15%) para determinar equivalencia o diferencia significativa con formocresol; los resultados deben interpretarse con cautela.",
+        "El documento presenta esta técnica como alternativa al formocresol; existen otras técnicas (sulfato férrico, MTA, biodentine) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "Parámetros técnicos específicos (duración de pulso, tamaño de spot, distancia exacta) no fueron reportados en el paper original."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Colocar dique de goma y eliminar la caries.",
+        "Abrir la cámara pulpar con fresa de diamante de alta velocidad estéril.",
+        "Remover la pulpa coronal con fresa redonda de baja velocidad estéril (#830RL016 o similar) bajo irrigación continua con agua.",
+        "Verificar la remoción completa del tejido pulpar coronal hasta los orificios de los conductos mediante control visual y excavador de mano estéril en áreas de socavado.",
+        "Controlar la hemorragia colocando torundas de algodón estériles humedecidas con solución salina sobre los muñones pulpares radiculares con ligera presión durante 5 minutos.",
+        "Retirar los coágulos de sangre y secar la cavidad; verificar hemostasia completa como criterio de inclusión antes de aplicar el láser.",
+        "Aplicar irradiación con láser Er:YAG (2940 nm, 2 Hz, 180 mJ/pulso, sin refrigeración de agua) sobre los orificios de los conductos, distribuyendo los pulsos equitativamente entre los muñones pulpares (media 31.5 ± 5.9 pulsos por diente).",
+        "Si el sangrado reinicia durante la irradiación, excluir el diente del procedimiento.",
+        "Aplicar base de óxido de zinc eugenol reforzado (IRM) sobre el piso de la cavidad.",
+        "Colocar cemento de ionómero de vidrio (KetacBond) y restaurar con corona de acero inoxidable o resina compuesta."
+      ],
+      "indications": [
+        "Molares primarios con pulpa vital expuesta por caries, sin síntomas (sin dolor espontáneo, sin tumefacción, sin sensibilidad a la percusión, sin movilidad patológica)",
+        "Niños menores de 8 años con molares primarios restaurables",
+        "Casos donde se logra hemostasia completa previa a la aplicación del agente pulpotómico",
+        "Alternativa al formocresol cuando se busca evitar agentes potencialmente citotóxicos o mutagénicos"
+      ],
+      "contraindications": [
+        "Pulpa radicular hiperémicainflamada (sangrado incontrolable durante la irradiación)",
+        "Dolor espontáneo preoperatorio",
+        "Tumefacción o fístula",
+        "Sensibilidad a la percusión",
+        "Movilidad patológica",
+        "Patología radiográfica preoperatoria: radiolucencia periapical o en furca, resorción radicular patológica, espacio periodontal ensanchado",
+        "Resorción radicular fisiológica mayor a un tercio"
+      ],
+      "postop_care": [
+        "Seguimiento clínico a los 6, 12, 18 y 24 meses.",
+        "Evaluación radiográfica a los 12 y 24 meses.",
+        "Monitorear signos de fracaso clínico: dolor espontáneo, sensibilidad a la percusión, fístula, tumefacción, movilidad patológica.",
+        "Monitorear signos de fracaso radiográfico: radiolucencia periapical o en furca, resorción radicular externa o interna patológica, ensanchamiento del espacio periodontal."
+      ],
+      "evidence_level": "Moderado — RCT con n=47 en grupo láser (poder estadístico insuficiente 15% para el grupo Er:YAG); primer estudio controlado de esta técnica en molares primarios.",
+      "keywords_es": [
+        "pulpotomía láser",
+        "Er:YAG molares primarios",
+        "pulpotomía dientes temporales",
+        "láser erbio odontopediatría",
+        "terapia pulpar vital láser",
+        "pulpotomía pediátrica",
+        "KaVo KEY Laser",
+        "hemostasia láser pulpa",
+        "formocresol alternativa",
+        "molares deciduos pulpotomía",
+        "endodoncia pediátrica láser",
+        "pulpa vital expuesta caries",
+        "2940 nm pulpotomía",
+        "sulfato férrico vs láser",
+        "éxito pulpotomía 24 meses"
+      ],
+      "keywords_en": [
+        "Er:YAG laser pulpotomy",
+        "primary molar pulpotomy",
+        "laser vital pulp therapy",
+        "pediatric laser dentistry",
+        "KaVo KEY Laser 1242",
+        "formocresol alternative",
+        "deciduous teeth pulpotomy",
+        "erbium laser pulp treatment",
+        "2940 nm pulpotomy",
+        "ferric sulfate vs laser",
+        "pulpotomy success rate",
+        "primary teeth endodontics",
+        "hemostasis laser pulp",
+        "cariously exposed pulp laser",
+        "RCT pulpotomy techniques"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
