@@ -1,0 +1,543 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_s40729_015_0023_1__fa25f319::0acfa8"
+  ],
+  "uuid": "9e5be1",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "systematic_review",
+  "evidence_level": "high",
+  "key_points": [
+    "Revisión sistemática y meta-análisis sobre eficacia de medidas alternativas/adyuvantes vs tratamiento convencional en mucositis y periimplantitis.",
+    "Para mucositis periimplantaria, el desbridamiento mecánico solo es efectivo; antisépticos/antibióticos adyuvantes no mejoran significativamente BOP (WMD −8.16%) ni PD (WMD −0.15 mm).",
+    "Para periimplantitis no quirúrgica, medidas alternativas como Er:YAG láser y aire-pulido con glicina mejoran BOP (WMD −23.12%) vs desbridamiento mecánico.",
+    "Antibióticos locales adyuvantes mejoran BOP en periimplantitis (WMD −16.53%).",
+    "En tratamiento quirúrgico de periimplantitis, los protocolos de descontaminación de superficie (CHX, láser CO2, láser diodo 980 nm) no mostraron superioridad sobre controles.",
+    "Terapia aumentativa adyuvante (xenoinjertos, membranas) parece prometedora con reducciones de BOP de 50.73% y PD de 2.20 mm.",
+    "Calidad del reporte: 34.1% de items con alto riesgo de sesgo en los estudios incluidos."
+  ],
+  "outcomes": [
+    {
+      "measured": "WMD BOP - mucositis periimplantaria (antisépticos/antibióticos adyuvantes)",
+      "result": "−8.16% [SE=4.61; 95% CI −17.20, 0.88]",
+      "statistical_significance": false,
+      "clinical_significance": "No favorece tratamiento adyuvante sobre desbridamiento mecánico solo"
+    },
+    {
+      "measured": "WMD BOP - periimplantitis no quirúrgica (medidas alternativas para biofilm)",
+      "result": "−23.12% [SE=4.81; 95% CI −32.56, −13.69]",
+      "statistical_significance": true,
+      "clinical_significance": "Favorece Er:YAG láser / aire-pulido con glicina sobre desbridamiento mecánico"
+    },
+    {
+      "measured": "WMD BOP - periimplantitis no quirúrgica (antibióticos locales adyuvantes)",
+      "result": "−16.53% [SE=4.41; 95% CI −25.18, −7.89]",
+      "statistical_significance": true,
+      "clinical_significance": "Favorece antibiótico local adyuvante"
+    },
+    {
+      "measured": "WM PD reducción tras tratamiento quirúrgico + terapia aumentativa",
+      "result": "2.20 mm [SE=0.22; 95% CI 1.76, 2.64]",
+      "statistical_significance": true,
+      "clinical_significance": "Mejora clínica relevante en defectos intraóseos"
+    }
+  ],
+  "notes": "Meta-análisis de alta calidad con riesgo de sesgo evaluado mediante Cochrane tool. El Er:YAG láser monoterapia mostró mejoras significativas en BOP a 6 meses pero no a 12 meses, particularmente en sitios avanzados. El láser diodo 980 nm y láser CO2 no demostraron beneficio significativo sobre controles en tratamiento quirúrgico.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Pacientes con mucositis periimplantaria y periimplantitis",
+    "sample_type": "Meta-análisis de 32 estudios (40 publicaciones), RCTs y CCTs"
+  },
+  "superiority_claim": "Los autores afirman que medidas alternativas/adyuvantes (Er:YAG láser, aire-pulido con glicina, antibióticos locales) mejoran la eficacia del tratamiento no quirúrgico de periimplantitis sobre el desbridamiento mecánico convencional. No se identifica superioridad clara de ningún protocolo de descontaminación quirúrgica.",
+  "conflicts_of_interest": "Frank Schwarz y Jürgen Becker recibieron honorarios por conferencias y/o becas de investigación no restringidas de Geistlich Biomaterials (Suiza), Osteology Foundation (Suiza), y EMS (Nyon, Suiza). Los autores declaran no tener conflictos de interés relacionados con esta revisión sistemática.",
+  "funding_source_text": "No declarado explícitamente",
+  "source_citation": "Schwarz, F., Schmucker, A., & Becker, J. (2015). Efficacy of alternative or adjunctive measures to conventional treatment of peri-implant mucositis and peri-implantitis: a systematic review and meta-analysis. International Journal of Implant Dentistry, 1(1), 22. https://doi.org/10.1186/s40729-015-0023-1",
+  "contraindications": [],
+  "adverse_events": [
+    "Pérdida parcial/completa de fibras de tetraciclina en 3 implantes tras 7-10 días",
+    "Exposición prematura de membrana durante cicatrización sumergida en 12/16 controles y 13/16 test en estudio de gránulos de titanio poroso"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": 12.7,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 2940,
+      "fluence_j_cm2": 11.4,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "pulsed",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 10600,
+      "fluence_j_cm2": null,
+      "power_w": 2.5,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 980,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 660,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "Sitios periimplantarios con bolsa ≥4 mm",
+      "Superficie de implante expuesta",
+      "Componente intraóseo del defecto"
+    ]
+  },
+  "clinical_indication": "Tratamiento no quirúrgico y quirúrgico de mucositis periimplantaria y periimplantitis",
+  "target_tissue": "Mucosa periimplantaria, hueso periimplantario, superficie del implante de titanio",
+  "brand_model_mentioned": [
+    "Vector System (ultrasonic device con hidroxiapatita)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "Antibioticoterapia sistémica perioperatoria utilizada en algunos protocolos quirúrgicos: amoxicilina + metronidazol 10 días, amoxicilina + ácido clavulánico 6 días, azitromicina 4 días",
+  "confidence": "high",
+  "uncertainties": [
+    "Parámetros de pulso, frecuencia y duración de pulso del Er:YAG láser no especificados con detalle en el meta-análisis (solo fluencia 11.4-12.7 J/cm²)",
+    "Parámetros del láser diodo 980 nm de Papadopoulos no detallados en el meta-análisis",
+    "Modo exacto del láser CO2 (cw mencionado, 12×5 s) descrito brevemente",
+    "Heterogeneidad metodológica importante entre estudios incluidos limita comparabilidad directa"
+  ],
+  "bibliographic_metadata": {
+    "title": "Efficacy of alternative or adjunctive measures to conventional treatment of peri-implant mucositis and peri-implantitis: a systematic review and meta-analysis",
+    "authors": [
+      "Frank Schwarz",
+      "Andrea Schmucker",
+      "Jürgen Becker"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Implant Dentistry",
+    "doi": "10.1186/s40729-015-0023-1"
+  },
+  "protocols": [
+    {
+      "name": "Tratamiento no quirúrgico de periimplantitis con Er:YAG láser 2940 nm",
+      "synonyms_es": [
+        "láser Er:YAG en periimplantitis",
+        "desinfección periimplantaria con erbio",
+        "descontaminación de superficie de implante con Er:YAG",
+        "tratamiento no quirúrgico de periimplantitis con láser"
+      ],
+      "synonyms_en": [
+        "Er:YAG laser for peri-implantitis",
+        "erbium laser peri-implant decontamination",
+        "non-surgical peri-implantitis laser treatment",
+        "Er:YAG monotherapy peri-implantitis"
+      ],
+      "purpose": "Descontaminación no quirúrgica de la superficie del implante en sitios con periimplantitis mediante Er:YAG láser 2940 nm como alternativa al desbridamiento mecánico con curetas plásticas y antisépticos.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con punta de fibra de vidrio cónica",
+          "representative_models": [
+            "Fotona LightWalker",
+            "Doctor Smile Wiser",
+            "Biolase Waterlase"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Pulsado (duración específica no reportada en el meta-análisis)",
+          "fibra_punta": "Punta de fibra de vidrio cónica (cone-shaped glass fibre tip)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Contacto/cerca de la superficie del implante",
+          "tiempo_ciclos": "Una sesión única en los estudios incluidos"
+        }
+      ],
+      "critical_notes": [
+        "Fluencia reportada: 12.7 J/cm² para tratamiento no quirúrgico, 11.4 J/cm² para descontaminación en cirugía abierta.",
+        "⚠️ El erbio NO debe entrar en contacto directo con superficies radiculares en debridement subgingival; en superficies de implante de titanio el uso está documentado pero requiere parámetros subablativos y técnica controlada.",
+        "La eficacia clínica fue significativa a 6 meses (BOP) pero NO a 12 meses, particularmente en sitios profundos (PD ≥6 mm).",
+        "El láser Er:YAG monoterapia NO redujo significativamente la carga bacteriana en los estudios microbiológicos.",
+        "Parámetros específicos de duración de pulso, frecuencia y modo SSP/MSP no reportados en el meta-análisis original."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Instrucciones de higiene oral previas",
+        "Aplicación del láser Er:YAG con punta de fibra de vidrio cónica sobre la superficie del implante expuesta",
+        "Movimiento de barrido sobre la superficie hasta cubrir toda el área contaminada",
+        "No se requiere irrigación con antisépticos adicional"
+      ],
+      "indications": [
+        "Periimplantitis con PD ≥4 mm y BOP positivo",
+        "Pérdida ósea radiográfica documentada",
+        "Sitios donde se busca alternativa al desbridamiento mecánico con curetas"
+      ],
+      "contraindications": [
+        "Mucositis periimplantaria sin pérdida ósea (donde el desbridamiento mecánico solo es suficiente)",
+        "Periimplantitis avanzada con defectos intraóseos profundos donde la cirugía está indicada"
+      ],
+      "postop_care": [
+        "Mantenimiento periodontal periódico",
+        "Reevaluación clínica a 3 y 6 meses",
+        "Considerar tratamiento quirúrgico si persisten signos de inflamación a 12 meses"
+      ],
+      "evidence_level": "Moderado — múltiples RCTs incluidos en meta-análisis, con WMD BOP −23.12% significativo a favor de medidas alternativas (incluyendo Er:YAG). Limitación: heterogeneidad y eficacia reducida a 12 meses en sitios profundos.",
+      "keywords_es": [
+        "Er:YAG láser",
+        "periimplantitis",
+        "2940 nm",
+        "descontaminación implante",
+        "mucositis periimplantaria",
+        "fibra de vidrio cónica",
+        "desbridamiento no quirúrgico",
+        "superficie de titanio",
+        "BOP periimplantario",
+        "pérdida ósea periimplantaria",
+        "tratamiento láser implantes",
+        "Schwarz periimplantitis",
+        "bolsa periimplantaria",
+        "erbio dental"
+      ],
+      "keywords_en": [
+        "Er:YAG laser",
+        "peri-implantitis",
+        "2940 nm",
+        "implant decontamination",
+        "peri-implant mucositis",
+        "cone-shaped glass fibre tip",
+        "non-surgical debridement",
+        "titanium surface",
+        "peri-implant BOP",
+        "peri-implant bone loss",
+        "implant laser therapy",
+        "Schwarz peri-implantitis",
+        "peri-implant pocket",
+        "erbium dental"
+      ],
+      "is_virtual_protocol": false
+    },
+    {
+      "name": "Tratamiento quirúrgico de periimplantitis con láser CO2 10600 nm para descontaminación de superficie",
+      "synonyms_es": [
+        "láser CO2 en cirugía de periimplantitis",
+        "descontaminación con CO2",
+        "cirugía resectiva con láser CO2",
+        "tratamiento adyuvante con dióxido de carbono"
+      ],
+      "synonyms_en": [
+        "CO2 laser peri-implantitis surgery",
+        "carbon dioxide laser decontamination",
+        "CO2-assisted resective surgery",
+        "CO2 adjunctive implant surface treatment"
+      ],
+      "purpose": "Descontaminación de la superficie del implante durante cirugía resectiva mediante láser CO2 como adyuvante al desbridamiento mecánico y aire-pulido.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser CO2 10600 nm",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "10600 nm",
+          "potencia": "2.5 W",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Continuo (cw)",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado (no contacto típico de CO2)",
+          "tiempo_ciclos": "12 × 5 segundos por sesión"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Al usar láser CO2 sobre superficie de implante de titanio existe riesgo teórico de calentamiento; los parámetros de Deppe (2.5 W cw, 12×5 s) buscan minimizarlo.",
+        "El meta-análisis no encontró superioridad significativa del láser CO2 sobre control (aire-pulido) a 5 años en SBI ni PD.",
+        "Resultados similares en ambos grupos a largo plazo sugieren que el beneficio del CO2 como adyuvante en cirugía es limitado.",
+        "Estudio incluido (Deppe et al. 2007) fue CCT, no RCT."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Colgajo de acceso quirúrgico",
+        "Desbridamiento mecánico de la superficie del implante",
+        "Aire-pulido",
+        "Aplicación del láser CO2 en modo continuo (12 ciclos de 5 segundos)",
+        "Resección de tejido blando según protocolo",
+        "Cierre del colgajo"
+      ],
+      "indications": [
+        "Periimplantitis con pérdida ósea progresiva vertical",
+        "Sitios con PD ≥5 mm y BOP positivo donde se planifica cirugía resectiva"
+      ],
+      "contraindications": [
+        "Defectos intraóseos donde se planifica terapia regenerativa (preferir otros métodos de descontaminación)",
+        "Sitios con poca evidencia de beneficio del CO2 sobre alternativas convencionales"
+      ],
+      "postop_care": [
+        "Antibioticoterapia sistémica según protocolo institucional",
+        "Control a 3, 6 y 12 meses",
+        "Mantenimiento periodontal estricto"
+      ],
+      "evidence_level": "Bajo — un único CCT incluido (Deppe et al. 2007), sin diferencias significativas vs control a 5 años. WMD entre grupos no concluyente.",
+      "keywords_es": [
+        "láser CO2",
+        "10600 nm",
+        "periimplantitis quirúrgica",
+        "descontaminación implante",
+        "Deppe",
+        "cirugía resectiva implante",
+        "dióxido de carbono dental",
+        "adyuvante quirúrgico",
+        "beta tricalcio fosfato",
+        "superficie implante titanio",
+        "colgajo periimplantario",
+        "BOP postquirúrgico"
+      ],
+      "keywords_en": [
+        "CO2 laser",
+        "10600 nm",
+        "surgical peri-implantitis",
+        "implant decontamination",
+        "Deppe",
+        "resective implant surgery",
+        "carbon dioxide dental",
+        "surgical adjunct",
+        "beta tricalcium phosphate",
+        "titanium implant surface",
+        "peri-implant flap",
+        "postsurgical BOP"
+      ],
+      "is_virtual_protocol": false
+    },
+    {
+      "name": "Tratamiento quirúrgico de periimplantitis con láser diodo 980 nm",
+      "synonyms_es": [
+        "láser diodo en cirugía periimplantaria",
+        "980 nm en periimplantitis",
+        "diodo adyuvante quirúrgico",
+        "descontaminación con diodo"
+      ],
+      "synonyms_en": [
+        "diode laser peri-implantitis surgery",
+        "980 nm surgical adjunct",
+        "diode laser implant decontamination",
+        "Papadopoulos diode protocol"
+      ],
+      "purpose": "Descontaminación adyuvante de la superficie del implante mediante láser diodo 980 nm durante cirugía abierta en periimplantitis.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo 980 nm",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "980 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Diodo con punta iniciada NO debe entrar en contacto directo con la superficie del implante de titanio (riesgo de carbonización del titanio). Usar punta no iniciada o mantener distancia ≥1 mm.",
+        "Parámetros específicos no reportados en el meta-análisis original (Papadopoulos et al. 2015).",
+        "El meta-análisis NO encontró diferencias significativas en BOP ni PD entre grupos a 6 meses.",
+        "La aplicación de diodo como adyuvante a desbridamiento mecánico con curetas plásticas y hisopos con suero no mostró beneficio clínico significativo."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Colgajo de acceso quirúrgico",
+        "Desbridamiento mecánico con curetas plásticas",
+        "Hisopos con suero salino sobre la superficie del implante",
+        "Aplicación del láser diodo 980 nm como descontaminación adyuvante",
+        "Cierre del colgajo"
+      ],
+      "indications": [
+        "Periimplantitis con PD ≥6 mm y BOP positivo",
+        "Pérdida ósea radiográfica ≥2 mm",
+        "Cirugía abierta de acceso"
+      ],
+      "contraindications": [
+        "Contacto directo de diodo con punta iniciada sobre superficie de titanio",
+        "Sitios donde no se ha demostrado beneficio adicional sobre desbridamiento mecánico solo"
+      ],
+      "postop_care": [
+        "Control postoperatorio a 1 semana",
+        "Reevaluación a 3 y 6 meses",
+        "Mantenimiento periodontal periódico"
+      ],
+      "evidence_level": "Bajo — un único RCT pequeño (n=16) sin diferencias significativas entre grupos test y control. Parámetros del láser no detallados.",
+      "keywords_es": [
+        "láser diodo",
+        "980 nm",
+        "periimplantitis quirúrgica",
+        "Papadopoulos",
+        "descontaminación implante",
+        "diodo dental",
+        "cirugía periimplantaria",
+        "adyuvante láser",
+        "BOP quirúrgico",
+        "PD periimplantaria",
+        "colgajo de acceso",
+        "curetas plásticas"
+      ],
+      "keywords_en": [
+        "diode laser",
+        "980 nm",
+        "surgical peri-implantitis",
+        "Papadopoulos",
+        "implant decontamination",
+        "dental diode",
+        "peri-implant surgery",
+        "laser adjunct",
+        "surgical BOP",
+        "peri-implant PD",
+        "access flap",
+        "plastic curettes"
+      ],
+      "is_virtual_protocol": false
+    },
+    {
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) adyuvante en periimplantitis no quirúrgica",
+      "synonyms_es": [
+        "aPDT periimplantitis",
+        "terapia fotodinámica antimicrobiana",
+        "PDT antimicrobiana dental",
+        "fotodinámica con fenotiazina"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy",
+        "aPDT peri-implantitis",
+        "photodynamic disinfection",
+        "phenothiazine PDT"
+      ],
+      "purpose": "Descontaminación antimicrobiana mediante activación lumínica de un fotosensibilizador (cloruro de fenotiazina) en sitios de periimplantitis, como adyuvante al desbridamiento mecánico.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (660 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "660 nm",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Intrasulcular",
+          "tiempo_ciclos": "No especificado en el meta-análisis"
+        }
+      ],
+      "critical_notes": [
+        "Fotosensibilizador utilizado: cloruro de fenotiazina.",
+        "El meta-análisis muestra resultados comparables entre aPDT y microsferas de minociclina como adyuvantes (sin diferencia clínica, microbiológica ni inmunológica significativa).",
+        "Parámetros específicos de la fuente lumínica (potencia, duración, energía total) no detallados en el meta-análisis.",
+        "Eficacia clínica modesta: resolución completa de inflamación mucosa en 31.6% (aPDT) vs 35.0% (minociclina)."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Desbridamiento mecánico con curetas de titanio",
+        "Aire-pulido con polvo de glicina",
+        "Irrigación de bolsa con peróxido de hidrógeno 3%",
+        "Aplicación del fotosensibilizador (cloruro de fenotiazina) en la bolsa periimplantaria",
+        "Activación lumínica con láser/LED 660 nm",
+        "Enjuague final"
+      ],
+      "indications": [
+        "Periimplantitis moderada con PD 4-6 mm y BOP positivo",
+        "Pérdida ósea 0.5-2 mm",
+        "Sitios donde se busca alternativa a antibióticos locales"
+      ],
+      "contraindications": [
+        "Alergia conocida al fotosensibilizador (fenotiazina)",
+        "Sitios donde el desbridamiento mecánico solo ya logra resolución"
+      ],
+      "postop_care": [
+        "Mantenimiento periodontal",
+        "Reevaluación a 6 y 12 meses",
+        "Considerar cirugía si persisten signos inflamatorios"
+      ],
+      "evidence_level": "Moderado — RCT (Schär/Bassetti 2013) con 40 pacientes, sin diferencia significativa vs minociclina local. Eficacia comparable pero modesta en ambos grupos.",
+      "keywords_es": [
+        "aPDT",
+        "terapia fotodinámica",
+        "660 nm",
+        "fenotiazina",
+        "periimplantitis",
+        "desinfección lumínica",
+        "fotosensibilizador",
+        "cloruro fenotiazina",
+        "Schär",
+        "Bassetti",
+        "minociclina",
+        "glicina aire pulido"
+      ],
+      "keywords_en": [
+        "aPDT",
+        "photodynamic therapy",
+        "660 nm",
+        "phenothiazine",
+        "peri-implantitis",
+        "light disinfection",
+        "photosensitizer",
+        "phenothiazine chloride",
+        "Schär",
+        "Bassetti",
+        "minocycline",
+        "glycine air polishing"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
