@@ -1,0 +1,385 @@
+{
+  "article_refs": [
+    "pdf_local::oa_103389_fonc202001255__689e80c4::a9614d"
+  ],
+  "uuid": "4a9123",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "La fotobiomodulación (PBM) con LLLT influye en proliferación celular, metabolismo mitocondrial, angiogénesis, apoptosis e inflamación en células normales y tumorales.",
+    "El rango de longitud de onda de 600–1070 nm (rojo a infrarrojo cercano) produce los mayores efectos biostimulatorios sobre proliferación celular, mediados principalmente por el citocromo c oxidasa (CCO) como fotoaceptor primario.",
+    "Existe una relación bifásica (hormesis) entre densidad de energía y respuesta celular: dosis bajas estimulan proliferación y metabolismo, mientras que dosis excesivas inhiben la proliferación o inducen apoptosis.",
+    "LLLT promueve angiogénesis directamente y potencia el efecto del VEGF; esto tiene implicaciones tanto terapéuticas como de riesgo en pacientes oncológicos.",
+    "Las células tumorales responden a LLLT de manera similar a las células normales en cuanto a proliferación, lo que genera preocupación sobre el uso de LLLT en pacientes con cáncer activo.",
+    "Algunos estudios muestran diferencias en la respuesta entre células normales y tumorales: LLLT puede inhibir selectivamente la proliferación de ciertas líneas tumorales o sensibilizar células cancerosas a la radioterapia.",
+    "Los efectos anti-inflamatorios de LLLT incluyen modulación de la polarización de macrófagos (M1/M2), reducción de citocinas pro-inflamatorias (TNF-α, IL-1β, IL-6) y regulación de NF-κB.",
+    "La longitud de onda influye en los cambios mitocondriales de manera compleja y menos predecible que la densidad de energía; diferencias de <200 nm pueden producir respuestas mitocondriales diametralmente opuestas.",
+    "LLLT tiene aplicaciones clínicas establecidas en oncología para manejo de mucositis oral, dermatitis por radiación y linfedema inducidos por quimio/radioterapia.",
+    "Se requieren estudios clínicos integrados que combinen hallazgos de laboratorio con resultados clínicos para establecer protocolos seguros de LLLT en pacientes oncológicos."
+  ],
+  "outcomes": [
+    {
+      "measured": "Proliferación de fibroblastos del ligamento periodontal humano",
+      "result": "Aumento significativo hasta 72h post-LLLT con GaAlAs 809 nm, 1.96–7.84 J/cm²",
+      "statistical_significance": true,
+      "clinical_significance": "Soporte para uso de LLLT en cicatrización de tejidos periodontales"
+    },
+    {
+      "measured": "Proliferación celular vs densidad de energía (fibroblastos HeNe 632.8 nm)",
+      "result": "2.5 J/cm² (2-3 tratamientos) y 5.0 J/cm² (1 tratamiento) aumentaron proliferación; 16.0 J/cm² la inhibió",
+      "statistical_significance": true,
+      "clinical_significance": "Confirma relación bifásica dosis-respuesta; dosis excesivas son contraproducentes"
+    },
+    {
+      "measured": "Proliferación de células tumorales (HNSCC, carcinoma tiroideo, osteosarcoma, carcinoma oral, HeLa)",
+      "result": "LLLT aumentó proliferación en múltiples líneas tumorales a dosis bajas (≤25 J/cm²)",
+      "statistical_significance": true,
+      "clinical_significance": "Riesgo potencial de estimulación tumoral; requiere precaución en pacientes oncológicos"
+    },
+    {
+      "measured": "Efecto de LLLT sobre radiosensibilidad diferencial",
+      "result": "Pre-IR LLLT (4 J/cm²) redujo el efecto letal en linfoblastos normales y sensibilizó células leucémicas HL60",
+      "statistical_significance": true,
+      "clinical_significance": "LLLT podría usarse como adyuvante a radioterapia para mejorar selectividad tumoral"
+    },
+    {
+      "measured": "Angiogénesis inducida por LLLT (660 nm, 20 mW, 10 min) vs VEGF exógeno",
+      "result": "LLLT indujo angiogénesis similar a VEGF 25 ng/ml; combinación LLLT+VEGF produjo mayor angiogénesis",
+      "statistical_significance": true,
+      "clinical_significance": "LLLT potencia el efecto del VEGF; relevante para cicatrización pero preocupante en tumores VEGF-dependientes"
+    }
+  ],
+  "notes": "Esta revisión narrativa cubre mecanismos celulares de LLLT/PBM con énfasis en oncología. No reporta parámetros clínicos propios sino que sintetiza hallazgos de múltiples estudios in vitro y algunos in vivo. El rango de parámetros estudiados es muy amplio (wavelengths 450–2940 nm, fluencias 0.003–1050 J/cm²). La revisión destaca explícitamente la preocupación sobre estimulación tumoral como limitación crítica para el uso clínico en oncología.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Células normales y tumorales (in vitro); pacientes oncológicos con mucositis oral, dermatitis por radiación y linfedema (contexto clínico)",
+    "sample_type": "Revisión de estudios in vitro, in vivo y clínicos"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+  "funding_source_text": "This study was supported by departmental and institutional funds from The Hong Kong Polytechnic University.",
+  "source_citation": "Tam, S. Y., Tam, V. C. W., Ramkumar, S., Khaw, M. L., Law, H. K. W., & Lee, S. W. Y. (2020). Review on the cellular mechanisms of low-level laser therapy use in oncology. Frontiers in Oncology, 10, 1255. https://doi.org/10.3389/fonc.2020.01255",
+  "contraindications": [
+    "Uso de LLLT directamente sobre tumores activos o en áreas con cáncer conocido sin evaluación cuidadosa del riesgo de estimulación tumoral",
+    "Dosis excesivas de LLLT (efecto paradójico de inhibición o apoptosis en células normales)",
+    "Longitudes de onda <530 nm pueden inhibir la actividad metabólica de fibroblastos dérmicos humanos"
+  ],
+  "adverse_events": [
+    "Estimulación de proliferación de células tumorales a dosis bajas de LLLT (≤25 J/cm²)",
+    "Inhibición de proliferación celular y apoptosis a dosis altas (efecto paradójico)",
+    "Posible radioprotección de células tumorales con ciertos parámetros de LLLT pre-radioterapia",
+    "Efectos sistémicos remotos mediados por liberación de factores de crecimiento y citocinas a la circulación"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": null,
+  "clinical_indication": "Manejo de efectos secundarios de quimio/radioterapia en oncología: mucositis oral, dermatitis por radiación, linfedema; cicatrización de heridas; modulación de inflamación",
+  "target_tissue": "Fibroblastos, queratinocitos, células endoteliales, macrófagos, células tumorales (múltiples tipos), células madre, osteoblastos, neuronas",
+  "brand_model_mentioned": [
+    "GaAlAs diode laser",
+    "HeNe laser",
+    "Ga-As diode laser",
+    "InGaAsP diode laser",
+    "InGaAlP laser"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "La revisión no reporta parámetros clínicos propios estandarizados; los parámetros mencionados provienen de múltiples estudios heterogéneos con rangos muy amplios.",
+    "No se puede extraer un protocolo clínico único accionable dado que la revisión cubre un espectro muy amplio de wavelengths, fluencias y tipos celulares.",
+    "La seguridad de LLLT en pacientes oncológicos activos no está establecida; los autores reconocen explícitamente esta limitación.",
+    "Los mecanismos mitocondriales exactos (CCO vs reducción de viscosidad de capas de agua interfacial) permanecen sin resolver según los autores."
+  ],
+  "bibliographic_metadata": {
+    "title": "Review on the Cellular Mechanisms of Low-Level Laser Therapy Use in Oncology",
+    "authors": [
+      "Shing Yau Tam",
+      "Victor C. W. Tam",
+      "Shanmugasundaram Ramkumar",
+      "May Ling Khaw",
+      "Helen K. W. Law",
+      "Shara W. Y. Lee"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Oncology",
+    "doi": "10.3389/fonc.2020.01255"
+  },
+  "protocols": [
+    {
+      "name": "PBM/LLLT para manejo de mucositis oral inducida por quimio/radioterapia",
+      "synonyms_es": [
+        "fotobiomodulación en mucositis oral",
+        "láser de baja intensidad para mucositis",
+        "LLLT mucositis por radioterapia",
+        "terapia láser de bajo nivel en mucositis oral oncológica",
+        "PBM mucositis cabeza y cuello"
+      ],
+      "synonyms_en": [
+        "photobiomodulation for oral mucositis",
+        "LLLT oral mucositis",
+        "low-level laser therapy chemoradiation mucositis",
+        "PBM oncology mucositis",
+        "laser therapy radiation-induced oral mucositis"
+      ],
+      "purpose": "Prevenir o mitigar la mucositis oral inducida por quimio/radioterapia mediante preacondicionamiento celular con LLLT, reduciendo inflamación y promoviendo cicatrización tisular en pacientes oncológicos.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "600–1000 nm (rojo a infrarrojo cercano; rango óptimo según revisión)",
+          "potencia": "No especificado (revisión teórica)",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados en este documento. Basado en: Tam et al. (2020), Frontiers in Oncology.",
+        "ADVERTENCIA CRÍTICA EN ONCOLOGÍA: LLLT puede estimular la proliferación de células tumorales a dosis bajas (≤25 J/cm²). En pacientes con cáncer intraoral activo que reciben radioterapia, existe riesgo de irradiación superpuesta de células tumorales. Evaluar riesgo-beneficio cuidadosamente.",
+        "La densidad de energía óptima para efectos biostimulatorios en mucosa oral no está definida en esta revisión; dosis excesivas pueden producir el efecto contrario (inhibición o apoptosis).",
+        "LLLT puede producir efectos sistémicos remotos mediados por liberación de factores de crecimiento y citocinas a la circulación, lo que debe considerarse en pacientes oncológicos.",
+        "El documento presenta esta técnica favorablemente para manejo de efectos secundarios oncológicos; existen alternativas farmacológicas y de soporte con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Mucositis oral inducida por radioterapia en cáncer de cabeza y cuello",
+        "Mucositis oral inducida por quimioterapia",
+        "Prevención de mucositis oral (preacondicionamiento celular pre-radioterapia)",
+        "Manejo del dolor asociado a mucositis oral oncológica"
+      ],
+      "contraindications": [
+        "Aplicación directa sobre tumor activo intraoral sin evaluación oncológica previa (riesgo de estimulación tumoral)",
+        "Dosis excesivas de LLLT (efecto paradójico de inhibición celular o apoptosis)",
+        "Longitudes de onda <530 nm (pueden inhibir actividad metabólica de fibroblastos dérmicos)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa teórica. Los estudios citados son principalmente in vitro con parámetros heterogéneos. No hay protocolo clínico estandarizado derivado de este documento.",
+      "keywords_es": [
+        "mucositis oral",
+        "fotobiomodulación",
+        "LLLT",
+        "láser de baja intensidad",
+        "PBM oncología",
+        "radioterapia efectos secundarios",
+        "quimioterapia mucositis",
+        "cáncer cabeza y cuello",
+        "cicatrización láser",
+        "inflamación oral",
+        "citocromo c oxidasa",
+        "proliferación celular láser",
+        "dermatitis por radiación",
+        "linfedema oncológico",
+        "NF-κB láser"
+      ],
+      "keywords_en": [
+        "oral mucositis",
+        "photobiomodulation",
+        "LLLT",
+        "low-level laser therapy",
+        "PBM oncology",
+        "radiotherapy side effects",
+        "chemotherapy mucositis",
+        "head and neck cancer",
+        "laser wound healing",
+        "oral inflammation",
+        "cytochrome c oxidase",
+        "cell proliferation laser",
+        "radiation dermatitis",
+        "cancer-related lymphedema",
+        "NF-kB laser"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "PBM/LLLT para manejo de dermatitis por radiación y linfedema oncológico",
+      "synonyms_es": [
+        "fotobiomodulación en dermatitis por radiación",
+        "láser de baja intensidad para linfedema",
+        "LLLT dermatitis actínica",
+        "terapia láser linfedema post-mastectomía",
+        "PBM linfedema cáncer de mama"
+      ],
+      "synonyms_en": [
+        "photobiomodulation radiation dermatitis",
+        "LLLT lymphedema",
+        "low-level laser therapy radiation skin reaction",
+        "PBM breast cancer lymphedema",
+        "laser therapy cancer treatment side effects"
+      ],
+      "purpose": "Prevenir o reducir la dermatitis por radiación y el linfedema secundario a disección de ganglios linfáticos o radioterapia en pacientes con cáncer de mama o cabeza y cuello, mediante modulación de la inflamación y promoción de la cicatrización tisular con LLLT.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "600–1000 nm (rojo a infrarrojo cercano)",
+          "potencia": "No especificado (revisión teórica)",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados en este documento. Basado en: Tam et al. (2020), Frontiers in Oncology.",
+        "Los mecanismos anti-inflamatorios de LLLT incluyen modulación de polarización de macrófagos (M1→M2), reducción de TNF-α, IL-1β, IL-6 y regulación de NF-κB.",
+        "LLLT promueve angiogénesis y potencia el efecto del VEGF; en pacientes oncológicos esto puede ser beneficioso para cicatrización pero requiere precaución dado que la sobreexpresión de VEGF es un indicador de mal pronóstico en oncología.",
+        "El documento presenta esta técnica favorablemente; existen alternativas de manejo (compresión, drenaje linfático manual, farmacológicas) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Dermatitis por radiación en pacientes con cáncer de cabeza y cuello o mama",
+        "Linfedema secundario a disección de ganglios linfáticos o radioterapia",
+        "Cicatrización de heridas post-quirúrgicas en pacientes oncológicos",
+        "Reducción de dolor y edema tisular en contexto oncológico"
+      ],
+      "contraindications": [
+        "Aplicación directa sobre tejido tumoral activo sin evaluación oncológica previa",
+        "Dosis excesivas de LLLT (efecto paradójico)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa teórica. Los estudios citados son principalmente in vitro e in vivo en modelos animales. No hay protocolo clínico estandarizado derivado de este documento.",
+      "keywords_es": [
+        "dermatitis por radiación",
+        "linfedema oncológico",
+        "fotobiomodulación",
+        "LLLT",
+        "láser de baja intensidad",
+        "PBM cáncer",
+        "cicatrización heridas oncología",
+        "inflamación crónica láser",
+        "macrófagos polarización láser",
+        "VEGF angiogénesis láser",
+        "cáncer de mama linfedema",
+        "radioterapia efectos secundarios piel",
+        "NF-κB inflamación",
+        "citocinas pro-inflamatorias láser",
+        "TNF-alfa láser"
+      ],
+      "keywords_en": [
+        "radiation dermatitis",
+        "cancer lymphedema",
+        "photobiomodulation",
+        "LLLT",
+        "low-level laser therapy",
+        "PBM cancer",
+        "oncology wound healing",
+        "chronic inflammation laser",
+        "macrophage polarization laser",
+        "VEGF angiogenesis laser",
+        "breast cancer lymphedema",
+        "radiotherapy skin side effects",
+        "NF-kB inflammation",
+        "pro-inflammatory cytokines laser",
+        "TNF-alpha laser"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "Consideraciones de seguridad de PBM/LLLT en pacientes oncológicos con tumores activos",
+      "synonyms_es": [
+        "seguridad de LLLT en oncología",
+        "fotobiomodulación y proliferación tumoral",
+        "riesgo de LLLT en cáncer activo",
+        "PBM y células cancerosas",
+        "láser de baja intensidad y tumor"
+      ],
+      "synonyms_en": [
+        "LLLT safety in oncology",
+        "photobiomodulation tumor cell proliferation",
+        "PBM cancer risk",
+        "low-level laser therapy tumor stimulation",
+        "laser therapy active cancer safety"
+      ],
+      "purpose": "Evaluar el riesgo de estimulación de células tumorales por LLLT y establecer consideraciones de seguridad para el uso de fotobiomodulación en pacientes oncológicos con tumores activos o en tratamiento con radioterapia.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "600–1000 nm (múltiples wavelengths estudiadas en revisión)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados en este documento. Basado en: Tam et al. (2020), Frontiers in Oncology.",
+        "LLLT a dosis bajas (≤25 J/cm²) ha demostrado estimular proliferación en múltiples líneas tumorales: HNSCC, carcinoma tiroideo anaplásico, osteosarcoma, carcinoma pulmonar, carcinoma oral y células HeLa.",
+        "Algunos estudios muestran que LLLT puede inhibir selectivamente la proliferación de ciertas líneas tumorales o sensibilizar células cancerosas a la radioterapia, sugiriendo un posible rol adyuvante.",
+        "LLLT puede producir efectos sistémicos remotos mediados por liberación de factores de crecimiento y citocinas a la circulación, lo que es especialmente relevante en pacientes con enfermedad metastásica.",
+        "La respuesta de las células tumorales a LLLT varía considerablemente entre diferentes tipos tumorales y configuraciones de láser; no existe una regla universal.",
+        "Se requieren estudios clínicos integrados que combinen hallazgos de laboratorio con resultados clínicos antes de establecer protocolos seguros para uso extensivo en oncología."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Evaluación de riesgo-beneficio antes de aplicar LLLT en pacientes oncológicos con tumores activos",
+        "Uso potencial como adyuvante a radioterapia para mejorar selectividad tumoral (investigacional)"
+      ],
+      "contraindications": [
+        "Aplicación de LLLT directamente sobre tumor activo sin evaluación oncológica multidisciplinaria",
+        "Uso de LLLT en pacientes con cáncer intraoral activo que reciben radioterapia sin protocolo de seguridad establecido",
+        "Dosis bajas de LLLT (≤25 J/cm²) sobre tejido tumoral conocido (riesgo de estimulación proliferativa)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa de estudios in vitro heterogéneos. Los resultados son contradictorios entre líneas tumorales y no permiten conclusiones clínicas definitivas.",
+      "keywords_es": [
+        "seguridad LLLT oncología",
+        "proliferación tumoral láser",
+        "fotobiomodulación cáncer activo",
+        "PBM riesgo tumoral",
+        "carcinoma escamocelular cabeza cuello LLLT",
+        "mucositis oral cáncer intraoral",
+        "radiosensibilización láser",
+        "radioprotección células normales",
+        "VEGF tumor angiogénesis",
+        "células cancerosas láser baja intensidad",
+        "HeLa LLLT",
+        "osteosarcoma láser",
+        "linfoma leucemia LLLT",
+        "efectos sistémicos PBM",
+        "hormesis láser"
+      ],
+      "keywords_en": [
+        "LLLT oncology safety",
+        "tumor cell proliferation laser",
+        "photobiomodulation active cancer",
+        "PBM tumor risk",
+        "head neck squamous cell carcinoma LLLT",
+        "oral mucositis intraoral cancer",
+        "radiosensitization laser",
+        "radioprotection normal cells",
+        "VEGF tumor angiogenesis",
+        "cancer cells low-level laser",
+        "HeLa LLLT",
+        "osteosarcoma laser",
+        "leukemia LLLT",
+        "systemic effects PBM",
+        "laser hormesis biphasic dose response"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
