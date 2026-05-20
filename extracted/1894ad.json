@@ -1,0 +1,255 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_s13005_016_0121_1__86e995ff::ae009c"
+  ],
+  "uuid": "1894ad",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "rct",
+  "evidence_level": "low",
+  "key_points": [
+    "RCT cruzado con 15 pacientes con terceros molares inferiores impactados bilaterales simétricos; cada paciente fue su propio control.",
+    "Se aplicó LLLT extraoral con láser diodo GaAlAs 810 nm, 0.3 W, 40 s, 4 J/cm² (12 J totales) inmediatamente después de la cirugía y al 2° día postoperatorio sobre la inserción del músculo masetero.",
+    "No se encontró diferencia estadísticamente significativa en edema ni en apertura interincisal entre el grupo láser y el control en ningún tiempo de evaluación.",
+    "Se encontró diferencia estadísticamente significativa en la reducción del dolor (VAS) únicamente al 7° día postoperatorio en el grupo láser (p=0.017).",
+    "El edema fue evaluado volumétricamente con el sistema 3dMD Face® (fotogrametría 3D), metodología novedosa en este contexto clínico.",
+    "No se reportaron efectos adversos del tratamiento láser en ningún paciente.",
+    "Los parámetros óptimos de LLLT para biostimulación postquirúrgica siguen sin estar establecidos en la literatura."
+  ],
+  "outcomes": [
+    {
+      "measured": "Nivel de dolor (VAS 0-10)",
+      "result": "Grupo láser: 1.3 ± 1.2 al 7° día vs control: 2.7 ± 1.2 al 7° día",
+      "statistical_significance": true,
+      "clinical_significance": "Diferencia significativa solo al 7° día postoperatorio (p=0.017); no significativa al 2° día (p=0.440)"
+    },
+    {
+      "measured": "Edema facial volumétrico (3dMD)",
+      "result": "Grupo láser: 24.1 ± 16.2 al 2° día y 3.6 ± 3.9 al 7° día; control: 21.1 ± 12.9 y 5.6 ± 7.8 respectivamente",
+      "statistical_significance": false,
+      "clinical_significance": "Sin diferencia significativa entre grupos en ningún tiempo (p=0.618 al 2° día; p=0.485 al 7° día)"
+    },
+    {
+      "measured": "Apertura máxima de boca (distancia interincisal, mm)",
+      "result": "Grupo láser: 26.3 ± 4.7 al 2° día y 39.0 ± 5.2 al 7° día; control: 25.0 ± 3.3 y 36.0 ± 4.1 respectivamente",
+      "statistical_significance": false,
+      "clinical_significance": "Sin diferencia significativa entre grupos (p=0.430 al 2° día; p=0.129 al 7° día)"
+    }
+  ],
+  "notes": "Diseño cruzado con procedimientos quirúrgicos separados al menos 1 mes. Todos los pacientes recibieron paracetamol 500 mg y enjuague con benzidamina HCL + clorhexidina gluconato por 7 días. Se instruyó a los pacientes a no usar hielo en el lado tratado con láser. La aplicación fue extraoral en modo no contacto con pieza de mano 1×3 cm.",
+  "population": {
+    "n_participants": 15,
+    "age_range": "17-29 años (media 22.58)",
+    "condition": "Terceros molares inferiores impactados bilaterales simétricos, grado de dificultad quirúrgica III B",
+    "sample_type": "Pacientes humanos, diseño cruzado (cada paciente es su propio control)"
+  },
+  "superiority_claim": null,
+  "conflicts_of_interest": "The authors declare that they have no competing interests in this work.",
+  "funding_source_text": "There is no any source of funding for the research reported.",
+  "source_citation": "Alan, H., Yolcu, Ü., Koparal, M., Özgür, C., Öztürk, S. A., & Malkoç, S. (2016). Evaluation of the effects of the low-level laser therapy on swelling, pain, and trismus after removal of impacted lower third molar. Head & Face Medicine, 12, 25. https://doi.org/10.1186/s13005-016-0121-1",
+  "contraindications": [
+    "Contraindicaciones generales de la terapia láser (no especificadas en detalle en el paper)",
+    "Enfermedad sistémica",
+    "Tabaquismo activo",
+    "Infección local",
+    "Pericoronitis aguda",
+    "Embarazo o lactancia"
+  ],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 810,
+      "fluence_j_cm2": 4.0,
+      "power_w": 0.3,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": 12.0,
+      "contact": false,
+      "cooling": "No especificado"
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 2,
+    "session_interval_days": 2,
+    "application_time_sec": 40.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "Inserción del músculo masetero (extraoral)"
+    ]
+  },
+  "clinical_indication": "Reducción de dolor, edema y trismus postoperatorio tras extracción de tercer molar inferior impactado",
+  "target_tissue": "Músculo masetero, tejidos blandos faciales (aplicación extraoral)",
+  "brand_model_mentioned": [
+    "CHEESE Dental Laser System (Wuhan GigaaOptronics Technology Company, China)",
+    "3dMD Face® (3dMD, Atlanta, GA)"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "paracetamol",
+      "drug_class": "Analgésico/antipirético",
+      "interaction_type": "caution",
+      "dental_relevance": "Administrado 500 mg dos veces al día por 7 días como analgésico postoperatorio estándar tras extracción de tercer molar",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "benzydamine hydrochloride + chlorhexidine gluconate",
+      "drug_class": "Antiséptico/antiinflamatorio tópico oral",
+      "interaction_type": "caution",
+      "dental_relevance": "Enjuague antiséptico administrado dos veces al día por 7 días como coadyuvante postoperatorio",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "articaine with epinephrine",
+      "drug_class": "Anestésico local con vasoconstrictor",
+      "interaction_type": "caution",
+      "dental_relevance": "Utilizado para anestesia local durante la cirugía (2 ml de articaína 4% con epinefrina 1:100,000)",
+      "photosensitivity": false,
+      "laser_implication": null
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "La LLLT extraoral se aplicó inmediatamente tras la cirugía y al 2° día postoperatorio. Se instruyó a los pacientes a no usar hielo en el lado tratado con láser para no confundir el efecto del láser sobre el edema facial.",
+  "confidence": "high",
+  "uncertainties": [
+    "El tamaño muestral es pequeño (n=15 por grupo), lo que limita la potencia estadística para detectar diferencias en edema y trismus.",
+    "El spot size exacto de la pieza de mano (1×3 cm = 3 cm²) se infiere del cálculo de fluencia (12 J / 3 cm² = 4 J/cm²), pero no se especifica explícitamente la geometría del haz.",
+    "No se especifica la frecuencia de pulso (el láser opera en modo continuo según el paper).",
+    "Los parámetros de exclusión por 'contraindicaciones de terapia láser' no se detallan en el paper.",
+    "El seguimiento es solo hasta el 7° día postoperatorio, sin datos a largo plazo."
+  ],
+  "bibliographic_metadata": {
+    "title": "Evaluation of the effects of the low-level laser therapy on swelling, pain, and trismus after removal of impacted lower third molar",
+    "authors": [
+      "Hilal Alan",
+      "Ümit Yolcu",
+      "Mahmut Koparal",
+      "Cem Özgür",
+      "Seyit Ahmet Öztürk",
+      "Sıddık Malkoç"
+    ],
+    "year": 2016,
+    "journal": "Head & Face Medicine",
+    "doi": "10.1186/s13005-016-0121-1"
+  },
+  "protocols": [
+    {
+      "name": "LLLT extraoral postquirúrgica para extracción de tercer molar inferior impactado",
+      "synonyms_es": [
+        "fotobiomodulación extraoral postextracción molar",
+        "terapia láser de baja intensidad extraoral postoperatoria",
+        "LLLT extraoral masetero postquirúrgico",
+        "láser blando extraoral tras cirugía de cordal",
+        "biostimulación láser postextracción tercer molar"
+      ],
+      "synonyms_en": [
+        "extraoral LLLT after third molar surgery",
+        "low-level laser therapy post-wisdom tooth extraction",
+        "extraoral photobiomodulation after impacted molar removal",
+        "soft laser extraoral masseter postoperative",
+        "PBM extraoral third molar"
+      ],
+      "purpose": "Reducir el dolor postoperatorio, el edema facial y el trismus (limitación de apertura bucal) tras la extracción quirúrgica de terceros molares inferiores impactados mediante aplicación extraoral de LLLT sobre la región del músculo masetero.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo GaAlAs (810 nm, modo continuo)",
+          "representative_models": [
+            "CHEESE Dental Laser System (Wuhan GigaaOptronics)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "810 nm",
+          "potencia": "0.3 W (300 mW)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Pieza de mano 1×3 cm (no contacto)",
+          "agua_pct": "No aplica (aplicación extraoral)",
+          "aire_pct": "No aplica (aplicación extraoral)",
+          "distancia": "No contacto (extraoral sobre región masetérica)",
+          "tiempo_ciclos": "40 s por sesión; 2 sesiones (inmediatamente postquirúrgico y al 2° día); dosis total 12 J (4 J/cm²) por sesión"
+        }
+      ],
+      "critical_notes": [
+        "La aplicación es extraoral en modo no contacto sobre la inserción del músculo masetero; no se introduce ningún elemento en la cavidad oral.",
+        "Se instruyó a los pacientes a NO usar hielo en el lado tratado con láser para no confundir el efecto del láser sobre el edema.",
+        "El estudio encontró diferencia significativa solo en dolor al 7° día (p=0.017); no hubo diferencia significativa en edema ni trismus en ningún tiempo evaluado.",
+        "El tamaño muestral es pequeño (n=15); los resultados deben interpretarse con cautela.",
+        "Los parámetros óptimos de LLLT para biostimulación postquirúrgica no están estandarizados en la literatura; existen estudios con resultados contradictorios.",
+        "El documento presenta esta técnica con resultados parcialmente favorables; existen alternativas (ozono, AINEs, corticoides) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Realizar la extracción quirúrgica del tercer molar inferior impactado bajo anestesia local (articaína 4% con epinefrina 1:100,000).",
+        "Inmediatamente tras la cirugía, posicionar la pieza de mano del láser diodo (810 nm) en modo no contacto sobre la región de inserción del músculo masetero ipsilateral.",
+        "Aplicar irradiación láser a 0.3 W en modo continuo durante 40 segundos (dosis: 4 J/cm², energía total: 12 J).",
+        "Indicar al paciente que no aplique hielo en el lado tratado con láser.",
+        "Administrar paracetamol 500 mg y enjuague antiséptico (benzidamina HCL + clorhexidina gluconato) dos veces al día por 7 días.",
+        "Repetir la aplicación de LLLT con los mismos parámetros al 2° día postoperatorio en la misma zona anatómica."
+      ],
+      "indications": [
+        "Extracción quirúrgica de tercer molar inferior impactado con grado de dificultad moderado-alto",
+        "Manejo del dolor postoperatorio en cirugía oral",
+        "Reducción del edema facial postquirúrgico",
+        "Reducción del trismus postoperatorio"
+      ],
+      "contraindications": [
+        "Contraindicaciones generales de terapia láser (no detalladas en el paper)",
+        "Enfermedad sistémica activa",
+        "Tabaquismo activo",
+        "Infección local en la zona de aplicación",
+        "Pericoronitis aguda",
+        "Embarazo o lactancia",
+        "Aplicación directa sobre ojos sin protección adecuada"
+      ],
+      "postop_care": [
+        "No aplicar hielo en el lado tratado con láser durante el período postoperatorio.",
+        "Tomar paracetamol 500 mg dos veces al día por 7 días.",
+        "Realizar enjuagues con solución antiséptica (benzidamina HCL + clorhexidina gluconato) dos veces al día por 7 días.",
+        "Acudir a control al 2° día para segunda sesión de LLLT y evaluación clínica.",
+        "Acudir a control al 7° día para evaluación de dolor, edema y apertura bucal."
+      ],
+      "evidence_level": "Bajo — RCT cruzado con n=15, muestra pequeña, seguimiento limitado a 7 días, resultados significativos solo en dolor al 7° día.",
+      "keywords_es": [
+        "LLLT tercer molar",
+        "fotobiomodulación extracción molar",
+        "láser diodo 810 nm postoperatorio",
+        "terapia láser baja intensidad cirugía oral",
+        "edema postquirúrgico láser",
+        "trismus láser",
+        "dolor postoperatorio láser dental",
+        "extracción cordal láser",
+        "biostimulación láser masetero",
+        "PBM cirugía oral",
+        "GaAlAs 810 nm odontología",
+        "láser blando extraoral",
+        "terceros molares impactados tratamiento",
+        "apertura bucal postoperatoria",
+        "3dMD edema facial"
+      ],
+      "keywords_en": [
+        "LLLT third molar",
+        "photobiomodulation wisdom tooth extraction",
+        "diode laser 810 nm postoperative",
+        "low-level laser therapy oral surgery",
+        "postoperative edema laser",
+        "trismus laser treatment",
+        "postoperative pain laser dentistry",
+        "impacted molar laser",
+        "biostimulation laser masseter",
+        "PBM oral surgery",
+        "GaAlAs 810 nm dentistry",
+        "extraoral soft laser",
+        "impacted third molar management",
+        "mouth opening postoperative",
+        "3dMD facial swelling measurement"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
