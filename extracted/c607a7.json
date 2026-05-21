@@ -1,0 +1,440 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101186_s12866_015_0524_3__7ac231f0::1a5b97"
+  ],
+  "uuid": "c607a7",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "La terapia fotodinámica antimicrobiana (aPDT) con azul de metileno (MB), rosa de Bengala (RB) y curcumina (CUR) combinados con luz blanca (lámpara de haluro metálico, 420–700 nm, fluencia 37 J/cm²) logró reducción de 6 log10 en S. mutans y S. sanguis.",
+    "RB fue el fotosensibilizador más eficiente para Streptococcus spp., requiriendo concentraciones mínimas de 0.31–0.62 μg/ml para S. mutans y 0.62–1.25 μg/ml para S. sanguis.",
+    "MB requirió 1.25–2.5 μg/ml para ambas especies bacterianas; CUR necesitó concentraciones mucho mayores (80–160 μg/ml para S. mutans y 160–320 μg/ml para S. sanguis).",
+    "Para C. albicans, MB fue el fotosensibilizador más eficiente (80–160 μg/ml para reducción de 5 log10); RB requirió 320–640 μg/ml; CUR no alcanzó efecto fungicida ni a 1280 μg/ml.",
+    "Un tiempo de preincubación de 1 hora redujo a la mitad la concentración mínima bactericida de MB y RB para Streptococcus spp., pero el beneficio clínico de la preincubación prolongada es cuestionable dado el flujo salival en cavidad oral.",
+    "La eficacia de la aPDT depende del microorganismo diana, el fotosensibilizador y la fuente de luz utilizada; la combinación de diferentes fotosensibilizadores con luz blanca podría ser una estrategia prometedora para infecciones polimicrobianas como la caries.",
+    "No se observaron efectos antimicrobianos cuando los microorganismos fueron expuestos solo al fotosensibilizador o solo a la luz, confirmando la necesidad de la combinación para el efecto fotodinámica.",
+    "La curcumina mostró la menor actividad antimicrobiana, posiblemente porque el espectro de emisión de la lámpara utilizada no coincide óptimamente con su pico de absorción a 430 nm."
+  ],
+  "outcomes": [
+    {
+      "measured": "Reducción log10 de S. mutans ATCC 35668 con RB (<1 min preincubación)",
+      "result": "6 log10 con 0.31–0.62 μg/ml RB",
+      "statistical_significance": null,
+      "clinical_significance": "Concentración muy baja de RB suficiente para efecto bactericida completo"
+    },
+    {
+      "measured": "Reducción log10 de S. sanguis ATCC 10556 con RB (<1 min preincubación)",
+      "result": "6 log10 con 0.62–1.25 μg/ml RB",
+      "statistical_significance": null,
+      "clinical_significance": "RB más eficiente que MB para Streptococcus spp."
+    },
+    {
+      "measured": "Reducción log10 de S. mutans y S. sanguis con MB (<1 min preincubación)",
+      "result": "6 log10 con 1.25–2.5 μg/ml MB para ambas especies",
+      "statistical_significance": null,
+      "clinical_significance": "MB requiere mayor concentración que RB para bacterias cariogénicas"
+    },
+    {
+      "measured": "Reducción log10 de C. albicans ATCC 10231 con MB (3h preincubación)",
+      "result": "5 log10 con 40–80 μg/ml MB",
+      "statistical_significance": null,
+      "clinical_significance": "MB es el fotosensibilizador más eficiente para C. albicans"
+    },
+    {
+      "measured": "Reducción log10 de C. albicans con CUR (máxima concentración estudiada 1280 μg/ml)",
+      "result": "No alcanzó reducción de 5 log10 a ninguna concentración estudiada",
+      "statistical_significance": null,
+      "clinical_significance": "CUR ineficaz como antifúngico en las condiciones del estudio"
+    }
+  ],
+  "notes": "Estudio in vitro con cepas ATCC de referencia (no aislados clínicos). La lámpara de haluro metálico utilizada (420–700 nm) no es un dispositivo láser dental convencional, sino una fuente de luz blanca de amplio espectro. Los resultados son relevantes para aPDT dental pero no directamente extrapolables a condiciones clínicas intraorales. El estudio no evalúa biofilms, solo cultivos planctónicos.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Cepas ATCC de S. mutans ATCC 35668, S. sanguis ATCC 10556 y C. albicans ATCC 10231 en cultivo planctónico",
+    "sample_type": "in vitro — suspensiones microbianas en placa de microtitulación 96 pocillos"
+  },
+  "superiority_claim": "El autor afirma: 'RB showed higher antimicrobial photodynamic effect for Streptococcus spp than the other PSs studied, whereas MB was better for Candida spp.' y 'MB is the most effective PS on C. albicans while RB was slightly superior for S. mutans.'",
+  "conflicts_of_interest": "The authors declare that they have no competing interests.",
+  "funding_source_text": "This study was supported by grants CTQ2013-48767-C3-2-R from the Spanish Ministry of Science and Innovation, Spain and European Regional Development Fund.",
+  "source_citation": "Soria-Lozano, P., Gilaberte, Y., Paz-Cristobal, M. P., Pérez-Artiaga, L., Lampaya-Pérez, V., Aporta, J., Pérez-Laguna, V., García-Luque, I., Revillo, M. J., & Rezusta, A. (2015). In vitro effect photodynamic therapy with differents photosensitizers on cariogenic microorganisms. BMC Microbiology, 15, 187. https://doi.org/10.1186/s12866-015-0524-3",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": null,
+      "fluence_j_cm2": 37.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 210.0,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.09,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 411.0,
+    "application_technique": "defocused",
+    "anatomical_points": [
+      "suspensión microbiana en pocillo de microtitulación"
+    ]
+  },
+  "clinical_indication": "Terapia fotodinámica antimicrobiana (aPDT) contra microorganismos cariogénicos: S. mutans, S. sanguis y C. albicans",
+  "target_tissue": "dental biofilm microorganisms (planktonic cultures)",
+  "brand_model_mentioned": [],
+  "drugs_mentioned": [
+    {
+      "name": "methylene blue",
+      "drug_class": "phenothiazine photosensitizer",
+      "interaction_type": null,
+      "dental_relevance": "Fotosensibilizador para aPDT dental; eficaz contra S. mutans, S. sanguis y C. albicans; absorción máxima a 665 nm (luz roja); concentración bactericida 1.25–2.5 μg/ml para Streptococcus spp. y 80–160 μg/ml para C. albicans con luz blanca 37 J/cm².",
+      "photosensitivity": true,
+      "laser_implication": "Requiere fuente de luz con emisión en rango 630–700 nm para máxima eficacia; compatible también con luz blanca de amplio espectro. Fotosensibilizador de elección para aPDT antifúngica (Candida)."
+    },
+    {
+      "name": "rose bengal",
+      "drug_class": "xanthene dye photosensitizer",
+      "interaction_type": null,
+      "dental_relevance": "Fotosensibilizador para aPDT dental; más eficiente que MB para Streptococcus spp.; absorción máxima a 557 nm (luz verde-amarilla); concentración bactericida 0.31–0.62 μg/ml para S. mutans con luz blanca 37 J/cm².",
+      "photosensitivity": true,
+      "laser_implication": "Requiere fuente de luz con emisión en rango 450–600 nm para máxima eficacia. Menos eficiente que MB para Candida albicans."
+    },
+    {
+      "name": "curcumin",
+      "drug_class": "natural polyphenol photosensitizer",
+      "interaction_type": null,
+      "dental_relevance": "Fotosensibilizador natural para aPDT dental; requiere concentraciones muy superiores a MB y RB para efecto bactericida en Streptococcus spp. (80–320 μg/ml); ineficaz contra C. albicans incluso a 1280 μg/ml con luz blanca 37 J/cm².",
+      "photosensitivity": true,
+      "laser_implication": "Absorción máxima a 430 nm (luz azul/violeta); la eficacia mejora con fuentes de luz azul (LED 450 nm) que coincidan con su espectro de absorción. Con luz blanca de haluro metálico la irradiancia específica a 430 nm es subóptima."
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "El tiempo de preincubación del fotosensibilizador con el microorganismo influye en la eficacia: 1 hora reduce a la mitad la concentración mínima bactericida de MB y RB para Streptococcus spp. Sin embargo, mantener concentraciones terapéuticas del fotosensibilizador en cavidad oral durante períodos prolongados es difícil por el flujo salival y el fluido crevicular, por lo que la preincubación prolongada no se recomienda en el contexto clínico.",
+  "confidence": "high",
+  "uncertainties": [
+    "El estudio utiliza cultivos planctónicos (no biofilms), lo que limita la extrapolación directa a condiciones clínicas intraorales donde los microorganismos crecen en biofilm.",
+    "La fuente de luz utilizada es una lámpara de haluro metálico de amplio espectro (420–700 nm), no un láser dental convencional; los parámetros no son directamente comparables con protocolos de aPDT con láser o LED específico.",
+    "No se reporta spot_size en mm (se reporta diámetro del haz de luz de 21 cm, convertido a 210 mm para el campo spot_size_mm, lo cual es inusual para aplicación clínica dental).",
+    "Las cepas utilizadas son cepas de referencia ATCC, no aislados clínicos; la sensibilidad puede diferir en cepas clínicas.",
+    "No se evalúa el efecto sobre biofilms maduros, que son más resistentes a aPDT que los cultivos planctónicos."
+  ],
+  "bibliographic_metadata": {
+    "title": "In vitro effect photodynamic therapy with differents photosensitizers on cariogenic microorganisms",
+    "authors": [
+      "P. Soria-Lozano",
+      "Y. Gilaberte",
+      "MP Paz-Cristobal",
+      "L. Pérez-Artiaga",
+      "V. Lampaya-Pérez",
+      "J. Aporta",
+      "V. Pérez-Laguna",
+      "I. García-Luque",
+      "MJ Revillo",
+      "A. Rezusta"
+    ],
+    "year": 2015,
+    "journal": "BMC Microbiology",
+    "doi": "10.1186/s12866-015-0524-3"
+  },
+  "protocols": [
+    {
+      "name": "aPDT con azul de metileno (MB) contra microorganismos cariogénicos",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana con azul de metileno",
+        "fotoinactivación con azul de metileno",
+        "aPDT-MB dental",
+        "terapia fotodinámica con fenotiazina",
+        "desinfección fotodinámica con MB"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy with methylene blue",
+        "MB-aPDT dental",
+        "photoinactivation with methylene blue",
+        "phenothiazine-based aPDT",
+        "methylene blue photosensitization"
+      ],
+      "purpose": "Eliminar microorganismos cariogénicos (S. mutans, S. sanguis, C. albicans) mediante la activación fotodinámica del azul de metileno con fuente de luz visible, generando especies reactivas de oxígeno (ROS) que destruyen las células microbianas.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz visible de amplio espectro (420–700 nm) — lámpara de haluro metálico o equivalente",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "420–700 nm (irradiancia específica a 665 nm: 300 μW/cm²)",
+          "potencia": "90 mW/cm² (irradiancia total)",
+          "frecuencia": "No especificado (luz continua)",
+          "modo_de_pulso": "Continuo",
+          "fibra_punta": "No especificado (lámpara de área, no fibra)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "10 cm",
+          "tiempo_ciclos": "6 min 51 s (fluencia total 37 J/cm²)"
+        }
+      ],
+      "critical_notes": [
+        "Este es un estudio in vitro con cultivos planctónicos; los parámetros no han sido validados en condiciones clínicas intraorales ni en biofilms.",
+        "La concentración bactericida mínima de MB para Streptococcus spp. fue 1.25–2.5 μg/ml; para C. albicans fue 80–160 μg/ml (reducción 5 log10) con fluencia de 37 J/cm².",
+        "Un tiempo de preincubación de 1 hora con MB redujo a la mitad la concentración mínima bactericida para Streptococcus spp., pero su aplicabilidad clínica es limitada por el flujo salival.",
+        "Para máxima eficacia de MB, se recomienda fuente de luz con emisión en rango 630–700 nm (luz roja), que coincide con su pico de absorción a 665 nm.",
+        "El documento presenta esta técnica en contexto comparativo; existen alternativas (RB, curcumina, azul de toluidina) con perfiles de eficacia diferentes según el microorganismo diana."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar solución de azul de metileno a la concentración deseada (rango estudiado: 0.01–1280 μg/ml) en agua bidestilada, bajo condiciones de luz restringida.",
+        "Ajustar la suspensión microbiana a la turbidez McFarland correspondiente (0.5 McFarland para bacterias, 4.5 McFarland para C. albicans).",
+        "Aplicar el fotosensibilizador sobre el área/microorganismo diana y mantener en oscuridad durante el tiempo de preincubación deseado (<1 min, 1 h o 3 h).",
+        "Irradiar con fuente de luz de amplio espectro (420–700 nm) a una fluencia de 37 J/cm² (irradiancia 90 mW/cm², tiempo de irradiación ~6 min 51 s, distancia 10 cm).",
+        "Evaluar la viabilidad microbiana post-tratamiento mediante recuento de UFC."
+      ],
+      "indications": [
+        "Desinfección de microorganismos cariogénicos: S. mutans, S. sanguis",
+        "Tratamiento antifúngico de C. albicans en cavidad oral (candidiasis oral)",
+        "Alternativa a antimicrobianos convencionales para reducir resistencia bacteriana",
+        "Supresión de especies subgingivales en el contexto de caries dental"
+      ],
+      "contraindications": [
+        "Alergia o hipersensibilidad conocida al azul de metileno",
+        "Deficiencia de glucosa-6-fosfato deshidrogenasa (G6PD) — riesgo de hemólisis con MB sistémico (relevante si hay absorción mucosa)",
+        "No validado en biofilms maduros ni en condiciones clínicas intraorales"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con cepas ATCC en cultivo planctónico; sin validación clínica ni en biofilms.",
+      "keywords_es": [
+        "azul de metileno",
+        "terapia fotodinámica antimicrobiana",
+        "aPDT dental",
+        "fotosensibilizador",
+        "Streptococcus mutans",
+        "Streptococcus sanguis",
+        "Candida albicans",
+        "caries dental",
+        "desinfección oral",
+        "fotoinactivación microbiana",
+        "especies reactivas de oxígeno",
+        "biofilm dental",
+        "luz visible",
+        "fenotiazina",
+        "microorganismos cariogénicos"
+      ],
+      "keywords_en": [
+        "methylene blue",
+        "antimicrobial photodynamic therapy",
+        "aPDT dental",
+        "photosensitizer",
+        "Streptococcus mutans",
+        "Streptococcus sanguis",
+        "Candida albicans",
+        "dental caries",
+        "oral disinfection",
+        "microbial photoinactivation",
+        "reactive oxygen species",
+        "dental biofilm",
+        "visible light",
+        "phenothiazine",
+        "cariogenic microorganisms"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "aPDT con rosa de Bengala (RB) contra microorganismos cariogénicos",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana con rosa de Bengala",
+        "fotoinactivación con rosa de Bengala",
+        "aPDT-RB dental",
+        "terapia fotodinámica con xanteno",
+        "desinfección fotodinámica con rosa de Bengala"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy with rose bengal",
+        "RB-aPDT dental",
+        "photoinactivation with rose bengal",
+        "xanthene dye-based aPDT",
+        "rose bengal photosensitization"
+      ],
+      "purpose": "Eliminar microorganismos cariogénicos (especialmente S. mutans y S. sanguis) mediante la activación fotodinámica del rosa de Bengala con fuente de luz visible, siendo el fotosensibilizador más eficiente para Streptococcus spp. en las condiciones estudiadas.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz visible de amplio espectro (420–700 nm) — lámpara de haluro metálico o equivalente",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "420–700 nm (irradiancia específica a 557 nm: 292 μW/cm²)",
+          "potencia": "90 mW/cm² (irradiancia total)",
+          "frecuencia": "No especificado (luz continua)",
+          "modo_de_pulso": "Continuo",
+          "fibra_punta": "No especificado (lámpara de área, no fibra)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "10 cm",
+          "tiempo_ciclos": "6 min 51 s (fluencia total 37 J/cm²)"
+        }
+      ],
+      "critical_notes": [
+        "Este es un estudio in vitro con cultivos planctónicos; los parámetros no han sido validados en condiciones clínicas intraorales ni en biofilms.",
+        "La concentración bactericida mínima de RB para S. mutans fue 0.31–0.62 μg/ml y para S. sanguis 0.62–1.25 μg/ml (reducción 6 log10) con fluencia de 37 J/cm²; estas concentraciones son menores que las requeridas por MB.",
+        "RB fue menos eficiente que MB para C. albicans (requirió 320–640 μg/ml para reducción de 5 log10).",
+        "Para máxima eficacia de RB, se recomienda fuente de luz con emisión en rango 450–600 nm, que coincide con su pico de absorción a 557 nm.",
+        "El documento presenta esta técnica en contexto comparativo; existen alternativas (MB, curcumina) con perfiles de eficacia diferentes según el microorganismo diana."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar solución de rosa de Bengala a la concentración deseada (rango estudiado: 0.01–1280 μg/ml) en agua bidestilada, bajo condiciones de luz restringida.",
+        "Ajustar la suspensión microbiana a la turbidez McFarland correspondiente (0.5 McFarland para bacterias, 4.5 McFarland para C. albicans).",
+        "Aplicar el fotosensibilizador sobre el área/microorganismo diana y mantener en oscuridad durante el tiempo de preincubación deseado (<1 min o 1 h).",
+        "Irradiar con fuente de luz de amplio espectro (420–700 nm) a una fluencia de 37 J/cm² (irradiancia 90 mW/cm², tiempo de irradiación ~6 min 51 s, distancia 10 cm).",
+        "Evaluar la viabilidad microbiana post-tratamiento mediante recuento de UFC."
+      ],
+      "indications": [
+        "Desinfección de microorganismos cariogénicos: S. mutans, S. sanguis (fotosensibilizador de elección para Streptococcus spp. en este estudio)",
+        "Alternativa a antimicrobianos convencionales para reducir resistencia bacteriana",
+        "Supresión de especies subgingivales en el contexto de caries dental"
+      ],
+      "contraindications": [
+        "Alergia o hipersensibilidad conocida al rosa de Bengala",
+        "Menos indicado que MB para infecciones por Candida albicans",
+        "No validado en biofilms maduros ni en condiciones clínicas intraorales"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con cepas ATCC en cultivo planctónico; sin validación clínica ni en biofilms.",
+      "keywords_es": [
+        "rosa de Bengala",
+        "terapia fotodinámica antimicrobiana",
+        "aPDT dental",
+        "fotosensibilizador",
+        "Streptococcus mutans",
+        "Streptococcus sanguis",
+        "caries dental",
+        "desinfección oral",
+        "fotoinactivación microbiana",
+        "xanteno",
+        "biofilm dental",
+        "luz visible",
+        "microorganismos cariogénicos",
+        "placa dental",
+        "especies reactivas de oxígeno"
+      ],
+      "keywords_en": [
+        "rose bengal",
+        "antimicrobial photodynamic therapy",
+        "aPDT dental",
+        "photosensitizer",
+        "Streptococcus mutans",
+        "Streptococcus sanguis",
+        "dental caries",
+        "oral disinfection",
+        "microbial photoinactivation",
+        "xanthene dye",
+        "dental biofilm",
+        "visible light",
+        "cariogenic microorganisms",
+        "dental plaque",
+        "reactive oxygen species"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "aPDT con curcumina (CUR) contra microorganismos cariogénicos",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana con curcumina",
+        "fotoinactivación con curcumina",
+        "aPDT-CUR dental",
+        "terapia fotodinámica con polifenol natural",
+        "desinfección fotodinámica con curcumina"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy with curcumin",
+        "CUR-aPDT dental",
+        "photoinactivation with curcumin",
+        "natural polyphenol-based aPDT",
+        "curcumin photosensitization"
+      ],
+      "purpose": "Evaluar la capacidad de la curcumina como fotosensibilizador natural para eliminar microorganismos cariogénicos (S. mutans, S. sanguis, C. albicans) mediante activación con luz visible; en este estudio resultó menos eficiente que MB y RB para bacterias e ineficaz para C. albicans.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz azul/violeta (430–450 nm preferente) o luz blanca de amplio espectro (420–700 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "420–700 nm en este estudio (irradiancia específica a 430 nm: 186 μW/cm²); óptimo: ~430–450 nm (luz azul)",
+          "potencia": "90 mW/cm² (irradiancia total con lámpara de haluro metálico)",
+          "frecuencia": "No especificado (luz continua)",
+          "modo_de_pulso": "Continuo",
+          "fibra_punta": "No especificado (lámpara de área, no fibra)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "10 cm",
+          "tiempo_ciclos": "6 min 51 s (fluencia total 37 J/cm²)"
+        }
+      ],
+      "critical_notes": [
+        "Este es un estudio in vitro con cultivos planctónicos; los parámetros no han sido validados en condiciones clínicas intraorales ni en biofilms.",
+        "La curcumina requirió concentraciones muy superiores a MB y RB para efecto bactericida: 80–160 μg/ml para S. mutans y 160–320 μg/ml para S. sanguis (reducción 6 log10).",
+        "La curcumina fue ineficaz contra C. albicans incluso a la máxima concentración estudiada (1280 μg/ml).",
+        "La baja eficacia observada puede deberse a que la lámpara utilizada (haluro metálico) tiene irradiancia subóptima a 430 nm (186 μW/cm²) comparada con la irradiancia a 557 nm y 665 nm; el uso de LED azul (~450 nm) podría mejorar los resultados.",
+        "⚠️ Este protocolo es de carácter teórico/revisión en cuanto a aplicación clínica. Los parámetros son experimentales in vitro. Basado en: Soria-Lozano et al. (2015).",
+        "El documento presenta esta técnica en contexto comparativo; existen alternativas (MB, RB) con mayor eficacia antimicrobiana en las condiciones estudiadas."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar solución de curcumina a la concentración deseada (rango estudiado: 0.01–1280 μg/ml) en agua bidestilada, bajo condiciones de luz restringida.",
+        "Ajustar la suspensión microbiana a la turbidez McFarland correspondiente.",
+        "Aplicar el fotosensibilizador sobre el área/microorganismo diana y mantener en oscuridad durante el tiempo de preincubación deseado.",
+        "Irradiar preferentemente con fuente de luz azul (~430–450 nm) para maximizar la activación de curcumina; en este estudio se usó lámpara de haluro metálico (420–700 nm, 37 J/cm²).",
+        "Evaluar la viabilidad microbiana post-tratamiento mediante recuento de UFC."
+      ],
+      "indications": [
+        "Desinfección de microorganismos cariogénicos bacterianos (S. mutans, S. sanguis) como alternativa natural a fotosensibilizadores sintéticos",
+        "Alternativa a antimicrobianos convencionales para reducir resistencia bacteriana"
+      ],
+      "contraindications": [
+        "No indicada para infecciones por Candida albicans (ineficaz en este estudio)",
+        "Requiere concentraciones muy superiores a MB y RB para efecto bactericida equivalente",
+        "No validada en biofilms maduros ni en condiciones clínicas intraorales"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con cepas ATCC en cultivo planctónico; sin validación clínica ni en biofilms. Resultados desfavorables comparados con MB y RB.",
+      "keywords_es": [
+        "curcumina",
+        "terapia fotodinámica antimicrobiana",
+        "aPDT dental",
+        "fotosensibilizador natural",
+        "Streptococcus mutans",
+        "Curcuma longa",
+        "caries dental",
+        "desinfección oral",
+        "fotoinactivación microbiana",
+        "luz azul",
+        "biofilm dental",
+        "polifenol",
+        "microorganismos cariogénicos",
+        "LED azul 450 nm",
+        "especies reactivas de oxígeno"
+      ],
+      "keywords_en": [
+        "curcumin",
+        "antimicrobial photodynamic therapy",
+        "aPDT dental",
+        "natural photosensitizer",
+        "Streptococcus mutans",
+        "Curcuma longa",
+        "dental caries",
+        "oral disinfection",
+        "microbial photoinactivation",
+        "blue light",
+        "dental biofilm",
+        "polyphenol",
+        "cariogenic microorganisms",
+        "blue LED 450 nm",
+        "reactive oxygen species"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
