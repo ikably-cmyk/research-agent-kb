@@ -9,67 +9,79 @@
   "study_type": "narrative_review",
   "evidence_level": "expert_opinion",
   "key_points": [
-    "PBM (fotobiomodulación / LLLT) actúa principalmente sobre el citocromo c oxidasa (CcO) en la cadena respiratoria mitocondrial, aumentando la producción de ATP y modulando el estrés oxidativo.",
-    "Los parámetros de PBM reportados en la literatura se sitúan predominantemente en el rango rojo e infrarrojo cercano (600–1000 nm), con densidad de potencia de 5–150 mW/cm² y aplicación de 30–60 s por punto.",
-    "La evidencia actual sugiere que PBM con densidad de energía de 1–6 J/cm² en el espectro rojo o NIR es segura y efectiva para mucositis oral en pacientes con cáncer de cabeza y cuello.",
-    "Se describe una respuesta bifásica a la dosis: dosis subóptimas tienen efecto disminuido y dosis supraóptimas pueden tener efectos negativos.",
-    "Los estudios in vitro sobre el efecto de PBM en líneas celulares tumorales muestran resultados contradictorios, posiblemente atribuibles a inconsistencias en potencia y dosis.",
-    "No existen datos que sugieran que PBM proteja a las células cancerosas de los efectos citotóxicos de la radioterapia; algunos estudios sugieren incluso un efecto pro-apoptótico en células tumorales.",
-    "PBM puede modular condiciones como ulceración, inflamación, linfedema, dolor, fibrosis e injuria neurológica y muscular, todas involucradas en la patogénesis de las complicaciones por quimiorradioterapia en cáncer de cabeza y cuello.",
-    "La estandarización en la medición del haz, cálculo de dosis y reporte correcto de parámetros es un prerrequisito para la reproducibilidad de los estudios de PBM.",
-    "Los dispositivos LED de alta calidad monocromáticos tienen propiedades similares a los láseres de diodo de la misma longitud de onda, aunque con menor coherencia.",
-    "La administración extraoral de PBM puede alcanzar estructuras anatómicas de cabeza y cuello en riesgo de complicaciones por RT/CRT, ampliando las indicaciones potenciales."
+    "PBM (photobiomodulation), formerly LLLT, is defined as the therapeutic use of visible, NIR, or IR light absorbed by endogenous chromophores, triggering non-thermal, non-cytotoxic biological reactions through photochemical or photophysical events.",
+    "PBM acts predominantly on cytochrome c oxidase (CcO) in the mitochondrial respiratory chain, facilitating electron transport, increasing ATP production, and modulating reactive oxygen species (ROS).",
+    "PBM parameters reported in the literature are mostly within the red and NIR wavelength range of 600–1000 nm, with power density between 5 and 150 mW/cm², applied for 30–60 seconds per point.",
+    "A biphasic dose response has been demonstrated: doses lower than optimal may have diminished effect, while doses higher than optimal can have negative therapeutic outcomes.",
+    "Systematic reviews support efficacy of PBM for oral mucositis (OM) management in HSCT recipients and HNC patients.",
+    "PBM may be administered intra-orally or extra-orally (transcutaneously), potentially broadening the range of anatomical structures that can be treated.",
+    "LED arrays with monochromatic high-quality beams have similar properties to diode lasers of the same wavelength, but with less coherent light; LED specifics must be carefully matched when substituting for laser PBM.",
+    "The effect of PBM on tumor cells is conflicting in vitro: some studies show proliferative effects, others show inhibitory or no effects, depending on wavelength, dose, and cell type.",
+    "Current evidence suggests PBM in the red or NIR spectrum with energy density of 1–6 J/cm² is safe and effective; however, vigilance is warranted regarding potential effects on residual or new malignant cells.",
+    "Standardization of beam measurement, dose calculation, and parameter reporting is essential for reproducibility of PBM studies.",
+    "Without standardization, studies will not be reproducible and outcomes will not be consistent; a reporting checklist for PBM parameters has been proposed.",
+    "PBM may modulate conditions involved in HNC treatment complications: ulceration, inflammation, lymphedema, pain, fibrosis, neurological and muscular injury.",
+    "PBM with power density >300 mW/cm² absorbed by nociceptors has an inhibitory effect on A and C neuronal pain fibers, slowing neural conduction velocity and suppressing neurogenic inflammation.",
+    "Confirming PBM's neutrality with respect to cancer responsiveness is identified as a critical research priority."
   ],
   "outcomes": [
     {
-      "measured": "Eficacia de PBM para mucositis oral en pacientes con HSCT y cáncer de cabeza y cuello",
-      "result": "Revisiones sistemáticas sugieren eficacia de PBM para el manejo de mucositis oral en receptores de TCMH y pacientes con HNC",
-      "statistical_significance": null,
-      "clinical_significance": "Evidencia suficiente para recomendar PBM como medida de soporte en mucositis oral oncológica"
-    },
-    {
-      "measured": "Efecto de PBM sobre proliferación de células tumorales in vitro",
-      "result": "Resultados contradictorios: algunos estudios reportan aumento de proliferación, otros disminución o ningún efecto, dependiendo de la línea celular, longitud de onda y dosis",
-      "statistical_significance": null,
-      "clinical_significance": "La relevancia clínica de los hallazgos in vitro es incierta; no se han reportado casos anecdóticos de peores resultados tumorales en pacientes tratados con PBM"
-    },
-    {
-      "measured": "Control locorregional y supervivencia en pacientes con HNC tratados con PBM durante CRT",
-      "result": "Un RCT reportó mejor control locorregional y supervivencia libre de progresión o global en pacientes tratados con PBM a una mediana de seguimiento de 18 meses",
+      "measured": "Oral mucositis prevention and treatment in HNC and HSCT patients",
+      "result": "Systematic reviews support efficacy of PBM for OM management",
       "statistical_significance": true,
-      "clinical_significance": "Hallazgo prometedor pero requiere confirmación en estudios con mayor tamaño muestral"
+      "clinical_significance": "PBM reduces severity and incidence of oral mucositis in patients undergoing chemoradiotherapy for HNC"
+    },
+    {
+      "measured": "Effect of PBM on tumor cell proliferation in vitro",
+      "result": "Conflicting results across different tumor cell lines and PBM parameters; some studies show proliferation, others show inhibition or no effect",
+      "statistical_significance": null,
+      "clinical_significance": "Clinical significance unclear; in vitro findings may not translate to in vivo tumor behavior"
+    },
+    {
+      "measured": "Locoregional disease control and survival in HNC patients receiving PBM for OM prevention during CRT",
+      "result": "At median follow-up of 18 months, patients treated with PBM had better locoregional disease control and improved progression-free or overall survival (one RCT, ref 99)",
+      "statistical_significance": true,
+      "clinical_significance": "Suggests PBM does not negatively impact and may improve oncologic outcomes"
+    },
+    {
+      "measured": "Carcinogenic effects of PBM on normal cells",
+      "result": "No signs of malignant transformation in non-malignant epithelial cells and fibroblasts following PBM exposure",
+      "statistical_significance": null,
+      "clinical_significance": "PBM appears unlikely to have carcinogenic effects on normal cells"
     }
   ],
-  "notes": "Este es el artículo parte 1 de una serie de dos. La parte 2 propone parámetros específicos de PBM para complicaciones de HNC. El artículo incluye una tabla detallada (Tabla 1) con los parámetros de PBM que deben reportarse en estudios clínicos.",
+  "notes": "This is Part 1 of a two-part review. Part 2 (companion paper) proposes specific PBM parameters for prophylaxis and treatment of HNC chemoradiation complications. This paper focuses on mechanisms of action, dosimetry, and safety. The task force was international and multidisciplinary. The article is informational and does not represent the opinion of any individual author.",
   "population": {
     "n_participants": null,
     "age_range": null,
-    "condition": "Pacientes con cáncer de cabeza y cuello en tratamiento con radioterapia o quimiorradioterapia",
-    "sample_type": "Revisión narrativa (no hay población de estudio primaria)"
+    "condition": "Head and neck cancer patients undergoing radiotherapy or chemoradiotherapy; also HSCT recipients",
+    "sample_type": "Narrative review — no primary patient population"
   },
   "superiority_claim": null,
-  "conflicts_of_interest": "Judith E. Raber-Durlacher, Raj G. Nair, Joel B. Epstein, Ron van der Brink, Josep Arnabat Dominguez, y Rene-Jean Bensadoun recibieron gastos de viaje y alojamiento de THOR Photomedicine Ltd. UK. Raj Nair recibió un honorario de THOR, UK. Michael R Hamblin fue financiado por el NIH de EE.UU. (grant R01AI050875). Todos los demás autores declaran no tener conflicto de interés.",
+  "conflicts_of_interest": "Judith E. Raber-Durlacher, Raj G. Nair, Joel B. Epstein, Ron van der Brink, Josep Arnabat Dominguez, and Rene-Jean Bensadoun have received travel expenses and hotel accommodation from THOR Photomedicine Ltd. UK. Raj Nair has received an honorarium from THOR, UK. Michael R Hamblin was supported by US NIH grant R01AI050875. All the other authors declare that they have no conflict of interest.",
   "funding_source_text": "Michael R Hamblin was supported by US NIH grant R01AI050875.",
-  "source_citation": "Zecha, J. A. E. M., Raber-Durlacher, J. E., Nair, R. G., Epstein, J. B., Sonis, S. T., Elad, S., Hamblin, M. R., Barasch, A., Migliorati, C. A., Milstein, D. M. J., Genot, M.-T., Lansaat, L., van der Brink, R., Arnabat-Dominguez, J., van der Molen, L., Jacobi, I., van Diessen, J., de Lange, J., Smeele, L. E., Schubert, M. M., & Bensadoun, R.-J. (2016). Low level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer: part 1: mechanisms of action, dosimetric, and safety considerations. Supportive Care in Cancer, 24(7), 2781–2792. https://doi.org/10.1007/s00520-016-3152-z",
+  "source_citation": "Zecha, J. A. E. M., Raber-Durlacher, J. E., Nair, R. G., Epstein, J. B., Sonis, S. T., Elad, S., Hamblin, M. R., Barasch, A., Migliorati, C. A., Milstein, D. M. J., Genot, M.-T., Lansaat, L., van der Brink, R., Arnabat-Dominguez, J., van der Molen, L., Jacobi, I., van Diessen, J., de Lange, J., Smeele, L. E., Schubert, M. M., & Bensadoun, R.-J. (2016). Low level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer: part 1: mechanisms of action, dosimetric, and safety considerations. Supportive Care in Cancer, 24, 2781–2792. https://doi.org/10.1007/s00520-016-3152-z",
   "contraindications": [
-    "Aplicación directa de PBM sobre tejido tumoral activo (precaución: neutralidad tumoral no definitivamente establecida)",
-    "Uso de parámetros supraóptimos (dosis excesivamente altas pueden tener efectos terapéuticos negativos)"
+    "PBM should not be applied directly over active tumor tissue until its neutrality with respect to cancer responsiveness is definitively established.",
+    "Caution warranted in patients with residual or new dysplastic and malignant cells, as the potential effect of PBM on these cells has not been definitively resolved."
   ],
   "adverse_events": [
-    "No se reportan efectos adversos significativos conocidos para PBM administrada con parámetros adecuados en pacientes con HNC",
-    "Potencial efecto sobre células tumorales residuales o displásicas no definitivamente resuelto"
+    "No known significant adverse side effects for PBM administered with appropriate parameters in HNC patients.",
+    "In vitro: some tumor cell lines showed increased proliferation at certain PBM doses and wavelengths.",
+    "In vivo animal model: PBM at 660 nm applied to chemically induced SCC in hamster cheek pouch increased tumor growth at specific parameters (424 mW/cm², 56.4 J/cm²).",
+    "Very high power density (2.5 W/cm²) combined with very high dose (1050 J/cm²) could induce melanoma tumor growth in vivo in animal model."
   ],
   "laser_parameters": [
     {
-      "wavelength_nm": null,
-      "fluence_j_cm2": 3.5,
+      "wavelength_nm": 600,
+      "fluence_j_cm2": null,
       "power_w": null,
       "pulse_duration_ms": null,
       "frequency_hz": null,
       "spot_size_mm": null,
       "mode": null,
       "energy_per_pulse_mj": null,
-      "irradiance_w_cm2": null,
+      "irradiance_w_cm2": 0.005,
       "total_dose_j": null,
       "contact": null,
       "cooling": null
@@ -81,13 +93,12 @@
     "application_time_sec": 45.0,
     "application_technique": "point",
     "anatomical_points": [
-      "mucosa oral",
-      "orofaringe",
-      "estructuras de cabeza y cuello en campo de radiación"
+      "oral mucosa (intra-oral)",
+      "head and neck structures (extra-oral/transcutaneous)"
     ]
   },
-  "clinical_indication": "Prevención y tratamiento de complicaciones de quimiorradioterapia en cáncer de cabeza y cuello, incluyendo mucositis oral, inflamación, linfedema, dolor, fibrosis, injuria neurológica y muscular",
-  "target_tissue": "oral mucosa, oropharynx, skin, lymphatic tissue, muscle, nerve",
+  "clinical_indication": "Prevention and treatment of oral mucositis and other complications of chemoradiotherapy in head and neck cancer patients",
+  "target_tissue": "oral mucosa, oropharyngeal mucosa, skin, lymphatic tissue, muscle, nerve",
   "brand_model_mentioned": [
     "HeNe gas laser",
     "GaAs laser",
@@ -95,17 +106,18 @@
     "GaAlAs laser",
     "InGaAlP diode laser",
     "CO2 laser (non-thermal, non-ablative)",
-    "LED arrays"
+    "LED arrays",
+    "THOR Photomedicine"
   ],
   "drugs_mentioned": null,
   "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Los parámetros específicos de PBM (longitud de onda exacta, potencia, fluencia) no se reportan como un protocolo único sino como rangos generales (600–1000 nm, 5–150 mW/cm², 1–6 J/cm²); no es posible extraer un único objeto LaserParameters representativo.",
-    "La tabla de parámetros (Tabla 1) es una guía de reporte, no un protocolo clínico con valores específicos.",
-    "El efecto de PBM sobre células tumorales residuales en pacientes con HNC no está definitivamente resuelto; la neutralidad tumoral es una prioridad de investigación pendiente.",
-    "Este artículo es la parte 1 de una serie; los parámetros clínicos específicos por indicación se proponen en la parte 2, que no está incluida en este documento."
+    "Exact PBM parameters (power, fluence, spot size, pulse structure) for each specific HNC complication are not provided in this Part 1 paper — they are deferred to the companion Part 2 paper.",
+    "The laser_parameters object provided is a range summary (600–1000 nm, 5–150 mW/cm², 30–60 s/point) rather than a single protocol; exact values per indication are not specified in this paper.",
+    "The biphasic dose response optimal parameters are not quantified for each specific tissue type or complication.",
+    "Long-term safety data regarding PBM effects on tumor behavior in HNC patients are insufficient; the paper explicitly states more research is needed."
   ],
   "bibliographic_metadata": {
     "title": "Low level laser therapy/photobiomodulation in the management of side effects of chemoradiation therapy in head and neck cancer: part 1: mechanisms of action, dosimetric, and safety considerations",
@@ -138,25 +150,25 @@
   },
   "protocols": [
     {
-      "name": "PBM/LLLT para mucositis oral en cáncer de cabeza y cuello — mecanismos, dosimetría y seguridad",
+      "name": "PBM/LLLT para mucositis oral en pacientes con cáncer de cabeza y cuello en tratamiento con quimiorradioterapia",
       "synonyms_es": [
         "fotobiomodulación para mucositis oral oncológica",
-        "terapia láser de baja intensidad en cáncer de cabeza y cuello",
-        "LLLT para complicaciones de quimiorradioterapia",
-        "terapia de luz de baja potencia en mucositis",
-        "PBM en soporte oncológico"
+        "terapia láser de baja intensidad para mucositis por radioterapia",
+        "LLLT mucositis cabeza y cuello",
+        "láser terapéutico mucositis quimiorradioterapia",
+        "fototerapia mucositis oncológica"
       ],
       "synonyms_en": [
-        "photobiomodulation for oral mucositis in head and neck cancer",
-        "low level laser therapy for chemoradiation complications",
-        "LLLT oral mucositis oncology",
-        "PBM supportive care cancer",
-        "low level light therapy HNC"
+        "photobiomodulation for oral mucositis in HNC",
+        "LLLT oral mucositis chemoradiation",
+        "low level laser therapy head and neck cancer mucositis",
+        "PBM mucositis prevention oncology",
+        "low level light therapy oral mucositis"
       ],
-      "purpose": "Prevención y tratamiento de mucositis oral y otras complicaciones orofaciales (inflamación, dolor, linfedema, fibrosis, injuria neurológica y muscular) en pacientes con cáncer de cabeza y cuello sometidos a radioterapia o quimiorradioterapia, mediante la aplicación de luz roja o infrarroja cercana con parámetros no térmicos y no citotóxicos.",
+      "purpose": "Prevenir y tratar la mucositis oral inducida por quimiorradioterapia en pacientes con cáncer de cabeza y cuello, mediante la aplicación de luz roja o infrarroja cercana que modula la respuesta inflamatoria, promueve la cicatrización tisular y reduce el dolor.",
       "parameters_table": [
         {
-          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm)",
+          "equipment_class": "Láser o LED de baja intensidad (600–1000 nm), rojo o infrarrojo cercano",
           "representative_models": [
             "HeNe gas laser",
             "GaAlAs diode laser",
@@ -165,97 +177,98 @@
             "LED arrays"
           ],
           "equipo": null,
-          "longitud_de_onda": "600–1000 nm (rojo e infrarrojo cercano)",
-          "potencia": "No especificado (densidad de potencia: 5–150 mW/cm²)",
+          "longitud_de_onda": "600–1000 nm (rojo a infrarrojo cercano)",
+          "potencia": "No especificado por punto; irradiancia 5–150 mW/cm²",
           "frecuencia": "No especificado",
-          "modo_de_pulso": "Onda continua (CW) o pulsado (ambos descritos en la literatura)",
-          "fibra_punta": "No especificado; intraoral o extraoral según indicación",
+          "modo_de_pulso": "Continuo (CW) o pulsado (ambos descritos en la literatura)",
+          "fibra_punta": "No especificado; aplicación intraoral o extraoral/transcutánea",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Contacto o no contacto según dispositivo; extraoral posible",
-          "tiempo_ciclos": "30–60 s por punto; número de sesiones y frecuencia según indicación clínica"
+          "distancia": "Contacto o no contacto según dispositivo; intraoral o extraoral",
+          "tiempo_ciclos": "30–60 segundos por punto; dosis energética 1–6 J/cm² considerada segura y efectiva"
         }
       ],
       "critical_notes": [
-        "⚠️ Este protocolo es de carácter teórico/revisión. Los parámetros clínicos específicos por indicación se proponen en la parte 2 de esta serie (Zecha et al. 2016, parte 2). Basado en: Zecha et al. (2016, parte 1).",
-        "La densidad de energía (fluencia) de 1–6 J/cm² en el espectro rojo o NIR se considera segura y efectiva según la evidencia actual.",
-        "Se describe una respuesta bifásica a la dosis: dosis subóptimas tienen efecto disminuido y dosis supraóptimas pueden tener efectos terapéuticos negativos.",
-        "La neutralidad tumoral de PBM no está definitivamente establecida; se recomienda vigilancia y seguimiento en pacientes con cáncer activo.",
-        "Los dispositivos LED monocromáticos de alta calidad tienen propiedades similares a los láseres de diodo de la misma longitud de onda, pero con menor coherencia; los parámetros deben ajustarse cuidadosamente al comparar LED con láser.",
-        "La administración extraoral de PBM puede alcanzar estructuras profundas de cabeza y cuello, ampliando las indicaciones potenciales.",
-        "El mantenimiento del dispositivo y la medición regular de potencia son esenciales para garantizar la reproducibilidad del tratamiento.",
-        "El documento presenta esta técnica favorablemente; existen alternativas farmacológicas y no farmacológicas para el manejo de mucositis oral con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "⚠️ Este protocolo es de carácter teórico/revisión (Parte 1). Los parámetros específicos por indicación clínica se proponen en el artículo complementario (Parte 2) de los mismos autores.",
+        "La respuesta bifásica a la dosis es un principio fundamental: dosis subóptimas tienen efecto disminuido y dosis supraóptimas pueden tener efectos negativos. No existe un único parámetro universal.",
+        "Los LEDs monocromáticos de alta calidad tienen propiedades similares a los láseres de diodo de la misma longitud de onda, pero con menor coherencia; los parámetros de LED deben ajustarse cuidadosamente al comparar con protocolos de láser.",
+        "La administración puede ser intraoral (sobre mucosa oral) o extraoral/transcutánea (para estructuras profundas de cabeza y cuello); la vía extraoral puede ampliar el rango de indicaciones.",
+        "Precaución en pacientes con células malignas residuales o nuevas: el efecto de PBM sobre células tumorales no ha sido definitivamente resuelto. Los estudios in vitro muestran resultados conflictivos.",
+        "No aplicar PBM directamente sobre tejido tumoral activo hasta que se establezca definitivamente su neutralidad oncológica.",
+        "El mantenimiento del equipo y la medición regular de potencia son esenciales para garantizar la reproducibilidad del tratamiento.",
+        "El documento presenta esta técnica favorablemente para mucositis oral; existen alternativas farmacológicas y de cuidado de soporte con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Seleccionar el dispositivo de PBM (láser o LED) con longitud de onda en el rango rojo o NIR (600–1000 nm).",
-        "Verificar la potencia de salida del dispositivo con medición regular antes de cada sesión de tratamiento.",
-        "Calcular la densidad de energía (fluencia) objetivo en J/cm² según la indicación clínica y la profundidad del tejido diana.",
-        "Determinar la vía de administración (intraoral o extraoral) según la localización de las estructuras en riesgo.",
-        "Aplicar la luz en modo de contacto o no contacto durante 30–60 s por punto, cubriendo todas las áreas de mucosa en riesgo.",
-        "Registrar todos los parámetros de irradiación (longitud de onda, potencia, área del haz, irradiancia, energía, tiempo, fluencia, modo de operación, estructura de pulso, localización anatómica y momento del tratamiento relativo a la quimiorradioterapia) para garantizar la reproducibilidad.",
-        "Repetir las sesiones con la frecuencia y el número total determinados por el protocolo clínico específico de la indicación."
+        "Evaluar el estado de la mucositis oral y las estructuras de cabeza y cuello en riesgo antes de cada sesión.",
+        "Seleccionar el dispositivo PBM con longitud de onda en el rango rojo-NIR (600–1000 nm) y verificar la potencia de salida real del equipo.",
+        "Determinar la dosis (J/cm²), la irradiancia (mW/cm²) y el tiempo de aplicación por punto según la indicación clínica y el tejido diana.",
+        "Aplicar PBM intraoralmente sobre la mucosa oral afectada o en riesgo, punto por punto, durante 30–60 segundos por punto.",
+        "Considerar la administración extraoral/transcutánea para estructuras profundas de cabeza y cuello en riesgo de complicaciones por RT/CRT.",
+        "Registrar todos los parámetros de irradiación (longitud de onda, potencia, área del haz, irradiancia, energía, tiempo, modo, localización anatómica) para garantizar reproducibilidad.",
+        "Programar las sesiones según el calendario de radioterapia/quimioterapia, considerando el momento óptimo de aplicación relativo al tratamiento oncológico.",
+        "Realizar seguimiento clínico para detectar cualquier efecto adverso potencial sobre el control tumoral."
       ],
       "indications": [
-        "Mucositis oral en pacientes con cáncer de cabeza y cuello en tratamiento con radioterapia o quimiorradioterapia",
-        "Mucositis oral en receptores de trasplante de células madre hematopoyéticas (TCMH)",
-        "Inflamación, dolor, linfedema, fibrosis, injuria neurológica y muscular asociados a quimiorradioterapia en HNC",
-        "Prevención y tratamiento de complicaciones orofaciales, faríngeas y cervicales del tratamiento oncológico"
+        "Prevención de mucositis oral en pacientes con cáncer de cabeza y cuello en tratamiento con radioterapia o quimiorradioterapia.",
+        "Tratamiento de mucositis oral establecida en pacientes oncológicos.",
+        "Manejo de complicaciones asociadas a quimiorradioterapia: ulceración, inflamación, linfedema, dolor, fibrosis, lesión neurológica y muscular.",
+        "Pacientes receptores de trasplante de células madre hematopoyéticas (TCMH) con mucositis oral."
       ],
       "contraindications": [
-        "Aplicación directa sobre tejido tumoral activo (precaución: neutralidad tumoral no definitivamente establecida; se requiere vigilancia)",
-        "Uso de parámetros supraóptimos (dosis excesivamente altas pueden tener efectos terapéuticos negativos o estimular proliferación celular)",
-        "Irradiación directa de ojos sin protección adecuada"
+        "Aplicación directa sobre tejido tumoral activo (hasta que se establezca definitivamente la neutralidad oncológica de PBM).",
+        "Precaución en pacientes con células displásicas o malignas residuales en el campo de irradiación.",
+        "No aplicar con parámetros fuera del rango biostimulatorio (dosis excesivamente altas pueden tener efectos negativos)."
       ],
       "postop_care": [
-        "Monitorizar la respuesta clínica y los posibles efectos adversos en cada sesión.",
-        "Mantener seguimiento oncológico estricto para detectar cualquier efecto adverso potencial de PBM sobre el control tumoral y la supervivencia.",
-        "Documentar todos los parámetros de tratamiento para garantizar la reproducibilidad y permitir la comparación con otros estudios."
+        "Monitorizar la respuesta clínica de la mucositis tras cada sesión.",
+        "Mantener higiene oral adecuada complementaria al tratamiento con PBM.",
+        "Vigilar signos de progresión tumoral o cambios en la respuesta al tratamiento oncológico durante el seguimiento."
       ],
-      "evidence_level": "Moderado — basado en múltiples revisiones sistemáticas y meta-análisis para mucositis oral; revisión narrativa para otras indicaciones. La neutralidad tumoral requiere más investigación.",
+      "evidence_level": "Moderado — múltiples revisiones sistemáticas y meta-análisis apoyan la eficacia de PBM para mucositis oral en HNC y HSCT; sin embargo, la heterogeneidad de parámetros y la falta de estandarización limitan las conclusiones definitivas. Este artículo es una revisión narrativa de expertos (Parte 1 de 2).",
       "keywords_es": [
         "fotobiomodulación",
         "LLLT",
-        "terapia láser de baja intensidad",
         "mucositis oral",
         "cáncer de cabeza y cuello",
         "quimiorradioterapia",
-        "radioterapia",
+        "láser de baja intensidad",
         "PBM oncología",
-        "infrarrojo cercano",
-        "luz roja terapéutica",
+        "radioterapia complicaciones",
         "citocromo c oxidasa",
-        "dosimetría láser",
+        "dosis bifásica",
+        "infrarrojo cercano",
         "LED terapéutico",
-        "soporte oncológico",
+        "trasplante células madre hematopoyéticas",
         "inflamación oral",
-        "linfedema cervical",
-        "fibrosis por radioterapia",
+        "cicatrización tisular",
         "dolor oncológico",
-        "seguridad PBM cáncer",
-        "biofotomodulación"
+        "fibrosis por radioterapia",
+        "linfedema cabeza cuello",
+        "seguridad PBM tumor",
+        "dosimetría láser"
       ],
       "keywords_en": [
         "photobiomodulation",
         "LLLT",
-        "low level laser therapy",
         "oral mucositis",
         "head and neck cancer",
         "chemoradiation",
-        "radiation therapy",
+        "low level laser therapy",
         "PBM oncology",
-        "near infrared",
-        "red light therapy",
+        "radiation therapy complications",
         "cytochrome c oxidase",
-        "laser dosimetry",
+        "biphasic dose response",
+        "near infrared",
         "LED therapy",
-        "supportive care cancer",
+        "hematopoietic stem cell transplant",
         "oral inflammation",
-        "cervical lymphedema",
-        "radiation fibrosis",
+        "tissue healing",
         "cancer pain",
-        "PBM safety",
-        "biphasic dose response"
+        "radiation fibrosis",
+        "head neck lymphedema",
+        "PBM tumor safety",
+        "laser dosimetry"
       ],
       "is_virtual_protocol": true
     }
