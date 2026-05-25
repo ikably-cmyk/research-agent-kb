@@ -1,0 +1,295 @@
+{
+  "article_refs": [
+    "pdf_local::oa_103389_fmicb201700498__3e1023b7::8ccad0"
+  ],
+  "uuid": "db8bd7",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "in_vitro",
+  "evidence_level": "low",
+  "key_points": [
+    "aPDT with Zn(II)chlorin e6 methyl ester (Zn(II)e6Me) activated by red LED (627 nm) for 60–90 s removed approximately 60% of biofilm biomass from E. faecalis and C. albicans mono and mixed biofilms.",
+    "Zn(II)e6Me showed greater antimicrobial efficacy than TBO and Rose Bengal at the same concentration (0.1 mg/mL), and similar efficacy to TMPyP and classical irrigants CHX and EDTA.",
+    "Only 3% NaOCl showed higher efficacy (70–90% biofilm biomass removal), but it also displays significant host tissue toxicity.",
+    "Mixed biofilms of E. faecalis and C. albicans were less susceptible to aPDT than monospecies biofilms, particularly with TBO as photosensitizer.",
+    "Zn(II)e6Me demonstrated low dark toxicity (5.7–12.7% biofilm reduction in absence of light), a desirable property for a photosensitizer.",
+    "Ultrastructural analysis (TEM) revealed 'cell ghosts' in E. faecalis (intact cell walls devoid of intracellular content) and cytoplasmic membrane disruption, vacuole abnormalities, and ER whorls in C. albicans after aPDT.",
+    "A 15-minute pre-incubation period in the dark was used to allow PS penetration into cells before 60 or 90 s light activation; no difference was found between 90 s and 30 min irradiation periods.",
+    "Zn(II)e6Me is derived from natural chlorophyll a, offering a potentially lower-toxicity alternative to synthetic photosensitizers.",
+    "The study used LED light sources: green LED (557 nm, 42 mW/cm²) for Rose Bengal and red LED (627 nm, 35 mW/cm²) for TBO, TMPyP, and Zn(II)e6Me.",
+    "Authors conclude that aPDT with Zn(II)e6Me is a promising antimicrobial strategy for endodontic disinfection, warranting further clinical studies."
+  ],
+  "outcomes": [
+    {
+      "measured": "Biofilm biomass removal — E. faecalis monospecies",
+      "result": "Zn(II)e6Me removed ~60% biomass at 60 and 90 s; more effective than TBO and RB (P=0.0079); similar to TMPyP",
+      "statistical_significance": true,
+      "clinical_significance": "Comparable to CHX and EDTA; inferior to NaOCl (70–90%)"
+    },
+    {
+      "measured": "Biofilm biomass removal — C. albicans monospecies",
+      "result": "Zn(II)e6Me and TMPyP had similar efficacy at 90 s; Zn(II)e6Me more effective than TBO (P=0.0317) and RB (P=0.0079) at 90 s",
+      "statistical_significance": true,
+      "clinical_significance": "Similar to CHX and EDTA; inferior to NaOCl"
+    },
+    {
+      "measured": "Biofilm biomass removal — mixed E. faecalis + C. albicans biofilm",
+      "result": "Zn(II)e6Me removed 58.98% biomass (P<0.001); most efficient PS tested; mixed biofilm less susceptible than monospecies",
+      "statistical_significance": true,
+      "clinical_significance": "Similar to CHX and EDTA; inferior to NaOCl; mixed biofilms represent a more challenging clinical scenario"
+    },
+    {
+      "measured": "Dark toxicity of photosensitizers (15 min incubation, no light)",
+      "result": "Biofilm reduction ranged from 5.7% (Zn(II)e6Me, mixed) to 16.6% (TBO, C. albicans); Zn(II)e6Me showed lowest dark activity",
+      "statistical_significance": null,
+      "clinical_significance": "Low dark toxicity is desirable to ensure antimicrobial effect is light-dependent"
+    },
+    {
+      "measured": "Ultrastructural changes in E. faecalis after aPDT with Zn(II)e6Me",
+      "result": "Cell wall 'ghosts' observed — intact cell walls devoid of intracellular content; sporadic cell wall destruction",
+      "statistical_significance": null,
+      "clinical_significance": "Indicates cytoplasmic membrane damage leading to leakage of cellular contents"
+    },
+    {
+      "measured": "Ultrastructural changes in C. albicans after aPDT with Zn(II)e6Me",
+      "result": "Irregular cell wall thickness, cytoplasmic membrane disruption with invaginations, ER whorls, large vacuoles with electrodense materials",
+      "statistical_significance": null,
+      "clinical_significance": "Indicates intracellular damage consistent with autophagy and organelle disruption"
+    }
+  ],
+  "notes": "This is a purely in vitro study using 96-well plate biofilm models. No root canal or tooth models were used. Results cannot be directly extrapolated to clinical endodontic settings without further studies in human tooth models. The LED light sources were custom-built for the 96-well plate format and are not commercially available dental devices. The photosensitizer Zn(II)e6Me is not yet commercially available for clinical use.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "In vitro biofilms of Enterococcus faecalis (ATCC29212) and Candida albicans (YP0037) — monospecies and mixed",
+    "sample_type": "In vitro 96-well plate biofilm model (48h biofilms)"
+  },
+  "superiority_claim": "El autor afirma: 'Zn(II)e6Me had a better antimicrobial efficacy than the clinically used PSs, TBO, and RB' y 'Zn(II)e6Me demonstrated to be the most efficient PS removing 58.98% of biofilm biomass' en biofilms mixtos.",
+  "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+  "funding_source_text": "Partially supported by FEDER funds through the Operational Programme Competitiveness Factors – COMPETE and national funds by Foundation for Science and Technology (FCT) under the strategic project UID/NEU/04539/2013; by QOPNA research Unit of University of Aveiro and FCT/MEC (FCT UID/QUI/00062/2013) co-financed by the FEDER, (PT2020) Partnership Agreement and also the Portuguese NMR Network; and by FAPESP (São Paulo Research Foundation – Brazil) 2013/07276-1 and 2015/21110-4 for the semi-synthesis of Zn(II)e6Me.",
+  "source_citation": "Diogo, P., Fernandes, C., Caramelo, F., Mota, M., Miranda, I. M., Faustino, M. A. F., Neves, M. G. P. M. S., Uliana, M. P., de Oliveira, K. T., Santos, J. M., & Gonçalves, T. (2017). Antimicrobial photodynamic therapy against endodontic Enterococcus faecalis and Candida albicans mono and mixed biofilms in the presence of photosensitizers: A comparative study with classical endodontic irrigants. Frontiers in Microbiology, 8, 498. https://doi.org/10.3389/fmicb.2017.00498",
+  "contraindications": [],
+  "adverse_events": [
+    "NaOCl (3%) displays high toxicity levels toward host tissues despite superior antimicrobial efficacy",
+    "TMPyP showed higher dark toxicity than Zn(II)e6Me, which is undesirable for a photosensitizer intended for clinical use"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 627,
+      "fluence_j_cm2": 3150.0,
+      "power_w": 0.075,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 35.0,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 557,
+      "fluence_j_cm2": 3780.0,
+      "power_w": 0.0625,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 42.0,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 1,
+    "session_interval_days": null,
+    "application_time_sec": 90.0,
+    "application_technique": "point",
+    "anatomical_points": [
+      "root canal biofilm (in vitro 96-well plate model)"
+    ]
+  },
+  "clinical_indication": "Endodontic disinfection — eradication of E. faecalis and C. albicans biofilms in root canal system",
+  "target_tissue": "root canal biofilm (E. faecalis and C. albicans)",
+  "brand_model_mentioned": [
+    "FotoSan agent (CMS Dental A/S)",
+    "FotoSan 630 (CMS Dental A/S)"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "sodium hypochlorite",
+      "drug_class": "Endodontic irrigant / oxidizing agent",
+      "interaction_type": "caution",
+      "dental_relevance": "3% NaOCl is the most widely used endodontic irrigant with superior antimicrobial efficacy (70–90% biofilm removal) but displays significant toxicity to host tissues; aPDT may offer a less toxic alternative.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "chlorhexidine gluconate",
+      "drug_class": "Endodontic irrigant / antiseptic",
+      "interaction_type": "monitor",
+      "dental_relevance": "2% CHX used as endodontic irrigant; showed similar efficacy to Zn(II)e6Me aPDT for C. albicans and mixed biofilms; less effective than NaOCl.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "ethylenediamine tetraacetic acid (EDTA)",
+      "drug_class": "Endodontic irrigant / chelating agent",
+      "interaction_type": "monitor",
+      "dental_relevance": "17% EDTA used as endodontic irrigant; showed similar efficacy to Zn(II)e6Me aPDT for most biofilm types.",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "toluidine blue O (TBO)",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "monitor",
+      "dental_relevance": "Clinically available photosensitizer (FotoSan agent, 0.1 mg/mL) for aPDT in endodontics; less effective than Zn(II)e6Me against mixed biofilms; targets plasma membrane of yeast and bacteria.",
+      "photosensitivity": true,
+      "laser_implication": "Activated by red light ~627–630 nm LED; requires light activation for antimicrobial effect; commercially available with FotoSan 630 device."
+    },
+    {
+      "name": "rose bengal",
+      "drug_class": "Xanthene photosensitizer",
+      "interaction_type": "monitor",
+      "dental_relevance": "Studied photosensitizer for endodontic aPDT; less effective than Zn(II)e6Me; activated by green light (557 nm).",
+      "photosensitivity": true,
+      "laser_implication": "Activated by green LED ~557 nm; anionic nature may limit uptake compared to cationic photosensitizers."
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "aPDT requires a 15-minute pre-incubation period with the photosensitizer in total darkness before light activation to allow PS penetration into biofilm cells. Light activation of 60–90 seconds is sufficient; longer periods (30 min) showed no additional benefit in this in vitro model.",
+  "confidence": "high",
+  "uncertainties": [
+    "The study used custom-built LED devices for 96-well plates, not commercially available dental laser/LED devices; clinical translation of irradiance and fluence parameters requires adaptation.",
+    "No root canal or tooth model was used; results are from flat-surface 96-well plate biofilms which may not replicate the complex anatomy of the root canal system.",
+    "Zn(II)e6Me is not commercially available as a dental photosensitizer; clinical applicability is currently limited.",
+    "The irradiance values (35–42 mW/cm²) and energy fluences (3150–3780 J/cm²) are very high compared to typical clinical aPDT protocols, likely due to the custom LED setup geometry for 96-well plates; direct comparison with clinical parameters is not straightforward.",
+    "The study does not report specific wavelength of the light source as a laser — these are LED sources, not dental lasers per se; inclusion in laserrx is based on the aPDT/photosensitizer context relevant to dental laser practice."
+  ],
+  "bibliographic_metadata": {
+    "title": "Antimicrobial Photodynamic Therapy against Endodontic Enterococcus faecalis and Candida albicans Mono and Mixed Biofilms in the Presence of Photosensitizers: A Comparative Study with Classical Endodontic Irrigants",
+    "authors": [
+      "Patrícia Diogo",
+      "Chantal Fernandes",
+      "Francisco Caramelo",
+      "Marta Mota",
+      "Isabel M. Miranda",
+      "M. A. F. Faustino",
+      "M. G. P. M. S. Neves",
+      "Marciana P. Uliana",
+      "Kleber T. de Oliveira",
+      "João M. Santos",
+      "Teresa Gonçalves"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2017.00498"
+  },
+  "protocols": [
+    {
+      "name": "aPDT endodóntica con Zn(II)chlorin e6 methyl ester (Zn(II)e6Me) activado por LED rojo 627 nm",
+      "synonyms_es": [
+        "terapia fotodinámica antimicrobiana endodóntica con clorina e6",
+        "fotoinactivación de biofilm endodóntico con Zn(II)e6Me",
+        "desinfección fotodinámica de conducto radicular con clorina de zinc",
+        "aPDT endodóntica con fotosensibilizador derivado de clorofila"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy endodontic Zn(II)e6Me",
+        "photodynamic inactivation endodontic biofilm chlorin e6",
+        "root canal aPDT zinc chlorin",
+        "chlorophyll-derived photosensitizer endodontic disinfection"
+      ],
+      "purpose": "Eradicar biofilms endodónticos de E. faecalis y C. albicans (mono y mixtos) mediante la activación de Zn(II)chlorin e6 methyl ester con luz LED roja (627 nm), generando especies reactivas de oxígeno que dañan irreversiblemente las membranas celulares microbianas. Ofrece una alternativa de menor toxicidad tisular que el NaOCl con eficacia comparable a CHX y EDTA.",
+      "parameters_table": [
+        {
+          "equipment_class": "LED rojo de baja potencia (627 nm, CW) — fuente de luz para fotosensibilizador",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "627 nm",
+          "potencia": "75 mW (output total del dispositivo LED)",
+          "frecuencia": "No especificado (luz continua)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "No especificado (LED de área para placa 96 pocillos — no fibra dental)",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "No especificado (LED posicionado sobre placa 96 pocillos)",
+          "tiempo_ciclos": "60 s o 90 s de irradiación (precedidos de 15 min de pre-incubación en oscuridad con PS a 0.1 mg/mL)"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo fue desarrollado con un dispositivo LED custom-built para placas de 96 pocillos (irradiancia 35 mW/cm², fluencia 3150 J/cm²); estos parámetros NO son directamente transferibles a dispositivos LED/láser dentales clínicos.",
+        "La pre-incubación de 15 minutos en oscuridad total con el fotosensibilizador es esencial para permitir la penetración del PS en las células del biofilm antes de la activación lumínica.",
+        "No se observaron diferencias entre 90 s y 30 min de irradiación, lo que sugiere que la eficacia máxima se alcanza en tiempos cortos de activación.",
+        "Zn(II)e6Me no está disponible comercialmente como fotosensibilizador dental; este estudio es de carácter exploratorio/preclínico.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (TBO/FotoSan, Rose Bengal, TMPyP, NaOCl, CHX, EDTA) que pueden ser apropiadas según el caso clínico.",
+        "Los biofilms mixtos (E. faecalis + C. albicans) son menos susceptibles a aPDT que los monoespecie, lo que es clínicamente relevante dado que las infecciones endodónticas son polimicrobianas.",
+        "NaOCl al 3% mostró mayor eficacia (70–90% remoción de biomasa) pero con toxicidad tisular significativa; aPDT con Zn(II)e6Me ofrece eficacia comparable a CHX y EDTA con menor toxicidad potencial."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Preparar la solución de Zn(II)e6Me a 0.1 mg/mL en PBS (a partir de stock en DMSO).",
+        "Aplicar la solución de fotosensibilizador sobre el biofilm endodóntico.",
+        "Incubar durante 15 minutos en oscuridad total para permitir la penetración del PS en las células del biofilm.",
+        "Activar con fuente de luz LED roja (627 nm, CW) durante 60 o 90 segundos.",
+        "Retirar el exceso de fotosensibilizador tras la activación lumínica.",
+        "Evaluar la eficacia antimicrobiana (en contexto clínico: irrigación final con solución de lavado)."
+      ],
+      "indications": [
+        "Desinfección del sistema de conductos radiculares infectados por E. faecalis",
+        "Infecciones endodónticas con presencia de Candida albicans",
+        "Biofilms mixtos bacteriano-fúngicos en conductos radiculares",
+        "Casos donde se busca reducir el uso de NaOCl por toxicidad tisular",
+        "Tratamiento endodóntico primario o retratamiento con infección persistente"
+      ],
+      "contraindications": [
+        "Uso clínico actual no establecido — Zn(II)e6Me no está aprobado ni disponible comercialmente como fotosensibilizador dental",
+        "Alergia o hipersensibilidad conocida a derivados de clorofila o porfirinas",
+        "Ausencia de fuente de luz LED/láser con longitud de onda adecuada (627 nm)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — estudio in vitro con modelo de biofilm en placa de 96 pocillos; sin modelo de diente humano ni ensayo clínico. Zn(II)e6Me no está disponible comercialmente.",
+      "keywords_es": [
+        "terapia fotodinámica antimicrobiana",
+        "aPDT endodoncia",
+        "fotosensibilizador endodóntico",
+        "clorina e6",
+        "Zn(II)e6Me",
+        "biofilm endodóntico",
+        "Enterococcus faecalis",
+        "Candida albicans",
+        "desinfección conducto radicular",
+        "LED 627 nm endodoncia",
+        "fotoinactivación microbiana",
+        "especies reactivas de oxígeno",
+        "irrigante endodóntico alternativo",
+        "biofilm mixto endodóntico",
+        "clorofila fotosensibilizador"
+      ],
+      "keywords_en": [
+        "antimicrobial photodynamic therapy",
+        "aPDT endodontics",
+        "endodontic photosensitizer",
+        "chlorin e6",
+        "Zn(II)e6Me",
+        "endodontic biofilm",
+        "Enterococcus faecalis",
+        "Candida albicans",
+        "root canal disinfection",
+        "LED 627 nm endodontics",
+        "photodynamic inactivation",
+        "reactive oxygen species",
+        "alternative endodontic irrigant",
+        "mixed endodontic biofilm",
+        "chlorophyll photosensitizer"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
