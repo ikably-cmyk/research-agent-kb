@@ -9,70 +9,66 @@
   "study_type": "narrative_review",
   "evidence_level": "expert_opinion",
   "key_points": [
-    "Laser irradiation has bactericidal effects in root canals and can remove smear layer and debris, but cannot replace sodium hypochlorite as the gold standard irrigant.",
-    "Nd:YAG (1064 nm) is the most widely investigated laser for endodontic disinfection, with bactericidal effect up to 1 mm into dentine; recommended parameters: 15 Hz, 100 mJ, 1.5 W, four times for 5–10 s with 20 s intervals.",
-    "Diode lasers (810–985 nm) show bactericidal effects comparable to 2.5% NaOCl for 60 s when used at 2–3 W; morphological changes on dentine are similar to Nd:YAG.",
-    "Erbium lasers (Er:YAG 2940 nm, Er,Cr:YSGG 2780 nm) are highly effective for smear layer removal and biofilm disruption; their bactericidal effect is superficial (first 300–400 µm of dentine).",
-    "Laser Activated Irrigation (LAI) with erbium lasers (50–75 mJ) creates cavitation bubbles causing up to 1600× volumetric expansion of irrigant, significantly improving debris removal from the apical third.",
-    "PIPS™ (Photon-Induced Photoacoustic Streaming) uses Er:YAG at very low settings (20 mJ, 15 Hz, 50 µs pulses) with a 600 µm radial stripped tip positioned at the canal entrance, producing photoacoustic and photomechanical effects.",
-    "Antimicrobial photodynamic therapy (aPDT) with diode lasers (630–670 nm) and photosensitizers (methylene blue, toluidine blue) shows significant bactericidal effects in vitro and ex vivo, including against antibiotic-resistant microorganisms.",
-    "Side-firing conical tips emit 80% lateral and 20% forward radiation, improving coverage of intracanal walls compared to plain-ended fibres.",
-    "Lasers are recommended as adjuncts to chemomechanical preparation, not as replacements for conventional disinfection protocols.",
-    "More randomized clinical studies are needed to evaluate long-term endodontic treatment outcomes following laser use."
+    "Los láseres (Er:YAG, Er,Cr:YSGG, Nd:YAG, diodo) tienen efecto bactericida en el canal radicular y pueden eliminar el smear layer y debris.",
+    "Ningún láser ha demostrado superioridad antimicrobiana sobre el NaOCl convencional; se recomiendan como complemento, no como sustituto.",
+    "El Nd:YAG (1064 nm) penetra hasta 1 mm en dentina con efecto bactericida profundo; parámetros sugeridos: 15 Hz, 100 mJ, 1.5 W, 4 × 5-10 s con intervalo de 20 s.",
+    "El láser de diodo (810-985 nm) tiene efecto bactericida superficial (hasta 750 µm en dentina) comparable al NaOCl 2.5% en biofilm de E. faecalis a 2 W, 3×20 s.",
+    "Los láseres de erbio (Er:YAG 2940 nm, Er,Cr:YSGG 2780 nm) son muy eficaces para eliminar el smear layer y activar irrigantes mediante LAI (laser activated irrigation).",
+    "La técnica PIPS™ utiliza Er:YAG a baja energía (20 mJ, 15 Hz, pulsos de 50 µs) con punta radial stripped de 600 µm posicionada en la entrada del canal, generando cavitación y ondas de choque fotoacústicas.",
+    "La terapia fotodinámica antimicrobiana (aPDT) con fotosensibilizadores (azul de metileno, azul de toluidina) y láser de diodo (630-670 nm) muestra potencial como complemento de la desinfección endodóntica.",
+    "Las puntas side-firing cónicas emiten 80% de energía lateralmente y 20% hacia adelante, mejorando la cobertura de las paredes del canal.",
+    "El Nd:YAG a potencias >3 W puede causar carbonización, fisuras y daño térmico; debe usarse con precaución.",
+    "Se necesitan más estudios clínicos aleatorizados para evaluar el impacto de los láseres en el resultado a largo plazo del tratamiento endodóntico."
   ],
   "outcomes": [
     {
-      "measured": "Bacterial reduction (E. faecalis, E. coli) with Nd:YAG",
-      "result": "99.16–99.92% reduction reported in in vitro studies",
-      "statistical_significance": true,
-      "clinical_significance": "Significant bactericidal effect up to 1 mm into dentine, but not superior to NaOCl"
-    },
-    {
-      "measured": "Bacterial reduction with diode laser (985 nm, 2 W, 3×20 s) vs 2.5% NaOCl 60 s",
-      "result": "Similar antimicrobial efficacy against E. faecalis biofilm",
+      "measured": "Reducción bacteriana con Nd:YAG (E. faecalis, E. coli)",
+      "result": "99.16% de reducción (Moritz et al.); 99.92% de reducción a 15 Hz, 100 mJ (Gutknecht et al.)",
       "statistical_significance": null,
-      "clinical_significance": "Diode laser may serve as adjunct comparable to NaOCl for biofilm reduction"
+      "clinical_significance": "Efecto bactericida significativo pero no superior a NaOCl convencional"
     },
     {
-      "measured": "Debris removal from apical third with LAI (Er,Cr:YSGG and Er:YAG, 75 mJ, 20 Hz, 1.5 W, 4×5 s) vs conventional irrigation and PUI",
-      "result": "LAI showed higher efficiency in debris removal from apical third",
-      "statistical_significance": true,
-      "clinical_significance": "LAI with erbium lasers improves apical cleaning beyond conventional and ultrasonic irrigation"
-    },
-    {
-      "measured": "Bacterial reduction with aPDT (toluidine blue + 50 mW diode 660 nm)",
-      "result": "99.9% reduction of E. faecalis",
-      "statistical_significance": true,
-      "clinical_significance": "aPDT can achieve near-complete bacterial elimination as adjunct to chemomechanical preparation"
-    },
-    {
-      "measured": "Root canals without bacteria after endodontic therapy + aPDT (methylene blue, 665 nm, 1 W, 30 J/cm², 2.5 min twice)",
-      "result": "86.5% of root canals bacteria-free",
+      "measured": "Reducción bacteriana con láser de diodo (985 nm, 2 W, 3×20 s) vs NaOCl 2.5% 60 s en biofilm E. faecalis",
+      "result": "Efecto similar al NaOCl 2.5% durante 60 s",
       "statistical_significance": null,
-      "clinical_significance": "aPDT as adjunct significantly improves disinfection outcomes in vivo"
+      "clinical_significance": "El diodo puede ser complemento eficaz en desinfección endodóntica"
+    },
+    {
+      "measured": "Eliminación de debris apical con LAI (Er,Cr:YSGG y Er:YAG, 75 mJ, 20 Hz, 1.5 W, 4×5 s) vs irrigación convencional y PUI",
+      "result": "Mayor eficiencia de LAI en eliminación de debris del tercio apical",
+      "statistical_significance": null,
+      "clinical_significance": "LAI con erbio supera a irrigación convencional y PUI en limpieza apical"
+    },
+    {
+      "measured": "Reducción bacteriana con aPDT (azul de toluidina + diodo 660 nm, 50 mW) en E. faecalis",
+      "result": "99.9% de reducción bacteriana (Fonesca et al.)",
+      "statistical_significance": null,
+      "clinical_significance": "aPDT muestra potencial como complemento de desinfección endodóntica"
+    },
+    {
+      "measured": "Canales sin bacterias tras terapia endodóntica + aPDT (azul de metileno, 665 nm, 1 W, 30 J/cm², 2.5 min, 2 sesiones)",
+      "result": "86.5% de canales sin bacterias (Ng et al.)",
+      "statistical_significance": null,
+      "clinical_significance": "aPDT como complemento mejora la tasa de desinfección"
     }
   ],
-  "notes": "Bilingual paper (Croatian/English) published in Acta Stomatologica Croatica. Reviews Er:YAG, Er,Cr:YSGG, Nd:YAG, diode lasers, and aPDT for root canal disinfection and cleaning. Includes description of LAI and PIPS™ techniques with some specific parameters. No original data — narrative review of existing literature.",
-  "population": {
-    "n_participants": null,
-    "age_range": null,
-    "condition": "Root canal disinfection / periapical periodontitis",
-    "sample_type": "Review of in vitro, ex vivo, and in vivo studies"
-  },
-  "superiority_claim": "El autor concluye: 'there is insufficient evidence to suggest that any specific laser is superior to the traditional endodontic treatment' — ningún láser se declara superior a NaOCl.",
+  "notes": "Revisión narrativa bilingüe (croata/inglés) publicada en Acta Stomatologica Croatica. Cubre múltiples longitudes de onda y técnicas láser en endodoncia. No reporta parámetros propios; sintetiza evidencia de estudios previos. La revisión menciona Er,Cr:YSGG como 2790 nm en el texto inglés y 2780 nm en el texto croata; la longitud de onda estándar es 2780 nm.",
+  "population": null,
+  "superiority_claim": "El autor concluye: 'there is insufficient evidence to suggest that any specific laser is superior to the traditional endodontic treatment' — ningún láser demostró superioridad sobre NaOCl. Sin embargo, De Moor et al. y De Groot et al. mostraron mayor eficiencia de LAI con Er,Cr:YSGG y Er:YAG vs irrigación convencional o PUI en eliminación de debris apical.",
   "conflicts_of_interest": null,
   "funding_source_text": null,
-  "source_citation": "Bago Jurič, I., & Anić, I. (2014). The use of lasers in disinfection and cleaning of root canals: a review. Acta Stomatologica Croatica, 48(1), 6–15.",
+  "source_citation": "Bago Jurič, I., & Anić, I. (2014). The use of lasers in disinfection and cleaning of root canals: a review. Acta Stomatologica Croatica, 48(1), 6-15.",
   "contraindications": [
-    "Use of plain-ended fibres in curved root canals (risk of ledging and perforation)",
-    "Erbium lasers at ablative settings near open apical foramen (risk of thermal damage to periradicular tissues)",
-    "Laser irradiation as sole disinfection method without NaOCl irrigation"
+    "Uso de erbio a potencias ablativas en canales curvos (riesgo de escalón o perforación con fibra de extremo plano).",
+    "Nd:YAG a potencias >3 W: riesgo de carbonización, fisuras y daño térmico estructural.",
+    "Láser de diodo a 4 W: aumento de temperatura de 6°C, riesgo de daño térmico periradicular.",
+    "Uso de erbio con potencias ablativas cerca del foramen apical abierto: riesgo de daño térmico en tejidos periradiculares."
   ],
   "adverse_events": [
-    "Temperature rise of 6°C with diode laser at 4 W (risk of thermal damage)",
-    "Carbonisation and cracks in dentine with Nd:YAG at >3 W",
-    "Melting and recrystallisation of intertubular dentine with Nd:YAG (morphological changes)",
-    "Glazing effect on smear layer if not removed prior to Nd:YAG irradiation"
+    "Nd:YAG: fusión y recristalización del dentina intertubular, apertura o cierre de túbulos dentinarios.",
+    "Nd:YAG a potencias >3 W: carbonización, fisuras, cambios estructurales por daño térmico.",
+    "Diodo a 4 W: aumento de temperatura de 6°C en la superficie radicular.",
+    "Erbio: posible sobrecalentamiento de tejidos periradiculares a través del foramen apical abierto."
   ],
   "laser_parameters": [
     {
@@ -166,22 +162,25 @@
     "application_time_sec": 40.0,
     "application_technique": "scanning",
     "anatomical_points": [
-      "root canal — apical to coronal helicoidal withdrawal"
+      "root canal",
+      "apical third",
+      "middle third",
+      "coronal third"
     ]
   },
-  "clinical_indication": "Root canal disinfection and smear layer removal in endodontic treatment",
-  "target_tissue": "root canal dentin, endodontic biofilm",
+  "clinical_indication": "Desinfección y limpieza del sistema de conductos radiculares; eliminación de smear layer, debris y biofilm bacteriano intracanal",
+  "target_tissue": "dentin, pulp remnants, root canal biofilm",
   "brand_model_mentioned": [],
   "drugs_mentioned": null,
   "photosensitivity_flag": false,
   "perioperative_consideration": null,
   "confidence": "high",
   "uncertainties": [
-    "Pulse duration for Nd:YAG and diode laser protocols not explicitly stated in ms — only frequency and energy per pulse reported for Nd:YAG.",
-    "Er,Cr:YSGG wavelength listed as 2790 nm in one section and 2780 nm in another within the same paper — minor inconsistency in the source document.",
-    "Water/air spray settings for erbium LAI and PIPS™ protocols not specified in this review.",
-    "Specific fibre diameter for PIPS™ tip stated as 600 µm but exact insertion depth and continuous irrigation flow rate not detailed.",
-    "aPDT parameters vary widely across cited studies; no single standardised protocol extractable from this review."
+    "El texto menciona Er,Cr:YSGG como 2790 nm en inglés y 2780 nm en croata; la longitud de onda estándar es 2780 nm — posible error tipográfico en el texto inglés.",
+    "Los parámetros de LAI con Er,Cr:YSGG (75 mJ, 20 Hz, 1.5 W, 4×5 s) se atribuyen a De Moor et al. y De Groot et al.; no son parámetros propios de los autores de la revisión.",
+    "El modo de pulso del láser de diodo (810 nm, 985 nm) no se especifica explícitamente como CW o pulsado en el texto; se infiere CW por el contexto.",
+    "No se especifica el diámetro de fibra para el láser de diodo en los estudios citados.",
+    "Los parámetros de aPDT varían entre estudios citados; no hay un protocolo único estandarizado en la revisión."
   ],
   "bibliographic_metadata": {
     "title": "The Use of Lasers in Disinfection and Cleaning of Root Canals: a Review",
@@ -198,17 +197,17 @@
       "name": "Desinfección intracanal con Nd:YAG 1064 nm",
       "synonyms_es": [
         "láser Nd:YAG en endodoncia",
-        "desinfección de conducto con Nd:YAG",
+        "desinfección endodóntica con neodimio",
         "irradiación Nd:YAG intracanal",
         "bactericida Nd:YAG conducto radicular"
       ],
       "synonyms_en": [
         "Nd:YAG root canal disinfection",
-        "Nd:YAG intracanal irradiation",
-        "Nd:YAG endodontic laser",
-        "neodymium YAG root canal"
+        "neodymium laser endodontics",
+        "intracanal Nd:YAG irradiation",
+        "Nd:YAG bactericidal root canal"
       ],
-      "purpose": "Reducción bacteriana intracanal mediante efecto fototérmico del Nd:YAG 1064 nm, con acción bactericida hasta 1 mm de profundidad en dentina. Se utiliza como complemento a la instrumentación quimiomecánica convencional.",
+      "purpose": "Reducción bacteriana profunda en dentina del canal radicular mediante efecto fototérmico del Nd:YAG, con penetración bactericida de hasta 1 mm en dentina. Se utiliza como complemento a la instrumentación quimiomecánica convencional.",
       "parameters_table": [
         {
           "equipment_class": "Cualquier Nd:YAG 1064 nm con fibra de vidrio ~200 µm",
@@ -217,180 +216,184 @@
           "longitud_de_onda": "1064 nm",
           "potencia": "1.5 W",
           "frecuencia": "15 Hz",
-          "modo_de_pulso": "Pulsado (100 mJ/pulso)",
-          "fibra_punta": "Fibra de vidrio ~200 µm de diámetro, plain-ended",
+          "modo_de_pulso": "Pulsado, 100 mJ/pulso",
+          "fibra_punta": "Fibra de vidrio ~200 µm de diámetro (extremo plano)",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "1–2 mm del ápice",
-          "tiempo_ciclos": "4 ciclos de 5–10 s con intervalos de 20 s"
+          "distancia": "1-2 mm del ápice",
+          "tiempo_ciclos": "4 × 5-10 s con intervalo de 20 s entre ciclos"
         }
       ],
       "critical_notes": [
-        "La fibra debe posicionarse 1–2 mm del ápice y moverse con movimientos circulares helicoidales de apical a coronal para lograr irradiación uniforme y evitar sobrecalentamiento apical.",
-        "El Nd:YAG se absorbe bien en melanina y tejido pigmentado pero pobremente en agua, por lo que su eficacia es menor frente a bacterias no pigmentadas como E. faecalis y biofilms ricos en agua.",
-        "A potencias >3 W puede producirse carbonización, fisuras y daño térmico estructural en la dentina.",
-        "No se ha demostrado superioridad antibacteriana del Nd:YAG frente a NaOCl convencional; se recomienda como técnica adjunta, no sustituta.",
+        "La fibra debe posicionarse 1-2 mm del ápice y moverse con movimientos circulares helicoidales de apical a coronal para lograr irradiación uniforme y evitar sobrecalentamiento apical.",
+        "A potencias >3 W puede producirse carbonización, fisuras y daño térmico estructural irreversible en la dentina.",
+        "El Nd:YAG es menos eficaz contra bacterias no pigmentadas (como E. faecalis) y biofilms ricos en agua, ya que su absorción es mayor en melanina y tejidos pigmentados.",
+        "No ha demostrado superioridad antimicrobiana sobre el NaOCl convencional; debe usarse como complemento, no como sustituto.",
         "El documento presenta esta técnica favorablemente; existen alternativas (erbio, diodo, aPDT) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Completar la instrumentación quimiomecánica convencional del conducto radicular.",
-        "Irrigar con NaOCl según protocolo estándar.",
-        "Introducir la fibra de vidrio (~200 µm) del Nd:YAG hasta 1–2 mm del ápice.",
-        "Activar el láser a 15 Hz, 100 mJ, 1.5 W.",
-        "Retirar la fibra con movimientos circulares lentos hacia coronal durante 5–10 s.",
-        "Repetir el ciclo 4 veces con intervalos de 20 s entre cada ciclo.",
-        "Irrigar nuevamente con NaOCl o EDTA al finalizar la irradiación."
+        "Completar la instrumentación quimiomecánica convencional del canal radicular.",
+        "Seleccionar fibra de vidrio de ~200 µm de diámetro.",
+        "Configurar el equipo a 15 Hz, 100 mJ, 1.5 W.",
+        "Introducir la fibra hasta 1-2 mm del ápice.",
+        "Activar el láser y retirar la fibra con movimientos circulares lentos hacia coronal.",
+        "Realizar 4 ciclos de 5-10 s con intervalos de 20 s entre cada ciclo.",
+        "Irrigar el canal con NaOCl entre ciclos para eliminar debris y disipar calor."
       ],
       "indications": [
-        "Desinfección adicional del conducto radicular tras instrumentación quimiomecánica",
-        "Dientes con periodontitis apical crónica con carga bacteriana persistente",
-        "Complemento a protocolos de irrigación convencional cuando se requiere mayor profundidad bactericida en dentina"
+        "Desinfección complementaria del canal radicular en dientes con periodontitis apical crónica.",
+        "Eliminación de bacterias en dentina profunda (hasta 1 mm) no alcanzada por irrigantes convencionales.",
+        "Complemento a protocolos de irrigación con NaOCl al final de la instrumentación quimiomecánica."
       ],
       "contraindications": [
-        "Uso como único método de desinfección sin NaOCl",
-        "Conductos muy curvados con fibra plain-ended (riesgo de escalón o perforación)",
-        "Potencias >3 W (riesgo de carbonización y daño térmico estructural)"
+        "Uso a potencias >3 W: riesgo de carbonización, fisuras y daño térmico irreversible.",
+        "Canales muy curvos con fibra de extremo plano: riesgo de escalón o perforación.",
+        "No usar como sustituto del NaOCl; siempre como complemento."
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — revisión narrativa basada en estudios in vitro y ex vivo; sin RCTs propios. Los parámetros citados provienen de estudios de Gutknecht et al. y Moritz et al.",
+      "evidence_level": "Bajo — revisión narrativa que sintetiza estudios in vitro y ex vivo; sin RCTs propios. Los datos de reducción bacteriana provienen de estudios citados (Moritz et al., Gutknecht et al.).",
       "keywords_es": [
         "Nd:YAG endodoncia",
-        "desinfección conducto radicular láser",
+        "desinfección canal radicular láser",
+        "neodimio endodoncia",
         "bactericida intracanal",
         "láser 1064 nm endodoncia",
-        "Enterococcus faecalis láser",
-        "instrumentación quimiomecánica complemento",
-        "fibra óptica endodóntica",
         "smear layer Nd:YAG",
-        "periodontitis apical láser",
-        "tubulinas dentinarias desinfección",
-        "láser pulsado conducto",
-        "reducción bacteriana endodoncia"
+        "E. faecalis láser",
+        "dentina bactericida",
+        "irrigación láser",
+        "endodoncia láser complementaria",
+        "reducción bacteriana endodoncia",
+        "fibra óptica endodóntica"
       ],
       "keywords_en": [
         "Nd:YAG endodontics",
         "root canal laser disinfection",
+        "neodymium laser endodontics",
         "intracanal bactericidal",
         "1064 nm laser endodontics",
-        "Enterococcus faecalis laser",
-        "chemomechanical adjunct",
-        "endodontic optical fibre",
         "smear layer Nd:YAG",
-        "periapical periodontitis laser",
-        "dentinal tubule disinfection",
-        "pulsed laser root canal",
-        "bacterial reduction endodontics"
+        "E. faecalis laser",
+        "dentinal bactericidal effect",
+        "laser irrigation",
+        "adjunct laser endodontics",
+        "bacterial reduction endodontics",
+        "endodontic fiber optic"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Desinfección intracanal con láser de diodo (810–985 nm)",
+      "name": "Desinfección intracanal con láser de diodo (810-985 nm)",
       "synonyms_es": [
-        "láser diodo en endodoncia",
-        "desinfección conducto con diodo",
-        "irradiación diodo intracanal",
-        "láser diodo bactericida conducto radicular"
+        "láser diodo endodoncia",
+        "diodo infrarrojo canal radicular",
+        "desinfección diodo intracanal",
+        "láser diodo 810 nm endodoncia",
+        "láser diodo 985 nm endodoncia"
       ],
       "synonyms_en": [
-        "diode laser root canal disinfection",
         "diode laser endodontics",
-        "intracanal diode irradiation",
-        "diode laser bactericidal root canal"
+        "infrared diode root canal",
+        "diode laser intracanal disinfection",
+        "810 nm diode endodontics",
+        "985 nm diode endodontics"
       ],
-      "purpose": "Reducción bacteriana intracanal mediante efecto fototérmico del láser de diodo (810–985 nm), con penetración en dentina de hasta 750 µm. Se utiliza como complemento a la instrumentación quimiomecánica.",
+      "purpose": "Reducción bacteriana en el canal radicular mediante efecto fototérmico del láser de diodo, con penetración en dentina de hasta 750 µm. Se utiliza como complemento a la instrumentación quimiomecánica convencional.",
       "parameters_table": [
         {
-          "equipment_class": "Láser de diodo (810–985 nm)",
+          "equipment_class": "Láser de diodo (810-985 nm)",
           "representative_models": [],
           "equipo": null,
-          "longitud_de_onda": "810–985 nm",
-          "potencia": "2–3 W (máx. 4 W con riesgo térmico)",
-          "frecuencia": "No especificado (CW o pulsado según equipo)",
-          "modo_de_pulso": "Continuo o pulsado según equipo",
-          "fibra_punta": "Fibra óptica endodóntica (diámetro no especificado)",
+          "longitud_de_onda": "810 nm o 985 nm",
+          "potencia": "2-3 W (810 nm: 3 W; 985 nm: 2 W)",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra óptica flexible (diámetro no especificado)",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal, movimiento helicoidal apical-coronal",
-          "tiempo_ciclos": "3–5 ciclos de 5–20 s (ej. 3×20 s a 985 nm, 2 W; o 5×5 s a 810 nm, 3 W)"
+          "distancia": "Desde el ápice hacia coronal con movimientos circulares",
+          "tiempo_ciclos": "810 nm: 5 × 5 s (Moritz) o 30 s (Gutknecht); 985 nm: 3 × 20 s (Bago et al.)"
         }
       ],
       "critical_notes": [
-        "A 4 W se produce un aumento de temperatura de 6°C, con riesgo de daño térmico periradicular; no superar 3 W como norma general.",
-        "El efecto bactericida del diodo (985 nm, 2 W, 3×20 s) sobre biofilm de E. faecalis es similar al de NaOCl 2.5% durante 60 s según Bago et al. (2013).",
-        "Los cambios morfológicos en dentina (fusión del smear layer, tubulinas abiertas/cerradas) son similares a los del Nd:YAG.",
-        "El documento presenta esta técnica favorablemente; existen alternativas (erbio, Nd:YAG, aPDT) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "A 4 W se produce un aumento de temperatura de 6°C, con riesgo de daño térmico periradicular; no superar 3 W en uso clínico rutinario.",
+        "La penetración en dentina es menor que la del Nd:YAG (hasta 750 µm vs 1 mm), por lo que el efecto bactericida es más superficial.",
+        "El efecto del diodo (985 nm, 2 W, 3×20 s) sobre biofilm de E. faecalis fue similar al NaOCl 2.5% durante 60 s (Bago et al.).",
+        "El documento presenta esta técnica favorablemente; existen alternativas (Nd:YAG, erbio, aPDT) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Completar la instrumentación quimiomecánica convencional del conducto radicular.",
-        "Irrigar con NaOCl según protocolo estándar.",
-        "Introducir la fibra del láser de diodo en el conducto.",
-        "Activar el láser a 2–3 W (según wavelength y equipo).",
-        "Retirar la fibra con movimientos circulares helicoidales de apical a coronal.",
-        "Repetir 3–5 ciclos de 5–20 s según el protocolo seleccionado.",
-        "Irrigar nuevamente al finalizar la irradiación."
+        "Completar la instrumentación quimiomecánica convencional del canal radicular.",
+        "Seleccionar fibra óptica flexible adecuada para uso endodóntico.",
+        "Configurar el equipo a 2-3 W en modo continuo.",
+        "Introducir la fibra en el canal radicular.",
+        "Activar el láser y retirar la fibra con movimientos circulares de apical a coronal.",
+        "Realizar los ciclos indicados (3-5 ciclos de 5-20 s según el protocolo).",
+        "Irrigar el canal con NaOCl entre ciclos."
       ],
       "indications": [
-        "Desinfección adicional del conducto radicular tras instrumentación quimiomecánica",
-        "Reducción de biofilm de E. faecalis intracanal",
-        "Complemento a protocolos de irrigación convencional"
+        "Desinfección complementaria del canal radicular en dientes con periodontitis apical.",
+        "Reducción de biofilm de E. faecalis en dentina superficial.",
+        "Complemento a protocolos de irrigación convencional al final de la instrumentación."
       ],
       "contraindications": [
-        "Potencias >4 W (riesgo de aumento de temperatura periradicular >6°C)",
-        "Uso como único método de desinfección sin NaOCl"
+        "Potencias >3-4 W: riesgo de aumento de temperatura periradicular y daño térmico.",
+        "No usar como sustituto del NaOCl; siempre como complemento.",
+        "Canales muy curvos: riesgo de perforación con fibra rígida."
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — revisión narrativa basada en estudios in vitro y ex vivo; sin RCTs propios en este paper.",
+      "evidence_level": "Bajo — revisión narrativa que sintetiza estudios in vitro y ex vivo; sin RCTs propios.",
       "keywords_es": [
         "láser diodo endodoncia",
-        "desinfección conducto diodo",
-        "810 nm endodoncia",
-        "980 nm endodoncia",
-        "985 nm conducto radicular",
-        "bactericida diodo intracanal",
-        "Enterococcus faecalis diodo",
-        "smear layer diodo",
+        "diodo 810 nm canal radicular",
+        "diodo 985 nm endodoncia",
+        "desinfección intracanal diodo",
+        "E. faecalis diodo",
+        "biofilm endodóntico láser",
+        "bactericida diodo dental",
         "láser infrarrojo endodoncia",
-        "biofilm intracanal diodo",
-        "instrumentación quimiomecánica adjunto diodo",
-        "reducción bacteriana diodo"
+        "irrigación láser diodo",
+        "complemento NaOCl láser",
+        "reducción bacteriana diodo",
+        "endodoncia láser diodo"
       ],
       "keywords_en": [
         "diode laser endodontics",
-        "root canal diode disinfection",
-        "810 nm endodontics",
-        "980 nm endodontics",
-        "985 nm root canal",
-        "intracanal diode bactericidal",
+        "810 nm diode root canal",
+        "985 nm diode endodontics",
+        "intracanal diode disinfection",
         "E. faecalis diode laser",
-        "smear layer diode",
+        "endodontic biofilm laser",
+        "diode bactericidal dental",
         "infrared laser endodontics",
-        "intracanal biofilm diode",
-        "chemomechanical adjunct diode",
-        "bacterial reduction diode laser"
+        "diode laser irrigation",
+        "NaOCl adjunct laser",
+        "bacterial reduction diode",
+        "endodontic diode laser"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Irrigación Activada por Láser (LAI) con erbio para limpieza intracanal",
+      "name": "Irrigación activada por láser (LAI) con erbio — Er:YAG 2940 nm / Er,Cr:YSGG 2780 nm",
       "synonyms_es": [
         "LAI endodoncia",
         "irrigación activada por láser erbio",
-        "activación de irrigante con Er:YAG",
-        "activación de irrigante con Er,Cr:YSGG",
-        "cavitación láser intracanal",
-        "streaming acústico láser conducto"
+        "activación de irrigante con erbio",
+        "laser activated irrigation endodoncia",
+        "cavitación intracanal erbio",
+        "irrigación fotoacústica erbio"
       ],
       "synonyms_en": [
-        "laser activated irrigation",
         "LAI endodontics",
-        "Er:YAG irrigant activation",
-        "Er,Cr:YSGG irrigant activation",
-        "intracanal laser cavitation",
-        "acoustic streaming laser root canal"
+        "laser activated irrigation erbium",
+        "erbium irrigant activation",
+        "intracanal cavitation erbium",
+        "photoacoustic irrigation erbium",
+        "Er:YAG LAI",
+        "Er,Cr:YSGG LAI"
       ],
-      "purpose": "Activación del irrigante intracanal (NaOCl u otros) mediante el efecto fototérmico y fotomecánico de los láseres de erbio, generando burbujas de cavitación y streaming acústico que mejoran la limpieza del tercio apical y la eliminación del smear layer.",
+      "purpose": "Activación del irrigante intracanal (NaOCl u otros) mediante el efecto fototérmico y fotomecánico del láser de erbio, generando cavitación y streaming acústico que mejoran la eliminación de debris y smear layer del tercio apical del canal radicular.",
       "parameters_table": [
         {
           "equipment_class": "Cualquier Er:YAG 2940 nm o Er,Cr:YSGG 2780 nm con punta cónica side-firing endodóntica",
@@ -399,349 +402,267 @@
           "longitud_de_onda": "2940 nm (Er:YAG) o 2780 nm (Er,Cr:YSGG)",
           "potencia": "1.5 W",
           "frecuencia": "20 Hz",
-          "modo_de_pulso": "Pulsado (75 mJ/pulso)",
-          "fibra_punta": "Punta cónica side-firing endodóntica (200 µm, emisión 80% lateral / 20% frontal)",
-          "agua_pct": "No especificado en el paper (ver nota crítica)",
-          "aire_pct": "No especificado en el paper (ver nota crítica)",
+          "modo_de_pulso": "Pulsado, 75 mJ/pulso",
+          "fibra_punta": "Punta cónica side-firing endodóntica (200 µm de diámetro, 80% emisión lateral / 20% frontal)",
+          "agua_pct": "No especificado (irrigante externo: NaOCl 2.5%)",
+          "aire_pct": "No especificado",
           "distancia": "5 mm del ápice (punta intracanal)",
-          "tiempo_ciclos": "4 ciclos de 5 s (4×5 s)"
+          "tiempo_ciclos": "4 × 5 s (total 20 s de irradiación activa)"
         }
       ],
       "critical_notes": [
-        "La absorción de la energía del erbio (50–75 mJ) en agua y NaOCl genera burbujas elípticas de vapor que expanden el volumen del irrigante hasta 1600 veces, creando presión intracanal que expulsa el líquido y luego lo succiona de vuelta (efecto de cavitación secundaria).",
-        "Las burbujas implotan tras 100–200 microsegundos, generando el efecto de streaming acústico que mejora la limpieza apical.",
-        "Los parámetros de agua/aire del spray no están especificados en este paper de revisión; en protocolos de LAI estándar con erbio se recomienda reducir o eliminar el spray de agua para maximizar el efecto fotoacústico.",
-        "La punta se posiciona 5 mm del ápice (a diferencia de PIPS™ que se posiciona en la entrada del conducto).",
-        "De Moor et al. y De Groot et al. reportaron mayor eficiencia de LAI vs irrigación convencional y PUI en la eliminación de debris del tercio apical.",
-        "El documento presenta esta técnica favorablemente; existen alternativas (PUI, PIPS™, irrigación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "La fuerte absorción del erbio en agua y NaOCl genera burbujas de vapor elípticas que expanden el volumen del irrigante hasta 1600 veces, creando presión intracanal elevada seguida de cavitación secundaria al implotar (100-200 µs).",
+        "La punta se posiciona 5 mm del ápice (a diferencia de PIPS™ que se posiciona en la entrada del canal).",
+        "Usar puntas cónicas side-firing (80% lateral, 20% frontal) para cobertura uniforme de las paredes del canal y reducir riesgo de perforación en canales curvos.",
+        "Precaución con el sobrecalentamiento de tejidos periradiculares a través del foramen apical abierto al usar erbio a potencias ablativas.",
+        "El documento presenta esta técnica favorablemente; existen alternativas (PUI, irrigación sónica, PIPS™) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Completar la instrumentación quimiomecánica del conducto radicular.",
-        "Llenar el conducto con NaOCl 2.5% u otro irrigante.",
-        "Introducir la punta cónica side-firing del láser de erbio hasta 5 mm del ápice.",
-        "Activar el láser a 75 mJ, 20 Hz, 1.5 W.",
-        "Mantener la punta en posición durante 5 s (un ciclo).",
-        "Retirar, re-irrigar y repetir hasta completar 4 ciclos de 5 s.",
-        "Irrigar con EDTA 17% para eliminación final del smear layer si se requiere."
+        "Completar la instrumentación quimiomecánica del canal radicular.",
+        "Llenar el canal con NaOCl 2.5% como irrigante.",
+        "Seleccionar punta cónica side-firing endodóntica (200 µm).",
+        "Configurar el equipo a 75 mJ, 20 Hz, 1.5 W.",
+        "Introducir la punta hasta 5 mm del ápice.",
+        "Activar el láser durante 5 s con movimientos circulares de apical a coronal.",
+        "Retirar la punta, irrigar con NaOCl fresco y repetir el ciclo 4 veces (4 × 5 s).",
+        "Finalizar con irrigación final con NaOCl y EDTA según protocolo convencional."
       ],
       "indications": [
-        "Mejora de la limpieza del tercio apical del conducto radicular",
-        "Eliminación de debris y smear layer intracanal",
-        "Complemento a la instrumentación quimiomecánica en conductos con anatomía compleja",
-        "Casos donde la irrigación convencional o PUI resultan insuficientes"
+        "Eliminación de debris y smear layer del tercio apical del canal radicular.",
+        "Mejora de la limpieza intracanal en canales con anatomía compleja.",
+        "Complemento a la instrumentación quimiomecánica convencional en dientes con periodontitis apical."
       ],
       "contraindications": [
-        "Uso de erbio a configuraciones ablativas cerca del foramen apical abierto (riesgo de daño térmico periradicular)",
-        "Conductos muy curvados con fibra plain-ended (riesgo de escalón o perforación)"
+        "Foramen apical abierto o ápice inmaduro: riesgo de daño térmico en tejidos periradiculares.",
+        "Canales muy curvos con punta rígida: riesgo de escalón o perforación.",
+        "No usar como sustituto del NaOCl; siempre como complemento."
       ],
       "postop_care": [],
-      "evidence_level": "Bajo-Moderado — basado en estudios in vitro y ex vivo (De Moor et al., De Groot et al.); sin RCTs clínicos propios en este paper de revisión.",
+      "evidence_level": "Bajo — revisión narrativa que sintetiza estudios in vitro y ex vivo (De Moor et al., De Groot et al.); sin RCTs propios de los autores.",
       "keywords_es": [
         "LAI endodoncia",
         "irrigación activada láser",
-        "Er:YAG irrigante",
-        "Er,Cr:YSGG irrigante",
-        "cavitación intracanal",
-        "streaming acústico conducto",
         "erbio endodoncia",
-        "limpieza tercio apical láser",
+        "Er:YAG irrigación",
+        "Er,Cr:YSGG irrigación",
+        "cavitación intracanal",
         "smear layer erbio",
-        "NaOCl activado láser",
         "debris apical láser",
-        "fotomecánico endodoncia"
+        "NaOCl activado láser",
+        "limpieza canal radicular láser",
+        "streaming acústico erbio",
+        "endodoncia erbio"
       ],
       "keywords_en": [
         "LAI endodontics",
         "laser activated irrigation",
-        "Er:YAG irrigant activation",
-        "Er,Cr:YSGG irrigant activation",
-        "intracanal cavitation",
-        "acoustic streaming root canal",
         "erbium endodontics",
-        "apical third cleaning laser",
+        "Er:YAG irrigation",
+        "Er,Cr:YSGG irrigation",
+        "intracanal cavitation",
         "smear layer erbium",
-        "NaOCl laser activation",
         "apical debris laser",
-        "photomechanical endodontics"
+        "NaOCl laser activation",
+        "root canal cleaning laser",
+        "acoustic streaming erbium",
+        "erbium endodontics"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "PIPS™ — Activación Fotoacústica Intracanal con Er:YAG (Photon-Induced Photoacoustic Streaming)",
+      "name": "PIPS™ — Activación fotoacústica intracanal con Er:YAG 2940 nm (punta radial stripped en entrada del canal)",
       "synonyms_es": [
         "PIPS endodoncia",
-        "streaming fotoacústico intracanal",
-        "activación fotoacústica conducto radicular",
         "fotonsko inicirajuće fotoakustično strujanje",
-        "irrigación fotoacústica Er:YAG",
-        "PIPS conducto radicular"
+        "activación fotoacústica intracanal",
+        "streaming fotoacústico Er:YAG",
+        "irrigación fotoacústica punta stripped",
+        "PIPS canal radicular"
       ],
       "synonyms_en": [
         "PIPS endodontics",
         "photon-induced photoacoustic streaming",
-        "photoacoustic streaming root canal",
-        "Er:YAG photoacoustic activation",
-        "PIPS irrigation",
-        "intracanal photoacoustic streaming"
+        "photoacoustic activation root canal",
+        "Er:YAG photoacoustic streaming",
+        "stripped tip photoacoustic irrigation",
+        "PIPS root canal"
       ],
-      "purpose": "Activación fotoacústica y fotomecánica del irrigante intracanal mediante pulsos ultracortos de Er:YAG a baja energía, con la punta radial stripped posicionada en la entrada del conducto (no intracanal), generando ondas de choque y cavitación que limpian todo el sistema de conductos sin necesidad de introducir la fibra en el canal.",
+      "purpose": "Activación fotoacústica del irrigante endodóntico desde la entrada del canal radicular mediante pulsos ultracortos subablativos de Er:YAG, generando cavitación y ondas de choque que distribuyen el irrigante en todo el sistema de conductos sin introducir la punta en el canal.",
       "parameters_table": [
         {
-          "equipment_class": "Cualquier Er:YAG 2940 nm con punta radial stripped 600 µm y pulsos ≤50 µs (PIPS™/activación fotoacústica)",
+          "equipment_class": "Cualquier Er:YAG 2940 nm con duración de pulso ≤50 µs y punta radial stripped 600 µm",
           "representative_models": [
             "Fotona LightWalker"
           ],
           "equipo": null,
           "longitud_de_onda": "2940 nm",
-          "potencia": "No especificado (calculado: ~0.3 W a 20 mJ × 15 Hz)",
+          "potencia": "No especificado (baja energía)",
           "frecuencia": "15 Hz",
-          "modo_de_pulso": "50 µs (SSP en Fotona LightWalker)",
-          "fibra_punta": "Punta radial stripped (side-firing stripped) 600 µm de diámetro",
-          "agua_pct": "No especificado en el paper (irrigación continua externa)",
-          "aire_pct": "No especificado en el paper",
-          "distancia": "Entrada del conducto radicular (cámara pulpar / orificio coronal)",
-          "tiempo_ciclos": "No especificado en detalle en este paper; irrigación continua durante la activación"
+          "modo_de_pulso": "50 µs (pulsado ultracorto)",
+          "fibra_punta": "Punta cónica side-firing stripped de 600 µm de diámetro (radial stripped)",
+          "agua_pct": "0% (irrigante externo continuo: NaOCl)",
+          "aire_pct": "0%",
+          "distancia": "Entrada del canal radicular (cámara pulpar, estática)",
+          "tiempo_ciclos": "Irrigación continua; ciclos según protocolo clínico (no especificado en la revisión)"
         }
       ],
       "critical_notes": [
         "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
-        "A diferencia de LAI (punta 5 mm del ápice), en PIPS™ la punta se mantiene estática en la entrada del conducto / cámara pulpar, sin introducirla en el canal.",
-        "Los pulsos ultracortos (50 µs) a baja energía (20 mJ) generan efectos fotoacústicos y fotomecánicos (ondas de choque) sin ablación significativa de tejido.",
-        "La irrigación continua durante la activación es esencial para el efecto de streaming fotoacústico.",
-        "Este paper de revisión describe el principio de PIPS™ pero no detalla el protocolo completo de ciclos/tiempos; para parámetros completos consultar DiVito et al. (2012) citado en el paper.",
-        "El documento presenta esta técnica favorablemente; existen alternativas (LAI, PUI, irrigación sónica) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico."
+        "A diferencia de LAI, la punta se mantiene estática en la entrada del canal (no se introduce en el canal), lo que reduce el riesgo de perforación en canales curvos.",
+        "Los pulsos ultracortos de 50 µs a baja energía (20 mJ) generan efecto fotoacústico y fotomecánico sin ablación significativa de dentina.",
+        "La revisión no especifica la potencia exacta en vatios para PIPS™; solo menciona 20 mJ a 15 Hz con pulsos de 50 µs.",
+        "Requiere irrigación continua con NaOCl durante la activación para maximizar el efecto cavitacional.",
+        "El documento presenta esta técnica favorablemente; existen alternativas (LAI convencional, PUI, irrigación sónica) con mecanismos de acción diferentes."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Completar la instrumentación quimiomecánica del conducto radicular.",
-        "Llenar la cámara pulpar y el conducto con NaOCl u otro irrigante.",
-        "Posicionar la punta radial stripped (600 µm) en la entrada del conducto / cámara pulpar (no introducir en el canal).",
-        "Activar el láser Er:YAG a 20 mJ, 15 Hz, pulsos de 50 µs.",
-        "Mantener irrigación continua durante la activación fotoacústica.",
-        "Repetir ciclos según protocolo clínico (no especificado en detalle en este paper).",
-        "Finalizar con irrigación de EDTA activada si se requiere eliminación de smear layer."
+        "Completar la instrumentación quimiomecánica del canal radicular.",
+        "Llenar el canal y la cámara pulpar con NaOCl como irrigante.",
+        "Seleccionar punta radial stripped de 600 µm de diámetro.",
+        "Configurar el equipo a 20 mJ, 15 Hz, pulsos de 50 µs.",
+        "Posicionar la punta en la entrada del canal radicular (cámara pulpar), sin introducirla en el canal.",
+        "Activar el láser con irrigación continua de NaOCl.",
+        "Mantener la punta estática durante la activación.",
+        "Finalizar con irrigación final con EDTA y NaOCl según protocolo convencional."
       ],
       "indications": [
-        "Desinfección y limpieza del sistema de conductos radiculares incluyendo zonas de difícil acceso",
-        "Activación fotoacústica del irrigante sin necesidad de introducir la fibra en el conducto",
-        "Complemento a la instrumentación quimiomecánica en casos con anatomía compleja (istmos, conductos laterales, ramificaciones)"
+        "Activación del irrigante endodóntico en todo el sistema de conductos desde la cámara pulpar.",
+        "Eliminación de smear layer y debris en canales con anatomía compleja.",
+        "Complemento a la instrumentación quimiomecánica en dientes con periodontitis apical.",
+        "Alternativa a LAI convencional cuando se desea evitar la introducción de la punta en el canal."
       ],
       "contraindications": [
-        "Energías superiores a las subablativas (riesgo de ablación no deseada de dentina)",
-        "Uso sin irrigante presente (el efecto fotoacústico requiere medio líquido)"
+        "No usar energías elevadas (>20 mJ) con punta stripped en cámara pulpar: riesgo de daño a estructuras adyacentes.",
+        "Cámara pulpar muy pequeña o acceso coronario limitado que impida posicionar la punta correctamente."
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — descripción del principio en revisión narrativa; parámetros basados en DiVito et al. (2012). Sin RCTs clínicos propios en este paper.",
+      "evidence_level": "Bajo — revisión narrativa; los datos de PIPS™ se basan en DiVito et al. 2012 (estudio in vitro/ex vivo). Sin RCTs propios de los autores de esta revisión.",
       "keywords_es": [
         "PIPS endodoncia",
-        "activación fotoacústica conducto",
+        "activación fotoacústica",
         "Er:YAG fotoacústico",
-        "streaming fotoacústico",
-        "punta radial stripped",
-        "Fotona LightWalker endodoncia",
+        "streaming fotoacústico canal",
+        "punta stripped endodoncia",
         "irrigación fotoacústica",
-        "ondas de choque intracanal",
+        "Fotona LightWalker endodoncia",
+        "PIPS canal radicular",
         "desinfección fotoacústica",
-        "PIPS conducto radicular",
-        "pulsos ultracortos Er:YAG",
-        "limpieza sistema conductos láser"
+        "smear layer PIPS",
+        "NaOCl activado fotoacústico",
+        "endodoncia láser fotoacústico"
       ],
       "keywords_en": [
         "PIPS endodontics",
-        "photoacoustic activation root canal",
+        "photoacoustic activation",
         "Er:YAG photoacoustic",
-        "photoacoustic streaming",
-        "radial stripped tip",
-        "Fotona LightWalker endodontics",
+        "photoacoustic streaming canal",
+        "stripped tip endodontics",
         "photoacoustic irrigation",
-        "intracanal shockwave",
-        "photoacoustic disinfection",
+        "Fotona LightWalker endodontics",
         "PIPS root canal",
-        "ultra-short pulse Er:YAG",
-        "root canal system cleaning laser"
+        "photoacoustic disinfection",
+        "smear layer PIPS",
+        "NaOCl photoacoustic activation",
+        "photoacoustic laser endodontics"
       ],
       "is_virtual_protocol": false
     },
     {
-      "name": "Terapia Fotodinámica Antimicrobiana (aPDT) en conducto radicular",
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) en desinfección endodóntica",
       "synonyms_es": [
         "aPDT endodoncia",
-        "fotodesinfección conducto radicular",
-        "PAD endodoncia",
-        "terapia fotodinámica conducto",
-        "desinfección fotoactivada endodoncia",
-        "PDT antimicrobiana conducto"
+        "fotodesinfección canal radicular",
+        "PAD endodóntica",
+        "terapia fotodinámica canal radicular",
+        "fotoactivación desinfección endodoncia",
+        "PDT endodoncia",
+        "fotosensibilizador canal radicular"
       ],
       "synonyms_en": [
         "aPDT endodontics",
-        "antimicrobial photodynamic therapy root canal",
+        "photodynamic disinfection root canal",
         "PAD endodontics",
-        "photoactivated disinfection root canal",
         "photodynamic therapy root canal",
-        "PDT root canal disinfection"
+        "photoactivated disinfection endodontics",
+        "PDT endodontics",
+        "photosensitizer root canal"
       ],
-      "purpose": "Desinfección fotoquímica del conducto radicular mediante la activación de un fotosensibilizador no tóxico (azul de metileno, azul de toluidina) con luz láser de baja energía (630–670 nm), generando radicales libres de oxígeno singlete que dañan la membrana bacteriana y el ADN sin afectar células del huésped.",
+      "purpose": "Desinfección fotoquímica del canal radicular mediante la activación de un fotosensibilizador no tóxico (azul de metileno, azul de toluidina/cloruro de fenotiazina) con láser de baja potencia, generando radicales libres de oxígeno singlete que dañan la membrana bacteriana y el ADN, sin afectar células del huésped.",
       "parameters_table": [
         {
-          "equipment_class": "Fuente de luz para fotosensibilizador (láser de diodo 630–670 nm o láser He:Ne)",
+          "equipment_class": "Fuente de luz para fotosensibilizador (láser de diodo 630-670 nm o láser He:Ne)",
           "representative_models": [],
           "equipo": null,
-          "longitud_de_onda": "630–670 nm (ej. 660 nm, 665 nm)",
-          "potencia": "40–100 mW (ej. 50 mW, 100 mW, 1 W)",
-          "frecuencia": "No especificado (CW)",
-          "modo_de_pulso": "Continuo",
-          "fibra_punta": "Fibra óptica endodóntica (diámetro no especificado)",
-          "agua_pct": "No aplica",
-          "aire_pct": "No aplica",
-          "distancia": "Intracanal",
-          "tiempo_ciclos": "1–5 min (ej. 1 min a 100 mW; 2.5 min × 2 a 1 W, 30 J/cm²)"
-        }
-      ],
-      "critical_notes": [
-        "La eficacia de aPDT depende del tipo y concentración del fotosensibilizador, tipo de bacteria, fuente de luz y parámetros de irradiación — los resultados son variables entre estudios.",
-        "La difusión limitada del fotosensibilizador en irregularidades del conducto, tubulinas dentinarias y biofilm maduro puede reducir la eficacia.",
-        "Resultados contradictorios en la literatura: algunos estudios no encuentran efecto adicional significativo de aPDT vs instrumentación quimiomecánica sola (Souza et al., Meire et al.).",
-        "aPDT ha demostrado eficacia contra microorganismos resistentes a antibióticos (Garcez et al., 2010).",
-        "Se recomienda como alternativa o complemento a los métodos actuales de desinfección, no como sustituto de NaOCl.",
-        "El documento presenta esta técnica favorablemente en algunos estudios; los resultados son heterogéneos y dependen fuertemente de los parámetros utilizados."
-      ],
-      "pbm_complement": null,
-      "technique_steps": [
-        "Completar la instrumentación quimiomecánica del conducto radicular.",
-        "Aplicar el fotosensibilizador (azul de metileno o cloruro de fenotiazina/azul de toluidina) en el conducto y dejar actuar el tiempo de contacto recomendado.",
-        "Introducir la fibra óptica del láser de diodo (630–670 nm) en el conducto.",
-        "Activar el láser a la potencia y tiempo indicados (ej. 50–100 mW durante 1 min, o 1 W durante 2.5 min).",
-        "Repetir el ciclo si el protocolo lo indica (ej. 2 aplicaciones).",
-        "Irrigar el conducto para eliminar el fotosensibilizador residual."
-      ],
-      "indications": [
-        "Desinfección adicional del conducto radicular tras instrumentación quimiomecánica",
-        "Casos con microorganismos resistentes a antibióticos",
-        "Complemento o alternativa a métodos convencionales de desinfección intracanal",
-        "Pacientes con contraindicaciones a irrigantes químicos agresivos"
-      ],
-      "contraindications": [
-        "Uso sin fotosensibilizador (la luz sola no produce el efecto fotoquímico)",
-        "Conductos con acceso limitado a la difusión del fotosensibilizador (puede reducir eficacia significativamente)"
-      ],
-      "postop_care": [],
-      "evidence_level": "Bajo — revisión narrativa de estudios in vitro, ex vivo e in vivo con resultados heterogéneos; sin RCTs propios en este paper.",
-      "keywords_es": [
-        "aPDT endodoncia",
-        "terapia fotodinámica conducto",
-        "azul de metileno endodoncia",
-        "azul de toluidina conducto",
-        "fotodesinfección intracanal",
-        "PAD endodoncia",
-        "láser diodo fotosensibilizador",
-        "oxígeno singlete bactericida",
-        "desinfección fotoquímica conducto",
-        "microorganismos resistentes antibióticos endodoncia",
-        "660 nm endodoncia",
-        "665 nm conducto radicular"
-      ],
-      "keywords_en": [
-        "aPDT endodontics",
-        "photodynamic therapy root canal",
-        "methylene blue endodontics",
-        "toluidine blue root canal",
-        "photodisinfection intracanal",
-        "PAD endodontics",
-        "diode laser photosensitizer",
-        "singlet oxygen bactericidal",
-        "photochemical disinfection root canal",
-        "antibiotic-resistant microorganisms endodontics",
-        "660 nm endodontics",
-        "665 nm root canal"
-      ],
-      "is_virtual_protocol": false
-    },
-    {
-      "name": "Eliminación de smear layer con láser de erbio (Er:YAG / Er,Cr:YSGG)",
-      "synonyms_es": [
-        "remoción smear layer erbio",
-        "eliminación capa residual láser erbio",
-        "limpieza dentina erbio endodoncia",
-        "Er:YAG smear layer",
-        "Er,Cr:YSGG smear layer conducto"
-      ],
-      "synonyms_en": [
-        "erbium laser smear layer removal",
-        "Er:YAG smear layer endodontics",
-        "Er,Cr:YSGG smear layer root canal",
-        "erbium root canal cleaning",
-        "smear layer erbium laser"
-      ],
-      "purpose": "Eliminación del smear layer y debris de las paredes del conducto radicular mediante la alta absorción de los láseres de erbio en agua e hidroxiapatita, produciendo ablación superficial controlada de la dentina radicular.",
-      "parameters_table": [
-        {
-          "equipment_class": "Cualquier Er:YAG 2940 nm o Er,Cr:YSGG 2780 nm con punta cónica side-firing endodóntica",
-          "representative_models": [],
-          "equipo": null,
-          "longitud_de_onda": "2940 nm (Er:YAG) o 2780 nm (Er,Cr:YSGG)",
-          "potencia": "No especificado en detalle en este paper",
-          "frecuencia": "No especificado en detalle en este paper",
-          "modo_de_pulso": "Pulsado (parámetros específicos no reportados en este paper de revisión)",
-          "fibra_punta": "Punta cónica side-firing endodóntica (200 µm, emisión 80% lateral / 20% frontal)",
+          "longitud_de_onda": "630-670 nm (diodo) o He:Ne",
+          "potencia": "40-100 mW",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Fibra óptica flexible para uso intracanal",
           "agua_pct": "No especificado",
           "aire_pct": "No especificado",
-          "distancia": "Intracanal, movimiento helicoidal apical-coronal",
-          "tiempo_ciclos": "No especificado en este paper"
+          "distancia": "Intracanal (fibra introducida en el canal)",
+          "tiempo_ciclos": "1-5 min (variable según protocolo: 50 mW/1 min; 100 mW/1 min; 1 W/2.5 min × 2 sesiones)"
         }
       ],
       "critical_notes": [
-        "La energía del erbio se absorbe casi completamente en los primeros 300–400 µm de dentina, por lo que el efecto bactericida es superficial pero la eliminación de smear layer es muy eficaz.",
-        "Parámetros técnicos específicos para eliminación de smear layer no están detallados en este paper de revisión; consultar estudios primarios (Takeda et al. 1998, Kesler et al. 2002, DiVito et al. 2012).",
-        "Precaución con el uso de erbio a configuraciones ablativas cerca del foramen apical abierto (riesgo de daño térmico periradicular).",
-        "El documento presenta esta técnica favorablemente; existen alternativas (EDTA 17%, ácido cítrico 10%, PUI) para eliminación de smear layer con mecanismos diferentes."
+        "La eficacia de aPDT depende del tipo y concentración del fotosensibilizador, la longitud de onda de la fuente de luz, el tiempo de interacción del fotosensibilizador con el medio y la presencia de biofilm maduro.",
+        "La difusión limitada del fotosensibilizador en irregularidades del canal, túbulos dentinarios y biofilm puede reducir la eficacia.",
+        "Los resultados son contradictorios en la literatura: algunos estudios no encontraron efecto adicional significativo sobre la instrumentación quimiomecánica sola.",
+        "aPDT ha demostrado eficacia contra microorganismos resistentes a antibióticos (Garcez et al.).",
+        "El documento presenta esta técnica favorablemente en algunos estudios; existen alternativas (NaOCl, Nd:YAG, erbio) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "Los parámetros varían ampliamente entre estudios; no existe un protocolo único estandarizado."
       ],
       "pbm_complement": null,
       "technique_steps": [
-        "Completar la instrumentación quimiomecánica del conducto radicular.",
-        "Introducir la punta cónica side-firing del láser de erbio en el conducto.",
-        "Activar el láser con los parámetros apropiados para ablación superficial (no ablativa agresiva).",
-        "Retirar la punta con movimientos helicoidales de apical a coronal.",
-        "Irrigar con NaOCl o EDTA al finalizar para eliminar debris residual."
+        "Completar la instrumentación quimiomecánica del canal radicular.",
+        "Aplicar el fotosensibilizador (azul de metileno o azul de toluidina) en el canal radicular y dejar actuar el tiempo de contacto indicado.",
+        "Introducir la fibra óptica en el canal radicular.",
+        "Activar la fuente de luz (láser de diodo 630-670 nm) a la potencia y tiempo indicados según el fotosensibilizador utilizado.",
+        "Retirar la fibra y el fotosensibilizador.",
+        "Irrigar el canal con NaOCl para eliminar residuos del fotosensibilizador.",
+        "Completar el protocolo de irrigación final convencional."
       ],
       "indications": [
-        "Eliminación del smear layer de las paredes del conducto radicular",
-        "Apertura de túbulos dentinarios para mejorar la interfaz con el material de obturación",
-        "Complemento a la instrumentación quimiomecánica cuando se requiere limpieza superficial de dentina"
+        "Desinfección complementaria del canal radicular en dientes con periodontitis apical.",
+        "Casos con microorganismos resistentes a antibióticos.",
+        "Complemento a la instrumentación quimiomecánica cuando se desea evitar el calor generado por otros láseres.",
+        "Alternativa o complemento a los protocolos de desinfección convencionales."
       ],
       "contraindications": [
-        "Uso a configuraciones ablativas agresivas cerca del foramen apical abierto",
-        "Conductos muy curvados con fibra plain-ended (riesgo de escalón o perforación)"
+        "Alergia conocida al fotosensibilizador utilizado.",
+        "Canales con acceso muy limitado que impidan la difusión adecuada del fotosensibilizador.",
+        "No usar como sustituto de la instrumentación quimiomecánica completa."
       ],
       "postop_care": [],
-      "evidence_level": "Bajo — revisión narrativa; eficacia en smear layer documentada en estudios in vitro (Takeda et al., Kesler et al.). Sin RCTs clínicos propios en este paper.",
+      "evidence_level": "Bajo — revisión narrativa que sintetiza estudios in vitro, ex vivo e in vivo con resultados contradictorios; sin RCTs propios de los autores.",
       "keywords_es": [
-        "smear layer erbio",
-        "capa residual láser",
-        "Er:YAG smear layer",
-        "Er,Cr:YSGG smear layer",
-        "limpieza dentina láser",
-        "ablación dentina erbio",
-        "tubulinas dentinarias apertura láser",
-        "erbio endodoncia",
-        "2940 nm smear layer",
-        "2780 nm conducto radicular",
-        "remoción debris intracanal",
-        "obturación conducto preparación láser"
+        "aPDT endodoncia",
+        "terapia fotodinámica canal radicular",
+        "fotosensibilizador endodoncia",
+        "azul de metileno endodoncia",
+        "azul de toluidina endodoncia",
+        "PAD endodóntica",
+        "fotodesinfección intracanal",
+        "láser diodo aPDT",
+        "E. faecalis aPDT",
+        "desinfección fotoquímica",
+        "oxígeno singlete endodoncia",
+        "bacterias resistentes endodoncia"
       ],
       "keywords_en": [
-        "smear layer erbium",
-        "residual layer laser",
-        "Er:YAG smear layer",
-        "Er,Cr:YSGG smear layer",
-        "dentine cleaning laser",
-        "dentine ablation erbium",
-        "dentinal tubule opening laser",
-        "erbium endodontics",
-        "2940 nm smear layer",
-        "2780 nm root canal",
-        "intracanal debris removal",
-        "root canal obturation laser preparation"
+        "aPDT endodontics",
+        "photodynamic therapy root canal",
+        "photosensitizer endodontics",
+        "methylene blue endodontics",
+        "toluidine blue endodontics",
+        "PAD endodontics",
+        "photodisinfection intracanal",
+        "diode laser aPDT",
+        "E. faecalis aPDT",
+        "photochemical disinfection",
+        "singlet oxygen endodontics",
+        "antibiotic resistant bacteria endodontics"
       ],
       "is_virtual_protocol": false
     }
