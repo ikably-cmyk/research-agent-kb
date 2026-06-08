@@ -1,0 +1,235 @@
+{
+  "article_refs": [
+    "pdf_local::oa_105978_islsm1373__330a0d80::12ec13"
+  ],
+  "uuid": "6818d9",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "animal",
+  "evidence_level": "low",
+  "key_points": [
+    "LLLT at 830 nm (40 mW CW diode, 4.8 J/cm²) significantly increased the area of newly formed mineralized bone at 7 days post-surgery in rat femur defects (p=0.017), but not at 28 days (p=0.383).",
+    "SEM analysis of dental implants in dogs showed improved bone quality and lamellar re-arrangement at the bone/implant interface in irradiated animals at both 45 and 60 days post-implantation.",
+    "Irradiation was performed transcutaneously (rat study) and in contact mode (dog implant study), three times per week, with a dose of 4.8 J/cm² per session and 1.2 J/cm² per point.",
+    "The authors propose that LLLT may biomodulate non-differentiated mesenchymal cells toward osteoblasts, and may improve vascularization and reduce inflammation to accelerate bone healing.",
+    "The biomodulatory effect of LLLT appears to require some level of tissue deficiency; LLLT seems ineffective on normal tissues.",
+    "Controversy in the literature is attributed to different protocols, wavelengths, modes of emission, and doses used across studies.",
+    "The authors suggest that the threshold energy density and intensity are biologically independent, which may explain conflicting results in the literature.",
+    "Doses used (1–5 J/cm²) are consistent with previously recommended ranges; session dose did not exceed 20 J/cm²."
+  ],
+  "outcomes": [
+    {
+      "measured": "Area of newly formed mineralized bone at 7 days (rat femur defect)",
+      "result": "Irradiated group: mean area 2,852,629.12 µm²; Non-irradiated: 1,561,740.66 µm²",
+      "statistical_significance": true,
+      "clinical_significance": "Significant increase in early bone formation at 7 days post-surgery with LLLT 830 nm"
+    },
+    {
+      "measured": "Area of newly formed mineralized bone at 28 days (rat femur defect)",
+      "result": "Irradiated group: mean area 861,794.15 µm²; Non-irradiated: 655,798.96 µm²",
+      "statistical_significance": false,
+      "clinical_significance": "No significant difference at 28 days; LLLT effect appears limited to early healing stages"
+    },
+    {
+      "measured": "Bone quality at implant/bone interface (SEM, dogs, 45 and 60 days)",
+      "result": "Irradiated specimens showed lamellar re-arrangement, higher neovascularization, and more mature bone at the implant interface compared to non-irradiated controls",
+      "statistical_significance": null,
+      "clinical_significance": "Qualitative SEM improvement in osseointegration quality with LLLT 830 nm"
+    }
+  ],
+  "notes": "Two separate animal studies reported in one paper: (1) rat femur defect model with morphometric analysis; (2) dog tibial implant model with SEM analysis. Both used the same laser parameters (830 nm, 40 mW CW, 4.8 J/cm²). The rat study used transcutaneous irradiation; the dog study used contact mode. Equipment brand: Laserbeam, Rio de Janeiro, Brazil.",
+  "population": {
+    "n_participants": 50,
+    "age_range": null,
+    "condition": "Surgical bone defects (rat femur) and dental implant placement (dog tibia)",
+    "sample_type": "Animal — 40 Wistar rats + 10 dogs"
+  },
+  "superiority_claim": "El autor afirma: 'This may indicate a more effective effect of 830nm laser light in comparison to lasers emitting 632.8 or 790nm, since 830nm penetrates to a deeper level.'",
+  "conflicts_of_interest": null,
+  "funding_source_text": null,
+  "source_citation": "Pinheiro, A. L. B., Oliveira, M. G., Martins, P. P. M., Ramalho, L. M. P., Oliveira, M. A. M., Novaes Júnior, A., & Nicolau, R. A. (2001). Biomodulatory effects of LLLT on bone regeneration. Laser Therapy, 13(Special Millennium Edition), 73–79.",
+  "contraindications": [],
+  "adverse_events": [],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 830,
+      "fluence_j_cm2": 4.8,
+      "power_w": 0.04,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 1.0,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": false,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 830,
+      "fluence_j_cm2": 4.8,
+      "power_w": 0.04,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": 1.0,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": true,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 12,
+    "session_interval_days": 2,
+    "application_time_sec": null,
+    "application_technique": "point",
+    "anatomical_points": [
+      "femur surgical defect (transcutaneous)",
+      "tibial implant site (contact mode)"
+    ]
+  },
+  "clinical_indication": "Bone regeneration and osseointegration acceleration after surgical bone defects and dental implant placement",
+  "target_tissue": "bone",
+  "brand_model_mentioned": [
+    "Laserbeam (Rio de Janeiro, Brazil)"
+  ],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": false,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "Exact application time per session not reported; only fluence (4.8 J/cm²) and power (40 mW) are given, allowing calculation but not direct extraction.",
+    "Spot size reported as 'f~1mm' — interpreted as ~1 mm diameter focal spot; exact value uncertain.",
+    "Dog implant study: number of irradiated vs control animals per group is inconsistently reported (abstract says 'two animals of each group acted as controls' but methods say 'three irradiated and two controls per group').",
+    "No conflict of interest or funding disclosure present in the paper.",
+    "Total dose per study arm (cumulative J/cm²) can be calculated (Group A: 57.6 J/cm²; Group C: 14.4 J/cm²) but was not explicitly stated as a primary outcome parameter.",
+    "SEM results for dog study are qualitative only; no statistical analysis reported for the implant study."
+  ],
+  "bibliographic_metadata": {
+    "title": "Biomodulatory Effects of LLLT on Bone Regeneration",
+    "authors": [
+      "Antonio L.B. Pinheiro",
+      "Marilia G. Oliveira",
+      "Pedro Paulo M. Martins",
+      "Luciana Maria Pedreira Ramalho",
+      "Marcos A. Matos de Oliveira",
+      "Aurelício Novaes Júnior",
+      "Renata Amadei Nicolau"
+    ],
+    "year": 2001,
+    "journal": "Laser Therapy",
+    "doi": null
+  },
+  "protocols": [
+    {
+      "name": "PBM/LLLT para regeneración ósea post-cirugía y osteointegración de implantes — 830 nm diodo",
+      "synonyms_es": [
+        "fotobiomodulación en regeneración ósea",
+        "terapia láser de baja intensidad en hueso",
+        "LLLT para cicatrización ósea",
+        "bioestimulación ósea con láser infrarrojo",
+        "láser de bajo nivel en implantes dentales",
+        "fotoestimulación ósea 830 nm"
+      ],
+      "synonyms_en": [
+        "LLLT for bone regeneration",
+        "low level laser therapy bone healing",
+        "photobiomodulation bone repair",
+        "830 nm diode laser osseointegration",
+        "PBM dental implant healing",
+        "low-level laser bone defect"
+      ],
+      "purpose": "Acelerar la regeneración ósea en etapas tempranas de cicatrización post-cirugía y mejorar la calidad de la osteointegración de implantes dentales mediante irradiación con láser de diodo 830 nm de baja intensidad.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo infrarrojo 830 nm (modo continuo, baja potencia)",
+          "representative_models": [
+            "Laserbeam (Rio de Janeiro, Brazil)"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "830 nm",
+          "potencia": "40 mW",
+          "frecuencia": "No especificado (modo continuo)",
+          "modo_de_pulso": "Continuo (CW)",
+          "fibra_punta": "Punta de contacto, spot ~1 mm de diámetro",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Transcutáneo (defecto óseo en rata) / Contacto directo (implante en perro)",
+          "tiempo_ciclos": "3 sesiones/semana; dosis 4.8 J/cm² por sesión (1.2 J/cm² por punto en estudio de implantes); hasta 12 sesiones (28 días) o 3 sesiones (7 días) según protocolo"
+        }
+      ],
+      "critical_notes": [
+        "El efecto biomodulador fue estadísticamente significativo solo en etapas tempranas (7 días), no a los 28 días; el beneficio parece concentrarse en la fase inicial de la cicatrización ósea.",
+        "La irradiación transcutánea fue utilizada en el modelo de defecto femoral en ratas; el modo contacto fue utilizado en el modelo de implante en perros — la técnica debe adaptarse a la profundidad del tejido diana.",
+        "El efecto de LLLT parece requerir algún nivel de deficiencia tisular; se reporta ineficacia en tejidos normales.",
+        "Dosis por sesión recomendada en el rango 1–5 J/cm²; no exceder 20 J/cm² por sesión según los autores.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico.",
+        "Estudio animal (rata y perro); la extrapolación directa a humanos requiere cautela y validación clínica adicional."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Iniciar la irradiación 48 horas después de la cirugía ósea o colocación del implante.",
+        "Posicionar la pieza de mano perpendicularmente sobre la zona de interés (transcutáneo para defectos superficiales; contacto directo para sitios de implante).",
+        "Aplicar el láser de diodo 830 nm, 40 mW en modo continuo, con una fluencia de 4.8 J/cm² por sesión (1.2 J/cm² por punto cuando se aplica en múltiples puntos).",
+        "Repetir la irradiación tres veces por semana.",
+        "Continuar el protocolo según el objetivo clínico: mínimo 3 sesiones (7 días) para efecto en etapa temprana; hasta 12 sesiones (28 días) para seguimiento extendido."
+      ],
+      "indications": [
+        "Defectos óseos quirúrgicos que requieren aceleración de la regeneración en etapas tempranas.",
+        "Post-colocación de implantes dentales para mejorar la calidad de la osteointegración.",
+        "Fracturas óseas tratadas con placas y tornillos de inmovilización.",
+        "Alvéolos post-extracción con cicatrización comprometida."
+      ],
+      "contraindications": [
+        "Tejidos óseos normales sin deficiencia tisular (el efecto biomodulador parece requerir algún nivel de daño o deficiencia).",
+        "Neoplasias malignas en la zona de irradiación.",
+        "Aplicación directa sobre ojos sin protección adecuada."
+      ],
+      "postop_care": [
+        "Mantener el protocolo de irradiación tres veces por semana durante el período de cicatrización activa.",
+        "Monitorear la evolución clínica e imagenológica de la regeneración ósea.",
+        "No exceder 20 J/cm² de dosis acumulada por sesión."
+      ],
+      "evidence_level": "Bajo — estudios en modelos animales (rata y perro) con grupos pequeños; sin RCT en humanos. Resultados estadísticamente significativos solo en etapa temprana (7 días) en el modelo de rata.",
+      "keywords_es": [
+        "LLLT regeneración ósea",
+        "fotobiomodulación hueso",
+        "láser diodo 830 nm",
+        "osteointegración implantes láser",
+        "cicatrización ósea láser",
+        "bioestimulación ósea",
+        "terapia láser baja intensidad",
+        "PBM implantes dentales",
+        "defecto óseo láser",
+        "osteoblastos láser",
+        "reparación ósea temprana",
+        "láser infrarrojo hueso",
+        "morfometría ósea láser",
+        "neovascularización ósea láser",
+        "LLLT odontología"
+      ],
+      "keywords_en": [
+        "LLLT bone regeneration",
+        "photobiomodulation bone",
+        "830 nm diode laser",
+        "osseointegration laser",
+        "bone healing laser",
+        "low level laser therapy bone",
+        "PBM dental implants",
+        "bone defect laser",
+        "osteoblast laser stimulation",
+        "early bone repair laser",
+        "infrared laser bone",
+        "bone morphometry laser",
+        "neovascularization bone laser",
+        "LLLT dentistry",
+        "bone biomodulation"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
