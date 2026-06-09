@@ -1,0 +1,409 @@
+{
+  "article_refs": [
+    "pdf_local::oa_103389_fmicb201200120__b3ffd9c7::b3c12a"
+  ],
+  "uuid": "c2ccb8",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "low",
+  "key_points": [
+    "Photodynamic therapy (PDT) requires three components: photosensitizer (PS), visible light, and oxygen; individually harmless but combined they produce reactive oxygen species (ROS) that kill fungal cells.",
+    "PDT has been investigated as an alternative antifungal platform, particularly relevant for immunocompromised patients where conventional antifungals have limited efficacy or resistance.",
+    "Phenothiazinium salts (methylene blue, toluidine blue) are the most studied PS for antifungal PDI; lipophilic structures with lower cationic charge appear more effective against fungal cells than highly cationic structures.",
+    "PDI is equipotent against both antifungal-resistant and susceptible Candida strains, suggesting it can overcome azole and echinocandin resistance.",
+    "ABC transporters (CDR1/CDR2) but not MFS transporters affect methylene blue-mediated PDI in C. albicans; verapamil (ABC inhibitor) potentiates MB-PDI.",
+    "Fungal biofilms are more resistant to PDT than planktonic cells, but PDT can still reduce viable counts; persister cells may partially explain residual survival.",
+    "Clinical applications include oral candidiasis, cutaneous fungal infections, onychomycosis, chromoblastomycosis, and Malassezia folliculitis; no RCTs found in evidence-based review up to 2010.",
+    "Antifungal PDT requires higher PS concentrations (≥1 μM) compared to antibacterial PDT; this is a key translational challenge.",
+    "Nanoparticle delivery systems (liposomes, micelles) can enhance PS delivery and PDI efficacy.",
+    "PDT is proposed as ideal for localized infections and may be prophylactic against systemic spread or used in combination with antifungal drugs."
+  ],
+  "outcomes": [
+    {
+      "measured": "Mycological cure rate for tinea cruris with PDT",
+      "result": "8/10 (80%) patients achieved mycological cure after 1-3 treatments",
+      "statistical_significance": null,
+      "clinical_significance": "Promising but no RCTs; evidence-based review found only 7 reports covering 63 patients"
+    },
+    {
+      "measured": "Mycological cure rate for tinea pedis with PDT",
+      "result": "6/10 (60%) patients achieved mycological cure",
+      "statistical_significance": null,
+      "clinical_significance": "Modest efficacy; only 3/10 had persistent healing at 8-week follow-up"
+    },
+    {
+      "measured": "Onychomycosis cure with PDT",
+      "result": "11/30 (36.6%) patients cured at 18 months",
+      "statistical_significance": null,
+      "clinical_significance": "Limited long-term efficacy; additional controlled trials needed"
+    },
+    {
+      "measured": "MAL-PDT for Malassezia folliculitis (6 patients)",
+      "result": "4/6 patients showed obvious improvement, 1 slight improvement, 1 no improvement after 3 sessions",
+      "statistical_significance": null,
+      "clinical_significance": "Potential alternative for patients intolerant to oral antifungals"
+    },
+    {
+      "measured": "MB-PDT in vivo for oral candidiasis (murine model)",
+      "result": "500 mg/ml MB + red light totally inactivated C. albicans in oral cavity and prevented resistance emergence",
+      "statistical_significance": null,
+      "clinical_significance": "In vivo proof-of-concept; not yet validated in human RCTs"
+    },
+    {
+      "measured": "Resistance development after 20 consecutive PDT treatments (RLP068/Cl)",
+      "result": "No resistant mutants developed in C. albicans, S. aureus, or P. aeruginosa after 20 daily APDT passages",
+      "statistical_significance": null,
+      "clinical_significance": "Supports low resistance development potential of PDT compared to conventional antimicrobials"
+    }
+  ],
+  "notes": "This is a comprehensive narrative review covering antifungal PDT mechanisms, photosensitizer classes, resistance, biofilm eradication, and clinical applications. The paper does not report original clinical trial data but synthesizes existing literature. Dental applications mentioned include oral candidiasis, periodontal/endodontic PDT, and denture stomatitis. No specific laser parameters for clinical dental protocols are provided; light sources mentioned include LEDs (455 nm, 630 nm), diode lasers (630 nm, 660 nm, 685 nm), and non-coherent red light.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Fungal infections (Candida spp., Cryptococcus, dermatophytes, Aspergillus, Fusarium, Malassezia)",
+    "sample_type": "Narrative review — in vitro, animal models, and limited clinical case series"
+  },
+  "superiority_claim": "The authors state: 'In vitro PDI studies showed that (NMB) was superior to TBO and MB' for cutaneous C. albicans infections in a mouse model (Dai et al., 2011a). Also: 'TMP-1363 displayed a more effective microbial killing than MB due to differences in cellular uptake and/or intracellular localization.'",
+  "conflicts_of_interest": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+  "funding_source_text": "George P. Tegos is supported by the NIH (grant 5U54MH084690-02). Research conducted in the Hamblin Laboratory was supported by NIH (RO1 AI050875 to MRH) and US Air Force MFEL Program (FA9550-04-1-0079). Research conducted in the Mylonakis Laboratory was supported by NIH (RO1 AI050875 to Eleftherios Mylonakis). Tianhong Dai was partially supported by a Bullock-Wellman Fellowship Award and an Airlift Research Foundation Extremity Trauma Research Grant (grant 109421). Research conducted by Tyler G. St. Denis is supported by the Columbia University I. I. Rabi Fellows Program.",
+  "source_citation": "Dai, T., Fuchs, B. B., Coleman, J. J., Prates, R. A., Astrakas, C., St. Denis, T. G., Ribeiro, M. S., Mylonakis, E., Hamblin, M. R., & Tegos, G. P. (2012). Concepts and principles of photodynamic therapy as an alternative antifungal discovery platform. Frontiers in Microbiology, 3, 120. https://doi.org/10.3389/fmicb.2012.00120",
+  "contraindications": [
+    "PDT efficacy is reduced in early stationary phase yeast forms of C. albicans and C. glabrata",
+    "IL-1 beta and TNF-alpha can potently and functionally inactivate antimicrobial PDT treatment",
+    "Biofilm forms of Candida are more resistant to PDT than planktonic counterparts",
+    "Gasiform ozone combined with MB-PDI was unable to reduce viable counts in multispecies mature oral biofilm"
+  ],
+  "adverse_events": [
+    "No specific adverse events reported in this review; PDT is described as using individually non-toxic components"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 630,
+      "fluence_j_cm2": 45.0,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 660,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 685,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    },
+    {
+      "wavelength_nm": 455,
+      "fluence_j_cm2": null,
+      "power_w": null,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": null,
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": null,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": 3,
+    "session_interval_days": 14,
+    "application_time_sec": null,
+    "application_technique": "point",
+    "anatomical_points": [
+      "oral mucosa",
+      "tongue dorsum",
+      "skin lesions",
+      "nail",
+      "periodontal pocket",
+      "endodontic canal"
+    ]
+  },
+  "clinical_indication": "Antifungal photodynamic inactivation for Candida spp., dermatophytes, Cryptococcus, Aspergillus, and other fungal pathogens; dental applications include oral candidiasis, denture stomatitis, periodontitis, endodontic disinfection",
+  "target_tissue": "fungal cells (Candida albicans, C. glabrata, C. neoformans, Trichophyton rubrum, Aspergillus spp.), oral mucosa, skin, nail, periodontal tissue",
+  "brand_model_mentioned": [
+    "Photogem",
+    "Photofrin",
+    "InGaAlP laser (660 nm)",
+    "LED (455 nm, 630 nm)"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "methylene blue",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Most studied PS for antifungal PDI in dental context (oral candidiasis, denture stomatitis, endodontics); ABC transporter efflux in C. albicans reduces efficacy; verapamil co-administration potentiates MB-PDI",
+      "photosensitivity": true,
+      "laser_implication": "Activated by red light ~630-660 nm; ABC pump inhibitors (verapamil) can enhance photodynamic killing of C. albicans"
+    },
+    {
+      "name": "toluidine blue O",
+      "drug_class": "Phenothiazinium photosensitizer",
+      "interaction_type": "caution",
+      "dental_relevance": "Used in dental PDT for periodontal and endodontic applications; mucoadhesive patch delivery system investigated for oral fungal infections",
+      "photosensitivity": true,
+      "laser_implication": "Activated by red light; effective against Candida and dermatophytes"
+    },
+    {
+      "name": "5-aminolevulinic acid",
+      "drug_class": "Endogenous photosensitizer precursor (porphyrin pathway)",
+      "interaction_type": "caution",
+      "dental_relevance": "Used for onychomycosis PDT; enters microbial heme biosynthetic pathway producing protoporphyrin IX as PS",
+      "photosensitivity": true,
+      "laser_implication": "Activated by red light ~630 nm; used with bioadhesive patch delivery for nail PDT"
+    },
+    {
+      "name": "methyl 5-aminolevulinic acid",
+      "drug_class": "Endogenous photosensitizer precursor (porphyrin pathway)",
+      "interaction_type": "caution",
+      "dental_relevance": "Used for Malassezia folliculitis PDT; applied as cream under occlusive dressing for 3h before illumination",
+      "photosensitivity": true,
+      "laser_implication": "Activated by non-coherent red LED light at 630 nm, 37 J/cm2"
+    },
+    {
+      "name": "verteporfin",
+      "drug_class": "Porphyrin photosensitizer (benzoporphyrin derivative)",
+      "interaction_type": "caution",
+      "dental_relevance": "Used in ophthalmological PDT for CNV associated with fungal endophthalmitis; combined with systemic prednisone and fluconazole",
+      "photosensitivity": true,
+      "laser_implication": "Standard PDT photosensitizer activated by 689 nm laser"
+    },
+    {
+      "name": "fluconazole",
+      "drug_class": "Azole antifungal",
+      "interaction_type": "monitor",
+      "dental_relevance": "Resistance to fluconazole is common in Candida spp.; PDT is equipotent against fluconazole-resistant and susceptible strains, making it a useful adjunct or alternative",
+      "photosensitivity": false,
+      "laser_implication": "No direct laser implication; PDT can overcome fluconazole resistance"
+    },
+    {
+      "name": "verapamil",
+      "drug_class": "Calcium channel blocker / ABC transporter inhibitor",
+      "interaction_type": "caution",
+      "dental_relevance": "Pre-exposure to verapamil potentiates MB-mediated PDI of C. albicans by blocking CDR1/CDR2 ABC efflux pumps; potential adjunct to antifungal PDT",
+      "photosensitivity": false,
+      "laser_implication": "Enhances photodynamic killing when combined with MB-PDT for C. albicans infections"
+    },
+    {
+      "name": "caspofungin",
+      "drug_class": "Echinocandin antifungal",
+      "interaction_type": "monitor",
+      "dental_relevance": "Combination with PDT (PEI-ce6 PS) enhanced killing of C. neoformans by weakening cell wall and allowing greater PS penetration",
+      "photosensitivity": false,
+      "laser_implication": "Cell wall weakening by caspofungin may enhance PS uptake and PDT efficacy"
+    },
+    {
+      "name": "miconazole",
+      "drug_class": "Azole antifungal (imidazole)",
+      "interaction_type": "caution",
+      "dental_relevance": "Miconazole stimulates ROS production in C. albicans and enhances killing when combined with PDT (TMP-1363 and MB); induces prolonged fungistasis in PDT survivors",
+      "photosensitivity": false,
+      "laser_implication": "Combination with PDT may be multi-factorial; potentiates antifungal PDI efficacy"
+    },
+    {
+      "name": "amphotericin B",
+      "drug_class": "Polyene antifungal",
+      "interaction_type": "monitor",
+      "dental_relevance": "Persister cell hypothesis proven for C. albicans biofilms using amphotericin B; PDT may target persister cells that survive conventional antifungal treatment",
+      "photosensitivity": false,
+      "laser_implication": "No direct laser implication; PDT may complement amphotericin B against biofilm persisters"
+    }
+  ],
+  "photosensitivity_flag": true,
+  "perioperative_consideration": "Multiple photosensitizing agents (methylene blue, toluidine blue, ALA, MAL, verteporfin) are used as photosensitizers in antifungal PDT. Patients receiving systemic photosensitizers (e.g., verteporfin, ALA/MAL) should avoid bright light exposure after administration. Verapamil co-administration can potentiate MB-PDT efficacy against C. albicans by blocking ABC efflux pumps. Antifungal drugs (miconazole, caspofungin) may synergize with PDT. No specific perioperative drug suspension protocols are described in this review.",
+  "confidence": "high",
+  "uncertainties": [
+    "Specific laser/light parameters (power, fluence, spot size, pulse duration) are not consistently reported for most clinical applications described; only selected studies provide fluence values (e.g., 45-135 J/cm2 for Photofrin at 630 nm, 37 J/cm2 for MAL-PDT at 630 nm, 90 J/cm2 green light for TMP-1363)",
+    "The review covers both laser and LED light sources without always distinguishing between them; wavelengths mentioned (455, 630, 660, 685 nm) are from cited studies, not from a single standardized protocol",
+    "No RCTs were found in the evidence-based review of PDT for superficial mycoses up to March 2010; all clinical evidence is from case series or open trials",
+    "The paper is a narrative review and does not provide original clinical trial data; all outcomes are from cited studies with variable methodology",
+    "Dental-specific protocols for antifungal PDT (e.g., for oral candidiasis, denture stomatitis, endodontic disinfection) are mentioned but not detailed with standardized parameters"
+  ],
+  "bibliographic_metadata": {
+    "title": "Concepts and principles of photodynamic therapy as an alternative antifungal discovery platform",
+    "authors": [
+      "Tianhong Dai",
+      "Beth B. Fuchs",
+      "Jeffrey J. Coleman",
+      "Renato A. Prates",
+      "Christos Astrakas",
+      "Tyler G. St. Denis",
+      "Martha S. Ribeiro",
+      "Eleftherios Mylonakis",
+      "Michael R. Hamblin",
+      "George P. Tegos"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2012.00120"
+  },
+  "protocols": [
+    {
+      "name": "Terapia Fotodinámica Antifúngica (aPDT) — Principios y Aplicaciones Clínicas",
+      "synonyms_es": [
+        "fotoinactivación antimicrobiana antifúngica",
+        "terapia fotodinámica antimicrobiana antifúngica",
+        "APDI antifúngica",
+        "PDT antifúngica",
+        "inactivación fotodinámica de hongos",
+        "terapia fotodinámica para candidiasis",
+        "PDT para dermatofitos",
+        "fotosensibilización antimicrobiana antifúngica"
+      ],
+      "synonyms_en": [
+        "antifungal photodynamic inactivation",
+        "antimicrobial photodynamic therapy antifungal",
+        "APDI antifungal",
+        "antifungal PDT",
+        "photodynamic inactivation of fungi",
+        "PDT for candidiasis",
+        "PDT for dermatophytes",
+        "antimicrobial photosensitization antifungal"
+      ],
+      "purpose": "Inactivar células fúngicas (Candida spp., dermatofitos, Cryptococcus, Aspergillus) mediante la combinación de un fotosensibilizador, luz visible de longitud de onda apropiada y oxígeno, generando especies reactivas de oxígeno (ROS) que dañan múltiples componentes celulares fúngicos. Aplicable en infecciones localizadas orales, cutáneas, ungueales y periodontales/endodónticas.",
+      "parameters_table": [
+        {
+          "equipment_class": "Fuente de luz para fotosensibilizador (LED o láser, 455–690 nm según PS)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "455 nm / 630 nm / 660 nm / 685 nm (según fotosensibilizador)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "Variable según protocolo clínico (ej. 37 J/cm2 para MAL-PDT; 45–135 J/cm2 para Photofrin; 90 J/cm2 para TMP-1363)"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No existen parámetros clínicos estandarizados para aPDT antifúngica dental. Basado en: Dai et al. (2012) Frontiers in Microbiology.",
+        "La aPDT antifúngica requiere concentraciones de PS más altas (≥1 μM) que la aPDT antibacteriana; esto es un desafío traslacional importante.",
+        "Los fotosensibilizadores fenotiazínicos (azul de metileno, azul de toluidina) son los más estudiados en contexto dental; estructuras más lipofílicas con menor carga catiónica son más efectivas contra células fúngicas.",
+        "Los biofilms de Candida son más resistentes a PDT que las formas planctónicas; las células persistentes pueden sobrevivir al tratamiento.",
+        "La PDT es equipotente contra cepas resistentes y sensibles a azoles, lo que la hace útil en infecciones por Candida resistente a fluconazol.",
+        "Los transportadores ABC (CDR1/CDR2) de C. albicans pueden efluir el azul de metileno; el verapamilo (inhibidor de ABC) potencia la PDI con MB.",
+        "No se encontraron ensayos clínicos aleatorizados (RCTs) en la revisión de evidencia hasta 2010; toda la evidencia clínica proviene de series de casos o ensayos abiertos.",
+        "El documento presenta esta técnica favorablemente; existen alternativas farmacológicas convencionales (azoles, equinocandinas, polienos) con mecanismos de acción diferentes que pueden ser apropiadas según el caso clínico y el perfil de resistencia."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Seleccionar el fotosensibilizador apropiado según el patógeno fúngico y la localización de la infección (ej. azul de metileno para candidiasis oral, ALA/MAL para onicomicosis, TBO para aplicaciones periodontales/endodónticas).",
+        "Aplicar el fotosensibilizador tópicamente sobre la zona infectada en la concentración indicada (ej. 500 mg/ml MB para candidiasis oral; MAL en crema bajo apósito oclusivo 3h para foliculitis por Malassezia).",
+        "Permitir el tiempo de incubación necesario para la captación del PS por las células fúngicas (variable según PS y tejido).",
+        "Iluminar la zona con la fuente de luz de longitud de onda apropiada para el espectro de absorción del PS (ej. LED 630 nm para MB/MAL; LED 455 nm para curcumina; láser 660 nm para MB en biofilm).",
+        "Aplicar la dosis de fluencia indicada según el protocolo (ej. 37 J/cm2 para MAL-PDT en foliculitis; 45–135 J/cm2 para Photofrin en candidiasis).",
+        "Repetir las sesiones según la respuesta clínica (ej. 3 sesiones a intervalos de 2 semanas para MAL-PDT en foliculitis por Malassezia).",
+        "Evaluar la respuesta micológica y clínica tras el tratamiento; considerar terapia combinada con antifúngicos convencionales en casos refractarios."
+      ],
+      "indications": [
+        "Candidiasis oral (incluyendo candidiasis resistente a azoles)",
+        "Estomatitis por dentadura (candidosis atrófica crónica)",
+        "Onicomicosis (tinea unguium) por Trichophyton rubrum y mohos no dermatofitos",
+        "Tiña del pie (tinea pedis) y tiña inguinal (tinea cruris)",
+        "Foliculitis por Malassezia recalcitrante (alternativa a antifúngicos orales)",
+        "Cromoblastomicosis",
+        "Desinfección endodóntica (biofilm de Candida intracanal)",
+        "Periodontitis asociada a Candida",
+        "Infecciones fúngicas cutáneas superficiales en pacientes inmunocomprometidos",
+        "Infecciones por Candida en biofilm (catéteres, prótesis) — uso experimental"
+      ],
+      "contraindications": [
+        "Infecciones fúngicas sistémicas/invasivas (PDT solo es efectiva para infecciones localizadas accesibles a la luz)",
+        "Alergia conocida al fotosensibilizador utilizado",
+        "Zonas no accesibles a la aplicación de luz (infecciones profundas, sistémicas)",
+        "Pacientes con porfiria (contraindicación relativa para PS porfirínicos)",
+        "Biofilms maduros multiespecie con alta resistencia (eficacia reducida; puede requerir combinación con otros agentes)"
+      ],
+      "postop_care": [
+        "Evitar exposición a luz brillante en la zona tratada inmediatamente después de la aplicación del PS (especialmente con PS sistémicos como verteporfina o ALA/MAL).",
+        "Monitorizar la respuesta micológica y clínica a las 4–8 semanas post-tratamiento.",
+        "Considerar sesiones adicionales en caso de respuesta parcial (la mayoría de protocolos describen 1–4 sesiones).",
+        "En candidiasis oral, mantener higiene oral adecuada y tratar factores predisponentes (prótesis mal ajustadas, xerostomía, inmunosupresión).",
+        "Informar al paciente sobre la posibilidad de recurrencia, especialmente en onicomicosis y candidiasis en pacientes inmunocomprometidos."
+      ],
+      "evidence_level": "Bajo — revisión narrativa sin RCTs; evidencia clínica limitada a series de casos y ensayos abiertos (máx. 63 pacientes en revisión sistemática hasta 2010). No hay protocolos clínicos estandarizados.",
+      "keywords_es": [
+        "terapia fotodinámica antifúngica",
+        "fotoinactivación antimicrobiana",
+        "azul de metileno PDT",
+        "candidiasis oral PDT",
+        "onicomicosis PDT",
+        "fotosensibilizador antifúngico",
+        "especies reactivas de oxígeno",
+        "Candida albicans fotoinactivación",
+        "dermatofitos PDT",
+        "biofilm Candida PDT",
+        "azul de toluidina antifúngico",
+        "ALA onicomicosis",
+        "MAL foliculitis Malassezia",
+        "resistencia azoles PDT",
+        "PDT endodoncia",
+        "PDT periodoncia",
+        "estomatitis dentadura PDT",
+        "curcumina antifúngica",
+        "fotobiomodulación antifúngica",
+        "APDI antifúngica"
+      ],
+      "keywords_en": [
+        "antifungal photodynamic therapy",
+        "antimicrobial photodynamic inactivation",
+        "methylene blue PDT",
+        "oral candidiasis PDT",
+        "onychomycosis PDT",
+        "antifungal photosensitizer",
+        "reactive oxygen species",
+        "Candida albicans photoinactivation",
+        "dermatophyte PDT",
+        "Candida biofilm PDT",
+        "toluidine blue antifungal",
+        "ALA onychomycosis",
+        "MAL Malassezia folliculitis",
+        "azole resistance PDT",
+        "endodontic PDT",
+        "periodontal PDT",
+        "denture stomatitis PDT",
+        "curcumin antifungal",
+        "photobiomodulation antifungal",
+        "APDI antifungal",
+        "photodynamic inactivation fungi",
+        "PDT Cryptococcus",
+        "PDT Aspergillus"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
