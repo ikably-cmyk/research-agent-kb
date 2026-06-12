@@ -1,0 +1,340 @@
+{
+  "article_refs": [
+    "pdf_local::oa_104103_ejdejd_56_18__8e38cdb2::f28f73"
+  ],
+  "uuid": "be48ae",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "narrative_review",
+  "evidence_level": "expert_opinion",
+  "key_points": [
+    "NaOCl (0.5%–5.25%) is the most widely used endodontic irrigant; it dissolves organic tissue and has antimicrobial activity but cannot remove the smear layer or inorganic components.",
+    "EDTA (17%, pH 7) removes the smear layer but has no antibacterial properties; combined use with NaOCl reduces available chlorine and may cause dentinal erosion.",
+    "Citric acid at 10% and 1% is more effective as a decalcifying agent than 17% EDTA.",
+    "Chlorhexidine digluconate 2% has antibacterial activity but cannot dissolve necrotic tissue and is not a substitute for NaOCl.",
+    "Newer irrigants (Tetraclean, BioPure MTAD, QMix) combine chelating, antibacterial, and surfactant properties with efficacy on both organic and inorganic residues.",
+    "Laser-activated irrigation (LAI) using Er:YAG and diode lasers generates microcavitation and photoacoustic waves, increasing reaction rate, shear stress, and irrigant temperature.",
+    "PIPS™ (photon-induced photoacoustic streaming) uses Er:YAG laser at subablative power in pulsed mode to create photoacoustic waves for smear layer removal.",
+    "Both LAI and PIPS™ increase reaction rate and shear stress and reduce vapor lock effect, but carry an increased risk of apical extrusion of irrigant.",
+    "Passive ultrasonic irrigation (PUI) at 25–30 kHz increases shear stress and reaction rate with minimal risk of apical extrusion from 2 mm apex.",
+    "The EndoVac negative-pressure system reduces apical extrusion risk while improving shear stress and eliminating vapor lock; requires canal taper ≥4% and apical diameter ≥0.35 mm.",
+    "Heating NaOCl to 50°C–60°C increases its reaction rate and antibacterial efficacy without affecting canal anatomy.",
+    "NaOCl apical extrusion is a serious complication presenting with acute pain, swelling, bruising, and potential secondary infection; management includes saline irrigation, analgesics, cold/warm compresses, and possibly steroids and antibiotics."
+  ],
+  "outcomes": [
+    {
+      "measured": "Reaction rate of irrigant activation methods",
+      "result": "Heating, PUI, UNI, LAI, and PIPS all increase reaction rate; mechanical activation, sonic, and EndoVac do not",
+      "statistical_significance": null,
+      "clinical_significance": "Increased reaction rate improves antimicrobial efficacy and organic tissue dissolution"
+    },
+    {
+      "measured": "Shear stress on canal walls",
+      "result": "All activation methods except heating increase shear stress",
+      "statistical_significance": null,
+      "clinical_significance": "Higher shear stress improves smear layer removal"
+    },
+    {
+      "measured": "Vapor lock effect",
+      "result": "Mechanical activation, ultrasonic (PUI/UNI), sonic, LAI, PIPS, and EndoVac all reduce vapor lock; heating does not",
+      "statistical_significance": null,
+      "clinical_significance": "Vapor lock reduction allows irrigant to reach apical third"
+    },
+    {
+      "measured": "Apical extrusion risk",
+      "result": "UNI, LAI, and PIPS increase apical extrusion risk; EndoVac reduces it; PUI and sonic do not influence from 2 mm apex",
+      "statistical_significance": null,
+      "clinical_significance": "Apical extrusion of NaOCl can cause severe periapical tissue damage"
+    }
+  ],
+  "notes": "This narrative review compares multiple endodontic irrigation methods including chemical irrigants and activation techniques. Laser-related content covers LAI (Er:YAG and diode) and PIPS™ (Er:YAG subablative pulsed mode) without reporting specific laser parameters. The review does not provide numerical laser parameters (wavelength, power, pulse duration, frequency) for LAI or PIPS.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Root canal treatment / endodontic irrigation",
+    "sample_type": "Narrative review of published literature (in vitro, clinical trials, reviews)"
+  },
+  "superiority_claim": "El autor afirma: 'Photoactivation techniques with cavitation lead to better results than ultrasonic methods, if used for the same amount of time, with greater removal of debris, a longer lasting and increased reaction rate, and an increased irrigant temperature.'",
+  "conflicts_of_interest": "There are no conflicts of interest.",
+  "funding_source_text": "Nil.",
+  "source_citation": "Dioguardi, M., Di Gioia, G., Illuzzi, G., Laneve, E., Cocco, A., & Troiano, G. (2018). Endodontic irrigants: Different methods to improve efficacy and related problems. European Journal of Dentistry, 12(3), 459–466. https://doi.org/10.4103/ejd.ejd_56_18",
+  "contraindications": [
+    "NaOCl irrigation with excessive pressure in teeth with wide apical foramina or destroyed apical constriction (risk of periapical extrusion)",
+    "Combined use of EDTA and NaOCl simultaneously (reduces available chlorine; NaOCl after smear layer removal causes dentinal erosion)",
+    "EndoVac system requires minimum canal taper of 4% and apical foramen diameter ≥0.35 mm; not applicable to narrower canals"
+  ],
+  "adverse_events": [
+    "NaOCl apical extrusion: acute pain, swelling, redness, bruising, progressive infraorbital or perioral swelling, profuse intraoral hemorrhage, facial nerve numbness/weakness, secondary infection, sinusitis, cellulitis",
+    "Accidental NaOCl injection into maxillary sinus",
+    "Accidental NaOCl injection into oral mucosa",
+    "Increased risk of apical extrusion with UNI, LAI, and PIPS techniques"
+  ],
+  "laser_parameters": [],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": null,
+    "application_technique": null,
+    "anatomical_points": [
+      "root canal system",
+      "apical third",
+      "pulp chamber"
+    ]
+  },
+  "clinical_indication": "Root canal disinfection and smear layer removal during endodontic treatment",
+  "target_tissue": "dentin, pulp, root canal walls",
+  "brand_model_mentioned": [
+    "EndoVac",
+    "Tetraclean",
+    "BioPure MTAD",
+    "QMix"
+  ],
+  "drugs_mentioned": [
+    {
+      "name": "sodium hypochlorite",
+      "drug_class": "Oxidizing antimicrobial irrigant",
+      "interaction_type": "caution",
+      "dental_relevance": "Most widely used endodontic irrigant (0.5%–5.25%); dissolves organic tissue; toxic to periapical tissues if extruded; interacts with EDTA reducing available chlorine",
+      "photosensitivity": false,
+      "laser_implication": "Used as irrigant activated by LAI (Er:YAG/diode) and PIPS™; laser activation increases its reaction rate and temperature"
+    },
+    {
+      "name": "ethylenediaminetetraacetic acid",
+      "drug_class": "Chelating agent",
+      "interaction_type": "caution",
+      "dental_relevance": "Removes smear layer (inorganic component); no antibacterial activity; combined use with NaOCl reduces chlorine availability and may cause dentinal erosion",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "chlorhexidine digluconate",
+      "drug_class": "Bisbiguanide antimicrobial",
+      "interaction_type": "caution",
+      "dental_relevance": "Used at 2% as endodontic irrigant; antibacterial but cannot dissolve necrotic tissue; not a substitute for NaOCl; efficacy reduced by organic debris",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "citric acid",
+      "drug_class": "Chelating/decalcifying agent",
+      "interaction_type": "monitor",
+      "dental_relevance": "At 10% and 1% more effective as decalcifying agent than 17% EDTA; causes slight tubule enlargement; has some antibacterial activity",
+      "photosensitivity": false,
+      "laser_implication": null
+    },
+    {
+      "name": "doxycycline hyclate",
+      "drug_class": "Tetracycline antibiotic",
+      "interaction_type": "monitor",
+      "dental_relevance": "Component of Tetraclean and BioPure MTAD; used for smear layer removal and root canal disinfection",
+      "photosensitivity": true,
+      "laser_implication": "Tetracyclines are photosensitizing agents; caution with laser/light activation in canals containing doxycycline-based irrigants"
+    }
+  ],
+  "photosensitivity_flag": false,
+  "perioperative_consideration": "NaOCl apical extrusion management: immediate saline irrigation, local/oral analgesics, cold packs for first 6h then warm compresses, steroids to minimize edema, antibiotics only if clinical evidence of wound infection or necrosis expected.",
+  "confidence": "high",
+  "uncertainties": [
+    "No specific laser parameters (wavelength, power, pulse duration, frequency, fiber type) are reported for LAI or PIPS in this narrative review; protocols are described conceptually only.",
+    "The review states LAI uses 'Er:YAG and diode lasers' without specifying which diode wavelength or whether the diode is used for photoacoustic activation or photothermal activation.",
+    "PIPS is described as using 'Er:YAG laser with subassertive power in a pulsating mode' without numerical parameters.",
+    "No specific brand or model of laser equipment is mentioned for LAI or PIPS."
+  ],
+  "bibliographic_metadata": {
+    "title": "Endodontic irrigants: Different methods to improve efficacy and related problems",
+    "authors": [
+      "Mario Dioguardi",
+      "Giovanni Di Gioia",
+      "Gaetano Illuzzi",
+      "Enrica Laneve",
+      "Armando Cocco",
+      "Giuseppe Troiano"
+    ],
+    "year": 2018,
+    "journal": "European Journal of Dentistry",
+    "doi": "10.4103/ejd.ejd_56_18"
+  },
+  "protocols": [
+    {
+      "name": "Irrigación activada por láser (LAI) en endodoncia",
+      "synonyms_es": [
+        "activación láser de irrigante endodóntico",
+        "irrigación fotoactivada",
+        "LAI endodóntica",
+        "activación fotoacústica con láser Er:YAG",
+        "activación de hipoclorito con láser"
+      ],
+      "synonyms_en": [
+        "laser-activated irrigation",
+        "LAI endodontics",
+        "laser photoactivation of irrigant",
+        "Er:YAG laser irrigation activation",
+        "diode laser irrigant activation"
+      ],
+      "purpose": "Activar el irrigante endodóntico (NaOCl) mediante energía láser (Er:YAG o diodo) para generar microcavitación e implosión de burbujas, aumentando la tasa de reacción, el estrés de cizallamiento y la temperatura del irrigante para mejorar la desinfección y remoción del smear layer.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm o láser de diodo (810–980 nm)",
+          "representative_models": [
+            "Fotona LightWalker",
+            "Doctor Smile Wiser",
+            "Biolase Waterlase"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm (Er:YAG) o 810–980 nm (diodo)",
+          "potencia": "No especificado",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "No especificado",
+          "fibra_punta": "No especificado",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "No especificado",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No se reportan parámetros clínicos numéricos específicos en este artículo. Basado en: Dioguardi et al., 2018.",
+        "LAI aumenta la tasa de reacción, el estrés de cizallamiento y reduce el efecto vapor lock, pero conlleva mayor riesgo de extrusión apical del irrigante en comparación con PUI.",
+        "El documento presenta LAI favorablemente frente a métodos ultrasónicos; existen alternativas (PUI, sónico, EndoVac) con diferentes perfiles de riesgo-beneficio que pueden ser más apropiadas según el caso clínico.",
+        "El mecanismo de acción consiste en generación de microcavitación e implosión de burbujas de irrigante por absorción rápida de energía láser."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Desinfección del sistema de conductos radiculares durante tratamiento endodóntico",
+        "Remoción del smear layer en el tercio apical",
+        "Casos donde se requiere mayor tasa de reacción del irrigante"
+      ],
+      "contraindications": [
+        "Precaución en conductos con foramen apical amplio o constricción apical destruida (mayor riesgo de extrusión apical del irrigante)",
+        "No recomendado cuando se requiere evitar extrusión apical (considerar EndoVac en su lugar)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados ni RCTs propios. Basado en Dioguardi et al., 2018.",
+      "keywords_es": [
+        "LAI",
+        "irrigación activada por láser",
+        "endodoncia láser",
+        "Er:YAG endodoncia",
+        "activación de irrigante",
+        "hipoclorito sódico láser",
+        "microcavitación endodóntica",
+        "smear layer remoción",
+        "desinfección conducto radicular",
+        "fotoactivación endodóntica",
+        "láser diodo endodoncia",
+        "activación fotoacústica",
+        "irrigación endodóntica",
+        "NaOCl activado"
+      ],
+      "keywords_en": [
+        "LAI",
+        "laser-activated irrigation",
+        "endodontic laser",
+        "Er:YAG endodontics",
+        "irrigant activation",
+        "sodium hypochlorite laser",
+        "microcavitation endodontics",
+        "smear layer removal",
+        "root canal disinfection",
+        "photoactivation endodontics",
+        "diode laser endodontics",
+        "photoacoustic activation",
+        "endodontic irrigation",
+        "NaOCl activation"
+      ],
+      "is_virtual_protocol": true
+    },
+    {
+      "name": "PIPS™ — Activación fotoacústica intracanal con Er:YAG subablativo",
+      "synonyms_es": [
+        "streaming fotoinducido fotoacústico",
+        "activación fotoacústica desde cámara pulpar",
+        "PIPS endodóntico",
+        "irrigación fotoacústica Er:YAG",
+        "streaming fotoacústico endodóntico"
+      ],
+      "synonyms_en": [
+        "photon-induced photoacoustic streaming",
+        "PIPS endodontics",
+        "photoacoustic streaming Er:YAG",
+        "subablative Er:YAG photoacoustic irrigation",
+        "photoacoustic endodontic activation"
+      ],
+      "purpose": "Activar el irrigante endodóntico mediante pulsos subablativos de láser Er:YAG en modo pulsado para generar ondas fotoacústicas extremadamente efectivas que remueven el smear layer y desinfectan el sistema de conductos radiculares.",
+      "parameters_table": [
+        {
+          "equipment_class": "Cualquier Er:YAG 2940 nm con punta radial stripped y pulsos ≤50 μs (PIPS™/activación fotoacústica)",
+          "representative_models": [
+            "Fotona LightWalker AT",
+            "Doctor Smile Wiser"
+          ],
+          "equipo": null,
+          "longitud_de_onda": "2940 nm",
+          "potencia": "Subablativa (no especificado numéricamente)",
+          "frecuencia": "No especificado",
+          "modo_de_pulso": "Pulsado (duración no especificada numéricamente; subablativo)",
+          "fibra_punta": "No especificado (punta radial stripped para PIPS™)",
+          "agua_pct": "No especificado",
+          "aire_pct": "No especificado",
+          "distancia": "Cámara pulpar (según descripción conceptual)",
+          "tiempo_ciclos": "No especificado"
+        }
+      ],
+      "critical_notes": [
+        "⚠️ Este protocolo es de carácter teórico/revisión. No se reportan parámetros clínicos numéricos específicos en este artículo. Basado en: Dioguardi et al., 2018.",
+        "PIPS™ y SWEEPS™ son marcas registradas de Fotona. Otros fabricantes ofrecen técnicas fotoacústicas equivalentes con nomenclatura propia.",
+        "PIPS™ comparte con LAI el aumento de tasa de reacción y estrés de cizallamiento, pero también el mayor riesgo de extrusión apical del irrigante.",
+        "El documento presenta esta técnica favorablemente; existen alternativas (PUI, EndoVac) con menor riesgo de extrusión apical que pueden ser más apropiadas según el caso clínico."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [],
+      "indications": [
+        "Remoción del smear layer durante tratamiento endodóntico",
+        "Desinfección del sistema de conductos radiculares",
+        "Activación de irrigantes en zonas de difícil acceso (istmos, anastomosis)"
+      ],
+      "contraindications": [
+        "Precaución en conductos con foramen apical amplio o constricción apical destruida (mayor riesgo de extrusión apical del irrigante)",
+        "No recomendado cuando se requiere evitar extrusión apical (considerar EndoVac en su lugar)"
+      ],
+      "postop_care": [],
+      "evidence_level": "Bajo — revisión narrativa sin parámetros clínicos estandarizados ni RCTs propios. Basado en Dioguardi et al., 2018.",
+      "keywords_es": [
+        "PIPS",
+        "streaming fotoacústico",
+        "activación fotoacústica",
+        "endodoncia láser",
+        "Er:YAG endodoncia",
+        "Fotona LightWalker",
+        "irrigación fotoacústica",
+        "smear layer láser",
+        "desinfección conducto radicular",
+        "NaOCl fotoacústico",
+        "EDTA fotoacústico",
+        "ondas fotoacústicas endodoncia",
+        "irrigante activado láser",
+        "punta PIPS"
+      ],
+      "keywords_en": [
+        "PIPS",
+        "photoacoustic streaming",
+        "photoacoustic activation",
+        "laser endodontics",
+        "Er:YAG endodontics",
+        "Fotona LightWalker",
+        "photoacoustic irrigation",
+        "smear layer laser",
+        "root canal disinfection",
+        "NaOCl photoacoustic",
+        "EDTA photoacoustic",
+        "photoacoustic waves endodontics",
+        "laser-activated irrigant",
+        "PIPS tip"
+      ],
+      "is_virtual_protocol": true
+    }
+  ],
+  "source_type": "paper"
+}
