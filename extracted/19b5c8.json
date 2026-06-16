@@ -1,0 +1,254 @@
+{
+  "article_refs": [
+    "pdf_local::oa_101039_d0cs01051k__ae028e1a::a72764"
+  ],
+  "uuid": "19b5c8",
+  "target_apps": [
+    "laserrx"
+  ],
+  "study_type": "systematic_review",
+  "evidence_level": "moderate",
+  "key_points": [
+    "Revisión sistemática de 330 publicaciones (2000-2022) sobre terapia fotodinámica antimicrobiana (aPDT) usando azul de metileno como fotosensibilizador de referencia.",
+    "Las fuentes de luz más usadas fueron láseres (48.5%), LEDs (32%) y lámparas (13%); en los últimos años hay más reportes con LEDs que con láseres.",
+    "Para aPDT con azul de metileno se usa principalmente luz roja (~630-690 nm para láser, 560-780 nm para LED) porque coincide con el pico de absorción del MB y penetra más en tejido.",
+    "No se observó correlación clara entre irradiancia o exposición radiante alta y mayor reducción microbiana: bajas exposiciones radiantes pueden ser tan efectivas como altas.",
+    "Las longitudes de onda óptimas para PDT en piel están en 600-900 nm (ventana terapéutica); profundidad de penetración calculada: 1.5 mm a 600 nm, 2.0 mm a 700 nm, 2.3 mm a 800 nm, 2.5 mm a 900 nm.",
+    "Para aPDT con MB las bacterias representan 56% de los blancos estudiados, hongos 29%, virus 8%, parásitos 4.5%; S. aureus y C. albicans son los más estudiados.",
+    "Concentración modal de azul de metileno: 0.1 mM (~0.032 g/L); rango terapéutico clínico habitual 0.01-0.1 g/L.",
+    "Los autores proponen estandarización de reporte de parámetros ópticos (exposición radiante J/cm², irradiancia mW/cm², tiempo, espectro, área irradiada, distancia) y biológicos (carga inicial, concentración PS, solvente, preincubación, controles).",
+    "Se sugiere que futuros desarrollos con LEDs y OLEDs flexibles facilitarán adopción clínica de aPDT como alternativa a láseres caros y voluminosos."
+  ],
+  "outcomes": [
+    {
+      "measured": "Reducción logarítmica de carga microbiana en función de la fuente de luz",
+      "result": "Láseres, LEDs y lámparas logran reducciones comparables (hasta >6 log10); LEDs muestran mayor promedio de reducción en los datos agregados",
+      "statistical_significance": null,
+      "clinical_significance": "Un dentista no necesita láser de alta potencia para aPDT efectiva con azul de metileno: LEDs de bajo costo son una alternativa válida."
+    },
+    {
+      "measured": "Exposición radiante modal por tipo de fuente",
+      "result": "Láser: 30 J/cm²; LED: 10 J/cm²; lámpara: 200 J/cm²",
+      "statistical_significance": null,
+      "clinical_significance": "Los LEDs requieren menor exposición radiante reportada para resultados clínicos comparables."
+    },
+    {
+      "measured": "Irradiancia modal por tipo de fuente",
+      "result": "Láser y LED: 100 mW/cm²; lámpara: 40 mW/cm²",
+      "statistical_significance": null,
+      "clinical_significance": "Irradiancias superiores a 60 mW/cm² no aumentan adicionalmente el efecto bactericida en la mayoría de estudios."
+    }
+  ],
+  "notes": "Revisión sistemática centrada en azul de metileno como PS modelo. No cubre otros fotosensibilizadores. La aplicación clínica más relevante en odontología es endodoncia, periodoncia y desinfección de cavidades con caries profunda mediante aPDT con MB.",
+  "population": {
+    "n_participants": null,
+    "age_range": null,
+    "condition": "Infecciones bacterianas, fúngicas, virales y parasitarias diversas (revisión de 330 estudios; 84% in vitro, 8.5% animal, 7% humanos)",
+    "sample_type": "Revisión sistemática de literatura"
+  },
+  "superiority_claim": "Los autores señalan que 'en el periodo 2020-2022 hay más reportes de LEDs para APDT que de láseres' y anticipan un cambio 'de láseres a fuentes de luz más robustas, eficientes, simples y menos costosas, como LEDs', argumentando que altas potencias no son necesarias para aPDT efectiva.",
+  "conflicts_of_interest": "IDWS is a founder and shareholder of Lustre Skin Ltd which sells products for skincare, including a wearable light source for the treatment of acne.",
+  "funding_source_text": "European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant (agreement no. 764837) and NCN Opus grant no. 2019/35/B/ST4/03280. Engineering and Physical Sciences Research Council of the UK, grants EP/R511778/1 and EP/L015110/1.",
+  "source_citation": "Piksa, M., Lian, C., Samuel, I. C., Pawlik, K. J., Samuel, I. D. W., & Matczyszyn, K. (2023). The role of the light source in antimicrobial photodynamic therapy. Chemical Society Reviews, 52(5), 1697-1722. https://doi.org/10.1039/d0cs01051k",
+  "contraindications": [
+    "Luz UV (<400 nm) debe evitarse en aPDT in vivo por mutagenicidad de DNA y potencial oncogénico",
+    "Luz azul de alta fluencia (66-100 J/cm² a 412-426 nm) es citotóxica para queratinocitos y células endoteliales",
+    "Luz azul puede ser dañina para epitelio pigmentario retiniano (BLIA - blue light-induced apoptosis)"
+  ],
+  "adverse_events": [
+    "Citotoxicidad por luz azul de alta dosis",
+    "Generación de calor con lámparas (requiere refrigeración)",
+    "Toxicidad oscura del azul de metileno reportada en algunos patógenos",
+    "Fotodecoloración del fotosensibilizador con exposiciones radiantes muy altas"
+  ],
+  "laser_parameters": [
+    {
+      "wavelength_nm": 660,
+      "fluence_j_cm2": 30.0,
+      "power_w": 0.04,
+      "pulse_duration_ms": null,
+      "frequency_hz": null,
+      "spot_size_mm": null,
+      "mode": "continuous",
+      "energy_per_pulse_mj": null,
+      "irradiance_w_cm2": 0.1,
+      "total_dose_j": null,
+      "contact": null,
+      "cooling": null
+    }
+  ],
+  "treatment_protocol": {
+    "sessions_count": null,
+    "session_interval_days": null,
+    "application_time_sec": 240.0,
+    "application_technique": null,
+    "anatomical_points": null
+  },
+  "clinical_indication": "Terapia fotodinámica antimicrobiana (aPDT) contra bacterias, hongos, virus y parásitos; aplicaciones dentales incluyen endodoncia, periodoncia y desinfección de caries.",
+  "target_tissue": "Variable: dentina, conducto radicular, periodonto, mucosa oral, piel",
+  "brand_model_mentioned": [],
+  "drugs_mentioned": null,
+  "photosensitivity_flag": true,
+  "perioperative_consideration": null,
+  "confidence": "high",
+  "uncertainties": [
+    "La revisión cubre azul de metileno en general, no protocolos clínicos dentales específicos con parámetros únicos",
+    "Muchos estudios primarios revisados no reportan distancia fuente-muestra (solo 20.9%) ni área irradiada",
+    "No hay consenso sobre exposición radiante mínima efectiva por falta de datos en bajas dosis"
+  ],
+  "bibliographic_metadata": {
+    "title": "The role of the light source in antimicrobial photodynamic therapy",
+    "authors": [
+      "Marta Piksa",
+      "Cheng Lian",
+      "Imogen C. Samuel",
+      "Krzysztof J. Pawlik",
+      "Ifor D. W. Samuel",
+      "Katarzyna Matczyszyn"
+    ],
+    "year": 2023,
+    "journal": "Chemical Society Reviews",
+    "doi": "10.1039/d0cs01051k"
+  },
+  "protocols": [
+    {
+      "name": "Terapia fotodinámica antimicrobiana (aPDT) con azul de metileno para desinfección oral",
+      "synonyms_es": [
+        "aPDT con azul de metileno",
+        "PACT con MB",
+        "fotoactivación de azul de metileno",
+        "desinfección fotodinámica oral",
+        "PAD con azul de metileno",
+        "fotoinactivación antimicrobiana con MB"
+      ],
+      "synonyms_en": [
+        "antimicrobial photodynamic therapy with methylene blue",
+        "methylene blue mediated aPDT",
+        "MB-APDT",
+        "photoactivated disinfection methylene blue",
+        "PACT methylene blue",
+        "lethal photosensitization methylene blue"
+      ],
+      "purpose": "Inactivar bacterias, hongos y virus en cavidades dentales, conductos radiculares, periodonto y mucosa mediante la activación lumínica de azul de metileno con luz roja (~660 nm), generando especies reactivas de oxígeno (ROS) que destruyen el patógeno sin promover resistencia.",
+      "parameters_table": [
+        {
+          "equipment_class": "Láser de diodo rojo (630-690 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "630-690 nm (modo: 660 nm)",
+          "potencia": "21 mW - 7 W (modo: 40 mW; mediana: 100 mW)",
+          "frecuencia": "Continua (CW)",
+          "modo_de_pulso": "Continuo",
+          "fibra_punta": "Fibra óptica intracanal o de contacto según procedimiento",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "0.1-3 cm según geometría (intracanal: contacto/cercano)",
+          "tiempo_ciclos": "Mediana 4-5 min; rango 0.17-120 min; exposición radiante objetivo ~30 J/cm²"
+        },
+        {
+          "equipment_class": "LED rojo (620-700 nm)",
+          "representative_models": [],
+          "equipo": null,
+          "longitud_de_onda": "560-780 nm (rojo: 620-700 nm preferido para MB)",
+          "potencia": "100-690 mW (mediana: 240 mW)",
+          "frecuencia": "Continua",
+          "modo_de_pulso": "Continuo",
+          "fibra_punta": "Array LED, sonda intraoral o emisor de área",
+          "agua_pct": "No aplica",
+          "aire_pct": "No aplica",
+          "distancia": "Contacto a varios cm según diseño del dispositivo",
+          "tiempo_ciclos": "Mediana 10 min; exposición radiante objetivo ~10 J/cm²"
+        }
+      ],
+      "critical_notes": [
+        "Mantener concentración de azul de metileno en el rango clínico habitual de 0.01-0.1 g/L (0.031-0.31 mM); concentraciones más altas no mejoran linealmente la reducción microbiana.",
+        "El azul de metileno tiene toxicidad oscura para algunos patógenos; siempre incluir controles oscuros y de luz sola para distinguir efecto fotodinámico de efecto químico o térmico.",
+        "Tiempo de preincubación del fotosensibilizador con el tejido o patógeno influye en el resultado: en S. aureus tiempos más largos mejoran la reducción; en C. albicans tiempos >30 min reducen la efectividad.",
+        "Irradiancias superiores a 60 mW/cm² no aumentan adicionalmente el efecto bactericida en la mayoría de los estudios; usar potencias moderadas evita daño térmico.",
+        "Las lámparas requieren filtros y enfriamiento por generación de calor IR; los LEDs y láseres son preferibles en clínica dental por eficiencia y precisión espectral.",
+        "El documento presenta esta técnica favorablemente; existen alternativas con mecanismos de acción diferentes (irrigación con NaOCl, EDTA, activación fotoacústica, descontaminación mecánica) que pueden ser apropiadas según el caso clínico.",
+        "El autor anticipa un desplazamiento de láseres hacia LEDs/OLEDs por costo y portabilidad; el dentista debe valorar la disponibilidad del equipo y el procedimiento específico antes de elegir."
+      ],
+      "pbm_complement": null,
+      "technique_steps": [
+        "Limpiar mecánicamente la zona a tratar (instrumentación endodóntica, raspado periodontal o limpieza de cavidad según indicación).",
+        "Aplicar solución de azul de metileno (concentración 0.01-0.1 g/L, equivalente a 0.031-0.31 mM) sobre la zona objetivo o irrigar el conducto.",
+        "Permitir preincubación del fotosensibilizador (típicamente 1-5 min; ajustar según evidencia para el patógeno objetivo).",
+        "Lavar exceso de fotosensibilizador si el protocolo lo indica.",
+        "Irradiar con luz roja (~660 nm) entregando una exposición radiante objetivo de aproximadamente 30 J/cm² (láser) o 10 J/cm² (LED).",
+        "Mantener tiempo total de irradiación de 4-10 min según irradiancia del equipo (típicamente 100 mW/cm²).",
+        "Verificar ausencia de sobrecalentamiento del tejido durante la irradiación.",
+        "Irrigar/limpiar residuos de fotosensibilizador tras la irradiación."
+      ],
+      "indications": [
+        "Desinfección complementaria de conductos radiculares en endodoncia",
+        "Tratamiento adyuvante de periodontitis y peri-implantitis",
+        "Desinfección de caries profundas previa a restauración",
+        "Tratamiento de candidiasis oral y mucositis",
+        "Desinfección de heridas e infecciones cutáneas localizadas"
+      ],
+      "contraindications": [
+        "Alergia documentada al azul de metileno",
+        "Embarazo y lactancia (uso sistémico; uso tópico requiere precaución)",
+        "Deficiencia de G6PD (riesgo de hemólisis con MB)",
+        "Uso concomitante con inhibidores de la MAO o ISRS (síndrome serotoninérgico con MB sistémico)",
+        "Lesiones donde se requiera diagnóstico histopatológico previo (la tinción puede interferir)"
+      ],
+      "postop_care": [
+        "Informar al paciente de la posible tinción azul transitoria de mucosa o tejidos tratados",
+        "Recomendar enjuagues suaves si se aplicó intraoralmente",
+        "Evitar exposición solar intensa de la zona tratada durante 24-48 h si hubo aplicación dérmica extensa (fotosensibilidad residual)",
+        "Reevaluar a las 24-72 h para valorar respuesta clínica y necesidad de sesiones adicionales"
+      ],
+      "evidence_level": "Moderado — basado en revisión sistemática de 330 estudios (84% in vitro, 8.5% animal, 7% humanos); la mayoría de la evidencia clínica directa en odontología procede de RCTs pequeños y series de casos.",
+      "keywords_es": [
+        "aPDT",
+        "terapia fotodinámica antimicrobiana",
+        "azul de metileno",
+        "PACT",
+        "PAD",
+        "fotoinactivación",
+        "endodoncia fotodinámica",
+        "desinfección conducto radicular",
+        "periodontitis fotodinámica",
+        "ROS",
+        "especies reactivas de oxígeno",
+        "fotosensibilizador",
+        "luz roja 660 nm",
+        "LED dental rojo",
+        "láser diodo rojo",
+        "resistencia antimicrobiana",
+        "biofilm oral",
+        "S. aureus aPDT",
+        "C. albicans aPDT",
+        "exposición radiante"
+      ],
+      "keywords_en": [
+        "aPDT",
+        "antimicrobial photodynamic therapy",
+        "methylene blue",
+        "PACT",
+        "photoactivated disinfection",
+        "photoinactivation",
+        "endodontic photodynamic",
+        "root canal disinfection",
+        "periodontal photodynamic",
+        "ROS generation",
+        "reactive oxygen species",
+        "photosensitizer",
+        "red light 660 nm",
+        "dental red LED",
+        "red diode laser",
+        "antimicrobial resistance",
+        "oral biofilm",
+        "S. aureus photodynamic",
+        "C. albicans photodynamic",
+        "radiant exposure",
+        "irradiance dental",
+        "MB-APDT"
+      ],
+      "is_virtual_protocol": false
+    }
+  ],
+  "source_type": "paper"
+}
